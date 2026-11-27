@@ -1,0 +1,156 @@
+# Booklet 2, story 5. Modern strand. Grammar ceiling: Madinah Book 1 end, Book 2 start.
+id: b2-05
+booklet: 2
+number: 5
+strand: modern
+title_ar: رَمَضَانُ فِي الْبَيْتِ
+title_en: Ramadan at Home
+madinah: "Book 1 end and Book 2 start (sound feminine plural, past and present verbs, kana lightly)"
+
+illustrations:
+  - before: 4
+    file: b2-05-suhur-table.png
+    alt: A table late at night with rice, bread and glasses of milk under a warm lamp, a dark window behind
+  - before: 16
+    file: b2-05-iftar-dates.png
+    alt: A plate of dates and glasses of water on a table, the sky through the window turning orange at sunset
+  - before: 26
+    file: b2-05-mosque-night.png
+    alt: A mosque at night with lit arched windows; inside, rows of simple faceless figures seen from behind
+    prompt: A mosque interior at night, warm lamps, green carpet, seen from the back of the hall. Rows of simple figures in white standing in prayer, all seen strictly from behind with no faces, one figure alone at the front by the mihrab, also from behind.
+
+sentences:
+  - words: [[جَاءَ, came], [شَهْرُ, "(the) month"], [رَمَضَانَ, "(of) Ramadan"], [وَزَيْدٌ, and Zayd], [فِي, "(was) in"], [بَيْتِ, "(the) house"], [بِلَالٍ, "(of) Bilal"]]
+    en: "The month of Ramadan came while Zayd was still staying at Bilal's house."
+  - words: [[قَالَتْ, said], [أُمُّ, "(the) mother"], [بِلَالٍ, "(of) Bilal"], [نَصُومُ, We fast], [غَدًا, tomorrow], [إِنْ, if], [شَاءَ, wills], [اللَّهُ, Allah]]
+    en: "Bilal's mother said: We fast tomorrow, in sha' Allah."
+  - words: [[فِي, In], [آخِرِ, "(the) end"], [اللَّيْلِ, "(of) the night"], [قَامَتِ, got up], [الْأُمُّ, the mother], [إِلَى, to], [الْمَطْبَخِ, the kitchen]]
+    en: "At the end of the night the mother got up and went to the kitchen."
+  - words: [[وَأَيْقَظَتْ, And woke], [مَرْيَمُ, Maryam], [بِلَالًا, Bilal], [وَزَيْدًا, and Zayd], [لِلسَّحُورِ, for the suhur]]
+    en: "Maryam woke Bilal and Zayd for suhur."
+  - words: [[قَالَتْ, said], [مَرْيَمُ, Maryam], [الطَّعَامُ, The food], [عَلَى, "(is) on"], [الْمَائِدَةِ, the table]]
+    en: "Maryam said: The food is on the table."
+  - words: [[أَكَلَ, ate], [الْجَمِيعُ, everyone], [الْأَرُزَّ, the rice], [وَالْخُبْزَ, and the bread], [وَشَرِبُوا, and they drank], [اللَّبَنَ, the milk]]
+    en: "Everyone ate rice and bread and drank milk."
+  - words: [[ثُمَّ, Then], [سَمِعُوا, they heard], [الْأَذَانَ, the adhan], [مِنَ, from], [الْمَسْجِدِ, the mosque]]
+    en: "Then they heard the adhan from the mosque."
+  - words: [[فَتَرَكُوا, So they left], [الطَّعَامَ, the food], [وَالشَّرَابَ, and the drink], [وَذَهَبُوا, and they went], [لِلصَّلَاةِ, to the prayer]]
+    en: "So they stopped eating and drinking and went to pray Fajr."
+  - words: [[النَّهَارُ, The day], [فِي, in], [سِرِيلَانْكَا, Sri Lanka], [حَارٌّ, "(is) hot"], [وَالصِّيَامُ, and the fasting], [صَعْبٌ, "(is) hard"], [قَلِيلًا, a little]]
+    en: "The day in Sri Lanka is hot, and fasting is a little hard."
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [أَنَا, I (am)], [عَطْشَانُ, thirsty], [يَا, O], [بِلَالُ, Bilal]]
+    en: "Zayd said: I am thirsty, Bilal."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [اِصْبِرِ, Be patient], [الْمَغْرِبُ, the Maghrib], [قَرِيبٌ, "(is) near"]]
+    en: "Bilal said: Be patient. Maghrib is not far."
+  - words: [[فَصَبَرَ, So was patient], [زَيْدٌ, Zayd], [وَمَا, and not], [شَرِبَ, he drank], [شَيْئًا, anything]]
+    en: "So Zayd was patient and drank nothing."
+  - words: [[وَفِي, And in], [الْمَسْجِدِ, the mosque], [قَرَأَ, read], [بِلَالٌ, Bilal], [وَزَيْدٌ, and Zayd], [الْقُرْآنَ, the Quran], [بَعْدَ, after], [الظُّهْرِ, the Zuhr]]
+    en: "In the mosque Bilal and Zayd read the Quran after Zuhr."
+  - words: [[قَالَ, said], [الْأَبُ, the father], [رَمَضَانُ, Ramadan (is)], [شَهْرُ, "(the) month"], [الْقُرْآنِ, "(of) the Quran"], [وَالْحَسَنَاتِ, and good deeds]]
+    en: "The father said: Ramadan is the month of the Quran and of good deeds."
+  - words: [[بَعْدَ, After], [الْعَصْرِ, the Asr], [طَبَخَتِ, cooked], [الْأُمُّ, the mother], [وَمَرْيَمُ, and Maryam], [طَعَامَ, "(the) food"], [الْإِفْطَارِ, "(of) the iftar"]]
+    en: "After Asr the mother and Maryam cooked the iftar."
+  - words: [[وَضَعَتْ, put], [مَرْيَمُ, Maryam], [عَلَى, "on"], [الْمَائِدَةِ, the table], [تَمَرَاتٍ, dates], [وَأَكْوَابَ, and glasses], [مَاءٍ, "(of) water"]]
+    en: "Maryam put dates and glasses of water on the table."
+  - words: [[بَعْدَ, After], [سَاعَاتٍ, hours], [طَوِيلَةٍ, long], [كَانَ, was], [الْمَغْرِبُ, the Maghrib], [قَرِيبًا, near]]
+    en: "After long hours Maghrib was near."
+  - words: [[جَلَسَتِ, sat], [الْأُسْرَةُ, the family], [حَوْلَ, around], [الْمَائِدَةِ, the table], [تَنْتَظِرُ, waiting (for)], [الْأَذَانَ, the adhan]]
+    en: "The family sat around the table, waiting for the adhan."
+  - words: [[قَالَتِ, said], [الْأُمُّ, the mother], [الْأَذَانُ, The adhan (is)], [بَعْدَ, after], [دَقَائِقَ, minutes]]
+    en: "The mother said: The adhan is in a few minutes."
+  - words: [[وَسَمِعُوا, And they heard], [صَوْتَ, "(the) sound"], [الْأَذَانِ, "(of) the adhan"], [مِنَ, from], [الْمَسْجِدِ, the mosque], [الْقَرِيبِ, nearby]]
+    en: "And they heard the adhan from the mosque nearby."
+  - words: [[قَالَ, said], [الْأَبُ, the father], [بِسْمِ, In (the) name], [اللَّهِ, "(of) Allah"], [وَأَخَذَ, and he took], [تَمْرَةً, a date]]
+    en: "The father said: Bismillah, and he took a date."
+  - words: [[أَكَلَ, ate], [الْجَمِيعُ, everyone], [التَّمَرَاتِ, the dates], [وَشَرِبُوا, and they drank], [الْمَاءَ, the water]]
+    en: "Everyone ate the dates and drank the water."
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [الْمَاءُ, Water], [الْبَارِدُ, cold], [طَيِّبٌ, "(is) good"], [جِدًّا, very], [بَعْدَ, after], [الصِّيَامِ, the fasting]]
+    en: "Zayd said: Cold water is wonderful after fasting!"
+  - words: [[ثُمَّ, Then], [ذَهَبَ, went], [الْأَبُ, the father], [مَعَ, with], [بِلَالٍ, Bilal], [وَزَيْدٍ, and Zayd], [إِلَى, to], [الْمَسْجِدِ, the mosque]]
+    en: "Then the father went to the mosque with Bilal and Zayd."
+  - words: [[وَصَلَّوْا, And they prayed], [صَلَاةَ, "(the) prayer"], [الْمَغْرِبِ, "(of) the Maghrib"], [مَعَ, with], [النَّاسِ, the people]]
+    en: "And they prayed Maghrib with the people."
+  - words: [[فِي, In], [اللَّيْلِ, the night], [صَلَّى, prayed], [النَّاسُ, the people], [الْعِشَاءَ, the Isha], [ثُمَّ, then], [التَّرَاوِيحَ, the Taraweeh]]
+    en: "At night the people prayed Isha and then Taraweeh."
+  - words: [[وَفِي, And in], [تِلْكَ, that], [اللَّيْلَةِ, night], [كَانَ, was], [بِلَالٌ, Bilal], [إِمَامَ, "(the) imam"], [النَّاسِ, "(of) the people"]]
+    en: "And that night Bilal was the imam."
+  - words: [[وَقَفَ, stood], [بِلَالٌ, Bilal], [أَمَامَ, in front of], [الصُّفُوفِ, the rows], [وَقَرَأَ, and he recited], [بِصَوْتٍ, in a voice], [جَمِيلٍ, beautiful]]
+    en: "Bilal stood in front of the rows and recited in a beautiful voice."
+  - words: [[قَرَأَ, He recited], [فِي, in], [كُلِّ, every], [رَكْعَةٍ, rak'a], [آيَاتٍ, ayat], [مِنْ, from], [سُورَةِ, "(the) surah"], [الْبَقَرَةِ, "(of) the Cow"]]
+    en: "In every rak'a he recited ayat from Surat al-Baqara."
+  - words: [[كَانَ, was], [بِلَالٌ, Bilal], [يَقْرَأُ, reciting], [وَالنَّاسُ, and the people], [يَسْمَعُونَ, listening], [فِي, in], [سُكُونٍ, stillness]]
+    en: "Bilal recited, and the people listened in stillness."
+  - words: [[وَفِي, And in], [الصَّفِّ, the row], [الْأَوَّلِ, first], [وَقَفَ, stood], [زَيْدٌ, Zayd], [وَأَبُو, and the father], [بِلَالٍ, "(of) Bilal"]]
+    en: "Zayd and Bilal's father stood in the first row."
+  - words: [[بَعْدَ, After], [الصَّلَاةِ, the prayer], [سَلَّمَ, greeted], [النَّاسُ, the people], [عَلَى, "(on)"], [بِلَالٍ, Bilal]]
+    en: "After the prayer the people greeted Bilal."
+  - words: [[وَقَالُوا, And they said], [لَهُ, to him], [تَقَبَّلَ, "(may) accept"], [اللَّهُ, Allah], [مِنْكَ, from you]]
+    en: "And they said to him: May Allah accept it from you."
+  - words: [[قَالَ, said], [رَجُلٌ, a man], [كَبِيرُ, "(great)"], [السِّنِّ, "(in) age"], [صَوْتُكَ, Your voice], [جَمِيلٌ, "(is) beautiful"], [يَا, O], [بُنَيَّ, my son]]
+    en: "An old man said: Your voice is beautiful, my son."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [الْحَمْدُ, Praise], [لِلَّهِ, "(be) to Allah"], [هٰذَا, this (is)], [مِنْ, from], [فَضْلِ, "(the) bounty"], [اللَّهِ, "(of) Allah"]]
+    en: "Bilal said: Praise be to Allah. This is from Allah's bounty."
+  - words: [[وَفِي, And in], [الْبَيْتِ, the house], [صَلَّتِ, prayed], [الْأُمُّ, the mother], [وَمَرْيَمُ, and Maryam], [التَّرَاوِيحَ, the Taraweeh]]
+    en: "At home, the mother and Maryam prayed Taraweeh."
+  - words: [[ثُمَّ, Then], [رَجَعَ, returned], [الْأَبُ, the father], [وَبِلَالٌ, and Bilal], [وَزَيْدٌ, and Zayd], [إِلَى, to], [الْبَيْتِ, the house]]
+    en: "Then the father, Bilal and Zayd came home."
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [أُحِبُّ, I love], [رَمَضَانَ, Ramadan], [فِي, in], [بَيْتِكُمْ, your house], [وَأُحِبُّ, and I love], [صَلَوَاتِهِ, its prayers], [فِي, in], [مَسْجِدِكُمْ, your mosque]]
+    en: "Zayd said: I love Ramadan in your home, and I love its prayers in your mosque."
+  - words: [[قَالَتْ, said], [مَرْيَمُ, Maryam], [وَأَنْتَ, And you (are)], [الْآنَ, now], [أَخٌ, a brother], [لَنَا, to us], [يَا, O], [زَيْدُ, Zayd]]
+    en: "Maryam said: And now you are a brother to us, Zayd."
+  - words: [[ثُمَّ, Then], [نَامَ, slept], [الْجَمِيعُ, everyone], [سُعَدَاءَ, happy], [وَقَامُوا, and they got up], [لِلسَّحُورِ, for the suhur]]
+    en: "Then everyone went to sleep happy, and got up again for suhur."
+
+dictionary:
+  - {ar: شَهْرٌ, en: month, pos: [اسم, noun], root: شهر, pattern: فَعْلٌ, plural: أَشْهُرٌ, ayah: {ref: "2:185", text: شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ, en: "the month of Ramadan, in which the Quran was sent down"}, note: "رَمَضَانُ never takes tanwin or kasra: شَهْرُ رَمَضَانَ."}
+  - {ar: صَامَ, en: he fasted, pos: [فعل ماض, past verb], root: صوم, pattern: فَعَلَ, present: يَصُومُ, bab: بَابُ نَصَرَ, ayah: {ref: "2:184", text: وَأَن تَصُومُوا خَيْرٌ لَّكُمْ, en: "and that you fast is better for you"}, note: "We fast: نَصُومُ. Fasting: صِيَامٌ or صَوْمٌ."}
+  - {ar: قَامَ, en: he stood up; he got up, pos: [فعل ماض, past verb], root: قوم, pattern: فَعَلَ, present: يَقُومُ, bab: بَابُ نَصَرَ, ayah: {ref: "73:2", text: قُمِ اللَّيْلَ إِلَّا قَلِيلًا, en: "stand in prayer through the night, except a little"}, note: "Same root as قَوْمٌ, a people, and قِيَامُ اللَّيْلِ, the night prayer."}
+  - {ar: سَحُورٌ, en: suhur (the meal before dawn), pos: [اسم, noun], root: سحر, pattern: فَعُولٌ, ayah: {ref: "51:18", text: وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ, en: "and in the hours before dawn they ask forgiveness"}, note: "From سَحَرٌ, the last part of the night (plural أَسْحَارٌ). سَحُورٌ is the food; سُحُورٌ is eating it."}
+  - {ar: مَائِدَةٌ, en: table (spread with food), pos: [اسم, noun], root: ميد, pattern: فَاعِلَةٌ, plural: مَوَائِدُ, ayah: {ref: "5:114", text: أَنزِلْ عَلَيْنَا مَائِدَةً مِّنَ السَّمَاءِ, en: "send down to us a table spread with food from the sky"}, note: "Surah 5 is named after it."}
+  - {ar: شَرِبَ, en: he drank, pos: [فعل ماض, past verb], root: شرب, pattern: فَعِلَ, present: يَشْرَبُ, bab: بَابُ سَمِعَ, ayah: {ref: "7:31", text: وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا, en: "and eat and drink, but do not waste"}, note: "A drink: شَرَابٌ."}
+  - {ar: لَبَنٌ, en: milk, pos: [اسم, noun], root: لبن, pattern: فَعَلٌ, ayah: {ref: "16:66", text: لَّبَنًا خَالِصًا سَائِغًا لِّلشَّارِبِينَ, en: "pure milk, easy to swallow for those who drink"}, register: both, note: "In the Quran and in Sri Lanka: milk. In some Arab countries today it also means yoghurt."}
+  - {ar: أَذَانٌ, en: adhan; call to prayer, pos: [اسم, noun], root: أذن, pattern: فَعَالٌ, ayah: {ref: "9:3", text: وَأَذَانٌ مِّنَ اللَّهِ وَرَسُولِهِ, en: "and an announcement from Allah and His Messenger ﷺ"}, register: both, note: "In the Quran: a public announcement. Today: the call to prayer. Same root as أُذُنٌ, ear."}
+  - {ar: نَهَارٌ, en: daytime, pos: [اسم, noun], root: نهر, pattern: فَعَالٌ, ayah: {ref: "78:11", text: وَجَعَلْنَا النَّهَارَ مَعَاشًا, en: "and We made the day for seeking a living"}, note: "The opposite of لَيْلٌ. Same root as نَهْرٌ, river."}
+  - {ar: إِفْطَارٌ, en: iftar; breaking the fast, pos: [مصدر, verbal noun], root: فطر, pattern: إِفْعَالٌ, ayah: {ref: "30:30", text: فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا, en: "the nature Allah made people with"}, register: both, note: "The root means to split or begin. فَطَرَ: He created (in the Quran); أَفْطَرَ: he broke his fast."}
+  - {ar: تَمْرَةٌ, en: a date (fruit), pos: [اسم, noun], root: تمر, pattern: فَعْلَةٌ, plural: تَمَرَاتٌ, note: "تَمْرٌ is dates together. Its sound plural تَمَرَاتٌ adds a fatha on the middle letter. The word تَمْرٌ is not in the Quran; it speaks of ثَمَرَاتِ النَّخِيلِ, the fruits of the date palms (16:67), and of fresh dates, رُطَبًا (19:25)."}
+  - {ar: كُوبٌ, en: glass; cup, pos: [اسم, noun], root: كوب, pattern: فُعْلٌ, plural: أَكْوَابٌ, ayah: {ref: "88:14", text: وَأَكْوَابٌ مَّوْضُوعَةٌ, en: "and cups set out"}, note: "Plural on the pattern أَفْعَالٌ: the cups of Paradise."}
+  - {ar: اِنْتَظَرَ, en: he waited, pos: [فعل ماض, past verb], root: نظر, pattern: اِفْتَعَلَ, present: يَنْتَظِرُ, bab: بَابُ الِافْتِعَالِ, ayah: {ref: "32:30", text: وَانتَظِرْ إِنَّهُم مُّنتَظِرُونَ, en: "and wait, for they too are waiting"}, note: "In بَابُ الِافْتِعَالِ a ت comes after the first root letter. Same root as نَظَرَ, he looked: you look out for what you wait for."}
+  - {ar: سَاعَةٌ, en: hour; the Hour, pos: [اسم, noun], root: سوع, pattern: فَعَلَةٌ, plural: سَاعَاتٌ, ayah: {ref: "54:1", text: اقْتَرَبَتِ السَّاعَةُ, en: "the Hour has drawn near"}, register: both, note: "In the Quran usually the Hour of Judgement. Today also an hour, and a watch or clock."}
+  - {ar: صَلَاةٌ, en: prayer; salah, pos: [اسم, noun], root: صلو, plural: صَلَوَاتٌ, ayah: {ref: "2:238", text: حَافِظُوا عَلَى الصَّلَوَاتِ, en: "guard the prayers"}, note: "The verb is صَلَّى. The plural صَلَوَاتٌ shows the root و."}
+  - {ar: تَرَاوِيحُ, en: Taraweeh (the night prayers of Ramadan), pos: [جمع تكسير, broken plural], root: روح, pattern: تَفَاعِيلُ, note: "Plural of تَرْوِيحَةٌ, a rest: the people rest between every four rak'as. Same root as رَائِحَةٌ and رِيحٌ. No tanwin."}
+  - {ar: إِمَامٌ, en: imam; leader, pos: [اسم, noun], root: أمم, pattern: فِعَالٌ, plural: أَئِمَّةٌ, ayah: {ref: "2:124", text: إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا, en: "I will make you a leader for the people"}, note: "Said to Ibrahim عَلَيْهِ السَّلَامُ. Same root as أُمٌّ and أَمَامَ, in front: the imam stands in front."}
+  - {ar: رَكْعَةٌ, en: "rak'a (one unit of prayer)", pos: [اسم, noun], root: ركع, pattern: فَعْلَةٌ, plural: رَكَعَاتٌ, ayah: {ref: "2:43", text: وَارْكَعُوا مَعَ الرَّاكِعِينَ, en: "and bow with those who bow"}, note: "From رَكَعَ, he bowed. Like تَمَرَاتٌ, the plural adds a fatha: رَكَعَاتٌ."}
+  - {ar: أَوَّلُ, en: first, pos: [اسم تفضيل, elative adjective], root: أول, pattern: أَفْعَلُ, ayah: {ref: "57:3", text: هُوَ الْأَوَّلُ وَالْآخِرُ, en: "He is the First and the Last"}, note: "No tanwin on أَوَّلُ as an adjective (الصَّفُّ الْأَوَّلُ), like أَخْضَرُ in story 1. The adverb أَوَّلًا (story 4, first) does take tanwin. Opposite: آخِرٌ, last; آخِرُ اللَّيْلِ, the end of the night."}
+  - {ar: فَضْلٌ, en: bounty; grace, pos: [اسم, noun], root: فضل, pattern: فَعْلٌ, ayah: {ref: "62:4", text: ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ, en: "that is the bounty of Allah, He gives it to whom He wills"}, note: "Same root as فَضَّلَ, He favoured (27:15)."}
+  - {ar: حَسَنَةٌ, en: good deed, pos: [اسم, noun], root: حسن, pattern: فَعَلَةٌ, plural: حَسَنَاتٌ, ayah: {ref: "11:114", text: إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ, en: "good deeds wipe away bad deeds"}, note: "Two sound feminine plurals in one ayah: الْحَسَنَاتِ and السَّيِّئَاتِ."}
+
+root_families:
+  - root: صوم
+    words: [[صَامَ, "he fasted"], [يَصُومُ, "he fasts"], [صَوْمٌ, "fasting"], [صِيَامٌ, "fasting"], [صَائِمٌ, "one who is fasting"]]
+  - root: روح
+    words: [[رَائِحَةٌ, "smell"], [رِيحٌ, "wind; scent"], [تَرْوِيحَةٌ, "a rest"], [تَرَاوِيحُ, "Taraweeh"]]
+
+grammar:
+  title_ar: جَمْعُ الْمُؤَنَّثِ السَّالِمِ
+  title_en: "The sound feminine plural: ـَاتٌ"
+  body: >-
+    Many feminine words, and many words ending in ة, make their plural by dropping the ة and adding ـَاتٌ: سَاعَةٌ, سَاعَاتٌ.
+    A noun on فَعْلَةٌ also opens its middle letter: تَمْرَةٌ, تَمَرَاتٌ; رَكْعَةٌ, رَكَعَاتٌ. The special rule: when it is مَنْصُوبٌ (for example as مَفْعُولٌ بِهِ, object)
+    it does not take a fatha. It keeps a kasra: وَضَعَتْ تَمَرَاتٍ, أُحِبُّ صَلَوَاتِهِ.
+  examples:
+    - [بَعْدَ سَاعَاتٍ طَوِيلَةٍ, "after long hours (مَجْرُورٌ)"]
+    - [وَضَعَتْ مَرْيَمُ تَمَرَاتٍ, "Maryam put out dates. (مَنْصُوبٌ, still a kasra)"]
+    - [إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ, "good deeds wipe away bad deeds (11:114)"]
+
+tip:
+  title: "Reading without vowels: لِلْ, the joined lam before ال"
+  body: >-
+    When لِـ (for, to) meets ال, the alif drops and you see two lams: للسحور, للصلاة, لله. Read the first lam with a kasra and
+    then go on as ال would: lis-saḥūr, liṣ-ṣalāh, lil-lāh. Sun letters still double: للسحور is lis-saḥūr, not lil-saḥūr.
+    The same alif also falls silent after و and ف: والشراب is wash-sharāb.
+
+try_it:
+  words: [رمضان, للسحور, التمرات, الصلوات, ساعات]
+  sentence: وضعت مريم على المائدة تمرات وأكواب ماء
+
+reread: Cover the grey word line with a strip of paper and read the story again. Find every word ending in ـات and say its singular.

@@ -1,0 +1,125 @@
+# Booklet 1, story 3. Tale strand, told in class by Ustadh Hamid. Grammar ceiling: Madinah Book 1.
+id: b1-03
+booklet: 1
+number: 3
+strand: tale
+title_ar: جُحَا وَرَائِحَةُ الطَّعَامِ
+title_en: Juha and the Smell of Food
+madinah: "Book 1 (attached pronouns, idafa, simple past verbs, يَا)"
+source: "Traditional Juha tale (the cook who asked to be paid for the smell of his food), retold."
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 5
+    file: b1-03-cook-shop.png
+    alt: An old market street with a cook's shop and a large steaming pot at its open door
+  - before: 15
+    file: b1-03-coins.png
+    alt: A few old silver coins lying on a worn wooden counter
+
+sentences:
+  - words: [[فِي, In], [الْفَصْلِ, the classroom], [قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [حَامِدٌ, Hamid], [هٰذِهِ, "This (is)"], [قِصَّةُ, "(the) story"], [جُحَا, "(of) Juha"]]
+    en: "In the classroom Ustadh Hamid said: This is the story of Juha."
+  - words: [[جُحَا, Juha], [رَجُلٌ, "(was) a man"], [فَقِيرٌ, poor], [وَبَيْتُهُ, and his house], [صَغِيرٌ, "(was) small"]]
+    en: Juha was a poor man, and his house was small.
+  - words: [[ذَاتَ, "(on) one"], [يَوْمٍ, day], [ذَهَبَ, went], [جُحَا, Juha], [إِلَى, to], [السُّوقِ, the market]]
+    en: One day Juha went to the market.
+  - words: [[فِي, In], [يَدِهِ, his hand], [قِطْعَةُ, "(was) a piece"], [خُبْزٍ, "(of) bread"], [يَابِسٍ, dry]]
+    en: In his hand was a piece of dry bread.
+  - words: [[وَقَفَ, stood], [جُحَا, Juha], [أَمَامَ, in front of], [دُكَّانِ, "(the) shop"], [طَبَّاخٍ, "(of) a cook"]]
+    en: Juha stopped in front of a cook's shop.
+  - words: [[فِي, In], [الدُّكَّانِ, the shop], [قِدْرٌ, "(was) a pot"], [كَبِيرَةٌ, big], [فِيهَا, in it], [طَعَامٌ, food]]
+    en: In the shop was a big pot full of food.
+  - words: [[رَائِحَةُ, "(The) smell"], [الطَّعَامِ, "(of) the food"], [طَيِّبَةٌ, "(was) good"], [جِدًّا, very]]
+    en: The food smelled very good.
+  - words: [[جَلَسَ, sat], [جُحَا, Juha], [عِنْدَ, at], [بَابِ, "(the) door"], [الدُّكَّانِ, "(of) the shop"]]
+    en: Juha sat down at the door of the shop.
+  - words: [[وَأَكَلَ, and he ate], [خُبْزَهُ, his bread], [مَعَ, with], [رَائِحَةِ, "(the) smell"], [الطَّعَامِ, "(of) the food"]]
+    en: And he ate his bread with the smell of the food.
+  - words: [[رَأَى, saw], [الطَّبَّاخُ, the cook], [جُحَا, Juha], [فَغَضِبَ, and he got angry]]
+    en: The cook saw Juha and got angry.
+  - words: [[قَالَ, said], [الطَّبَّاخُ, the cook], [يَا, O], [جُحَا, Juha], [أَكَلْتَ, you ate], [مَعَ, with], [رَائِحَةِ, "(the) smell"], [طَعَامِي, "(of) my food"]]
+    en: "The cook said: Juha, you ate with the smell of my food!"
+  - words: [[اِدْفَعْ, pay], [ثَمَنَ, "(the) price"], [الرَّائِحَةِ, "(of) the smell"]]
+    en: "Pay the price of the smell!"
+  - words: [[جَاءَ, came], [النَّاسُ, the people], [مِنَ, from], [السُّوقِ, the market], [إِلَى, to], [الدُّكَّانِ, the shop]]
+    en: People came from the market to the shop.
+  - words: [[فَكَّرَ, thought], [جُحَا, Juha], [قَلِيلًا, a little]]
+    en: Juha thought for a moment.
+  - words: [[ثُمَّ, Then], [أَخَذَ, took], [جُحَا, Juha], [دَرَاهِمَ, "(some) dirhams"], [مِنْ, from], [جَيْبِهِ, his pocket]]
+    en: Then Juha took some dirhams out of his pocket.
+  - words: [[وَهَزَّ, and he shook], [الدَّرَاهِمَ, the dirhams], [فِي, in], [يَدِهِ, his hand]]
+    en: And he shook the dirhams in his hand.
+  - words: [[سَمِعَ, heard], [الطَّبَّاخُ, the cook], [صَوْتَ, "(the) sound"], [الدَّرَاهِمِ, "(of) the dirhams"]]
+    en: The cook heard the clink of the dirhams.
+  - words: [[قَالَ, said], [جُحَا, Juha], [هَلْ, did], [سَمِعْتَ, you hear], [صَوْتَ, "(the) sound"], [الدَّرَاهِمِ, "(of) the dirhams"]]
+    en: "Juha said: Did you hear the sound of the dirhams?"
+  - words: [[قَالَ, said], [الطَّبَّاخُ, the cook], [نَعَمْ, "yes"]]
+    en: "The cook said: Yes."
+  - words: [[قَالَ, said], [جُحَا, Juha], [صَوْتُ, "(The) sound"], [الدَّرَاهِمِ, "(of) the dirhams"], [ثَمَنُ, "(is the) price"], [رَائِحَةِ, "(of the) smell"], [طَعَامِكَ, "(of) your food"]]
+    en: "Juha said: The sound of the dirhams is the price of the smell of your food."
+  - words: [[ثُمَّ, Then], [وَضَعَ, put], [جُحَا, Juha], [الدَّرَاهِمَ, the dirhams], [فِي, in], [جَيْبِهِ, his pocket]]
+    en: Then Juha put the dirhams back in his pocket.
+  - words: [[وَرَجَعَ, and he went back], [إِلَى, to], [بَيْتِهِ, his house]]
+    en: And he went back home.
+  - words: [[ضَحِكَ, laughed], [النَّاسُ, the people], [فِي, in], [السُّوقِ, the market], [كَثِيرًا, a lot]]
+    en: The people in the market laughed and laughed.
+  - words: [[وَضَحِكَ, and laughed], [الطُّلَّابُ, the students], [فِي, in], [الْفَصْلِ, the classroom], [أَيْضًا, too]]
+    en: And the students in the classroom laughed too.
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [جُحَا, Juha], [رَجُلٌ, "(is) a man"], [ذَكِيٌّ, clever]]
+    en: "Bilal said: Juha is a clever man!"
+
+dictionary:
+  - {ar: قِصَّةٌ, en: story, pos: [اسم, noun], root: قصص, pattern: فِعْلَةٌ, plural: قِصَصٌ, ayah: {ref: "12:3", text: نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ, en: "We tell you the best of stories"}, note: "نَقُصُّ: We tell (the story)."}
+  - {ar: رَجُلٌ, en: man, pos: [اسم, noun], root: رجل, pattern: فَعُلٌ, plural: رِجَالٌ, ayah: {ref: "36:20", text: وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَىٰ, en: "and from the far end of the city a man came running"}}
+  - {ar: فَقِيرٌ, en: poor; in need, pos: [صفة مشبهة, adjective], root: فقر, pattern: فَعِيلٌ, plural: فُقَرَاءُ, ayah: {ref: "28:24", text: إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ, en: "I am truly in need of whatever good You send down to me"}}
+  - {ar: سُوقٌ, en: market, pos: [اسم, noun], root: سوق, pattern: فُعْلٌ, plural: أَسْوَاقٌ, ayah: {ref: "25:7", text: وَيَمْشِي فِي الْأَسْوَاقِ, en: "and walks about in the markets"}, note: "Can be masculine or feminine."}
+  - {ar: يَدٌ, en: hand, pos: [اسم, noun], root: يدي, plural: أَيْدٍ, ayah: {ref: "111:1", text: تَبَّتْ يَدَا أَبِي لَهَبٍ, en: "may the hands of Abu Lahab perish"}, note: "يَدَا: two hands. A feminine word with no ة."}
+  - {ar: خُبْزٌ, en: bread, pos: [اسم, noun], root: خبز, pattern: فُعْلٌ, ayah: {ref: "12:36", text: أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا, en: "I am carrying bread on my head"}}
+  - {ar: طَعَامٌ, en: food, pos: [اسم, noun], root: طعم, pattern: فَعَالٌ, plural: أَطْعِمَةٌ, ayah: {ref: "107:3", text: وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ, en: "and does not urge the feeding of the poor"}}
+  - {ar: قِدْرٌ, en: cooking pot, pos: [اسم, noun], root: قدر, pattern: فِعْلٌ, plural: قُدُورٌ, ayah: {ref: "34:13", text: وَقُدُورٍ رَّاسِيَاتٍ, en: "and cooking pots fixed in their place"}, note: "A feminine word with no ة, so its adjective is feminine: قِدْرٌ كَبِيرَةٌ."}
+  - {ar: رَائِحَةٌ, en: smell; scent, pos: [اسم, noun], root: روح, pattern: فَاعِلَةٌ, plural: رَوَائِحُ, ayah: {ref: "12:94", text: إِنِّي لَأَجِدُ رِيحَ يُوسُفَ, en: "I truly sense the scent of Yusuf"}, note: "In the Quran رِيحٌ is usually wind; here it is the scent of Yusuf. رَائِحَةٌ is the everyday word for a smell."}
+  - {ar: طَيِّبٌ, en: good; pleasant; pure, pos: [صفة مشبهة, adjective], root: طيب, pattern: فَيْعِلٌ, ayah: {ref: "14:24", text: كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ, en: "a good word is like a good tree"}}
+  - {ar: جَلَسَ, en: he sat, pos: [فعل ماض, past verb], root: جلس, pattern: فَعَلَ, present: يَجْلِسُ, bab: بَابُ ضَرَبَ, ayah: {ref: "58:11", text: تَفَسَّحُوا فِي الْمَجَالِسِ, en: "make room in the gatherings"}, note: "مَجْلِسٌ (plural مَجَالِسُ): a place of sitting, a gathering."}
+  - {ar: أَكَلَ, en: he ate, pos: [فعل ماض, past verb], root: أكل, pattern: فَعَلَ, present: يَأْكُلُ, bab: بَابُ نَصَرَ, ayah: {ref: "105:5", text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ, en: "so He made them like straw that has been eaten"}, note: "مَأْكُولٌ: eaten."}
+  - {ar: غَضِبَ, en: he got angry, pos: [فعل ماض, past verb], root: غضب, pattern: فَعِلَ, present: يَغْضَبُ, bab: بَابُ سَمِعَ, ayah: {ref: "1:7", text: غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ, en: "not of those who earned anger"}}
+  - {ar: ثَمَنٌ, en: price, pos: [اسم, noun], root: ثمن, pattern: فَعَلٌ, plural: أَثْمَانٌ, ayah: {ref: "12:20", text: وَشَرَوْهُ بِثَمَنٍ بَخْسٍ, en: "and they sold him for a low price"}, note: "اِدْفَعْ ثَمَنَ الرَّائِحَةِ: pay the price of the smell! اِدْفَعْ is a command (فِعْلُ أَمْرٍ)."}
+  - {ar: دِرْهَمٌ, en: dirham (a silver coin), pos: [اسم, noun], root: درهم, plural: دَرَاهِمُ, ayah: {ref: "12:20", text: دَرَاهِمَ مَعْدُودَةٍ, en: "a few dirhams, counted out"}, note: "Four root letters. The plural دَرَاهِمُ never takes tanwin."}
+  - {ar: سَمِعَ, en: he heard, pos: [فعل ماض, past verb], root: سمع, pattern: فَعِلَ, present: يَسْمَعُ, bab: بَابُ سَمِعَ, ayah: {ref: "58:1", text: قَدْ سَمِعَ اللَّهُ, en: "Allah has certainly heard"}}
+  - {ar: صَوْتٌ, en: sound; voice, pos: [اسم, noun], root: صوت, pattern: فَعْلٌ, plural: أَصْوَاتٌ, ayah: {ref: "49:2", text: لَا تَرْفَعُوا أَصْوَاتَكُمْ, en: "do not raise your voices"}}
+  - {ar: ضَحِكَ, en: he laughed, pos: [فعل ماض, past verb], root: ضحك, pattern: فَعِلَ, present: يَضْحَكُ, bab: بَابُ سَمِعَ, ayah: {ref: "80:39", text: ضَاحِكَةٌ مُّسْتَبْشِرَةٌ, en: "laughing, rejoicing"}, note: "ضَاحِكَةٌ: laughing (faces on the Day of Judgement)."}
+  - {ar: نَاسٌ, en: people, pos: [اسم, noun], root: نوس, ayah: {ref: "114:1", text: قُلْ أَعُوذُ بِرَبِّ النَّاسِ, en: "say: I seek refuge with the Lord of mankind"}, note: "Plural in meaning, with no singular of its own."}
+  - {ar: وَضَعَ, en: he put; he placed, pos: [فعل ماض, past verb], root: وضع, pattern: فَعَلَ, present: يَضَعُ, bab: بَابُ فَتَحَ, ayah: {ref: "94:2", text: وَوَضَعْنَا عَنكَ وِزْرَكَ, en: "and We lifted your burden from you"}}
+  - {ar: هَزَّ, en: he shook, pos: [فعل ماض, past verb], root: هزز, pattern: فَعَلَ, present: يَهُزُّ, bab: بَابُ نَصَرَ, ayah: {ref: "19:25", text: وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ, en: "and shake the trunk of the palm tree toward you"}, note: "The last two root letters are the same, so they are written once with a shadda."}
+  - {ar: قَالَ, en: he said, pos: [فعل ماض, past verb], root: قول, pattern: فَعَلَ, present: يَقُولُ, bab: بَابُ نَصَرَ, ayah: {ref: "112:1", text: قُلْ هُوَ اللَّهُ أَحَدٌ, en: "say: He is Allah, the One"}, note: "The middle root letter و turns into ا in قَالَ. قُلْ: say!"}
+
+root_families:
+  - root: طبخ
+    words: [[طَبَخَ, he cooked], [طَبْخٌ, cooking], [طَبَّاخٌ, cook], [مَطْبَخٌ, kitchen]]
+  - root: سمع
+    words: [[سَمِعَ, he heard], [سَمْعٌ, hearing], [سَمِيعٌ, all-hearing]]
+
+grammar:
+  title_ar: الضَّمَائِرُ الْمُتَّصِلَةُ
+  title_en: "Attached pronouns"
+  body: >-
+    A short pronoun can join the end of a noun to show whose it is: ـِي my, ـكَ your, ـهُ his, ـهَا her.
+    A noun with an attached pronoun is already definite, so it never takes ال or tanwin. After a kasra or ي, ـهُ becomes ـهِ: يَدِهِ، عَلَيْهِ.
+  examples:
+    - [طَعَامِي, "my food"]
+    - [طَعَامِكَ, "your food"]
+    - [فِي يَدِهِ, "in his hand"]
+
+tip:
+  title: "Reading without vowels: the ة ending"
+  body: >-
+    A word ending in ة (رائحة, قصة, قطعة) is almost always feminine. Read the ة as -a when you stop on it.
+    When another word joins on in idafa, read it as -at: رائحة الطعام is rā'iḥatu ṭ-ṭa'ām. An adjective after it
+    usually ends in ة too: رائحة طيبة.
+
+try_it:
+  words: [خبز, طعام, السوق, صوت, الدراهم]
+  sentence: صوت الدراهم ثمن رائحة طعامك
+
+reread: Cover the grey word line with a strip of paper and read the story again. Then tell it in Arabic, in your own words, to someone at home.

@@ -1,0 +1,134 @@
+# Booklet 1, story 5. Quran strand. Grammar ceiling: Madinah Book 1.
+id: b1-05
+booklet: 1
+number: 5
+strand: quran
+title_ar: إِبْرَاهِيمُ وَالْأَصْنَامُ
+title_en: Ibrahim and the Idols
+madinah: "Book 1 (na't and man'ut, ال, idafa, simple past verbs, يَا)"
+source: "Quran 21:51 to 70. Also 29:24 (Allah saved him from the fire) and 37:97 (they threw him into the fire). Sentence 18 follows al-Baghawi and al-Qurtubi on 21:64 to 65 (they reflected and saw the truth, then turned back)."
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 4
+    file: b1-05-stone-hall.png
+    alt: A dim ancient hall of stone columns lit by small oil lamps, seen from the doorway
+    prompt: A dim ancient hall of plain stone columns lit by small oil lamps, seen from the doorway. Empty stone plinths only; no statues, no figures, no carvings of beings, no faces.
+  - before: 12
+    file: b1-05-broken-stone.png
+    alt: Broken pieces of carved stone scattered across a stone floor in morning light
+    prompt: Rough broken chunks of plain grey stone and rubble scattered across a stone floor in morning light, an axe-shaped shadow on the wall. Only shapeless rubble; no statue parts, no heads, no hands, no faces, no figures.
+  - before: 22
+    file: b1-05-great-fire.png
+    alt: A great fire of piled logs with tall flames against a night sky
+
+sentences:
+  - words: [[إِبْرَاهِيمُ, Ibrahim], [عَلَيْهِ, upon him], [السَّلَامُ, "(be) peace"], [نَبِيٌّ, "(was) a prophet"], [مِنْ, from among], [أَنْبِيَاءِ, "(the) prophets"], [اللَّهِ, "(of) Allah"]]
+    en: Ibrahim (peace be upon him) was one of Allah's prophets.
+  - words: [[أَعْطَى, gave], [اللَّهُ, Allah], [إِبْرَاهِيمَ, Ibrahim], [الرُّشْدَ, right guidance], [وَهُوَ, while he], [فَتًى, "(was) a young man"]]
+    en: Allah gave Ibrahim right guidance while he was still a young man.
+  - words: [[عَبَدَ, worshipped], [قَوْمُهُ, his people], [الْأَصْنَامَ, the idols], [وَأَبُوهُ, and his father], [مَعَهُمْ, "(was) with them"]]
+    en: His people worshipped idols, and his father was one of them.
+  - words: [[سَأَلَ, asked], [إِبْرَاهِيمُ, Ibrahim], [أَبَاهُ, his father], [وَقَوْمَهُ, and his people], [عَنْ, about], [هٰذِهِ, these], [التَّمَاثِيلِ, statues]]
+    en: Ibrahim asked his father and his people about these statues.
+  - words: [[قَالُوا, They said], [هٰذِهِ, "These (are)"], [آلِهَةُ, "(the) gods"], [آبَائِنَا, "(of) our fathers"]]
+    en: "They said: These are the gods of our fathers."
+  - words: [[وَقَوْمُهُ, And his people], [فِي, "(were) in"], [ضَلَالٍ, error], [مُبِينٍ, clear]]
+    en: But his people were clearly astray.
+  - words: [[دَعَاهُمْ, called them], [إِبْرَاهِيمُ, Ibrahim], [إِلَى, to], [اللَّهِ, Allah], [رَبِّ, "(the) Lord"], [السَّمَاوَاتِ, "(of) the heavens"], [وَالْأَرْضِ, and the earth]]
+    en: Ibrahim called them to Allah, the Lord of the heavens and the earth.
+  - words: [[ذَاتَ, "(on) one"], [يَوْمٍ, day], [ذَهَبَ, went (away)], [الْقَوْمُ, the people], [وَتَرَكُوا, and they left], [الْأَصْنَامَ, the idols]]
+    en: One day the people went away and left the idols.
+  - words: [[فَذَهَبَ, So went], [إِبْرَاهِيمُ, Ibrahim], [إِلَى, to], [الْأَصْنَامِ, the idols]]
+    en: So Ibrahim went to the idols.
+  - words: [[كَسَرَ, he broke], [الْأَصْنَامَ, the idols], [الصَّغِيرَةَ, small], [وَتَرَكَ, and he left], [الصَّنَمَ, the idol], [الْكَبِيرَ, big]]
+    en: He broke the small idols and left the big idol.
+  - words: [[رَجَعَ, returned], [الْقَوْمُ, the people], [إِلَى, to], [أَصْنَامِهِمْ, their idols]]
+    en: The people came back to their idols.
+  - words: [[فَوَجَدُوا, and they found], [آلِهَتَهُمْ, their gods], [قِطَعًا, "(in) pieces"]]
+    en: And they found their gods in pieces.
+  - words: [[سَأَلَ, asked], [الْقَوْمُ, the people], [مَنْ, who], [فَعَلَ, did], [هٰذَا, this]]
+    en: "The people asked: Who did this?"
+  - words: [[فَذَكَرُوا, and they mentioned], [اسْمَ, "(the) name"], [إِبْرَاهِيمَ, "(of) Ibrahim"]]
+    en: And they mentioned the name of Ibrahim.
+  - words: [[جَاءُوا, they came], [بِإِبْرَاهِيمَ, with Ibrahim], [أَمَامَ, before], [النَّاسِ, the people]]
+    en: They brought Ibrahim before the people.
+  - words: [[قَالُوا, They said], [يَا, O], [إِبْرَاهِيمُ, Ibrahim], [هَلْ, did], [فَعَلْتَ, you do], [هٰذَا, this]]
+    en: "They said: Ibrahim, did you do this?"
+  - words: [[قَالَ, He said], [بَلْ, Rather, q], [فَعَلَهُ, did it, q], [كَبِيرُهُمْ, the biggest of them, q], [هَـٰذَا, this one, q], [فَاسْأَلُوهُمْ, so ask them, q], [إِن, if, q], [كَانُوا, they are, q], [يَنطِقُونَ, speaking, q]]
+    en: "He said: Rather, this biggest one of them did it. So ask them, if they can speak."
+    quote: {ref: "21:63", text: بَلْ فَعَلَهُ كَبِيرُهُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ}
+  - words: [[فَكَّرَ, thought], [الْقَوْمُ, the people], [وَعَرَفُوا, and they knew], [الْحَقَّ, the truth]]
+    en: The people thought, and they knew the truth.
+  - words: [[ثُمَّ, Then], [رَجَعُوا, they went back], [إِلَى, to], [ضَلَالِهِمْ, their error]]
+    en: Then they went back to their error.
+  - words: [[قَالُوا, They said], [حَرِّقُوا, burn], [إِبْرَاهِيمَ, Ibrahim]]
+    en: "They said: Burn Ibrahim!"
+  - words: [[وَصَنَعُوا, and they made], [لَهُ, for him], [نَارًا, a fire], [عَظِيمَةً, great]]
+    en: And they made a great fire for him.
+  - words: [[وَأَلْقَوْا, and they threw], [إِبْرَاهِيمَ, Ibrahim], [فِي, into], [النَّارِ, the fire]]
+    en: And they threw Ibrahim into the fire.
+  - words: [[قَالَ, said], [اللَّهُ, Allah], [يَا, O, q], [نَارُ, fire, q], [كُونِي, be, q], [بَرْدًا, coolness, q], [وَسَلَامًا, and safety, q], [عَلَىٰ, for, q], [إِبْرَاهِيمَ, Ibrahim, q]]
+    en: "Allah said: O fire, be coolness and safety for Ibrahim."
+    quote: {ref: "21:69", text: يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ}
+  - words: [[فَأَنْجَى, So saved], [اللَّهُ, Allah], [إِبْرَاهِيمَ, Ibrahim], [مِنَ, from], [النَّارِ, the fire]]
+    en: So Allah saved Ibrahim from the fire.
+  - words: [[أَرَادَ, wanted], [الْقَوْمُ, the people], [بِهِ, against him], [شَرًّا, harm], [فَخَسِرُوا, but they lost]]
+    en: The people wanted to harm him, but they were the losers.
+
+dictionary:
+  - {ar: صَنَمٌ, en: idol, pos: [اسم, noun], root: صنم, pattern: فَعَلٌ, plural: أَصْنَامٌ, ayah: {ref: "14:35", text: وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ, en: "and keep me and my sons away from worshipping idols"}, note: "The du'a of Ibrahim عَلَيْهِ السَّلَامُ: keep me and my sons from worshipping idols."}
+  - {ar: عَبَدَ, en: he worshipped, pos: [فعل ماض, past verb], root: عبد, pattern: فَعَلَ, present: يَعْبُدُ, bab: بَابُ نَصَرَ, ayah: {ref: "109:2", text: لَا أَعْبُدُ مَا تَعْبُدُونَ, en: "I do not worship what you worship"}}
+  - {ar: أَبٌ, en: father, pos: [اسم, noun], root: أبو, plural: آبَاءٌ, ayah: {ref: "21:52", text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ, en: "when he said to his father and his people"}, note: "With a pronoun it grows a long vowel: أَبُوهُ (مَرْفُوعٌ), أَبَاهُ (مَنْصُوبٌ), أَبِيهِ (مَجْرُورٌ), with و، ا، ي. These are الْأَسْمَاءُ الْخَمْسَةُ (the five nouns)."}
+  - {ar: تِمْثَالٌ, en: statue, pos: [اسم, noun], root: مثل, pattern: تِفْعَالٌ, plural: تَمَاثِيلُ, ayah: {ref: "21:52", text: مَا هَـٰذِهِ التَّمَاثِيلُ, en: "what are these statues"}}
+  - {ar: إِلٰهٌ, en: god; one who is worshipped, pos: [اسم, noun], root: أله, pattern: فِعَالٌ, plural: آلِهَةٌ, ayah: {ref: "114:3", text: إِلَـٰهِ النَّاسِ, en: "the true Deity of mankind"}, note: "لَا إِلٰهَ إِلَّا اللَّهُ: there is no god but Allah."}
+  - {ar: ضَلَالٌ, en: error; going astray, pos: [مصدر, verbal noun], root: ضلل, pattern: فَعَالٌ, ayah: {ref: "1:7", text: وَلَا الضَّالِّينَ, en: "nor of those who went astray"}, note: "ضَالٌّ: one who goes astray."}
+  - {ar: رَبٌّ, en: Lord, pos: [اسم, noun], root: ربب, pattern: فَعْلٌ, ayah: {ref: "87:1", text: سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى, en: "glorify the name of your Lord, the Most High"}}
+  - {ar: تَرَكَ, en: he left, pos: [فعل ماض, past verb], root: ترك, pattern: فَعَلَ, present: يَتْرُكُ, bab: بَابُ نَصَرَ, ayah: {ref: "44:25", text: كَمْ تَرَكُوا مِن جَنَّاتٍ وَعُيُونٍ, en: "how many gardens and springs they left behind"}}
+  - {ar: كَسَرَ, en: he broke, pos: [فعل ماض, past verb], root: كسر, pattern: فَعَلَ, present: يَكْسِرُ, bab: بَابُ ضَرَبَ, note: "Not in the Quran, which says جَعَلَهُمْ جُذَاذًا, he made them into pieces (21:58)."}
+  - {ar: وَجَدَ, en: he found, pos: [فعل ماض, past verb], root: وجد, pattern: فَعَلَ, present: يَجِدُ, bab: بَابُ ضَرَبَ, ayah: {ref: "93:7", text: وَوَجَدَكَ ضَالًّا فَهَدَىٰ, en: "and He found you unaware of the way and guided you"}}
+  - {ar: فَعَلَ, en: he did, pos: [فعل ماض, past verb], root: فعل, pattern: فَعَلَ, present: يَفْعَلُ, bab: بَابُ فَتَحَ, ayah: {ref: "105:1", text: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ, en: "have you not seen how your Lord dealt"}, note: "The model verb: every pattern (wazn) is written with its letters ف ع ل."}
+  - {ar: ذَكَرَ, en: he mentioned; he remembered, pos: [فعل ماض, past verb], root: ذكر, pattern: فَعَلَ, present: يَذْكُرُ, bab: بَابُ نَصَرَ, ayah: {ref: "87:15", text: وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ, en: "and remembers the name of his Lord and prays"}}
+  - {ar: جَاءَ, en: he came, pos: [فعل ماض, past verb], root: جيأ, pattern: فَعَلَ, present: يَجِيءُ, bab: بَابُ ضَرَبَ, ayah: {ref: "110:1", text: إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ, en: "when the help of Allah and the victory come"}, note: "جَاءَ بِـ: he came with, he brought."}
+  - {ar: فَتًى, en: young man, pos: [اسم, noun], root: فتي, pattern: فَعَلٌ, plural: فِتْيَةٌ, ayah: {ref: "21:60", text: سَمِعْنَا فَتًى يَذْكُرُهُمْ, en: "we heard a young man speaking of them"}, note: "What his people called Ibrahim عَلَيْهِ السَّلَامُ (21:60)."}
+  - {ar: نَارٌ, en: fire, pos: [اسم, noun], root: نور, pattern: فَعَلٌ, plural: نِيرَانٌ, ayah: {ref: "101:11", text: نَارٌ حَامِيَةٌ, en: "a blazing fire"}, note: "A feminine word with no ة: نَارٌ عَظِيمَةٌ."}
+  - {ar: عَظِيمٌ, en: great; mighty, pos: [صفة مشبهة, adjective], root: عظم, pattern: فَعِيلٌ, ayah: {ref: "68:4", text: وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ, en: "and you are truly of a great character"}}
+  - {ar: أَلْقَى, en: he threw, pos: [فعل ماض, past verb], root: لقي, pattern: أَفْعَلَ, present: يُلْقِي, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "20:69", text: وَأَلْقِ مَا فِي يَمِينِكَ, en: "and throw what is in your right hand"}, note: "أَلْقَوْا: they threw."}
+  - {ar: بَرْدٌ, en: coolness; cold, pos: [اسم, noun], root: برد, pattern: فَعْلٌ, ayah: {ref: "78:24", text: لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا, en: "they will not taste any coolness there, nor any drink"}}
+  - {ar: أَنْجَى, en: he saved, pos: [فعل ماض, past verb], root: نجو, pattern: أَفْعَلَ, present: يُنْجِي, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "29:24", text: فَأَنجَاهُ اللَّهُ مِنَ النَّارِ, en: "so Allah saved him from the fire"}}
+  - {ar: أَرَادَ, en: he wanted; he intended, pos: [فعل ماض, past verb], root: رود, pattern: أَفْعَلَ, present: يُرِيدُ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "36:82", text: إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا, en: "His command, when He wills a thing"}}
+  - {ar: خَسِرَ, en: he lost, pos: [فعل ماض, past verb], root: خسر, pattern: فَعِلَ, present: يَخْسَرُ, bab: بَابُ سَمِعَ, ayah: {ref: "103:2", text: إِنَّ الْإِنسَانَ لَفِي خُسْرٍ, en: "surely mankind is in loss"}}
+  - {ar: حَقٌّ, en: truth; right, pos: [اسم, noun], root: حقق, pattern: فَعْلٌ, ayah: {ref: "103:3", text: وَتَوَاصَوْا بِالْحَقِّ, en: "and urge one another to the truth"}}
+
+root_families:
+  - root: عبد
+    words: [[عَبَدَ, he worshipped], [عَبْدٌ, servant of Allah], [عِبَادَةٌ, worship], [عَابِدٌ, worshipper], [مَعْبُودٌ, one who is worshipped]]
+  - root: كبر
+    words: [[كَبِيرٌ, big], [كِبَارٌ, great ones; chiefs], [أَكْبَرُ, bigger; greatest], [تَكْبِيرٌ, saying اللَّهُ أَكْبَرُ]]
+
+grammar:
+  title_ar: النَّعْتُ وَالْمَنْعُوتُ
+  title_en: "The نَعْتٌ (describing word) follows its مَنْعُوتٌ"
+  body: >-
+    A نَعْتٌ (describing word) comes after its مَنْعُوتٌ (the noun it describes) and copies it: in إِعْرَابٌ (case ending),
+    in تَعْرِيفٌ and تَنْكِيرٌ (ال or tanwin), in gender and in number.
+    One special rule: the plural of a thing that is not a person takes a feminine singular نَعْتٌ,
+    so الْأَصْنَامُ (idols) takes الصَّغِيرَةُ, not a plural one.
+  examples:
+    - [الصَّنَمَ الْكَبِيرَ, "the big idol"]
+    - [نَارًا عَظِيمَةً, "a great fire"]
+    - [الْأَصْنَامَ الصَّغِيرَةَ, "the small idols"]
+
+tip:
+  title: "Reading without vowels: spotting the past verb"
+  body: >-
+    A bare three letter word at the start of a sentence, like كسر, ترك, ذهب or رجع, is very often a past verb on the
+    pattern فَعَلَ: kasara, taraka. A few common verbs are فَعِلَ instead (سمع, غضب, فرح, خسر), so learn those as you meet them.
+    A final ـوا (قالوا, رجعوا, ذكروا) means "they" did it, and its alif is silent.
+
+try_it:
+  words: [صنم, نار, الأصنام, كبير, إبراهيم]
+  sentence: كسر الأصنام الصغيرة وترك الصنم الكبير
+
+reread: Cover the grey word line with a strip of paper and read the story again. Then recite Surat al-Anbiya 21:51 to 70 and listen for the words you met here.

@@ -1,0 +1,136 @@
+{% extends "base.html.j2" %}
+{% from "_parts.html.j2" import word, seg %}
+{% set nav = 'booklets' %}
+{% block htmlattrs %} data-booklet="{{ b.key }}" data-vowels="{{ st.default.vowels }}" data-gloss="{{ st.default.gloss }}" data-english="{{ st.default.english }}"{% endblock %}
+{% block head %}
+<script>try{var s=JSON.parse(localStorage.getItem("anrs:{{ b.key }}")||"{}"),d=document.documentElement.dataset;["vowels","gloss","english"].forEach(function(k){if(s[k])d[k]=s[k]})}catch(e){}</script>
+{% endblock %}
+{% block main %}
+<div class="bar" aria-label="Reading settings">
+  <div class="wrap">
+    {% if st.all_q %}
+    {# Every word is Quran text, which never changes: no vowel control here. #}
+    <div class="always">
+      {{ seg('gloss', 'Glosses', [('all', 'All'), ('off', 'Off')], st.default.gloss) }}
+      {{ seg('english', 'English', [('show', 'Show'), ('hide', 'Hide')], st.default.english) }}
+    </div>
+    {% else %}
+    {{ seg('vowels', 'Vowel marks', [('full', 'Full'), ('nocase', 'No case endings'), ('partial', 'Partial'), ('none', 'None')], st.default.vowels) }}
+    <button type="button" class="toggle" aria-expanded="false">More options</button>
+    <div class="more">
+      {{ seg('gloss', 'Glosses', [('all', 'All'), ('new', 'New words only'), ('off', 'Off')], st.default.gloss) }}
+      {{ seg('english', 'English', [('show', 'Show'), ('hide', 'Hide')], st.default.english) }}
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<article class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ root }}index.html">Home</a><span aria-hidden="true">/</span><a href="index.html">{{ b.label }}</a><span aria-hidden="true">/</span>{{ st.where }}</nav>
+  <div class="read">
+    <header class="opener">
+      <div>
+        <div class="kicker">{% if b.bonus %}{{ st.where }}{% else %}Story {{ st.number }} · {{ st.strand|capitalize }}{% endif %}</div>
+        <h1>{{ st.title_en }}</h1>
+        {% if st.meta_line and not b.bonus %}<div class="meta">{{ st.meta_line }}</div>{% endif %}
+      </div>
+      <div class="title-ar ar" lang="ar" dir="rtl">{{ st.title_ar }}</div>
+    </header>
+
+    <section class="reader" aria-label="Story text. Tap a word for its details.">
+      <p class="muted small">Tap or click any word for its meaning and dictionary entry.</p>
+      {% for s in st.sents %}
+      {% if s.ill %}<figure class="ill"><img src="{{ root }}img/{{ s.ill.file }}" width="{{ s.ill.w }}" height="{{ s.ill.h }}" alt="{{ s.ill.alt }}" loading="lazy"></figure>{% endif %}
+      <div class="sent" id="s-{{ s.n }}">
+        <div class="line">{% for w in s.words %}{{ word(w) }}{% endfor %}</div>
+        <div class="en">
+          <button type="button" class="num" aria-expanded="false" aria-label="Sentence {{ s.n }}: show or hide the English line">{{ s.n }}</button>
+          <span class="txt">{{ s.en|bidi }}</span>
+          {% if s.quote %}<span class="ref">({{ s.quote.ref|ref }})</span>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </section>
+
+    {% if st.grammar %}
+    <div class="box grammar" id="grammar">
+      <h3>{{ st.grammar.title_en|bidi }} · <span class="ar" lang="ar" dir="rtl">{{ st.grammar.title_ar }}</span></h3>
+      <p>{{ st.grammar.body|bidi }}</p>
+      {% for ex in st.grammar.examples %}<div class="ex"><span>{{ ex[1]|bidi }}</span><span class="a" lang="ar" dir="rtl">{{ ex[0] }}</span></div>{% endfor %}
+    </div>
+    {% endif %}
+
+    {% if st.tip %}
+    <div class="box tip" id="tip"><h3>{{ st.tip.title|bidi }}</h3><p>{{ st.tip.body|bidi }}</p></div>
+    {% endif %}
+  </div>
+
+  <section class="section" id="dictionary">
+    <h2>Dictionary</h2>
+    <div class="entries">
+      {% for e in st.dictionary %}
+      <div class="entry" id="{{ e.id }}">
+        <div class="top">
+          <div>
+            <div class="mean">{{ e.en|bidi }}{% if e.register == 'modern' %} <span class="tag modern">modern</span>{% elif e.register == 'both' %} <span class="tag both">classical and modern</span>{% endif %}</div>
+            <div class="facts">
+              <span class="ar" lang="ar" dir="rtl">{{ e.pos[0] }}</span> {{ e.pos[1]|bidi }}<br>
+              {% if e.root %}root <span class="root-letters" lang="ar" dir="rtl">{{ e.root|spaced }}</span>{% endif %}
+              {% if e.pattern %} · pattern {{ e.pattern|bidi }}{% endif %}
+              {% if e.present %}<br>present <span class="ar" lang="ar" dir="rtl">{{ e.present }}</span>{% endif %}{% if e.bab %} · <span class="ar" lang="ar" dir="rtl">{{ e.bab }}</span>{% endif %}
+              {% if e.plural %}<br>plural {{ e.plural|bidi }}{% endif %}
+            </div>
+          </div>
+          <div>
+            <div class="word" lang="ar" dir="rtl">{{ e.ar }}</div>
+            <div class="bare" lang="ar" dir="rtl">{{ e.bare }}</div>
+          </div>
+        </div>
+        {% if e.ayah_text %}<div class="ayah"><span class="t" lang="ar" dir="rtl">{{ e.ayah_text }}</span><span class="r">{{ e.ayah.ref|ref }}</span>{% if e.ayah.en %} <span class="e">{{ e.ayah.en|bidi }}</span>{% endif %}</div>{% endif %}
+        {% if e.note %}<div class="note">{{ e.note|bidi }}</div>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% if st.root_families %}
+  <section class="section" id="roots">
+    <h2>Root families</h2>
+    <div class="families">
+      {% for f in st.root_families %}
+      <div class="family">
+        <div class="root-big" lang="ar" dir="rtl">{{ f.root|spaced }}</div>
+        {% for w in f.words %}<div class="row"><span class="e">{{ w[1]|bidi }}</span><span class="a" lang="ar" dir="rtl">{{ w[0] }}</span></div>{% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <div class="read">
+    {% if st.reread %}<div class="box reread" id="reread"><h3>Read it again</h3><p>{{ st.reread|bidi }}</p></div>{% endif %}
+  </div>
+
+  {% if st.cfg.vowels != "none" and st.cfg.unvowelled != "none" %}
+  <section class="section" id="challenge">
+    <h2>Now without vowels</h2>
+    {% if st.try_it %}
+    <div class="box try">
+      <h3>Try it without vowels</h3>
+      <div class="words">{% for w in st.try_it.words %}<span lang="ar" dir="rtl">{{ w }}</span>{% endfor %}</div>
+      {% if st.try_it.sentence %}<div class="sentence" lang="ar" dir="rtl">{{ st.try_it.sentence }}</div>{% endif %}
+    </div>
+    {% endif %}
+    <p class="muted small">The whole story again, with no vowel marks. Ayat keep their marks inside the brackets, so you can tell them from the retelling.</p>
+    <div class="plain-tools"><button type="button" class="btn ghost" id="marks" aria-pressed="false">Show marks</button></div>
+    <p class="plain" lang="ar" dir="rtl">{% for s in st.sents %}{% for t in s.plain %}<span class="uw{% if t.q %} q{% endif %}"{% if not t.q %} data-m="{{ t.bare }}|{{ t.marked }}"{% endif %}>{% if t.opens %}﴾{% endif %}{{ t.marked if t.q else t.bare }}{% if t.closes %}﴿{% endif %}</span> {% endfor %}{% endfor %}</p>
+  </section>
+  {% endif %}
+
+  <nav class="pager" aria-label="Stories">
+    {% if prev %}<a href="{{ prev.file }}" rel="prev"><span class="d">Previous story</span>{{ prev.title_en }}</a>{% else %}<a href="index.html"><span class="d">{{ b.label }}</span>{{ b.title }}</a>{% endif %}
+    {% if next %}<a href="{{ next.file }}" rel="next"><span class="d">Next story</span>{{ next.title_en }}</a>{% else %}<a href="glossary.html"><span class="d">End of {{ b.label|lower }}</span>Glossary</a>{% endif %}
+  </nav>
+</article>
+<script type="application/json" id="cards">{{ cards|jsondata }}</script>
+{% endblock %}

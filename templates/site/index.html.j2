@@ -1,0 +1,81 @@
+{% extends "base.html.j2" %}
+{% from "_parts.html.j2" import downloads, still %}
+{% set nav = '' %}
+{% block main %}
+<div class="wrap">
+  <section class="hero">
+    <div class="kicker">Graded Arabic reading, five booklets</div>
+    <h1>{{ site.title }}</h1>
+    <p class="lede">Stories that start with every vowel mark and every word explained, and end with the bare page you will meet in a book or a newspaper. Every story has a dictionary with roots, and each root is tied to an ayah you may already know by heart.</p>
+    <div class="btn-row">
+      <a class="btn" href="b1/index.html">Start with booklet 1</a>
+      <a class="btn ghost" href="#grading">See how the booklets grade</a>
+    </div>
+  </section>
+
+  <section class="section" id="who">
+    <h2>Who it is for</h2>
+    <div class="audience">
+      <p>This series is for a reader who can already read Arabic script aloud and now wants to understand what they read, then to read without the marks. You should be someone who:</p>
+      <ul>
+        <li>reads Arabic script with full vowel marks;</li>
+        <li>knows some of the Quran by heart;</li>
+        <li>knows the basics of Madinah Book 1: ism, fi'l and harf; al and tanwin; idafa; simple nominal and verbal sentences.</li>
+      </ul>
+      <p>Each booklet says what it adds and what it assumes, so you can start at the booklet that fits you. It is reading practice, not a replacement for a grammar course.</p>
+    </div>
+  </section>
+
+  <section class="section" id="grading">
+    <h2>How the booklets grade</h2>
+    <p class="read" style="margin-inline: 0">One sentence, as each booklet prints it. Across the five booklets the vowel marks fall away, and the glosses shrink to the words you have not met before.</p>
+    <div class="grade" style="margin-top: var(--x-sp-4)">
+      {% for b in booklets %}
+      <div class="grade-row">
+        <div class="what"><b>Booklet {{ b.n }}</b><span>{{ b.level.marks }}</span><span>Glosses: {{ b.level.glosses|lower }}</span></div>
+        {% if sample.rows %}
+        <div class="line">
+          {% for i in range(sample.rows[b.n - 1]|length) %}{{ still(sample.rows[b.n - 1][i], sample.glosses[i] if b.n < 3 or i == sample.new else '') }}{% endfor %}
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    <p class="muted small" style="margin-top: var(--x-sp-2)">Sample sentence from booklet 2. From booklet 3 only a new word keeps its gloss; here the longest word stands in for one.</p>
+  </section>
+
+  <section class="section" id="booklets">
+    <h2>The booklets</h2>
+    <div class="cards">
+      {% for b in card_list %}
+      <article class="card">
+        {% if b.cover %}<img src="img/{{ b.cover.src }}" width="{{ b.cover.w }}" height="{{ b.cover.h }}" alt="" loading="lazy">{% endif %}
+        <div class="body">
+          <div class="bn">{% if b.bonus %}{{ b.level.label }}{% else %}Booklet {{ b.n }} · {{ b.level.label }}{% endif %}</div>
+          <h3><a href="{{ b.dir }}/index.html">{{ b.title }}</a></h3>
+          <div class="title-ar ar" lang="ar" dir="rtl">{{ b.title_ar }}</div>
+          <p>{{ b.subtitle }}</p>
+          <p class="facts">{{ b.stories|length }} {{ "surahs" if b.bonus else "stories" }} · English {{ b.level.english|lower }}{% if b.level.note %} · {{ b.level.note }}{% endif %}</p>
+          <div class="actions">
+            <div class="btn-row"><a class="btn" href="{{ b.dir }}/index.html">Read online</a></div>
+            {{ downloads(b) }}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="section" id="print">
+    <h2>How to print</h2>
+    <div class="print-steps">
+      <ol>
+        <li>Download the PDF parts of a booklet. Each part is A4 and has 48 pages (12 sheets) or fewer, so it staples.</li>
+        <li>Print double sided, flipping on the long edge, at 100% (actual size, not fit to page).</li>
+        <li>Staple or bind along the left edge. The wide margin is on the inside of every page, for the binding.</li>
+        <li>Read the Arabic first. Glance at the grey words only when you need them, and cover the line with a strip of paper to test yourself.</li>
+      </ol>
+    </div>
+  </section>
+</div>
+{% endblock %}

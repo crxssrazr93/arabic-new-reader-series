@@ -1,0 +1,23 @@
+{% extends "base.html.j2" %}
+{% set nav = 'booklets' %}
+{% block main %}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ root }}index.html">Home</a><span aria-hidden="true">/</span><a href="index.html">{{ b.label }}</a><span aria-hidden="true">/</span>Glossary</nav>
+  <h1>Glossary, {{ b.label|lower }}</h1>
+  <p class="muted" style="margin-top: var(--x-sp-2)">Every dictionary word of this booklet, ordered by root. Search by Arabic (with or without vowel marks), by root letters, or by English. The link goes to the story where the word first appears.</p>
+  <div class="search">
+    <label class="small muted" for="gl-q">Search the glossary</label>
+    <input id="gl-q" type="search" autocomplete="off" placeholder="كتب or to write" dir="auto">
+    <p class="count" id="gl-count" aria-live="polite">{{ glossary|length }} words</p>
+  </div>
+  <ul class="gl">
+    {% for g in glossary %}
+    <li data-q="{{ g.q }}">
+      <span class="a" lang="ar" dir="rtl">{{ g.ar }}</span>
+      <span class="e">{{ g.en|bidi }}</span>
+      <span class="m">{% if g.plain_root %}root <span class="root-letters" lang="ar" dir="rtl">{{ g.plain_root|spaced }}</span> · {% endif %}<a href="{{ g.slug }}.html">{{ g.where }}</a></span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}

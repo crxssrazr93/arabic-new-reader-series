@@ -1,0 +1,56 @@
+# Bonus booklet, surah 112. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-09
+booklet: 0
+number: 9
+strand: quran
+title_ar: سُورَةُ الْإِخْلَاصِ
+title_en: "Al-Ikhlas: Pure Devotion"
+source: "Quran 112"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-09-geometric-star.png
+    alt: A geometric ornament of interlacing lines radiating from a single central star, in deep blue and gold
+
+sentences:
+  - words: [[قُلْ, "Say", q], [هُوَ, "He (is)", q], [اللَّهُ, "Allah", q], [أَحَدٌ, "One", q]]
+    en: "Say: He is Allah, the One and Only."
+    quote: {ref: "112:1", text: قُلْ هُوَ اللَّهُ أَحَدٌ}
+  - words: [[اللَّهُ, "Allah", q], [الصَّمَدُ, "(is) the Eternal Refuge", q]]
+    en: Allah, the One all creation turns to in every need, and who needs no one.
+    quote: {ref: "112:2", text: اللَّهُ الصَّمَدُ}
+  - words: [[لَمْ, "Not", q], [يَلِدْ, "He begot", q], [وَلَمْ, "and not", q], [يُولَدْ, "He was born", q]]
+    en: He has no child, and He was not born.
+    quote: {ref: "112:3", text: لَمْ يَلِدْ وَلَمْ يُولَدْ}
+  - words: [[وَلَمْ, "And not", q], [يَكُن, "is", q], [لَّهُ, "to Him", q], [كُفُوًا, "equal", q], [أَحَدٌ, "anyone", q]]
+    en: And there is nothing and no one equal to Him.
+    quote: {ref: "112:4", text: وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ}
+
+dictionary:
+  - {ar: أَحَدٌ, en: one; (with a negative) anyone, pos: [اسم, noun], root: أحد, pattern: فَعَلٌ, ayah: {ref: "72:20", text: قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا, en: "say: I only call upon my Lord, and I do not associate anyone with Him"}, note: "In ayah 1, the One with no partner and nothing like Him. In ayah 4 and in 72:20, after a negative, it means anyone."}
+  - {ar: صَمَدٌ, en: the Self-Sufficient whom all others need, pos: [اسم, noun], root: صمد, pattern: فَعَلٌ, note: "Comes only here in the Quran. Ibn Abbas رَضِيَ اللَّهُ عَنْهُمَا (may Allah be pleased with them both) explained الصَّمَد as the Master who is perfect in every quality, to whom creation turns for its needs."}
+  - {ar: وَلَدَ, en: he fathered; she gave birth, pos: [فعل ماض, past verb], root: ولد, pattern: "فَعَلَ", present: يَلِدُ, bab: بَابُ ضَرَبَ, ayah: {ref: "90:3", text: وَوَالِدٍ وَمَا وَلَدَ, en: "and by a father and what he fathered"}, note: "In يَلِدُ the first root letter و drops (مِثَالٌ, a verb whose first root letter is و). Passive يُولَدُ, he is born. Same root: وَلَدٌ, child; وَالِدٌ, father."}
+  - {ar: كُفُوٌ, en: equal; match, pos: [اسم, noun], root: كفأ, pattern: فُعُلٌ, note: "Comes only here in the Quran. Tanzil writes it كُفُوًا (the Hafs reading); other readings have a hamza: كُفُؤًا, or كُفْؤًا."}
+
+grammar:
+  title_ar: لَمْ وَالْفِعْلُ الْمَجْزُومُ
+  title_en: "لَمْ: did not"
+  body: >-
+    لَمْ before a present verb gives a past meaning: did not. The verb becomes مَجْزُومٌ, so its last vowel becomes sukun
+    (يَلِدُ to لَمْ يَلِدْ), and a long vowel in the middle drops (يَكُونُ to لَمْ يَكُنْ). If the verb ends in a long vowel
+    (نَاقِصٌ), that last letter drops instead: يَرَى to لَمْ يَرَ. With أَ it is أَلَمْ, "did not ...?", as in al-Fil: أَلَمْ تَرَ.
+  examples:
+    - [لَمْ يَلِدْ, "He did not beget (from يَلِدُ)"]
+    - [وَلَمْ يُولَدْ, "and He was not born (from يُولَدُ)"]
+    - [وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ, "and no one is equal to Him (from يَكُونُ)"]
+
+tip:
+  title: "Meaning note: أَحَد and وَاحِد"
+  body: >-
+    Both come from the idea of oneness. وَاحِدٌ is the number one, which can be followed by two. أَحَدٌ, said of Allah,
+    is the One who cannot be divided, has no partner and nothing like Him. The Prophet ﷺ said this surah is equal
+    to a third of the Quran (Sahih al-Bukhari). Scholars explain: because it is all about tawhid.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

@@ -1,0 +1,9 @@
+PyYAML==6.0.4
+Jinja2==3.1.6
+MarkupSafe==3.0.4
+# Only for the PDFs and asset tools, not for the website build:
+weasyprint==70.0
+pillow==13.0.0
+fonttools==4.69.1
+# Optional, for scripts/vowel_check.py:
+# camel-tools==1.6.0

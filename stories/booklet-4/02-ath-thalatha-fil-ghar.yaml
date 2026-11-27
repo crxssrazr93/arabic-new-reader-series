@@ -1,0 +1,194 @@
+# Booklet 4, story 2. Hadith strand, read in class by Ustadh Hamid. Grammar ceiling: Madinah Book 3.
+id: b4-02
+booklet: 4
+number: 2
+strand: hadith
+title_ar: الثَّلَاثَةُ فِي الْغَارِ
+title_en: The Three Men in the Cave
+madinah: "Book 3 (exception with إِلَّا and غَيْرُ)"
+source: "Sahih al-Bukhari 2272 (also Muslim 2743), in order: the rock that closed the cave, 'nothing will save you from this rock except calling on Allah by your good deeds', the parents and the evening milk, the cousin and the hundred and twenty dinars, the worker's wage that grew into camels, cattle, sheep and slaves, and the rock opening a little each time. The rain and the children crying at his feet are from al-Bukhari 2215 and 5974, and 'from hunger' from al-Bukhari 3465; 'fear Allah' is the cousin's wording in al-Bukhari 2215 and 5974, and the rock opening wider the second time follows al-Bukhari 2215 (two thirds). The size of the rock and that no one could hear them (sentences 10 and 11) are the Ustadh's explanation, not the hadith. The cousin episode is told briefly: 'a forbidden thing' stands for the hadith's plain wording, and 'except by its right' is explained as marriage, as the commentators do. The class frame and the students' answers are our own; the teacher's line on sincerity is the first half of a hadith in Sunan an-Nasa'i 3140 (graded hasan by Darussalam on sunnah.com; the second half, وَابْتُغِيَ بِهِ وَجْهُهُ, is left out), given as the words of the Prophet ﷺ."
+
+illustrations:
+  - before: 9
+    file: b4-02-rock-rain.png
+    alt: A huge round boulder sealing the mouth of a cave in a mountainside, rain falling, wet dark stones, no people
+    prompt: A huge round boulder that has rolled down and sealed the mouth of a small cave in a rocky mountainside, heavy rain falling, wet dark stones and a muddy track of loose rocks above it, grey sky. No people, no animals.
+  - before: 17
+    file: b4-02-milk-doorway.png
+    alt: A wooden bowl of milk standing on the stone threshold of a simple house at night, an oil lamp beside it, the door half open onto darkness
+    prompt: A simple wooden bowl full of white milk standing on the stone threshold of a humble old house at night, a small clay oil lamp glowing beside it, the wooden door half open onto a dark room, stars outside. No people, no animals.
+  - before: 38
+    file: b4-02-valley-pens.png
+    alt: A wide green valley of grazing land with empty wooden pens, stone water troughs and a well, no animals or people
+    prompt: A wide green valley of rich grazing land between low hills, several large empty wooden animal pens, long stone water troughs full of water and a stone well, a path of hoofprints in the soft earth. No animals, no people.
+
+sentences:
+  - words: [[فِي, ""], [دَرْسِ, ""], [الْحَدِيثِ, ""], [فَتَحَ, ""], [الْأُسْتَاذُ, ""], [حَامِدٌ, ""], [صَحِيحَ, ""], [الْبُخَارِيِّ, ""], [وَقَالَ, ""], [لِلطُّلَّابِ, ""], [الْيَوْمَ, ""], [نَقْرَأُ, ""], [حَدِيثًا, ""], [عَجِيبًا, ""]]
+    en: "In the hadith lesson, Ustadh Hamid opened Sahih al-Bukhari and said to the students: Today we will read a wonderful hadith."
+  - words: [[فِيهِ, ""], [قِصَّةٌ, ""], [حَدَّثَ, "told", n k], [بِهَا, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [أَصْحَابَهُ, ""], [عَنْ, ""], [قَوْمٍ, ""], [كَانُوا, ""], [قَبْلَهُمْ, ""]]
+    en: "In it is a story the Prophet ﷺ told his Companions about people who lived before them."
+  - words: [[وَهِيَ, ""], [قِصَّةُ, ""], [ثَلَاثَةِ, ""], [نَفَرٍ, "men", n k], [لَمْ, ""], [يُنْجِهِمْ, ""], [مِنَ, ""], [الْهَلَاكِ, "death; ruin", n k], [إِلَّا, ""], [دُعَاؤُهُمْ, ""], [بِأَعْمَالِهِمُ, ""], [الصَّالِحَةِ, ""]]
+    en: "It is the story of three men whom nothing saved from death except their prayer by their good deeds."
+  - words: [[وَالْحَدِيثُ, ""], [فِي, ""], [صَحِيحِ, ""], [الْبُخَارِيِّ, ""], [وَفِي, ""], [صَحِيحِ, ""], [مُسْلِمٍ, "Muslim (the book)", n k], [أَيْضًا, ""], [وَهُمَا, ""], [أَصَحُّ, "the most authentic", n k], [كُتُبِ, ""], [الْحَدِيثِ, ""]]
+    en: "The hadith is in Sahih al-Bukhari and in Sahih Muslim too, the two most authentic books of hadith."
+  - words: [[ثُمَّ, ""], [قَرَأَ, ""], [الْأُسْتَاذُ, ""], [الْحَدِيثَ, ""], [وَشَرَحَهُ, "and explained it", n k], [لَهُمْ, ""], [جُمْلَةً, "sentence", n k], [جُمْلَةً, ""], [وَهٰذِهِ, ""], [هِيَ, ""], [الْقِصَّةُ, ""]]
+    en: "Then the Ustadh read the hadith and explained it to them sentence by sentence. This is the story."
+  - words: [[وَقَالَ, ""], [لَهُمُ, ""], [اسْمَعُوا, ""], [الْقِصَّةَ, ""], [وَفَكِّرُوا, ""], [فِيهَا, ""], [فَفِيهَا, ""], [ثَلَاثَةُ, ""], [دُرُوسٍ, "lessons", n k], [لِكُلِّ, ""], [مُسْلِمٍ, ""]]
+    en: "He said to them: Listen to the story and think about it, for in it are three lessons for every Muslim."
+  - words: [[خَرَجَ, ""], [ثَلَاثَةُ, ""], [رِجَالٍ, ""], [مِمَّنْ, ""], [كَانُوا, ""], [قَبْلَنَا, ""], [يَمْشُونَ, ""], [فِي, ""], [سَفَرٍ, ""], [فَنَزَلَ, ""], [عَلَيْهِمُ, ""], [الْمَطَرُ, ""], [فِي, ""], [الطَّرِيقِ, ""]]
+    en: "Three men from those who lived before us went out walking on a journey, and rain came down on them on the way."
+  - words: [[فَأَوَوْا, ""], [إِلَى, ""], [غَارٍ, ""], [فِي, ""], [جَبَلٍ, ""], [لِيَبِيتُوا, ""], [فِيهِ, ""], [وَدَخَلُوهُ, ""], [جَمِيعًا, ""]]
+    en: "They took shelter in a cave in a mountain to spend the night there, and all of them went inside."
+  - words: [[فَانْحَدَرَتْ, "and rolled down", n k], [صَخْرَةٌ, ""], [كَبِيرَةٌ, ""], [مِنَ, ""], [الْجَبَلِ, ""], [فَسَدَّتْ, "and blocked", n k], [عَلَيْهِمْ, ""], [بَابَ, ""], [الْغَارِ, ""]]
+    en: "A great rock rolled down from the mountain and blocked the mouth of the cave on them."
+  - words: [[قَالَ, ""], [الْأُسْتَاذُ, ""], [وَكَانَتِ, ""], [الصَّخْرَةُ, ""], [كَبِيرَةً, ""], [جِدًّا, ""], [لَا, ""], [يَسْتَطِيعُ, "can", n k], [الرِّجَالُ, ""], [الثَّلَاثَةُ, ""], [أَنْ, ""], [يُحَرِّكُوهَا, "move it", n k], [مِنْ, ""], [مَكَانِهَا, ""]]
+    en: "The Ustadh said: The rock was very big, and the three men could not move it from its place."
+  - words: [[فَصَارُوا, ""], [فِي, ""], [الْغَارِ, ""], [وَحْدَهُمْ, ""], [لَا, ""], [يَسْتَطِيعُونَ, ""], [الْخُرُوجَ, ""], [وَلَا, ""], [يَسْمَعُهُمْ, ""], [أَحَدٌ, ""], [إِلَّا, ""], [اللَّهُ, ""]]
+    en: "So they were alone in the cave, unable to get out, and no one could hear them except Allah."
+  - words: [[فَقَالَ, ""], [بَعْضُهُمْ, ""], [لِبَعْضٍ, ""], [إِنَّهُ, ""], [لَا, ""], [يُنْجِيكُمْ, ""], [مِنْ, ""], [هٰذِهِ, ""], [الصَّخْرَةِ, ""], [إِلَّا, ""], [أَنْ, ""], [تَدْعُوا, ""], [اللَّهَ, ""], [بِصَالِحِ, ""], [أَعْمَالِكُمْ, ""]]
+    en: "They said to one another: Nothing will save you from this rock except calling on Allah by your good deeds."
+  - words: [[فَتَذَكَّرَ, ""], [كُلُّ, ""], [وَاحِدٍ, ""], [مِنْهُمْ, ""], [عَمَلًا, ""], [صَالِحًا, ""], [عَمِلَهُ, ""], [لِلَّهِ, ""], [وَحْدَهُ, ""], [وَدَعَا, ""], [بِهِ, ""], [رَبَّهُ, ""]]
+    en: "Each of them remembered a good deed he had done for Allah alone, and called on his Lord by it."
+  - words: [[فَقَالَ, ""], [الْأَوَّلُ, ""], [اللَّهُمَّ, "O Allah", n k], [كَانَ, ""], [لِي, ""], [أَبَوَانِ, ""], [شَيْخَانِ, ""], [كَبِيرَانِ, ""], [وَكُنْتُ, ""], [أَرْعَى, ""], [الْغَنَمَ, ""], [لِأُطْعِمَهُمَا, ""], [وَلِي, ""], [صِبْيَةٌ, "little children", n k], [صِغَارٌ, ""]]
+    en: "The first said: O Allah, I had two very old parents, and I used to tend sheep to feed them. I also had little children."
+  - words: [[وَكُنْتُ, ""], [لَا, ""], [أُعْطِي, ""], [أَحَدًا, ""], [لَبَنَ, ""], [الْمَسَاءِ, ""], [قَبْلَهُمَا, ""], [لَا, ""], [مِنْ, ""], [أَهْلِي, ""], [وَلَا, ""], [مِنْ, ""], [خَدَمِي, "my servants", n k]]
+    en: "I never gave anyone the evening milk before them, neither my family nor my servants."
+  - words: [[وَذَهَبْتُ, ""], [يَوْمًا, ""], [بَعِيدًا, ""], [فِي, ""], [طَلَبِ, ""], [شَيْءٍ, ""], [فَلَمْ, ""], [أَرْجِعْ, ""], [إِلَيْهِمَا, ""], [إِلَّا, ""], [بَعْدَ, ""], [أَنْ, ""], [نَامَا, ""]]
+    en: "One day I went far away looking for something, and I did not come back to them until after they had gone to sleep."
+  - words: [[فَحَلَبْتُ, "I milked", n k], [لَهُمَا, ""], [لَبَنَهُمَا, ""], [وَجِئْتُ, ""], [بِهِ, ""], [فِي, ""], [قَدَحٍ, "a drinking bowl", n k], [فَوَجَدْتُهُمَا, ""], [نَائِمَيْنِ, ""]]
+    en: "I milked their milk for them and brought it in a bowl, but I found the two of them asleep."
+  - words: [[فَكَرِهْتُ, "I did not like", n k], [أَنْ, ""], [أُوقِظَهُمَا, ""], [وَكَرِهْتُ, ""], [أَنْ, ""], [أُعْطِيَ, ""], [أَحَدًا, ""], [قَبْلَهُمَا, ""], [شَيْئًا, ""]]
+    en: "I did not want to wake them, and I did not want to give anyone anything before them."
+  - words: [[وَكَانَ, ""], [الصِّبْيَةُ, ""], [يَبْكُونَ, ""], [مِنَ, ""], [الْجُوعِ, ""], [عِنْدَ, ""], [قَدَمَيَّ, "", k]]
+    en: "And the little children were crying from hunger at my feet."
+  - words: [[فَلَبِثْتُ, ""], [وَالْقَدَحُ, ""], [عَلَى, ""], [يَدَيَّ, "", k], [أَنْتَظِرُ, ""], [أَنْ, ""], [يَسْتَيْقِظَا, "(that) the two wake up", n k], [حَتَّى, ""], [طَلَعَ, ""], [الْفَجْرُ, ""]]
+    en: "So I stayed there with the bowl in my hands, waiting for them to wake up, until the dawn rose."
+  - words: [[فَاسْتَيْقَظَ, ""], [أَبَوَايَ, ""], [فَشَرِبَا, ""], [لَبَنَهُمَا, ""]]
+    en: "Then my parents woke up and drank their milk."
+  - words: [[اللَّهُمَّ, ""], [إِنْ, ""], [كُنْتُ, ""], [فَعَلْتُ, ""], [ذٰلِكَ, ""], [ابْتِغَاءَ, "seeking", n k], [وَجْهِكَ, ""], [فَفَرِّجْ, "relieve (us)", n k], [عَنَّا, ""], [مَا, ""], [نَحْنُ, ""], [فِيهِ, ""], [مِنْ, ""], [هٰذِهِ, ""], [الصَّخْرَةِ, ""]]
+    en: "O Allah, if I did that seeking Your face, then relieve us from this rock we are in."
+  - words: [[فَانْفَرَجَتِ, "moved apart", n k], [الصَّخْرَةُ, ""], [قَلِيلًا, ""], [وَلٰكِنَّ, ""], [الْفُرْجَةَ, "the opening", n k], [كَانَتْ, ""], [صَغِيرَةً, ""], [لَا, ""], [يَخْرُجُ, ""], [مِنْهَا, ""], [أَحَدٌ, ""]]
+    en: "The rock moved apart a little, but the opening was small, and no one could get out of it."
+  - words: [[قَالَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَقَالَ, ""], [الثَّانِي, "the second", n k], [اللَّهُمَّ, ""], [كَانَتْ, ""], [لِي, ""], [بِنْتُ, "a daughter (of)", n k], [عَمٍّ, "(an) uncle", n k]]
+    en: "The Prophet ﷺ said: And the second said: O Allah, I had a cousin, the daughter of my uncle."
+  - words: [[وَكَانَتْ, ""], [أَحَبَّ, ""], [النَّاسِ, ""], [إِلَيَّ, ""], [فَأَرَدْتُ, ""], [مِنْهَا, ""], [أَمْرًا, ""], [حَرَامًا, "forbidden", n k], [فَامْتَنَعَتْ, "and she refused", n k], [مِنِّي, ""]]
+    en: "She was the dearest of people to me. I wanted from her something forbidden, and she refused me."
+  - words: [[ثُمَّ, ""], [أَصَابَتْهَا, "struck her", n k], [سَنَةٌ, ""], [شَدِيدَةٌ, ""], [مِنْ, ""], [سِنِي, "", k], [الْجُوعِ, ""], [فَجَاءَتْنِي, ""]]
+    en: "Then a hard year of hunger struck her, and she came to me."
+  - words: [[فَأَعْطَيْتُهَا, ""], [مِائَةً, ""], [وَعِشْرِينَ, "and twenty", n k], [دِينَارًا, "a dinar", n k], [عَلَى, ""], [أَنْ, ""], [تُطِيعَنِي, ""], [فِي, ""], [ذٰلِكَ, ""], [الْأَمْرِ, ""]]
+    en: "I gave her a hundred and twenty dinars, on condition that she give in to me in that matter."
+  - words: [[فَلَمَّا, ""], [قَرُبْتُ, ""], [مِنْهَا, ""], [قَالَتِ, ""], [اتَّقِ, "fear", n k], [اللَّهَ, ""], [وَلَا, ""], [تَفْعَلْ, ""], [هٰذَا, ""], [إِلَّا, ""], [بِحَقِّهِ, ""]]
+    en: "When I came near her, she said: Fear Allah, and do not do this except by its right."
+  - words: [[قَالَ, ""], [الْأُسْتَاذُ, ""], [أَيْ, ""], [لَا, ""], [يَحِلُّ, "is lawful", n k], [لَكَ, ""], [ذٰلِكَ, ""], [إِلَّا, ""], [بِالزَّوَاجِ, "by marriage", n k], [الْحَلَالِ, ""]]
+    en: "The Ustadh said: That is, this is not lawful for you except through lawful marriage."
+  - words: [[فَخِفْتُ, ""], [اللَّهَ, ""], [وَانْصَرَفْتُ, "and I turned away", n k], [عَنْهَا, ""], [وَهِيَ, ""], [أَحَبُّ, ""], [النَّاسِ, ""], [إِلَيَّ, ""]]
+    en: "So I feared Allah and turned away from her, though she was the dearest of people to me."
+  - words: [[وَتَرَكْتُ, ""], [لَهَا, ""], [الذَّهَبَ, "the gold", n k], [الَّذِي, ""], [أَعْطَيْتُهَا, ""], [وَلَمْ, ""], [آخُذْ, ""], [مِنْهُ, ""], [شَيْئًا, ""]]
+    en: "And I left her the gold I had given her, and took none of it back."
+  - words: [[اللَّهُمَّ, ""], [إِنْ, ""], [كُنْتُ, ""], [فَعَلْتُ, ""], [ذٰلِكَ, ""], [ابْتِغَاءَ, ""], [وَجْهِكَ, ""], [فَافْرُجْ, "open", n k], [عَنَّا, ""], [مَا, ""], [نَحْنُ, ""], [فِيهِ, ""]]
+    en: "O Allah, if I did that seeking Your face, then open for us what we are in."
+  - words: [[فَانْفَرَجَتِ, ""], [الصَّخْرَةُ, ""], [أَكْثَرَ, ""], [مِنْ, ""], [قَبْلُ, "", k], [وَلٰكِنَّهُمْ, ""], [مَا, ""], [زَالُوا, ""], [لَا, ""], [يَسْتَطِيعُونَ, ""], [الْخُرُوجَ, ""], [مِنْهَا, ""]]
+    en: "The rock moved apart more than before, but they still could not get out."
+  - words: [[قَالَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَقَالَ, ""], [الثَّالِثُ, ""], [اللَّهُمَّ, ""], [إِنِّي, ""], [اسْتَأْجَرْتُ, "I hired", n k], [أُجَرَاءَ, "workers", n k]]
+    en: "The Prophet ﷺ said: And the third said: O Allah, I once hired some workers."
+  - words: [[فَأَعْطَيْتُهُمْ, ""], [أُجُورَهُمْ, ""], [كُلَّهَا, ""], [غَيْرَ, ""], [رَجُلٍ, ""], [وَاحِدٍ, ""], [تَرَكَ, ""], [أَجْرَهُ, ""], [عِنْدِي, ""], [وَذَهَبَ, ""]]
+    en: "I gave them all their wages, except one man, who left his wage with me and went away."
+  - words: [[فَثَمَّرْتُ, "I made (it) grow", n k], [أَجْرَهُ, ""], [وَعَمِلْتُ, ""], [لَهُ, ""], [بِهِ, ""], [زَمَنًا, ""], [طَوِيلًا, ""], [حَتَّى, ""], [كَثُرَتْ, "grew plentiful", n k], [مِنْهُ, ""], [الْأَمْوَالُ, ""]]
+    en: "I made his wage grow and worked with it for him for a long time, until a great deal of wealth came from it."
+  - words: [[فَجَاءَنِي, ""], [الرَّجُلُ, ""], [بَعْدَ, ""], [حِينٍ, ""], [وَقَالَ, ""], [يَا, ""], [عَبْدَ, ""], [اللَّهِ, ""], [أَعْطِنِي, ""], [أَجْرِي, ""]]
+    en: "After a while the man came to me and said: Servant of Allah, give me my wage."
+  - words: [[فَقُلْتُ, ""], [لَهُ, ""], [كُلُّ, ""], [مَا, ""], [تَرَى, ""], [مِنْ, ""], [أَجْرِكَ, ""], [مِنَ, ""], [الْإِبِلِ, "the camels", n k], [وَالْبَقَرِ, "and the cattle", n k], [وَالْغَنَمِ, ""], [وَالرَّقِيقِ, "and the slaves", n k]]
+    en: "I said to him: All that you see is from your wage: the camels, the cattle, the sheep and the slaves."
+  - words: [[فَقَالَ, ""], [يَا, ""], [عَبْدَ, ""], [اللَّهِ, ""], [لَا, ""], [تَسْتَهْزِئْ, "mock", n k], [بِي, ""]]
+    en: "He said: Servant of Allah, do not mock me."
+  - words: [[فَقُلْتُ, ""], [إِنِّي, ""], [لَا, ""], [أَسْتَهْزِئُ, ""], [بِكَ, ""], [هٰذَا, ""], [كُلُّهُ, ""], [لَكَ, ""]]
+    en: "I said: I am not mocking you. All of this is yours."
+  - words: [[فَأَخَذَهُ, ""], [كُلَّهُ, ""], [وَسَاقَهُ, "and drove it off", n k], [أَمَامَهُ, ""], [فَلَمْ, ""], [يَتْرُكْ, ""], [مِنْهُ, ""], [شَيْئًا, ""]]
+    en: "He took all of it and drove it off ahead of him, and left none of it behind."
+  - words: [[اللَّهُمَّ, ""], [فَإِنْ, ""], [كُنْتُ, ""], [فَعَلْتُ, ""], [ذٰلِكَ, ""], [ابْتِغَاءَ, ""], [وَجْهِكَ, ""], [فَافْرُجْ, ""], [عَنَّا, ""], [مَا, ""], [نَحْنُ, ""], [فِيهِ, ""]]
+    en: "O Allah, if I did that seeking Your face, then open for us what we are in."
+  - words: [[فَانْفَرَجَتِ, ""], [الصَّخْرَةُ, ""], [كُلُّهَا, ""], [فَخَرَجُوا, ""], [مِنَ, ""], [الْغَارِ, ""], [يَمْشُونَ, ""]]
+    en: "The rock moved away completely, and they walked out of the cave."
+  - words: [[فَسَكَتَ, ""], [الطُّلَّابُ, ""], [قَلِيلًا, ""], [ثُمَّ, ""], [سَأَلَهُمُ, ""], [الْأُسْتَاذُ, ""], [مَاذَا, ""], [فَعَلَ, ""], [كُلُّ, ""], [وَاحِدٍ, ""], [مِنَ, ""], [الثَّلَاثَةِ, ""]]
+    en: "The students were quiet for a while. Then the Ustadh asked them: What did each of the three do?"
+  - words: [[فَرَفَعَ, ""], [بِلَالٌ, ""], [يَدَهُ, ""], [وَقَالَ, ""], [يَا, ""], [أُسْتَاذُ, ""], [كُلُّ, ""], [وَاحِدٍ, ""], [مِنْهُمْ, ""], [فَعَلَ, ""], [شَيْئًا, ""], [صَعْبًا, ""]]
+    en: "Bilal raised his hand and said: Ustadh, each of them did something hard."
+  - words: [[الْأَوَّلُ, ""], [بَرَّ, "was dutiful to", n k], [أَبَوَيْهِ, ""], [وَلَمْ, ""], [يُقَدِّمْ, "put before", n k], [عَلَيْهِمَا, ""], [أَحَدًا, ""], [حَتَّى, ""], [أَوْلَادَهُ, ""], [الصِّغَارَ, ""]]
+    en: "The first was dutiful to his parents, and put no one before them, not even his little children."
+  - words: [[وَقَالَ, ""], [طَالِبٌ, ""], [آخَرُ, ""], [وَالثَّانِي, ""], [تَرَكَ, ""], [الْحَرَامَ, ""], [خَوْفًا, ""], [مِنَ, ""], [اللَّهِ, ""], [وَهُوَ, ""], [قَادِرٌ, ""], [عَلَيْهِ, ""]]
+    en: "Another student said: And the second left the forbidden thing out of fear of Allah, though he was able to do it."
+  - words: [[وَقَالَ, ""], [ثَالِثٌ, ""], [وَالثَّالِثُ, ""], [حَفِظَ, ""], [مَالَ, ""], [أَجِيرِهِ, ""], [وَلَمْ, ""], [يَأْكُلْ, ""], [مِنْهُ, ""], [شَيْئًا, ""], [بَلْ, ""], [رَدَّ, ""], [إِلَيْهِ, ""], [أَجْرَهُ, ""], [وَكُلَّ, ""], [مَا, ""], [نَمَا, "grew", n k], [مِنْهُ, ""]]
+    en: "A third said: And the third kept his worker's money safe and took none of it. He gave him back his wage and all that had grown from it."
+  - words: [[فَقَالَ, ""], [الْأُسْتَاذُ, ""], [أَحْسَنْتُمْ, ""], [وَكُلُّ, ""], [هٰذِهِ, ""], [الْأَعْمَالِ, ""], [كَانَتْ, ""], [خَالِصَةً, "pure", n k], [لِوَجْهِ, ""], [اللَّهِ, ""], [لَا, ""], [لِيَرَاهَا, ""], [النَّاسُ, ""]]
+    en: "The Ustadh said: Well done. All these deeds were purely for Allah's sake, not so that people would see them."
+  - words: [[وَلَمْ, ""], [يَكُنْ, ""], [أَحَدٌ, ""], [يَرَاهُمْ, ""], [حِينَ, ""], [فَعَلُوهَا, ""], [إِلَّا, ""], [اللَّهُ, ""], [وَحْدَهُ, ""]]
+    en: "No one saw them when they did them, except Allah alone."
+  - words: [[قَالَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [إِنَّ, ""], [اللَّهَ, ""], [لَا, ""], [يَقْبَلُ, ""], [مِنَ, ""], [الْعَمَلِ, ""], [إِلَّا, ""], [مَا, ""], [كَانَ, ""], [لَهُ, ""], [خَالِصًا, ""]]
+    en: "The Prophet ﷺ said: Allah accepts no deed except one done purely for Him."
+  - words: [[وَقَالَ, ""], [الْأُسْتَاذُ, ""], [الْعَمَلُ, ""], [الصَّغِيرُ, ""], [مَعَ, ""], [الْإِخْلَاصِ, "sincerity", n k], [خَيْرٌ, ""], [مِنْ, ""], [عَمَلٍ, ""], [كَبِيرٍ, ""], [يَعْمَلُهُ, ""], [صَاحِبُهُ, ""], [لِيَرَاهُ, ""], [النَّاسُ, ""]]
+    en: "The Ustadh said: A small deed done sincerely is better than a big deed done so that people will see it."
+  - words: [[وَقَالَ, ""], [الْعُلَمَاءُ, ""], [يَجُوزُ, "it is allowed", n k], [لِلْمُسْلِمِ, ""], [أَنْ, ""], [يَدْعُوَ, ""], [اللَّهَ, ""], [بِعَمَلٍ, ""], [صَالِحٍ, ""], [عَمِلَهُ, ""], [لِلَّهِ, ""], [مُخْلِصًا, "", k]]
+    en: "The scholars say a Muslim may call on Allah by a good deed he did for Allah sincerely."
+  - words: [[ثُمَّ, ""], [قَالَ, ""], [الْأُسْتَاذُ, ""], [اعْمَلُوا, ""], [أَعْمَالًا, ""], [صَالِحَةً, ""], [لَا, ""], [يَعْرِفُهَا, ""], [أَحَدٌ, ""], [إِلَّا, ""], [اللَّهُ, ""]]
+    en: "Then the Ustadh said: Do good deeds that no one knows about except Allah."
+  - words: [[فَقَدْ, ""], [تَأْتِي, ""], [عَلَى, ""], [الْإِنْسَانِ, "a person", n k], [سَاعَةٌ, ""], [صَعْبَةٌ, ""], [يَدْعُو, ""], [اللَّهَ, ""], [فِيهَا, ""], [بِهٰذِهِ, ""], [الْأَعْمَالِ, ""]]
+    en: "For a hard hour may come to a person, when he calls on Allah by these deeds."
+  - words: [[فَكَتَبَ, ""], [بِلَالٌ, ""], [فِي, ""], [دَفْتَرِهِ, "his notebook", n k], [ثَلَاثَ, ""], [كَلِمَاتٍ, ""], [الْأَبَوَانِ, ""], [وَالْحَلَالُ, ""], [وَالْأَمَانَةُ, "and trustworthiness", n k]]
+    en: "Bilal wrote three words in his notebook: parents, the lawful, and trustworthiness."
+  - words: [[ثُمَّ, ""], [نَظَرَ, ""], [إِلَيْهَا, ""], [طَوِيلًا, ""], [وَسَأَلَ, ""], [نَفْسَهُ, ""], [أَيُّ, ""], [عَمَلٍ, ""], [صَالِحٍ, ""], [أَدْعُو, ""], [اللَّهَ, ""], [بِهِ, ""]]
+    en: "Then he looked at them for a long time and asked himself: Which good deed would I call on Allah by?"
+  - words: [[وَعَرَفَ, ""], [أَنَّ, ""], [عَلَيْهِ, ""], [أَنْ, ""], [يَعْمَلَ, ""], [الْيَوْمَ, ""], [عَمَلًا, ""], [صَالِحًا, ""], [لَا, ""], [يَعْرِفُهُ, ""], [أَحَدٌ, ""], [إِلَّا, ""], [اللَّهُ, ""]]
+    en: "And he knew that he must do a good deed today that no one would know about except Allah."
+
+dictionary:
+  - {ar: نَفَرٌ, en: a small group of men (three to ten), pos: [اسم, noun], root: نفر, pattern: فَعَلٌ, ayah: {ref: "72:1", text: أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ, en: "that a group of the jinn listened"}, note: "ثَلَاثَةُ نَفَرٍ: three men. The hadith also says ثَلَاثَةُ رَهْطٍ, with the same meaning."}
+  - {ar: اِنْحَدَرَ, en: it rolled down; it came down a slope, pos: [فعل ماض, past verb], present: يَنْحَدِرُ, bab: بَابُ الِانْفِعَالِ, root: حدر, pattern: اِنْفَعَلَ, note: "A slope is مُنْحَدَرٌ. Not in the Quran."}
+  - {ar: سَدَّ, en: he blocked; he closed up, pos: [فعل ماض, past verb], present: يَسُدُّ, bab: بَابُ نَصَرَ, root: سدد, pattern: فَعَلَ, ayah: {ref: "18:94", text: عَلَىٰ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا, en: "so that you would make a barrier between us and them"}, note: "A barrier or dam is سَدٌّ, as in Dhul-Qarnayn's wall in Surat al-Kahf."}
+  - {ar: اللَّهُمَّ, en: O Allah, pos: [اسم, noun], ayah: {ref: "3:26", text: قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ, en: "say: O Allah, Owner of all sovereignty"}, note: "The usual way to begin a dua. It means يَا اللَّهُ: the يَا is dropped and the مّ added at the end."}
+  - {ar: حَلَبَ, en: he milked, pos: [فعل ماض, past verb], present: يَحْلُبُ, bab: بَابُ نَصَرَ, root: حلب, pattern: فَعَلَ, note: "Fresh milk is حَلِيبٌ in modern Arabic. Not in the Quran."}
+  - {ar: قَدَحٌ, en: drinking bowl; cup, pos: [اسم, noun], root: قدح, pattern: فَعَلٌ, plural: أَقْدَاحٌ, note: "A wooden bowl for drinking, common in the hadith. Compare كُوبٌ, a glass or cup, from Ramadan at Home."}
+  - {ar: اِبْتِغَاءٌ, en: seeking; desiring, pos: [مصدر, verbal noun], root: بغي, pattern: اِفْتِعَالٌ, ayah: {ref: "92:20", text: إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ, en: "only seeking the face of his Lord, the Most High"}, note: "From اِبْتَغَى, he sought (بَابُ الِافْتِعَالِ). اِبْتِغَاءَ وَجْهِ اللَّهِ: for Allah's sake alone, wanting nothing from people."}
+  - {ar: اِنْفَرَجَ, en: it opened; it moved apart, pos: [فعل ماض, past verb], present: يَنْفَرِجُ, bab: بَابُ الِانْفِعَالِ, root: فرج, pattern: اِنْفَعَلَ, ayah: {ref: "77:9", text: وَإِذَا السَّمَاءُ فُرِجَتْ, en: "and when the sky is split open"}, note: "An opening or gap is فُرْجَةٌ. Relief after hardship is فَرَجٌ, and فَرَّجَ (بَابُ التَّفْعِيلِ) is to bring relief."}
+  - {ar: بِنْتٌ, en: daughter; girl, pos: [اسم, noun], root: بني, pattern: فِعْلٌ, plural: بَنَاتٌ, ayah: {ref: "66:12", text: وَمَرْيَمَ ابْنَتَ عِمْرَانَ, en: "and Maryam, daughter of Imran"}, note: "Also اِبْنَةٌ, as in 66:12, said of Maryam عَلَيْهَا السَّلَامُ. بِنْتُ عَمٍّ: a cousin, the daughter of one's father's brother."}
+  - {ar: حَرَامٌ, en: forbidden; unlawful; sacred, pos: [صفة, adjective], root: حرم, pattern: فَعَالٌ, ayah: {ref: "16:116", text: هَـٰذَا حَلَالٌ وَهَـٰذَا حَرَامٌ, en: "this is lawful and this is forbidden"}, note: "The opposite of حَلَالٌ. The Sacred Mosque in Makkah is الْمَسْجِدُ الْحَرَامُ: the same word, meaning sacred."}
+  - {ar: اِمْتَنَعَ, en: he refused; he held himself back, pos: [فعل ماض, past verb], present: يَمْتَنِعُ, bab: بَابُ الِافْتِعَالِ, root: منع, pattern: اِفْتَعَلَ, ayah: {ref: "68:12", text: مَّنَّاعٍ لِّلْخَيْرِ, en: "who holds back good"}, note: "From مَنَعَ, which you met in Surat al-Ma'un. مَنَعَ is to hold someone else back; اِمْتَنَعَ is to hold yourself back."}
+  - {ar: دِينَارٌ, en: dinar (a gold coin), pos: [اسم, noun], root: دنر, pattern: فِيعَالٌ, plural: دَنَانِيرُ, ayah: {ref: "3:75", text: وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِ إِلَيْكَ, en: "and among them is one who, if you trust him with a dinar, will not return it to you"}, note: "The dinar was gold and the dirham (دِرْهَمٌ) was silver."}
+  - {ar: اِنْصَرَفَ, en: he turned away; he went away, pos: [فعل ماض, past verb], present: يَنْصَرِفُ, bab: بَابُ الِانْفِعَالِ, root: صرف, pattern: اِنْفَعَلَ, ayah: {ref: "9:127", text: ثُمَّ انصَرَفُوا ۚ صَرَفَ اللَّهُ قُلُوبَهُم, en: "then they turned away; Allah has turned their hearts away"}, note: "From صَرَفَ, he turned something away. After the salah, the imam انْصَرَفَ: he turned to face the people or left."}
+  - {ar: اِسْتَأْجَرَ, en: he hired, pos: [فعل ماض, past verb], present: يَسْتَأْجِرُ, bab: بَابُ الِاسْتِفْعَالِ, root: أجر, pattern: اِسْتَفْعَلَ, ayah: {ref: "28:26", text: يَا أَبَتِ اسْتَأْجِرْهُ, en: "O my father, hire him"}, note: "Asking for or taking someone's work for an أَجْرٌ, a wage. The daughter's words about Musa عَلَيْهِ السَّلَامُ."}
+  - {ar: أَجِيرٌ, en: hired worker, pos: [صفة مشبهة, adjective], root: أجر, pattern: فَعِيلٌ, plural: أُجَرَاءُ, note: "One who works for a wage. The plural أُجَرَاءُ is diptote: اِسْتَأْجَرْتُ أُجَرَاءَ."}
+  - {ar: ثَمَّرَ, en: he made (wealth) grow; he invested, pos: [فعل ماض, past verb], present: يُثَمِّرُ, bab: بَابُ التَّفْعِيلِ, root: ثمر, pattern: فَعَّلَ, ayah: {ref: "6:141", text: كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ, en: "eat of its fruit when it bears fruit"}, note: "From ثَمَرٌ, fruit: he made the money bear fruit. The shadda tells you it is بَابُ التَّفْعِيلِ."}
+  - {ar: إِبِلٌ, en: camels, pos: [اسم, noun], root: أبل, pattern: فِعِلٌ, ayah: {ref: "88:17", text: أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ, en: "do they not look at the camels, how they were created?"}, note: "A collective noun with no singular from the same root. One camel is جَمَلٌ or نَاقَةٌ."}
+  - {ar: بَقَرٌ, en: cattle; cows, pos: [اسم, noun], root: بقر, pattern: فَعَلٌ, ayah: {ref: "2:70", text: إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا, en: "cows all look alike to us"}, note: "A collective noun. One cow is بَقَرَةٌ, which gives Surat al-Baqara its name."}
+  - {ar: اِسْتَهْزَأَ, en: he mocked; he made fun of, pos: [فعل ماض, past verb], present: يَسْتَهْزِئُ, bab: بَابُ الِاسْتِفْعَالِ, root: هزأ, pattern: اِسْتَفْعَلَ, ayah: {ref: "2:15", text: اللَّهُ يَسْتَهْزِئُ بِهِمْ, en: "Allah mocks them (in return)"}, note: "It takes بِ: اِسْتَهْزَأَ بِهِ. Compare سَخِرَ مِنْ, which you met in the story of Nuh عَلَيْهِ السَّلَامُ."}
+
+root_families:
+  - root: فرج
+    words: [[اِنْفَرَجَ, "it opened, moved apart"], [فُرْجَةٌ, "an opening"], [فَرِّجْ, "bring relief! (بَابُ التَّفْعِيلِ)"], [فَافْرُجْ, "so open! (بَابُ نَصَرَ)"], [فُرِجَتْ, "it was split open (77:9)"]]
+  - root: أجر
+    words: [[أَجْرٌ, "wage; reward"], [أُجُورٌ, "wages"], [أَجِيرٌ, "hired worker"], [أُجَرَاءُ, "hired workers"], [اِسْتَأْجَرَ, "he hired"]]
+
+grammar:
+  title_ar: الِاسْتِثْنَاءُ بِـإِلَّا وَغَيْرٍ
+  title_en: "Exception with إِلَّا and غَيْرُ: all except one, nothing except this"
+  body: >-
+    إِلَّا takes one thing out of what the sentence says. الْمُسْتَثْنَى is the thing taken out, and الْمُسْتَثْنَى مِنْهُ is what it is taken from.
+    When the sentence is complete and positive (تَامٌّ مُثْبَتٌ), the word after إِلَّا is مَنْصُوبٌ: أَعْطَيْتُهُمْ أُجُورَهُمْ إِلَّا رَجُلًا.
+    When the sentence is negative and the thing taken out is missing from it (مُفَرَّغٌ), the word after إِلَّا takes the case the sentence
+    needs, as if لَا and إِلَّا were not there: لَمْ يُنْجِهِمْ إِلَّا دُعَاؤُهُمْ (the فَاعِلٌ, so مَرْفُوعٌ). This
+    pattern, لَا ... إِلَّا, means only: nothing saved them but their dua. غَيْرُ does the same job as a noun. It takes the case the word
+    after إِلَّا would take, and the word after it is مَجْرُورٌ, as مُضَافٌ إِلَيْهِ: غَيْرَ رَجُلٍ وَاحِدٍ.
+  examples:
+    - [إِنَّهُ لَا يُنْجِيكُمْ مِنْ هٰذِهِ الصَّخْرَةِ إِلَّا أَنْ تَدْعُوا اللَّهَ, "Nothing will save you from this rock except calling on Allah."]
+    - [فَلَمْ أَرْجِعْ إِلَيْهِمَا إِلَّا بَعْدَ أَنْ نَامَا, "I did not come back to them until after they had slept."]
+    - [فَأَعْطَيْتُهُمْ أُجُورَهُمْ كُلَّهَا غَيْرَ رَجُلٍ وَاحِدٍ, "I gave them all their wages, except one man."]
+
+tip:
+  title: "Reading without vowels: the pattern انفعل"
+  body: >-
+    A verb that starts with ان before three root letters is almost always بَابُ الِانْفِعَالِ, اِنْفَعَلَ: انحدرت, انفرجت, انصرفت, and انطلق from
+    the story of Musa عَلَيْهِ السَّلَامُ. The pattern gives you every vowel: inḥadarat, infarajat, inṣaraftu. This bab has no object: it tells what happened
+    to the thing itself. The rock انفرجت, moved apart; no one moved it but Allah. The present is ينفعل: ينحدر, ينفرج. But if the next letter is ت,
+    the ن is a root letter and the verb is بَابُ الِافْتِعَالِ: اِنْتَظَرَ, whose present أَنْتَظِرُ you read in this story. Compare امتنعت,
+    with a ت after the first root letter: that is also بَابُ الِافْتِعَالِ, اِفْتَعَلَ.
+
+reread: Read the unvowelled version above again. Then tell the story of each of the three men in your own words, in Arabic, without looking.

@@ -1,0 +1,63 @@
+# Bonus booklet, surah 111. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-08
+booklet: 0
+number: 8
+strand: quran
+title_ar: سُورَةُ الْمَسَدِ
+title_en: "Al-Masad: The Palm Fibre"
+source: "Quran 111"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-08-firewood-rope.png
+    alt: A bundle of dry thorny firewood tied with a rough twisted palm fibre rope, lying on stony ground
+
+sentences:
+  - words: [[تَبَّتْ, "Perish", q], [يَدَا, "(the) two hands", q], [أَبِي, "(of) Abu", q], [لَهَبٍ, "Lahab", q], [وَتَبَّ, "and he has perished", q]]
+    en: Ruined be the hands of Abu Lahab, and ruined he is.
+    quote: {ref: "111:1", text: تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ}
+  - words: [[مَا, "Not", q], [أَغْنَىٰ, "availed", q], [عَنْهُ, "him", q], [مَالُهُ, "his wealth", q], [وَمَا, "and what", q], [كَسَبَ, "he earned", q]]
+    en: His wealth was of no use to him, nor anything he had gained.
+    quote: {ref: "111:2", text: مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ}
+  - words: [[سَيَصْلَىٰ, "He will burn (in)", q], [نَارًا, "a Fire", q], [ذَاتَ, "of", q], [لَهَبٍ, "flame", q]]
+    en: He will burn in a Fire of blazing flame,
+    quote: {ref: "111:3", text: سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ}
+  - words: [[وَامْرَأَتُهُ, "and his wife", q], [حَمَّالَةَ, "(the) carrier", q], [الْحَطَبِ, "(of) firewood", q]]
+    en: and so will his wife, the carrier of firewood,
+    quote: {ref: "111:4", text: وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ}
+  - words: [[فِي, "around", q], [جِيدِهَا, "her neck", q], [حَبْلٌ, "(is) a rope", q], [مِّن, "of", q], [مَّسَدٍ, "palm fibre", q]]
+    en: with a rope of twisted palm fibre around her neck.
+    quote: {ref: "111:5", text: فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ}
+
+dictionary:
+  - {ar: تَبَّ, en: he perished; he was ruined, pos: [فعل ماض, past verb], root: تبب, pattern: "فَعَلَ (مُضَعَّفٌ)", present: يَتِبُّ, bab: بَابُ ضَرَبَ, ayah: {ref: "40:37", text: وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِي تَبَابٍ, en: "and the plotting of Fir'awn ended only in ruin"}, note: "In 40:37: تَبَاب, ruin. Fir'awn's plot ended in ruin."}
+  - {ar: لَهَبٌ, en: flame, pos: [اسم, noun], root: لهب, pattern: فَعَلٌ, ayah: {ref: "77:31", text: لَّا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ, en: "giving no shade and no protection from the flame"}, note: "77:31 has both لَهَب and يُغْنِي, like this surah."}
+  - {ar: أَغْنَى, en: it was of use; it made (someone) free of need, pos: [فعل ماض, past verb], root: غني, pattern: "أَفْعَلَ", present: يُغْنِي, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "69:28", text: مَا أَغْنَىٰ عَنِّي مَالِيَهْ, en: "my wealth has not benefited me"}, note: "With عَن: أَغْنَى عَنْهُ, it helped him, it saved him. Same root: غَنِيٌّ, rich, free of need."}
+  - {ar: مَالٌ, en: wealth; property, pos: [اسم, noun], root: مول, pattern: "فَعَلٌ (أَصْلُهُ مَوَلٌ)", plural: أَمْوَالٌ, ayah: {ref: "18:46", text: الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا, en: "wealth and children are the adornment of the life of this world"}}
+  - {ar: كَسَبَ, en: he earned; he gained, pos: [فعل ماض, past verb], root: كسب, pattern: "فَعَلَ", present: يَكْسِبُ, bab: بَابُ ضَرَبَ, ayah: {ref: "74:38", text: كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ, en: "every soul is held in pledge for what it has earned"}, note: "Ibn Abbas رَضِيَ اللَّهُ عَنْهُمَا (may Allah be pleased with them both) and others said وَمَا كَسَبَ includes his children."}
+  - {ar: اِمْرَأَةٌ, en: woman; wife, pos: [اسم, noun], root: مرأ, plural: نِسَاءٌ, ayah: {ref: "66:11", text: امْرَأَتَ فِرْعَوْنَ, en: "the wife of Fir'awn"}, note: "The plural نِسَاءٌ comes from a different root. In the Quran, امْرَأَةُ + a name means his wife."}
+  - {ar: حَطَبٌ, en: firewood, pos: [اسم, noun], root: حطب, pattern: فَعَلٌ, ayah: {ref: "72:15", text: فَكَانُوا لِجَهَنَّمَ حَطَبًا, en: "they will be firewood for Hell"}}
+  - {ar: حَبْلٌ, en: rope, pos: [اسم, noun], root: حبل, pattern: فَعْلٌ, plural: حِبَالٌ, ayah: {ref: "3:103", text: وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا, en: "and hold fast, all together, to the rope of Allah"}}
+
+grammar:
+  title_ar: الْمُثَنَّى فِي الْإِضَافَةِ
+  title_en: "The dual loses its ن in idafa"
+  body: >-
+    The dual (الْمُثَنَّى, two of something) ends in انِ: يَدَانِ, two hands. When a dual is the first word of an إِضَافَةٌ (possession phrase), its ن drops:
+    يَدَانِ before أَبِي لَهَبٍ becomes يَدَا أَبِي لَهَبٍ, the two hands of Abu Lahab. The same happens before an attached pronoun.
+  examples:
+    - [يَدَا أَبِي لَهَبٍ, "the two hands of Abu Lahab (from يَدَانِ)"]
+    - [بَلْ يَدَاهُ مَبْسُوطَتَانِ, "rather, both His hands are spread open (5:64)"]
+    - [يَدَانِ, "two hands (no idafa, ن stays)"]
+
+tip:
+  title: "Meaning note: the root لهب"
+  body: >-
+    Abu Lahab was a nickname, "father of flame", given for his bright, glowing face, as the tafsir books report. The surah turns his own name against him:
+    he will burn in a Fire ذَاتَ لَهَبٍ, of flame. حَمَّالَةَ الْحَطَبِ (on the pattern فَعَّالَة, one who carries a lot)
+    is explained by the tafsir scholars in more than one way: she carried thorns to throw in the Prophet's ﷺ path,
+    or she carried slander about him, which is "firewood" for trouble; Ibn Kathir also explains that in the Fire she will carry firewood onto her husband. Note أَبِي, not أَبُو: it is the مُضَافٌ إِلَيْهِ, so it is مَجْرُورٌ with ي (الْأَسْمَاءُ الْخَمْسَةُ).
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

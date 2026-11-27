@@ -1,0 +1,240 @@
+# Booklet 5, story 1. Quran strand. Grammar ceiling: Madinah Book 3.
+id: b5-01
+booklet: 5
+number: 1
+strand: quran
+title_ar: يُونُسُ فِي الظُّلُمَاتِ
+title_en: Yunus in the Darkness
+madinah: "Book 3 (لَوْلَا and the conditional of what did not happen, with لَ in its answer)"
+source: "Quran 37:139 to 148, 21:87 and 88, 68:48 to 50 and 10:98, in this order: 37:139; 21:87 (he left angry); 37:140 to 142; 21:87 (the prayer in the darknesses); 37:143 and 144; 21:88; 68:49; 37:145 and 146; 68:50; 37:147 and 148; 10:98; 68:48. Explanations follow Ibn Kathir: his anger was with his people (so also al-Baghawi); 'thought We would not constrain him' (21:87). Al-Qurtubi: he left before Allah permitted him, abaqa is used of a slave who runs from his master (so also al-Baghawi), and 'that is why Allah called him muleem' (21:87, 37:140, 37:142); the storm and the lots to lighten the ship are as the commentators relate them; the three darknesses (belly of the fish, sea, night) are reported from Ibn Mas'ud and Ibn 'Abbas; most commentators take yaqtin to be the gourd (dubba'); some hold that his tasbih in days of ease is meant in 37:143; some hold the hundred thousand were his first people. Hadith: his father's name and 'no servant should say I am better than Yunus son of Matta' (al-Bukhari 3395, 3416; Muslim 2376); the Prophet picking out the gourd in the dish (al-Bukhari 5379); 'the prayer of Dhun-Nun' (reported in at-Tirmidhi 3505, graded sahih by many scholars). The fish is not drawn; no name is given for the town, since the Quran does not give it."
+
+illustrations:
+  - before: 13
+    file: b5-01-stormy-sea.png
+    alt: A dark stormy sea with high waves under heavy clouds, one small sailing ship far away on the horizon, no people
+    prompt: A wide dark stormy sea at dusk, tall grey-green waves with white crests, heavy low clouds, a single small wooden sailing ship far away near the horizon, tilted in the waves. No people, no animals, no fish, no whale.
+  - before: 50
+    file: b5-01-gourd-shore.png
+    alt: A bare sandy shore under a hot sun, a gourd plant with large broad leaves spreading low over the ground and casting shade, no people
+    prompt: A bare empty sandy shore under a bright hot sun, the calm sea at the edge, no trees, a single gourd vine with very large broad green leaves and yellow flowers spreading low over the sand and casting a pool of cool shade. No people, no animals, no fish.
+  - before: 56
+    file: b5-01-city-dawn.png
+    alt: An ancient walled city of flat-roofed houses on a river plain at dawn, the first light on the walls, no people
+    prompt: An ancient city of flat-roofed mud-brick houses inside a low wall on a wide river plain at dawn, pale pink and gold first light on the walls, a few palm trees, thin smoke from a few chimneys. No people, no animals, no writing.
+
+sentences:
+  - words: [[يُونُسُ, "Yunus", n], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"], [نَبِيٌّ, ""], [مِنْ, ""], [أَنْبِيَاءِ, ""], [اللَّهِ, ""], [أَرْسَلَهُ, ""], [اللَّهُ, ""], [إِلَى, ""], [قَوْمٍ, ""], [كَثِيرٍ, ""], [عَدَدُهُمْ, ""], [وَكَانُوا, ""], [لَا, ""], [يُؤْمِنُونَ, ""], [بِهِ, ""]]
+    en: "Yunus (peace be upon him) is one of Allah's prophets. Allah sent him to a people great in number who did not believe in Him."
+  - words: [[قَالَ, ""], [اللَّهُ, ""], [تَعَالَى, ""], [وَإِنَّ, "", q], [يُونُسَ, "", q], [لَمِنَ, "", q], [الْمُرْسَلِينَ, "", q]]
+    en: "Allah the Exalted says (the meaning): And Yunus was one of the messengers."
+    quote: {ref: "37:139", text: وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ}
+  - words: [[وَيُسَمِّيهِ, "and (it) calls him", n], [الْقُرْآنُ, ""], [فِي, ""], [مَوْضِعٍ, "place", n], [آخَرَ, ""], [ذَا, ""], [النُّونِ, "an-Nun", n], [وَالنُّونُ, ""], [فِي, ""], [لُغَةِ, "(the) language (of)", n], [الْعَرَبِ, ""], [هُوَ, ""], [الْحُوتُ, ""]]
+    en: "In another place the Quran calls him Dhun-Nun, and in the language of the Arabs an-nun is the great fish."
+  - words: [[وَيُسَمِّيهِ, ""], [أَيْضًا, ""], [صَاحِبَ, ""], [الْحُوتِ, ""], [لِأَنَّ, ""], [حُوتًا, ""], [عَظِيمًا, ""], [الْتَقَمَهُ, "swallowed him", n], [فِي, ""], [الْبَحْرِ, ""], [كَمَا, ""], [سَنَرَى, ""]]
+    en: "It also calls him the Companion of the Fish, because a great fish swallowed him in the sea, as we shall see."
+  - words: [[وَذَكَرَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [اسْمَ, ""], [أَبِيهِ, ""], [فَقَالَ, ""], [يُونُسُ, ""], [بْنُ, ""], [مَتَّى, "Matta", n k]]
+    en: "The Prophet ﷺ mentioned his father's name, saying: Yunus son of Matta."
+  - words: [[دَعَا, ""], [يُونُسُ, ""], [قَوْمَهُ, ""], [إِلَى, ""], [عِبَادَةِ, ""], [اللَّهِ, ""], [وَحْدَهُ, ""], [وَقَالَ, ""], [الْمُفَسِّرُونَ, "the commentators", n], [إِنَّهُمْ, ""], [لَمْ, ""], [يَسْتَجِيبُوا, "answer", n], [لَهُ, ""], [أَوَّلَ, ""], [الْأَمْرِ, ""]]
+    en: "Yunus called his people to worship Allah alone, and the commentators say that at first they did not answer his call."
+  - words: [[فَذَهَبَ, ""], [عَنْهُمْ, ""], [مُغَاضِبًا, "in anger", n], [أَيْ, ""], [غَاضِبًا, ""], [عَلَى, ""], [قَوْمِهِ, ""], [كَمَا, ""], [يَقُولُ, ""], [اللَّهُ, ""], [فِي, ""], [سُورَةِ, ""], [الْأَنْبِيَاءِ, ""]]
+    en: "So he went away from them in anger, that is, angry with his people, as Allah says in Surat al-Anbiya'."
+  - words: [[وَيَقُولُ, ""], [الْقُرْطُبِيُّ, "al-Qurtubi", n], [إِنَّهُ, ""], [خَرَجَ, ""], [مِنْ, ""], [بَيْنِهِمْ, ""], [قَبْلَ, ""], [أَنْ, ""], [يَأْذَنَ, ""], [اللَّهُ, ""], [لَهُ, ""], [بِالْخُرُوجِ, ""], [وَظَنَّ, ""], [أَنَّ, ""], [اللَّهَ, ""], [لَنْ, ""], [يُضَيِّقَ, "press hard", n], [عَلَيْهِ, ""]]
+    en: "Al-Qurtubi says that he left them before Allah had given him leave to go, and that he thought Allah would not press hard on him."
+  - words: [[فَوَصَلَ, ""], [إِلَى, ""], [سَاحِلِ, ""], [الْبَحْرِ, ""], [فَوَجَدَ, ""], [سَفِينَةً, ""], [مَشْحُونَةً, "laden", n], [بِالنَّاسِ, ""], [وَالْمَتَاعِ, ""], [فَرَكِبَ, ""], [فِيهَا, ""]]
+    en: "He reached the seashore and found a ship laden with people and goods, and he went on board."
+  - words: [[وَيَصِفُ, "describes", n], [الْقُرْآنُ, ""], [ذَهَابَهُ, ""], [إِلَى, ""], [السَّفِينَةِ, ""], [بِكَلِمَةِ, ""], [أَبَقَ, "abaqa (ran away)", n], [وَهِيَ, ""], [كَلِمَةٌ, ""], [تُقَالُ, ""], [لِلْعَبْدِ, ""], [إِذَا, ""], [هَرَبَ, ""], [مِنْ, ""], [سَيِّدِهِ, ""]]
+    en: "The Quran describes his going to the ship with the word abaqa, a word used of a servant who runs away from his master."
+  - words: [[فَقَدْ, ""], [تَرَكَ, ""], [يُونُسُ, ""], [الْمَكَانَ, ""], [الَّذِي, ""], [أَرْسَلَهُ, ""], [اللَّهُ, ""], [إِلَيْهِ, ""], [كَمَا, ""], [يَتْرُكُ, ""], [الْعَبْدُ, ""], [بَيْتَ, ""], [سَيِّدِهِ, ""]]
+    en: "For Yunus had left the place Allah had sent him to, as a servant leaves his master's house."
+  - words: [[وَالنَّبِيُّ, ""], [لَا, ""], [يَتْرُكُ, ""], [قَوْمَهُ, ""], [إِلَّا, ""], [إِذَا, ""], [أَمَرَهُ, ""], [رَبُّهُ, ""], [بِذٰلِكَ, ""], [وَلِهٰذَا, ""], [يَقُولُ, ""], [الْقُرْطُبِيُّ, ""], [إِنَّ, ""], [اللَّهَ, ""], [سَمَّاهُ, ""], [مُلِيمًا, "muleem (blameworthy)", n]]
+    en: "A prophet does not leave his people unless his Lord commands him to, and that is why, al-Qurtubi says, Allah calls him muleem (blameworthy)."
+  - words: [[وَسَارَتِ, ""], [السَّفِينَةُ, ""], [فِي, ""], [الْبَحْرِ, ""], [فَلَمَّا, ""], [صَارَتْ, ""], [بَعِيدَةً, ""], [عَنِ, ""], [السَّاحِلِ, ""], [هَاجَتِ, "rose up (in a storm)", n], [الْأَمْوَاجُ, "the waves", n], [وَاشْتَدَّتِ, "and grew strong", n], [الرِّيحُ, "the wind", n]]
+    en: "The ship sailed out to sea, and when it was far from the shore the waves rose up and the wind grew strong."
+  - words: [[كَذٰلِكَ, ""], [ذَكَرَ, ""], [الْمُفَسِّرُونَ, ""], [وَقَالُوا, ""], [إِنَّ, ""], [أَهْلَ, ""], [السَّفِينَةِ, ""], [خَافُوا, ""], [أَنْ, ""], [يَغْرَقُوا, ""], [جَمِيعًا, ""]]
+    en: "So the commentators relate, and they say that the people on the ship were afraid they would all drown."
+  - words: [[فَقَالُوا, ""], [لَا, ""], [بُدَّ, "(there is) no escape", n], [أَنْ, ""], [نُلْقِيَ, ""], [وَاحِدًا, ""], [مِنَّا, ""], [فِي, ""], [الْبَحْرِ, ""], [لِتَخِفَّ, "so that (it) becomes light", n], [السَّفِينَةُ, ""], [وَيَنْجُوَ, ""], [الْبَاقُونَ, "the rest", n]]
+    en: "They said: We have no choice but to throw one of us into the sea, so that the ship becomes lighter and the rest are saved."
+  - words: [[فَسَاهَمَ, "cast lots", n], [يُونُسُ, ""], [مَعَهُمْ, ""], [أَيِ, ""], [اقْتَرَعُوا, "they drew lots", n], [بِالسِّهَامِ, "with arrows", n], [فَخَرَجَتِ, ""], [الْقُرْعَةُ, ""], [عَلَيْهِ, ""]]
+    en: "Yunus cast lots with them, that is, they drew lots with marked arrows, and the lot fell on him."
+  - words: [[فَخَسِرَ, ""], [الْقُرْعَةَ, ""], [وَلِهٰذَا, ""], [وَصَفَهُ, ""], [اللَّهُ, ""], [بِأَنَّهُ, ""], [مِنَ, ""], [الْمُدْحَضِينَ, "the losers", n], [أَيْ, ""], [مِنَ, ""], [الْمَغْلُوبِينَ, "the defeated", n]]
+    en: "He lost the draw, and that is why Allah describes him as one of the mudhadin, that is, among those who were beaten."
+  - words: [[فَأُلْقِيَ, "and (he) was thrown", n], [يُونُسُ, ""], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"], [فِي, ""], [الْبَحْرِ, ""], [وَأَحَاطَ, "and surrounded", n], [بِهِ, ""], [الْمَاءُ, ""], [مِنْ, ""], [كُلِّ, ""], [جِهَةٍ, ""]]
+    en: "Yunus (peace be upon him) was thrown into the sea, and the water surrounded him on every side."
+  - words: [[وَكَانَ, ""], [ذٰلِكَ, ""], [كُلُّهُ, ""], [بِقَدَرِ, "by (the) decree (of)", n], [اللَّهِ, ""], [وَحِكْمَتِهِ, "and His wisdom", n], [لِيُعَلِّمَ, ""], [عَبْدَهُ, ""], [وَيُعَلِّمَنَا, ""], [مَعَهُ, ""]]
+    en: "All of that happened by Allah's decree and wisdom, to teach His servant, and to teach us along with him."
+  - words: [[فَالْتَقَمَهُ, ""], [الْحُوتُ, ""], [وَكَانَ, ""], [عِنْدَ, ""], [ذٰلِكَ, ""], [مُلِيمًا, "blameworthy", n], [أَيْ, ""], [قَدْ, ""], [فَعَلَ, ""], [مَا, ""], [يُلَامُ, "(he) is blamed", n], [عَلَيْهِ, ""]]
+    en: "Then the great fish swallowed him, and at that moment he was blameworthy, that is, he had done something he could be blamed for."
+  - words: [[وَلَمْ, ""], [يَأْكُلْهُ, ""], [الْحُوتُ, ""], [وَلَمْ, ""], [يَمُتْ, ""], [يُونُسُ, ""], [بَلْ, ""], [بَقِيَ, ""], [حَيًّا, ""], [فِي, ""], [بَطْنِهِ, "its belly", n], [بِأَمْرِ, ""], [اللَّهِ, ""]]
+    en: "The fish did not eat him and Yunus did not die. He stayed alive in its belly by Allah's command."
+  - words: [[وَكَانَ, ""], [فِي, ""], [ظُلُمَاتٍ, "darknesses", n], [بَعْضُهَا, ""], [فَوْقَ, ""], [بَعْضٍ, ""], [ظُلْمَةِ, "(the) darkness (of)", n], [بَطْنِ, ""], [الْحُوتِ, ""], [وَظُلْمَةِ, ""], [الْبَحْرِ, ""], [وَظُلْمَةِ, ""], [اللَّيْلِ, ""]]
+    en: "He was in darknesses, one above another: the darkness of the fish's belly, the darkness of the sea and the darkness of the night."
+  - words: [[هٰكَذَا, ""], [فَسَّرَ, "explained", n], [ابْنُ, ""], [مَسْعُودٍ, ""], [وَابْنُ, ""], [عَبَّاسٍ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُمَا, ""], [الظُّلُمَاتِ, ""], [فِي, ""], [آيَةِ, ""], [سُورَةِ, ""], [الْأَنْبِيَاءِ, ""], [كَمَا, ""], [نَقَلَ, "reported", n], [عَنْهُمَا, ""], [ابْنُ, ""], [كَثِيرٍ, ""]]
+    en: "This is how Ibn Mas'ud and Ibn 'Abbas (may Allah be pleased with them both) explained the darknesses in the ayah of Surat al-Anbiya', as Ibn Kathir reports from them."
+  - words: [[وَالظُّلُمَاتُ, ""], [جَمْعُ, "(the) plural (of)", n], [ظُلْمَةٍ, ""], [وَقَدْ, ""], [جَاءَتْ, ""], [فِي, ""], [الْآيَةِ, ""], [بِالْجَمْعِ, ""], [لِأَنَّهَا, ""], [كَانَتْ, ""], [أَكْثَرَ, ""], [مِنْ, ""], [ظُلْمَةٍ, ""], [وَاحِدَةٍ, ""]]
+    en: "Zulumat is the plural of zulma, and it comes in the plural in the ayah because there was more than one darkness."
+  - words: [[وَفِي, ""], [تِلْكَ, ""], [الظُّلُمَاتِ, ""], [لَمْ, ""], [يَكُنْ, ""], [مَعَهُ, ""], [أَحَدٌ, ""], [يَسْمَعُهُ, ""], [إِلَّا, ""], [اللَّهُ, ""], [الَّذِي, ""], [يَسْمَعُ, ""], [كُلَّ, ""], [شَيْءٍ, ""]]
+    en: "In those darknesses there was no one with him to hear him except Allah, who hears everything."
+  - words: [[وَمَهْمَا, "however much", n], [كَانَ, ""], [الصَّوْتُ, ""], [ضَعِيفًا, ""], [فَإِنَّ, ""], [اللَّهَ, ""], [لَا, ""], [يَخْفَى, "is hidden", n], [عَلَيْهِ, ""], [صَوْتٌ, ""], [وَلَا, ""], [دُعَاءٌ, ""]]
+    en: "However weak a voice may be, no voice and no prayer is hidden from Allah."
+  - words: [[فَلَمْ, ""], [يَيْأَسْ, "despair", n], [يُونُسُ, ""], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"], [مِنْ, ""], [رَحْمَةِ, ""], [رَبِّهِ, ""], [بَلْ, ""], [نَادَاهُ, ""], [بِكَلِمَاتٍ, ""], [قَلِيلَةٍ, ""], [عَظِيمَةٍ, ""]]
+    en: "Yunus (peace be upon him) did not despair of his Lord's mercy. He called on Him with a few great words."
+  - words: [[قَالَ, ""], [تَعَالَى, ""], [فَنَادَىٰ, "", q], [فِي, "", q], [الظُّلُمَاتِ, "", q], [أَن, "", q], [لَّا, "", q], [إِلَـٰهَ, "", q], [إِلَّا, "", q], [أَنتَ, "", q], [سُبْحَانَكَ, "", q], [إِنِّي, "", q], [كُنتُ, "", q], [مِنَ, "", q], [الظَّالِمِينَ, "", q]]
+    en: "Allah the Exalted says (the meaning): and he called out in the darknesses: There is no god but You. Glory be to You! I have been one of the wrongdoers."
+    quote: {ref: "21:87", text: فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَـٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ}
+  - words: [[وَفِي, ""], [هٰذَا, ""], [الدُّعَاءِ, ""], [الْقَصِيرِ, "short", n], [ثَلَاثَةُ, ""], [أُمُورٍ, ""], [التَّوْحِيدُ, "tawhid (declaring Allah one)", n], [وَالتَّسْبِيحُ, "and glorifying (Allah)", n], [وَالِاعْتِرَافُ, "and admitting", n], [بِالتَّقْصِيرِ, "the shortcoming", n]]
+    en: "In this short prayer there are three things: declaring Allah one, glorifying Him, and admitting his shortcoming."
+  - words: [[فَقَوْلُهُ, ""], [الْأَوَّلُ, ""], [تَوْحِيدٌ, ""], [فَلَا, ""], [مَعْبُودَ, "one worshipped", n], [بِحَقٍّ, ""], [إِلَّا, ""], [اللَّهُ, ""], [وَلَا, ""], [يُنْقِذُ, "rescues", n], [مِنَ, ""], [الظُّلُمَاتِ, ""], [أَحَدٌ, ""], [غَيْرُهُ, ""]]
+    en: "His first words are tawhid: no one is truly worshipped but Allah, and no one but Him rescues from the darknesses."
+  - words: [[وَقَوْلُهُ, ""], [الثَّانِي, ""], [تَسْبِيحٌ, ""], [وَمَعْنَاهُ, ""], [أَنَّ, ""], [اللَّهَ, ""], [مُنَزَّهٌ, "far above", n], [عَنْ, ""], [كُلِّ, ""], [ظُلْمٍ, ""], [وَنَقْصٍ, ""]]
+    en: "His second words are tasbih, and it means that Allah is far above any injustice or flaw."
+  - words: [[وَقَوْلُهُ, ""], [الثَّالِثُ, ""], [اعْتِرَافٌ, ""], [فَقَدْ, ""], [لَامَ, ""], [يُونُسُ, ""], [نَفْسَهُ, ""], [وَلَمْ, ""], [يَلُمْ, ""], [قَوْمَهُ, ""], [وَلَا, ""], [الْبَحْرَ, ""], [وَلَا, ""], [الْحُوتَ, ""]]
+    en: "His third words are an admission: Yunus blamed himself, and did not blame his people, or the sea, or the fish."
+  - words: [[وَكَانَ, ""], [يُونُسُ, ""], [قَبْلَ, ""], [ذٰلِكَ, ""], [كَثِيرَ, ""], [التَّسْبِيحِ, ""], [وَالذِّكْرِ, ""], [يَذْكُرُ, ""], [رَبَّهُ, ""], [فِي, ""], [أَيَّامِ, ""], [الرَّخَاءِ, "ease", n]]
+    en: "Before that, Yunus had often glorified and remembered Allah. He remembered his Lord in days of ease."
+  - words: [[فَنَفَعَهُ, "and (it) helped him", n], [ذٰلِكَ, ""], [فِي, ""], [سَاعَةِ, ""], [الشِّدَّةِ, "hardship", n], [وَإِلَى, ""], [هٰذَا, ""], [ذَهَبَ, ""], [بَعْضُ, ""], [الْمُفَسِّرِينَ, ""], [فِي, ""], [قَوْلِهِ, ""], [تَعَالَى, ""]]
+    en: "And that helped him in the hour of hardship. This is how some commentators understand Allah's words:"
+  - words: [[فَلَوْلَا, "", q], [أَنَّهُ, "", q], [كَانَ, "", q], [مِنَ, "", q], [الْمُسَبِّحِينَ, "", q]]
+    en: "The meaning: Had he not been one of those who glorify Allah,"
+    quote: {ref: "37:143", text: فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ}
+  - words: [[لَلَبِثَ, "", q], [فِي, "", q], [بَطْنِهِ, "", q], [إِلَىٰ, "", q], [يَوْمِ, "", q], [يُبْعَثُونَ, "", q]]
+    en: "he would have stayed in its belly until the Day they are raised."
+    quote: {ref: "37:144", text: لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ}
+  - words: [[وَالْمُسَبِّحُونَ, ""], [هُمُ, ""], [الَّذِينَ, ""], [يُكْثِرُونَ, "do much (of)", n], [مِنْ, ""], [تَسْبِيحِ, ""], [اللَّهِ, ""], [وَذِكْرِهِ, ""], [فِي, ""], [كُلِّ, ""], [حَالٍ, ""]]
+    en: "Al-musabbihun are those who glorify and remember Allah a great deal, in every state."
+  - words: [[أَيْ, ""], [لَوْلَا, ""], [تَسْبِيحُهُ, ""], [لَبَقِيَ, ""], [فِي, ""], [بَطْنِ, ""], [الْحُوتِ, ""], [إِلَى, ""], [يَوْمِ, ""], [الْقِيَامَةِ, ""], [وَلَصَارَ, ""], [بَطْنُهُ, ""], [قَبْرًا, ""], [لَهُ, ""]]
+    en: "That is, had it not been for his glorifying, he would have remained in the fish's belly until the Day of Resurrection, and its belly would have become his grave."
+  - words: [[فَاسْتَجَابَ, ""], [اللَّهُ, ""], [لَهُ, ""], [وَنَجَّاهُ, "and saved him", n], [مِنَ, ""], [الْغَمِّ, "the distress", n], [الَّذِي, ""], [كَانَ, ""], [فِيهِ, ""], [ثُمَّ, ""], [قَالَ, ""], [تَعَالَى, ""]]
+    en: "Allah answered him and saved him from the distress he was in. Then He said:"
+  - words: [[وَكَذَٰلِكَ, "", q], [نُنجِي, "", q], [الْمُؤْمِنِينَ, "", q]]
+    en: "The meaning: And thus do We save the believers."
+    quote: {ref: "21:88", text: وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ}
+  - words: [[فَهٰذَا, ""], [الْوَعْدُ, ""], [لَيْسَ, ""], [لِيُونُسَ, ""], [وَحْدَهُ, ""], [بَلْ, ""], [هُوَ, ""], [لِكُلِّ, ""], [مُؤْمِنٍ, ""], [يَدْعُو, ""], [رَبَّهُ, ""], [فِي, ""], [شِدَّتِهِ, ""], [بِقَلْبٍ, ""], [صَادِقٍ, ""]]
+    en: "This promise is not for Yunus alone. It is for every believer who calls on his Lord in his hardship with a true heart."
+  - words: [[وَرَوَى, ""], [التِّرْمِذِيُّ, ""], [أَنَّ, ""], [النَّبِيَّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [سَمَّى, ""], [هٰذِهِ, ""], [الْكَلِمَاتِ, ""], [دَعْوَةَ, "(the) prayer (of)", n], [ذِي, ""], [النُّونِ, ""]]
+    en: "At-Tirmidhi reports that the Prophet ﷺ called these words the prayer of Dhun-Nun."
+  - words: [[وَقَالَ, ""], [إِنَّهُ, ""], [لَمْ, ""], [يَدْعُ, ""], [بِهَا, ""], [رَجُلٌ, ""], [مُسْلِمٌ, ""], [فِي, ""], [شَيْءٍ, ""], [قَطُّ, "ever", n], [إِلَّا, ""], [اسْتَجَابَ, ""], [اللَّهُ, ""], [لَهُ, ""]]
+    en: "And he said that no Muslim ever calls with it about anything without Allah answering him."
+  - words: [[وَصَحَّحَ, "graded sound", n], [هٰذَا, ""], [الْحَدِيثَ, ""], [كَثِيرٌ, ""], [مِنْ, ""], [أَهْلِ, ""], [الْعِلْمِ, ""], [فَصَارَ, ""], [دُعَاءً, ""], [يَحْفَظُهُ, ""], [الْمُسْلِمُونَ, ""], [فِي, ""], [كُلِّ, ""], [مَكَانٍ, ""]]
+    en: "Many scholars have graded this hadith sound, and it has become a prayer that Muslims everywhere know by heart."
+  - words: [[وَفِي, ""], [سُورَةِ, ""], [الْقَلَمِ, ""], [يَقُولُ, ""], [تَعَالَى, ""], [لَّوْلَا, "", q], [أَن, "", q], [تَدَارَكَهُ, "", q], [نِعْمَةٌ, "", q], [مِّن, "", q], [رَّبِّهِ, "", q], [لَنُبِذَ, "", q], [بِالْعَرَاءِ, "", q], [وَهُوَ, "", q], [مَذْمُومٌ, "", q]]
+    en: "In Surat al-Qalam He says (the meaning): Had a blessing from his Lord not reached him, he would have been cast onto the bare shore, blamed."
+    quote: {ref: "68:49", text: لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ}
+  - words: [[أَيْ, ""], [لَوْلَا, ""], [رَحْمَةُ, ""], [اللَّهِ, ""], [بِهِ, ""], [لَأُلْقِيَ, ""], [عَلَى, ""], [أَرْضٍ, ""], [عَارِيَةٍ, "bare", n], [وَهُوَ, ""], [مَلُومٌ, "blamed", n], [عَلَى, ""], [مَا, ""], [فَعَلَ, ""]]
+    en: "That is, had it not been for Allah's mercy to him, he would have been thrown out onto bare land still blamed for what he had done."
+  - words: [[وَلٰكِنَّ, ""], [نِعْمَةَ, ""], [اللَّهِ, ""], [أَدْرَكَتْهُ, "reached him", n], [فَنَبَذَهُ, "so He cast him", n], [بِالْعَرَاءِ, "onto the bare land", n], [وَقَدْ, ""], [تَابَ, "repented", n], [إِلَيْهِ, ""], [فَلَمْ, ""], [يَكُنْ, ""], [مَذْمُومًا, "blamed", n], [بَلْ, ""], [كَانَ, ""], [سَقِيمًا, "sick", n]]
+    en: "But Allah's blessing did reach him. Allah cast him onto the bare land after he had turned back to Him in repentance, so he was not blamed, though he was sick."
+  - words: [[وَالْعَرَاءُ, ""], [أَرْضٌ, ""], [وَاسِعَةٌ, ""], [مَكْشُوفَةٌ, "open", n], [لَا, ""], [شَجَرَ, ""], [فِيهَا, ""], [وَلَا, ""], [بِنَاءَ, ""], [وَلَا, ""], [شَيْءَ, ""], [يَسْتُرُ, "covers", n], [الْإِنْسَانَ, ""], [مِنْ, ""], [حَرِّ, "(the) heat (of)", n], [الشَّمْسِ, ""]]
+    en: "Al-'ara' is wide open land with no trees and no buildings, and nothing to shelter a person from the heat of the sun."
+  - words: [[وَكَانَ, ""], [يُونُسُ, ""], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"], [ضَعِيفًا, ""], [جِدًّا, ""], [بَعْدَ, ""], [مَا, ""], [لَقِيَ, ""], [فِي, ""], [بَطْنِ, ""], [الْحُوتِ, ""], [وَلِهٰذَا, ""], [وَصَفَهُ, ""], [اللَّهُ, ""], [بِأَنَّهُ, ""], [سَقِيمٌ, ""]]
+    en: "Yunus (peace be upon him) was very weak after all he had met in the fish's belly, and this is why Allah describes him as sick."
+  - words: [[فَأَنْبَتَ, "made grow", n], [اللَّهُ, ""], [عَلَيْهِ, ""], [شَجَرَةً, ""], [مِنْ, ""], [يَقْطِينٍ, "gourd", n], [فَكَانَتْ, ""], [أَوْرَاقُهَا, "its leaves", n], [الْعَرِيضَةُ, "broad", n], [ظِلًّا, ""], [لَهُ, ""], [مِنَ, ""], [الشَّمْسِ, ""]]
+    en: "Allah made a gourd plant grow over him, and its broad leaves gave him shade from the sun."
+  - words: [[وَالْيَقْطِينُ, ""], [عِنْدَ, ""], [أَكْثَرِ, ""], [الْمُفَسِّرِينَ, ""], [هُوَ, ""], [الدُّبَّاءُ, "the gourd", n], [وَهُوَ, ""], [نَبَاتٌ, "a plant", n], [يَمْتَدُّ, "spreads", n], [عَلَى, ""], [الْأَرْضِ, ""], [وَأَوْرَاقُهُ, ""], [كَبِيرَةٌ, ""], [نَاعِمَةٌ, "soft", n]]
+    en: "Most commentators say that yaqtin is ad-dubba', the gourd, a plant that spreads along the ground, with large soft leaves."
+  - words: [[وَرَوَى, ""], [الْبُخَارِيُّ, ""], [عَنْ, ""], [أَنَسٍ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُ, ""], [أَنَّ, ""], [النَّبِيَّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [كَانَ, ""], [يَتَتَبَّعُ, "would seek out", n], [الدُّبَّاءَ, ""], [فِي, ""], [الطَّعَامِ, ""], [فَأَحَبَّهُ, ""], [أَنَسٌ, ""], [مِنْ, ""], [ذٰلِكَ, ""], [الْيَوْمِ, ""]]
+    en: "Al-Bukhari reports from Anas (may Allah be pleased with him) that the Prophet ﷺ would pick out the pieces of gourd in the dish, and Anas loved it from that day on."
+  - words: [[وَبَقِيَ, ""], [يُونُسُ, ""], [فِي, ""], [ظِلِّ, ""], [تِلْكَ, ""], [الشَّجَرَةِ, ""], [حَتَّى, ""], [عَادَتْ, ""], [إِلَيْهِ, ""], [قُوَّتُهُ, ""], [بِإِذْنِ, ""], [اللَّهِ, ""]]
+    en: "Yunus stayed in the shade of that plant until his strength came back to him, by Allah's leave."
+  - words: [[وَهٰكَذَا, ""], [انْتَقَلَ, "passed", n], [يُونُسُ, ""], [مِنْ, ""], [ظُلُمَاتِ, ""], [الْبَحْرِ, ""], [إِلَى, ""], [نُورِ, ""], [الشَّمْسِ, ""], [وَظِلِّ, ""], [الشَّجَرَةِ, ""], [بِرَحْمَةٍ, ""], [مِنْ, ""], [رَبِّهِ, ""]]
+    en: "In this way Yunus passed from the darknesses of the sea to the light of the sun and the shade of the plant, by a mercy from his Lord."
+  - words: [[ثُمَّ, ""], [اجْتَبَاهُ, "chose him", n], [رَبُّهُ, ""], [أَيِ, ""], [اخْتَارَهُ, "selected him", n], [وَقَرَّبَهُ, "and brought him near", n], [فَجَعَلَهُ, ""], [مِنَ, ""], [الصَّالِحِينَ, ""], [كَمَا, ""], [قَالَ, ""], [تَعَالَى, ""], [فِي, ""], [سُورَةِ, ""], [الْقَلَمِ, ""]]
+    en: "Then his Lord chose him, that is, selected him and brought him near, and made him one of the righteous, as Allah says in Surat al-Qalam."
+  - words: [[وَأَرْسَلَهُ, ""], [اللَّهُ, ""], [إِلَى, ""], [قَوْمٍ, ""], [عَدَدُهُمْ, ""], [مِائَةُ, ""], [أَلْفٍ, "thousand", n], [أَوْ, ""], [أَكْثَرُ, ""], [مِنْ, ""], [ذٰلِكَ, ""]]
+    en: "Allah sent him to a people who numbered a hundred thousand or more."
+  - words: [[وَقَالَ, ""], [بَعْضُ, ""], [الْمُفَسِّرِينَ, ""], [إِنَّهُمْ, ""], [قَوْمُهُ, ""], [الَّذِينَ, ""], [خَرَجَ, ""], [مِنْ, ""], [بَيْنِهِمْ, ""], [فَرَجَعَ, ""], [إِلَيْهِمْ, ""], [بَعْدَ, ""], [أَنْ, ""], [نَجَّاهُ, ""], [اللَّهُ, ""]]
+    en: "Some commentators say they were his own people, the ones he had left, and that he went back to them after Allah saved him."
+  - words: [[فَآمَنُوا, ""], [بِهِ, ""], [جَمِيعًا, ""], [فَمَتَّعَهُمُ, "let them enjoy", n], [اللَّهُ, ""], [بِحَيَاتِهِمْ, ""], [إِلَى, ""], [حِينٍ, "a time", n], [أَيْ, ""], [إِلَى, ""], [أَنْ, ""], [جَاءَتْ, ""], [آجَالُهُمْ, "their appointed terms", n]]
+    en: "They all believed in him, and Allah let them enjoy their life for a time, that is, until their appointed terms came."
+  - words: [[وَهٰذَا, ""], [أَمْرٌ, ""], [عَجِيبٌ, ""], [يَذْكُرُهُ, ""], [اللَّهُ, ""], [فِي, ""], [السُّورَةِ, ""], [الَّتِي, ""], [تَحْمِلُ, ""], [اسْمَ, ""], [يُونُسَ, ""]]
+    en: "This is a remarkable thing, which Allah mentions in the surah that bears the name of Yunus."
+  - words: [[فَقَدْ, ""], [أَخْبَرَنَا, ""], [اللَّهُ, ""], [أَنَّهُ, ""], [لَمْ, ""], [تَكُنْ, ""], [قَرْيَةٌ, ""], [آمَنَتْ, ""], [كُلُّهَا, ""], [فَنَفَعَهَا, ""], [إِيمَانُهَا, ""], [إِلَّا, ""], [قَوْمَ, ""], [يُونُسَ, ""]]
+    en: "Allah has told us that there was never a whole town that believed and was helped by its belief, except the people of Yunus."
+  - words: [[فَلَمَّا, ""], [آمَنُوا, ""], [كَشَفَ, "lifted", n], [اللَّهُ, ""], [عَنْهُمْ, ""], [عَذَابَ, "(the) punishment (of)", n], [الْخِزْيِ, "disgrace", n], [فِي, ""], [الْحَيَاةِ, ""], [الدُّنْيَا, "this world", n], [وَلَمْ, ""], [يُهْلِكْهُمْ, "destroy them", n], [كَمَا, ""], [أَهْلَكَ, ""], [أُمَمًا, "nations", n], [قَبْلَهُمْ, ""]]
+    en: "When they believed, Allah lifted from them the punishment of disgrace in the life of this world, and He did not destroy them as He had destroyed nations before them."
+  - words: [[فَصَارَ, ""], [قَوْمُ, ""], [يُونُسَ, ""], [مَثَلًا, "an example", n], [لِكُلِّ, ""], [مَنْ, ""], [يَرْجِعُ, ""], [إِلَى, ""], [اللَّهِ, ""], [قَبْلَ, ""], [فَوَاتِ, "(the) passing (of)", n], [الْوَقْتِ, ""]]
+    en: "So the people of Yunus became an example for everyone who turns back to Allah before it is too late."
+  - words: [[وَفِي, ""], [سُورَةِ, ""], [الْقَلَمِ, ""], [أَيْضًا, ""], [خَاطَبَ, "addressed", n], [اللَّهُ, ""], [نَبِيَّنَا, ""], [مُحَمَّدًا, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [حِينَ, ""], [آذَاهُ, ""], [قَوْمُهُ, ""], [فَقَالَ, ""], [لَهُ, ""]]
+    en: "Also in Surat al-Qalam, Allah addressed our Prophet Muhammad ﷺ when his people were hurting him, and said to him:"
+  - words: [[فَاصْبِرْ, "", q], [لِحُكْمِ, "", q], [رَبِّكَ, "", q], [وَلَا, "", q], [تَكُن, "", q], [كَصَاحِبِ, "", q], [الْحُوتِ, "", q], [إِذْ, "", q], [نَادَىٰ, "", q], [وَهُوَ, "", q], [مَكْظُومٌ, "", q]]
+    en: "The meaning: So be patient for your Lord's decision, and do not be like the Companion of the Fish, when he called out, filled with distress."
+    quote: {ref: "68:48", text: فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ}
+  - words: [[وَالْمَكْظُومُ, "the one filled with grief", n], [هُوَ, ""], [الْمَمْلُوءُ, "filled", n], [غَمًّا, ""], [الَّذِي, ""], [يَحْبِسُ, "holds in", n], [حُزْنَهُ, "his grief", n], [فِي, ""], [صَدْرِهِ, ""]]
+    en: "Al-makzum is the one filled with distress, who holds his grief inside his chest."
+  - words: [[فَأَرَادَ, ""], [اللَّهُ, ""], [مِنْ, ""], [نَبِيِّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [أَنْ, ""], [يَصْبِرَ, ""], [عَلَى, ""], [قَوْمِهِ, ""], [وَلَا, ""], [يَتْرُكَهُمْ, ""], [قَبْلَ, ""], [أَنْ, ""], [يَأْتِيَهُ, ""], [أَمْرُ, ""], [رَبِّهِ, ""]]
+    en: "Allah wanted His Prophet ﷺ to be patient with his people, and not to leave them before his Lord's command came to him."
+  - words: [[فَصَبَرَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [عَلَى, ""], [قَوْمِهِ, ""], [سَنَوَاتٍ, "years", n], [طَوِيلَةً, ""], [حَتَّى, ""], [دَخَلَ, ""], [النَّاسُ, ""], [فِي, ""], [دِينِ, ""], [اللَّهِ, ""], [أَفْوَاجًا, ""]]
+    en: "And the Prophet ﷺ was patient with his people for long years, until people entered Allah's religion in crowds."
+  - words: [[وَهٰذَا, ""], [هُوَ, ""], [الدَّرْسُ, ""], [الْأَوَّلُ, ""], [مِنَ, ""], [الْقِصَّةِ, ""], [الصَّبْرُ, ""], [عَلَى, ""], [النَّاسِ, ""], [وَالصَّبْرُ, ""], [عَلَى, ""], [أَمْرِ, ""], [اللَّهِ, ""]]
+    en: "That is the first lesson of the story: patience with people, and patience with Allah's command."
+  - words: [[وَالدَّرْسُ, ""], [الثَّانِي, ""], [أَنَّ, ""], [الْمُؤْمِنَ, ""], [إِذَا, ""], [أَخْطَأَ, "does wrong", n], [لَا, ""], [يَيْأَسُ, ""], [بَلْ, ""], [يَرْجِعُ, ""], [إِلَى, ""], [رَبِّهِ, ""], [سَرِيعًا, ""], [وَيَعْتَرِفُ, ""], [بِذَنْبِهِ, ""]]
+    en: "The second lesson is that when a believer does wrong he does not despair. He turns back to his Lord quickly and admits his sin."
+  - words: [[وَالدَّرْسُ, ""], [الثَّالِثُ, ""], [أَنَّ, ""], [مَنْ, ""], [ذَكَرَ, ""], [اللَّهَ, ""], [فِي, ""], [أَيَّامِ, ""], [الرَّخَاءِ, ""], [نَفَعَهُ, ""], [ذِكْرُهُ, ""], [فِي, ""], [أَيَّامِ, ""], [الشِّدَّةِ, ""]]
+    en: "The third lesson is that whoever remembers Allah in days of ease will be helped by that remembrance in days of hardship."
+  - words: [[وَمَعَ, ""], [كُلِّ, ""], [ذٰلِكَ, ""], [قَالَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [لَا, ""], [يَنْبَغِي, "it is fitting", n], [لِعَبْدٍ, ""], [أَنْ, ""], [يَقُولَ, ""], [أَنَا, ""], [خَيْرٌ, ""], [مِنْ, ""], [يُونُسَ, ""], [بْنِ, ""], [مَتَّى, "", k]]
+    en: "With all of that, the Prophet ﷺ said: No servant should say, I am better than Yunus son of Matta."
+  - words: [[رَوَاهُ, ""], [الْبُخَارِيُّ, ""], [وَمُسْلِمٌ, ""], [فَيُونُسُ, ""], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"], [نَبِيٌّ, ""], [كَرِيمٌ, "noble", n], [اجْتَبَاهُ, ""], [رَبُّهُ, ""], [وَلَا, ""], [يَحِقُّ, "has the right", n], [لِأَحَدٍ, ""], [أَنْ, ""], [يَتَكَلَّمَ, ""], [عَنْهُ, ""], [إِلَّا, ""], [بِأَدَبٍ, ""]]
+    en: "Al-Bukhari and Muslim report it. Yunus (peace be upon him) is a noble prophet whom his Lord chose, and no one has the right to speak of him except with respect."
+  - words: [[فَإِذَا, ""], [ضَاقَتْ, "closes in", n], [عَلَيْكَ, ""], [الدُّنْيَا, ""], [يَوْمًا, ""], [وَأَحَاطَتْ, ""], [بِكَ, ""], [الْهُمُومُ, "worries", n], [كَالظُّلُمَاتِ, ""], [فَتَذَكَّرْ, ""], [يُونُسَ, ""], [فِي, ""], [بَطْنِ, ""], [الْحُوتِ, ""]]
+    en: "So if one day the world closes in on you, and worries surround you like darknesses, remember Yunus in the belly of the fish."
+  - words: [[وَادْعُ, ""], [رَبَّكَ, ""], [بِدُعَائِهِ, ""], [فَإِنَّ, ""], [الَّذِي, ""], [سَمِعَهُ, ""], [فِي, ""], [ظُلُمَاتِ, ""], [الْبَحْرِ, ""], [يَسْمَعُكَ, ""], [أَيْنَمَا, "wherever", n], [كُنْتَ, ""]]
+    en: "And call on your Lord with his prayer, for the One who heard him in the darknesses of the sea hears you wherever you are."
+  - words: [[وَتَعَلَّمْ, ""], [مِنْ, ""], [قِصَّتِهِ, ""], [أَنَّ, ""], [بَابَ, ""], [التَّوْبَةِ, "repentance", n], [لَا, ""], [يُغْلَقُ, "is shut", n], [فِي, ""], [وَجْهِ, ""], [مَنْ, ""], [يَرْجِعُ, ""], [وَأَنَّ, ""], [الدُّعَاءَ, ""], [الصَّادِقَ, ""], [يَصِلُ, ""], [إِلَى, ""], [اللَّهِ, ""], [مِنْ, ""], [أَعْمَقِ, "(the) deepest", n], [مَكَانٍ, ""]]
+    en: "And learn from his story that the door of repentance is never shut in the face of one who turns back, and that a sincere prayer reaches Allah from the deepest place."
+
+dictionary:
+  - {ar: مُرْسَلٌ, en: one who is sent; a messenger, pos: [اسم مفعول, passive participle], root: رسل, pattern: مُفْعَلٌ, plural: مُرْسَلُونَ, ayah: {ref: "37:139", text: وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ, en: "and Yunus was one of the messengers"}, note: "From أَرْسَلَ, he sent, which you met in Surat al-Fil. The one who sends is مُرْسِلٌ, with kasra; the one sent is مُرْسَلٌ, with fatha. Without vowels both are مرسل, so let the sentence tell you which."}
+  - {ar: نُونٌ, en: great fish; the letter nun, pos: [اسم, noun], root: نون, pattern: فُعْلٌ, ayah: {ref: "21:87", text: وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا, en: "and Dhun-Nun, when he went off in anger"}, note: "ذُو النُّونِ, the one of the fish, is a name for Yunus عَلَيْهِ السَّلَامُ. ذُو changes with the case: ذُو, ذَا, ذِي."}
+  - {ar: غَاضَبَ, en: he was angry (with someone), pos: [فعل ماض, past verb], present: يُغَاضِبُ, bab: بَابُ الْمُفَاعَلَةِ, root: غضب, pattern: فَاعَلَ, ayah: {ref: "21:87", text: إِذ ذَّهَبَ مُغَاضِبًا, en: "when he went off in anger"}, note: "Made from غَضِبَ, which you know. Its اسْمُ فَاعِلٍ (doer noun) is مُغَاضِبٌ. Ibn Kathir and al-Baghawi say Yunus عَلَيْهِ السَّلَامُ was angry with his people, and al-Baghawi says this view best suits a prophet."}
+  - {ar: أَبَقَ, en: he ran away (of a slave from his master), pos: [فعل ماض, past verb], present: يَأْبِقُ, bab: بَابُ ضَرَبَ, root: أبق, pattern: فَعَلَ, ayah: {ref: "37:140", text: إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ, en: "when he ran off to the laden ship"}, note: "A runaway slave is آبِقٌ. The word shows that a prophet's leaving his post without leave is a serious matter."}
+  - {ar: مَشْحُونٌ, en: laden; fully loaded, pos: [اسم مفعول, passive participle], root: شحن, pattern: مَفْعُولٌ, ayah: {ref: "36:41", text: فِي الْفُلْكِ الْمَشْحُونِ, en: "in the laden ship"}, register: both, note: "Classical: loaded full. Modern: شَحَنَ is to ship goods or to charge a battery (شَحَنَ الْهَاتِفَ), and a lorry is شَاحِنَةٌ. You also know this ayah from Surat Ya Sin."}
+  - {ar: سَاهَمَ, en: he cast lots; (modern) he took part; he contributed, pos: [فعل ماض, past verb], present: يُسَاهِمُ, bab: بَابُ الْمُفَاعَلَةِ, root: سهم, pattern: فَاعَلَ, ayah: {ref: "37:141", text: فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ, en: "then he cast lots and was among the losers"}, register: both, note: "From سَهْمٌ, an arrow, because lots were drawn with marked arrows (plural سِهَامٌ). In a modern newspaper سَاهَمَ فِي means he contributed to, and أَسْهُمٌ are company shares."}
+  - {ar: اِلْتَقَمَ, en: he swallowed, pos: [فعل ماض, past verb], present: يَلْتَقِمُ, bab: بَابُ الِافْتِعَالِ, root: لقم, pattern: اِفْتَعَلَ, ayah: {ref: "37:142", text: فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ, en: "then the great fish swallowed him while he was blameworthy"}, note: "لُقْمَةٌ is a mouthful, one bite of food."}
+  - {ar: لَامَ, en: he blamed, pos: [فعل ماض, past verb], present: يَلُومُ, bab: بَابُ نَصَرَ, root: لوم, pattern: فَعَلَ, ayah: {ref: "75:2", text: وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ, en: "and I swear by the self-reproaching soul"}, note: "With لَمْ it becomes لَمْ يَلُمْ. مَلُومٌ is blamed; مُلِيمٌ (37:142) is one who has done something to be blamed for."}
+  - {ar: ظُلْمَةٌ, en: darkness, pos: [اسم, noun], root: ظلم, pattern: فُعْلَةٌ, plural: ظُلُمَاتٌ, ayah: {ref: "2:257", text: يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ, en: "He brings them out of the darknesses into the light"}, note: "Same root as ظَلَمَ, he wronged. Without vowels ظلم can be ظُلْمٌ (wrong) or ظَلَمَ (he wronged); ظلمة with ة is always darkness."}
+  - {ar: سُبْحَانَ, en: glory be to; far above (any flaw), pos: [مصدر, verbal noun], root: سبح, pattern: فُعْلَانٌ, ayah: {ref: "17:1", text: سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ, en: "glory be to the One who took His servant by night"}, note: "Always followed by the one glorified: سُبْحَانَ اللَّهِ, سُبْحَانَكَ. From the same root: تَسْبِيحٌ, glorifying, and مُسَبِّحٌ, one who glorifies (37:143)."}
+  - {ar: بَطْنٌ, en: belly; inside, pos: [اسم, noun], root: بطن, pattern: فَعْلٌ, plural: بُطُونٌ, ayah: {ref: "37:144", text: لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ, en: "he would have stayed in its belly until the Day they are raised"}, note: "Its opposite is ظَهْرٌ, back. Allah's names الظَّاهِرُ and الْبَاطِنُ, the Manifest and the Hidden (57:3), come from these two roots."}
+  - {ar: نَبَذَ, en: he cast; he threw down, pos: [فعل ماض, past verb], present: يَنْبِذُ, bab: بَابُ ضَرَبَ, root: نبذ, pattern: فَعَلَ, ayah: {ref: "104:4", text: كَلَّا لَيُنبَذَنَّ فِي الْحُطَمَةِ, en: "no, he will surely be thrown into the Crusher"}, note: "Passive: نُبِذَ, he was cast (68:49). It means to cast or throw down: in 37:145 Allah cast him onto the bare shore. Only in 104:4 does it mean throwing something away as worthless."}
+  - {ar: عَرَاءٌ, en: open bare land, pos: [اسم, noun], root: عري, pattern: فَعَالٌ, ayah: {ref: "37:145", text: فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ, en: "then We cast him onto the bare land while he was sick"}, note: "Land with no plants and no building. From the same root: عَارٍ, feminine عَارِيَةٌ, bare or naked."}
+  - {ar: سَقِيمٌ, en: sick; ill, pos: [صفة مشبهة, adjective of a lasting quality], root: سقم, pattern: فَعِيلٌ, ayah: {ref: "37:89", text: فَقَالَ إِنِّي سَقِيمٌ, en: "and he said: I am sick"}, note: "It is also the word Ibrahim عَلَيْهِ السَّلَامُ used on the day he broke the idols: إِنِّي سَقِيمٌ (37:89). An illness is سُقْمٌ or سَقَمٌ."}
+  - {ar: أَنْبَتَ, en: he made (a plant) grow, pos: [فعل ماض, past verb], present: يُنْبِتُ, bab: بَابُ الْإِفْعَالِ, root: نبت, pattern: أَفْعَلَ, ayah: {ref: "37:146", text: وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ, en: "and We made a gourd plant grow over him"}, note: "From نَبَتَ, it grew. A plant is نَبَاتٌ."}
+  - {ar: يَقْطِينٌ, en: gourd plant, pos: [اسم, noun], root: قطن, pattern: يَفْعِيلٌ, ayah: {ref: "37:146", text: شَجَرَةً مِّن يَقْطِينٍ, en: "a plant of gourd"}, note: "Most commentators say it is الدُّبَّاءُ, the gourd, a creeping plant with very large leaves. The Arabs called any plant a شَجَرَةٌ, even one with no trunk."}
+  - {ar: أَلْفٌ, en: thousand, pos: [اسم, noun], root: ألف, pattern: فَعْلٌ, plural: آلَافٌ; أُلُوفٌ, ayah: {ref: "97:3", text: لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ, en: "the Night of Decree is better than a thousand months"}, note: "مِائَةُ أَلْفٍ is a hundred thousand. Like مِائَةٌ, the word after أَلْفٌ is مَجْرُورٌ (genitive) and singular: أَلْفُ شَهْرٍ, أَلْفُ سَنَةٍ."}
+  - {ar: مَتَّعَ, en: he let (someone) enjoy, pos: [فعل ماض, past verb], present: يُمَتِّعُ, bab: بَابُ التَّفْعِيلِ, root: متع, pattern: فَعَّلَ, ayah: {ref: "37:148", text: فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ, en: "then they believed, so We let them enjoy life for a time"}, note: "From the same root as مَتَاعٌ, goods, things to use and enjoy, which you met in the story of Yusuf عَلَيْهِ السَّلَامُ."}
+  - {ar: اِسْتَجَابَ, en: he answered (a call or a prayer), pos: [فعل ماض, past verb], present: يَسْتَجِيبُ, bab: بَابُ الِاسْتِفْعَالِ, root: جوب, pattern: اِسْتَفْعَلَ, ayah: {ref: "21:88", text: فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ, en: "so We answered him and saved him from the distress"}, note: "It takes لِـ: اسْتَجَابَ لَهُ. The plain answer to a question is أَجَابَ, in بَابُ الْإِفْعَالِ, which you will meet in story 3."}
+  - {ar: غَمٌّ, en: distress; grief that covers the heart, pos: [اسم, noun], root: غمم, pattern: فَعْلٌ, plural: غُمُومٌ, ayah: {ref: "21:88", text: وَنَجَّيْنَاهُ مِنَ الْغَمِّ, en: "and We saved him from the distress"}, note: "The root means to cover. غَمَامٌ, clouds that cover the sky, comes from it too."}
+  - {ar: اِجْتَبَى, en: he chose; he selected, pos: [فعل ماض, past verb], present: يَجْتَبِي, bab: بَابُ الِافْتِعَالِ, root: جبي, pattern: اِفْتَعَلَ, ayah: {ref: "68:50", text: فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ, en: "then his Lord chose him and made him one of the righteous"}, note: "Used in the Quran for Allah choosing His prophets."}
+  - {ar: مَكْظُومٌ, en: filled with grief held in, pos: [اسم مفعول, passive participle], root: كظم, pattern: مَفْعُولٌ, ayah: {ref: "68:48", text: إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ, en: "when he called out, filled with distress"}, note: "From كَظَمَ, he held back (his anger or grief). The praised believers are الْكَاظِمِينَ الْغَيْظَ, those who hold back their anger (3:134)."}
+  - {ar: عَذَابٌ, en: punishment, pos: [اسم, noun], root: عذب, pattern: فَعَالٌ, ayah: {ref: "10:98", text: كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ فِي الْحَيَاةِ الدُّنْيَا, en: "We lifted from them the punishment of disgrace in the life of this world"}, note: "The same letters as عَذْبٌ, sweet water, from booklet 1, but with a long alif: عذاب. One letter changes the meaning completely."}
+  - {ar: كَشَفَ, en: he removed; he uncovered, pos: [فعل ماض, past verb], present: يَكْشِفُ, bab: بَابُ ضَرَبَ, root: كشف, pattern: فَعَلَ, ayah: {ref: "27:62", text: أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ, en: "or who answers the desperate one when he calls on Him, and removes the harm?"}, register: both, note: "Classical: to lift away a harm. Modern: to uncover or reveal (كَشَفَ عَنْ سِرٍّ), and كَشْفٌ is also a list or a medical examination. مَكْشُوفٌ is open, exposed."}
+  - {ar: رِيحٌ, en: wind, pos: [اسم, noun], root: روح, pattern: فِعْلٌ, plural: رِيَاحٌ, ayah: {ref: "10:22", text: جَاءَتْهَا رِيحٌ عَاصِفٌ, en: "a storm wind comes upon it"}, note: "Feminine, so اشْتَدَّتِ الرِّيحُ. The ayah is from Surat Yunus and describes a ship in a storm, just like this story."}
+
+root_families:
+  - root: ظلم
+    words: [[ظَلَمَ, "he wronged"], [ظُلْمٌ, "wrongdoing"], [الظَّالِمِينَ, "the wrongdoers (21:87)"], [ظُلْمَةٌ, "darkness"], [ظُلُمَاتٌ, "darknesses"]]
+  - root: سبح
+    words: [[سُبْحَانَكَ, "glory be to You"], [سَبَّحَ, "he glorified"], [تَسْبِيحٌ, "glorifying"], [الْمُسَبِّحِينَ, "those who glorify (37:143)"]]
+
+grammar:
+  title_ar: لَوْلَا وَجَوَابُهَا
+  title_en: "Lawla: had it not been for..."
+  body: >-
+    لَوْلَا means had it not been for. It names something that did happen, and its answer tells what would have happened without it, so
+    the answer never happened. A noun after لَوْلَا is مَرْفُوعٌ (لَوْلَا تَسْبِيحُهُ, لَوْلَا رَحْمَةُ اللَّهِ), or it is followed by أَنَّ or أَنْ and a
+    sentence (لَوْلَا أَنَّهُ كَانَ, لَوْلَا أَنْ تَدَارَكَهُ). The answer is a فِعْلٌ مَاضٍ (past verb), usually with لَ in front of it: لَلَبِثَ, لَبَقِيَ, لَنُبِذَ.
+    So when you see لولا, look ahead for a verb starting with ل: that is where the sentence turns. Its sister لَوْ, if, works the same way
+    but the madrasa calls it حَرْفُ امْتِنَاعٍ لِامْتِنَاعٍ (it names something that did not happen). In story 3 you will also see it for something hoped for in the future.
+  examples:
+    - [﴿فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ﴾, "Had he not been one of those who glorify, he would have stayed in its belly until the Day they are raised. (Quran 37:143 and 144)"]
+    - [لَوْلَا تَسْبِيحُهُ لَبَقِيَ فِي بَطْنِ الْحُوتِ, "Had it not been for his glorifying, he would have remained in the fish's belly. (a noun after lawla)"]
+    - [﴿لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ﴾, "Had a blessing from his Lord not reached him, he would have been cast onto the bare land, blamed. (Quran 68:49)"]
+
+tip:
+  title: "Reading without vowels: let the pattern speak"
+  body: >-
+    A bare word you have never seen is rarely a mystery: find its three root letters, then the letters added around them. مغاضبا has
+    مُـ before the root and alif after the first letter: the pattern مُفَاعِل, someone doing the action with another (angry with someone).
+    مشحونة is مَفْعُولَة, a thing the action was done to (laden). التقم and اجتبى have the ت of بَابُ الِافْتِعَالِ after the first letter, and استجاب has
+    the است of بَابُ الِاسْتِفْعَالِ. المسبحين has a shadda you cannot see, but مُفَعِّل (from سَبَّحَ, بَابُ التَّفْعِيلِ) is the pattern that fits مُـ + root + ين for one who does
+    something, since this root has no بَابُ الْإِفْعَالِ verb to give مُفْعِل. You are a hafiz, so the ayat will often finish the word for you; for everything else, the pattern does.
+
+reread: Reread the story, then recite Surat as-Saffat 37:139 to 148 and Surat al-Anbiya' 21:87 and 88, and find each part of the story in them.

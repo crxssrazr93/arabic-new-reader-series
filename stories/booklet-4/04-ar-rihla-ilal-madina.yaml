@@ -1,0 +1,201 @@
+# Booklet 4, story 4. Modern strand (MSA). Grammar ceiling: Madinah Book 3.
+id: b4-04
+booklet: 4
+number: 4
+strand: modern
+title_ar: الرِّحْلَةُ إِلَى الْمَدِينَةِ
+title_en: The Journey to Madinah
+madinah: "Book 3 (the passive: الْفِعْلُ الْمَبْنِيُّ لِلْمَجْهُولِ)"
+source: "Modern story. Facts follow sound sources: Hajar's running between as-Safa and al-Marwa (al-Bukhari 3364); the Prophet's mosque of mud brick, palm-branch roof and palm-trunk pillars, and the Prophet carrying stones with his Companions (al-Bukhari 428, 446); prayer in it better than a thousand elsewhere except al-Masjid al-Haram (al-Bukhari 1190); 'between my house and my minbar is a garden of the gardens of Paradise' (al-Bukhari 1196); his visits to Quba every Saturday, walking and riding, and his two rak'as there (al-Bukhari 1193, 1194); the fifty archers at Uhud, told not to leave their place, and seventy Muslims killed (al-Bukhari 3039; the hill is named by the seerah, not by al-Bukhari); Hamza killed at Uhud (al-Bukhari 4072); the martyrs buried where they fell (Abu Dawud 3165, sahih); the Prophet ﷺ buried in Aisha's house, with Abu Bakr and Umar beside him (al-Bukhari 1389, 1392); 'Uhud is a mountain that loves us and we love it' (Muslim 1393; al-Bukhari 4083 has 'This is a mountain...'). Scholars differ over whether 9:108 is about Quba or the Prophet's mosque; the story says only that many scholars hold it is Quba."
+
+illustrations:
+  - before: 18
+    file: b4-04-green-dome.png
+    alt: The green dome and tall minarets of the Prophet's mosque seen from a distance at dawn, soft pink sky, no people
+    prompt: The green dome and several tall white minarets of the Prophet's Mosque in Madinah seen from a distance at dawn, the sky soft pink and pale blue, lights still glowing around the mosque, palm trees in the foreground. No people, no animals, no writing.
+  - before: 42
+    file: b4-04-quba-walls.png
+    alt: The white walls, domes and minarets of Quba mosque in bright morning sun, palm trees beside it, no people
+    prompt: The white walls, several small white domes and four tall white minarets of Quba mosque in Madinah in bright morning sunlight, green palm trees beside it, clear blue sky. No people, no animals, no writing.
+  - before: 45
+    file: b4-04-uhud-mountain.png
+    alt: The long reddish rock mass of Mount Uhud in late afternoon light, a small low hill in front of it, no people
+    prompt: The long rugged reddish-brown rock mountain of Uhud near Madinah in warm late-afternoon light, a small low rocky hill standing in front of it on the plain, a few palm trees, clear sky. No people, no animals, no buildings with writing.
+
+sentences:
+  - words: [[فِي, ""], [أَوَّلِ, ""], [الشِّتَاءِ, ""], [سَافَرَ, ""], [بِلَالٌ, ""], [مَعَ, ""], [أُسْرَتِهِ, ""], [مِنْ, ""], [سِرِيلَانْكَا, ""], [لِأَدَاءِ, "(for) performing", n k], [الْعُمْرَةِ, "the umrah", n k]]
+    en: "At the beginning of winter Bilal travelled with his family from Sri Lanka to perform the umrah."
+  - words: [[وَكَانَ, ""], [مَعَهُ, ""], [أَبُوهُ, ""], [وَأُمُّهُ, ""], [وَأُخْتُهُ, ""], [مَرْيَمُ, ""], [وَكُلُّهُمْ, ""], [فَرِحُونَ, ""], [بِهٰذِهِ, ""], [الرِّحْلَةِ, ""]]
+    en: "With him were his father, his mother and his sister Maryam, and all of them were happy about this journey."
+  - words: [[وَاتَّفَقُوا, "and they agreed", n k], [مَعَ, ""], [أُسْرَةِ, ""], [زَيْدٍ, ""], [عَلَى, ""], [أَنْ, ""], [يَلْتَقُوا, "meet", n k], [جَمِيعًا, ""], [فِي, ""], [مَكَّةَ, ""], [ثُمَّ, ""], [فِي, ""], [الْمَدِينَةِ, ""]]
+    en: "They had agreed with Zayd's family to meet in Makkah and then in Madinah."
+  - words: [[فَجَاءَ, ""], [زَيْدٌ, ""], [مِنَ, ""], [الْقَاهِرَةِ, ""], [مَعَ, ""], [أَبِيهِ, ""], [وَأُمِّهِ, ""], [وَأَخِيهِ, ""], [عُمَرَ, ""], [وَأُخْتِهِ, ""], [فَاطِمَةَ, ""]]
+    en: "Zayd came from Cairo with his father, his mother, his brother Umar and his sister Fatima."
+  - words: [[وَقَبْلَ, ""], [أَنْ, ""], [تَصِلَ, ""], [الطَّائِرَةُ, ""], [إِلَى, ""], [جُدَّةَ, "Jeddah", n k], [لَبِسَ, "put on", n k], [بِلَالٌ, ""], [وَأَبُوهُ, ""], [ثِيَابَ, "(the) clothes (of)", n k], [الْإِحْرَامِ, "ihram", n k]]
+    en: "Before the plane reached Jeddah, Bilal and his father put on the clothes of ihram."
+  - words: [[وَهِيَ, ""], [ثَوْبَانِ, "two cloths", n k], [أَبْيَضَانِ, ""], [بِلَا, ""], [خِيَاطَةٍ, "stitching", n k], [يَلْبَسُهُمَا, ""], [الرِّجَالُ, ""], [عِنْدَ, ""], [الْمِيقَاتِ, "the miqat", n k]]
+    en: "These are two white unstitched cloths that men put on at the miqat."
+  - words: [[وَنَوَى, "and made the intention", n k], [الْجَمِيعُ, ""], [الْعُمْرَةَ, ""], [وَقَالُوا, ""], [لَبَّيْكَ, "here I am (for You)", n k], [اللَّهُمَّ, ""], [لَبَّيْكَ, ""]]
+    en: "Everyone made the intention for umrah and said: Here I am, O Allah, here I am."
+  - words: [[وَفِي, ""], [مَكَّةَ, ""], [دَخَلُوا, ""], [الْمَسْجِدَ, ""], [الْحَرَامَ, ""], [وَرَأَى, ""], [بِلَالٌ, ""], [الْكَعْبَةَ, "the Ka'ba", n k], [أَوَّلَ, ""], [مَرَّةٍ, ""], [فِي, ""], [حَيَاتِهِ, ""]]
+    en: "In Makkah they entered al-Masjid al-Haram, and Bilal saw the Ka'ba for the first time in his life."
+  - words: [[فَوَقَفَ, ""], [صَامِتًا, "silent", n k], [وَلَمْ, ""], [يَسْتَطِعْ, ""], [أَنْ, ""], [يَتَكَلَّمَ, "speak", n k], [مِنْ, ""], [شِدَّةِ, "(the) intensity (of)", n k], [الْفَرَحِ, "joy", n k]]
+    en: "He stood there silent, and could not speak for joy."
+  - words: [[ثُمَّ, ""], [طَافُوا, "they went round", n k], [بِالْكَعْبَةِ, ""], [سَبْعَ, ""], [مَرَّاتٍ, ""], [وَصَلَّوْا, ""], [رَكْعَتَيْنِ, ""], [خَلْفَ, ""], [مَقَامِ, "(the) Station (of)", n k], [إِبْرَاهِيمَ, ""], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"]]
+    en: "Then they went round the Ka'ba seven times and prayed two rak'as behind the Station of Ibrahim (peace be upon him)."
+  - words: [[وَشَرِبُوا, ""], [مِنْ, ""], [مَاءِ, ""], [زَمْزَمَ, "Zamzam", n k], [ثُمَّ, ""], [سَعَوْا, "they walked (back and forth)", n k], [بَيْنَ, ""], [الصَّفَا, "as-Safa", n k], [وَالْمَرْوَةِ, "and al-Marwa", n k], [سَبْعَ, ""], [مَرَّاتٍ, ""]]
+    en: "They drank Zamzam water, and then walked seven times between as-Safa and al-Marwa."
+  - words: [[وَتَذَكَّرَ, ""], [بِلَالٌ, ""], [هَاجَرَ, "Hajar", n k], [أُمَّ, ""], [إِسْمَاعِيلَ, "Isma'il", n k], [عَلَيْهِ, "upon him"], [السَّلَامُ, "(be) peace"], [الَّتِي, ""], [سَعَتْ, ""], [هُنَا, ""], [تَطْلُبُ, ""], [الْمَاءَ, ""], [لِابْنِهَا, ""]]
+    en: "Bilal remembered Hajar, the mother of Isma'il (peace be upon him), who ran here looking for water for her son."
+  - words: [[ثُمَّ, ""], [حَلَقَ, "shaved", n k], [بِلَالٌ, ""], [وَأَبُوهُ, ""], [رُؤُوسَهُمَا, ""], [فَتَمَّتِ, "and was complete", n k], [الْعُمْرَةُ, ""], [بِحَمْدِ, ""], [اللَّهِ, ""]]
+    en: "Then Bilal and his father shaved their heads, and the umrah was complete, praise be to Allah."
+  - words: [[وَقَصَّرَتْ, "and cut short", n k], [أُمُّهُ, ""], [وَمَرْيَمُ, ""], [قَلِيلًا, ""], [مِنْ, ""], [شَعْرِهِمَا, "their hair", n k], [كَمَا, ""], [تَفْعَلُ, ""], [النِّسَاءُ, ""]]
+    en: "His mother and Maryam cut a little of their hair, as women do."
+  - words: [[وَبَعْدَ, ""], [أَيَّامٍ, ""], [فِي, ""], [مَكَّةَ, ""], [رَكِبَتِ, ""], [الْأُسْرَتَانِ, ""], [الْحَافِلَةَ, "the bus", n k], [إِلَى, ""], [الْمَدِينَةِ, ""], [الْمُنَوَّرَةِ, "the Radiant", n k]]
+    en: "After some days in Makkah the two families took the bus to Madinah the Radiant."
+  - words: [[وَفِي, ""], [الطَّرِيقِ, ""], [قَالَ, ""], [عُمَرُ, ""], [إِلَى, ""], [هٰذِهِ, ""], [الْمَدِينَةِ, ""], [هَاجَرَ, "", k], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَأَبُو, ""], [بَكْرٍ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُ, ""], [مِنْ, ""], [مَكَّةَ, ""]]
+    en: "On the way Umar said: It was to this city that the Prophet ﷺ and Abu Bakr (may Allah be pleased with him) emigrated from Makkah."
+  - words: [[فَتَذَكَّرَ, ""], [بِلَالٌ, ""], [قِصَّةَ, ""], [الْغَارِ, ""], [وَسُرَاقَةَ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُ, ""], [الَّتِي, ""], [قَرَأَهَا, ""], [فِي, ""], [الْمَدْرَسَةِ, ""], [الْعَامَ, "(the) year", n k], [الْمَاضِيَ, ""]]
+    en: "Bilal remembered the story of the cave and Suraqa (may Allah be pleased with him) that he had read at the madrasa last year."
+  - words: [[وَصَلُوا, ""], [إِلَى, ""], [الْمَدِينَةِ, ""], [قَبْلَ, ""], [الْفَجْرِ, ""], [فَرَأَوْا, ""], [مِنْ, ""], [بَعِيدٍ, ""], [الْقُبَّةَ, ""], [الْخَضْرَاءَ, ""], [وَالْمَآذِنَ, ""], [الْعَالِيَةَ, ""]]
+    en: "They reached Madinah before dawn, and from far away they saw the green dome and the tall minarets."
+  - words: [[وَكَانَتِ, ""], [الْأَنْوَارُ, "the lights", n k], [تَلْمَعُ, "shine", n k], [حَوْلَ, ""], [الْمَسْجِدِ, ""], [وَالسَّمَاءُ, ""], [تَبْيَضُّ, "was growing light", n k], [قَلِيلًا, ""], [قَلِيلًا, ""]]
+    en: "The lights were shining around the mosque, and the sky was growing light, little by little."
+  - words: [[هٰذَا, ""], [هُوَ, ""], [الْمَسْجِدُ, ""], [النَّبَوِيُّ, "(of) the Prophet ﷺ", n k], [وَقَدْ, ""], [بُنِيَ, "", k], [أَوَّلَ, ""], [مَرَّةٍ, ""], [بَعْدَ, ""], [الْهِجْرَةِ, ""], [بِقَلِيلٍ, ""]]
+    en: "This is the mosque of the Prophet ﷺ. It was first built a little after the Hijra."
+  - words: [[وَكَانَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [يَنْقُلُ, "would carry", n k], [الْحِجَارَةَ, ""], [مَعَ, ""], [أَصْحَابِهِ, ""], [حِينَ, ""], [بَنَوْهُ, ""]]
+    en: "The Prophet ﷺ carried stones with his Companions when they built it."
+  - words: [[وَكَانَتْ, ""], [جُدْرَانُهُ, ""], [مِنَ, ""], [الطِّينِ, "mud", n k], [وَسَقْفُهُ, ""], [مِنْ, ""], [جَرِيدِ, "(the) branches (of)", n k], [النَّخْلِ, ""]]
+    en: "Its walls were of mud, and its roof of palm branches."
+  - words: [[ثُمَّ, ""], [وُسِّعَ, "", k], [الْمَسْجِدُ, ""], [مَرَّاتٍ, ""], [كَثِيرَةً, ""], [حَتَّى, ""], [صَارَ, ""], [مِنْ, ""], [أَكْبَرِ, "(the) biggest", n k], [مَسَاجِدِ, ""], [الْعَالَمِ, ""]]
+    en: "Then the mosque was made larger many times, until it became one of the biggest mosques in the world."
+  - words: [[صَلَّى, ""], [الْجَمِيعُ, ""], [الْفَجْرَ, ""], [فِي, ""], [الْمَسْجِدِ, ""], [وَكَانَ, ""], [صَوْتُ, ""], [الْإِمَامِ, ""], [جَمِيلًا, ""], [هَادِئًا, ""]]
+    en: "Everyone prayed Fajr in the mosque, and the imam's voice was beautiful and calm."
+  - words: [[وَتَذَكَّرَ, ""], [بِلَالٌ, ""], [أَنَّ, ""], [الصَّلَاةَ, ""], [فِيهِ, ""], [خَيْرٌ, ""], [مِنْ, ""], [أَلْفِ, ""], [صَلَاةٍ, ""], [فِي, ""], [غَيْرِهِ, ""], [إِلَّا, ""], [الْمَسْجِدَ, ""], [الْحَرَامَ, ""]]
+    en: "Bilal remembered that a prayer in this mosque is better than a thousand prayers anywhere else, except al-Masjid al-Haram."
+  - words: [[وَبَعْدَ, ""], [الصَّلَاةِ, ""], [مَشَوْا, ""], [مَعَ, ""], [النَّاسِ, ""], [بِهُدُوءٍ, "quietly", n k], [إِلَى, ""], [قَبْرِ, "(the) grave (of)", n k], [النَّبِيِّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "After the prayer they walked quietly with the people to the grave of the Prophet ﷺ."
+  - words: [[وَقَدْ, ""], [دُفِنَ, "was buried", n k], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [فِي, ""], [حُجْرَةِ, "(the) room (of)", n k], [عَائِشَةَ, "Aisha", n k], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهَا, ""]]
+    en: "The Prophet ﷺ was buried in the room of Aisha, may Allah be pleased with her."
+  - words: [[وَهِيَ, ""], [الْيَوْمَ, ""], [تَحْتَ, ""], [الْقُبَّةِ, ""], [الْخَضْرَاءِ, ""], [دَاخِلَ, "inside", n k], [الْمَسْجِدِ, ""], [الْكَبِيرِ, ""]]
+    en: "Today it is under the green dome, inside the great mosque."
+  - words: [[وَدُفِنَ, "", k], [بِجَانِبِهِ, "beside him", n k], [صَاحِبَاهُ, "", k], [أَبُو, ""], [بَكْرٍ, ""], [وَعُمَرُ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُمَا, ""]]
+    en: "Beside him were buried his two Companions, Abu Bakr and Umar, may Allah be pleased with them."
+  - words: [[فَوَقَفَ, ""], [بِلَالٌ, ""], [وَأَبُوهُ, ""], [بِأَدَبٍ, ""], [وَقَالَا, ""], [السَّلَامُ, ""], [عَلَيْكَ, ""], [يَا, ""], [رَسُولَ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "Bilal and his father stood respectfully and said: Peace be upon you, O Messenger of Allah ﷺ."
+  - words: [[ثُمَّ, ""], [سَلَّمَا, ""], [عَلَى, ""], [أَبِي, ""], [بَكْرٍ, ""], [وَعُمَرَ, ""], [وَدَعَوَا, ""], [اللَّهَ, ""], [لَهُمَا, ""]]
+    en: "Then they greeted Abu Bakr and Umar with peace and prayed to Allah for them."
+  - words: [[وَقَالَ, ""], [الْأَبُ, ""], [بِصَوْتٍ, ""], [مُنْخَفِضٍ, "low", n k], [هُنَا, ""], [عَاشَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَهُنَا, ""], [عَلَّمَ, ""], [أَصْحَابَهُ, ""], [الْقُرْآنَ, ""], [وَالدِّينَ, ""]]
+    en: "The father said in a low voice: Here the Prophet ﷺ lived, and here he taught his Companions the Quran and the religion."
+  - words: [[ثُمَّ, ""], [جَلَسُوا, ""], [قَلِيلًا, ""], [فِي, ""], [الرَّوْضَةِ, "the Rawda (Garden)", n k], [وَهِيَ, ""], [مَكَانٌ, ""], [بَيْنَ, ""], [بَيْتِ, ""], [النَّبِيِّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَمِنْبَرِهِ, "and his minbar", n k]]
+    en: "Then they sat for a while in the Rawda, the place between the house of the Prophet ﷺ and his minbar."
+  - words: [[وَقَدْ, ""], [قَالَ, ""], [عَنْهَا, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [مَا, ""], [بَيْنَ, ""], [بَيْتِي, ""], [وَمِنْبَرِي, ""], [رَوْضَةٌ, ""], [مِنْ, ""], [رِيَاضِ, "(the) gardens (of)", n k], [الْجَنَّةِ, ""]]
+    en: "The Prophet ﷺ said of it: What is between my house and my minbar is a garden of the gardens of Paradise."
+  - words: [[وَكَانَ, ""], [الْمَكَانُ, ""], [مُزْدَحِمًا, "crowded", n k], [فَصَلَّى, ""], [كُلُّ, ""], [وَاحِدٍ, ""], [رَكْعَتَيْنِ, ""], [بِخُشُوعٍ, "with humility", n k], [ثُمَّ, ""], [تَرَكَ, ""], [مَكَانَهُ, ""], [لِغَيْرِهِ, ""]]
+    en: "The place was crowded, so each of them prayed two rak'as with humility and then made room for others."
+  - words: [[وَفِي, ""], [الْيَوْمِ, ""], [الثَّانِي, ""], [ذَهَبَتِ, ""], [الْأُسْرَتَانِ, ""], [صَبَاحَ, ""], [السَّبْتِ, "Saturday", n k], [إِلَى, ""], [مَسْجِدِ, ""], [قُبَاءٍ, "Quba'", n k]]
+    en: "The next day, a Saturday morning, the two families went to the mosque of Quba'."
+  - words: [[وَهُوَ, ""], [أَوَّلُ, ""], [مَسْجِدٍ, ""], [بُنِيَ, "", k], [فِي, ""], [الْإِسْلَامِ, "Islam", n k], [فِي, ""], [أَوَّلِ, ""], [أَيَّامِ, ""], [الْهِجْرَةِ, ""]]
+    en: "It was the first mosque built in Islam, in the first days of the Hijra."
+  - words: [[أَسَّسَهُ, "founded it", n k], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [حِينَ, ""], [وَصَلَ, ""], [مُهَاجِرًا, ""], [مِنْ, ""], [مَكَّةَ, ""]]
+    en: "The Prophet ﷺ founded it when he arrived as an emigrant from Makkah."
+  - words: [[وَقَالَ, ""], [كَثِيرٌ, ""], [مِنَ, ""], [الْعُلَمَاءِ, ""], [إِنَّهُ, ""], [الْمَسْجِدُ, ""], [الَّذِي, ""], [قَالَ, ""], [اللَّهُ, ""], [عَنْهُ, ""], [فِي, ""], [سُورَةِ, ""], [التَّوْبَةِ, "at-Tawba (Repentance)", n k]]
+    en: "Many scholars say it is the mosque of which Allah said in Surat at-Tawba:"
+  - words: [[لَّمَسْجِدٌ, "", q], [أُسِّسَ, "", q], [عَلَى, "", q], [التَّقْوَىٰ, "", q], [مِنْ, "", q], [أَوَّلِ, "", q], [يَوْمٍ, "", q], [أَحَقُّ, "", q], [أَن, "", q], [تَقُومَ, "", q], [فِيهِ, "", q]]
+    en: "A mosque founded on taqwa from the first day is more worthy for you to stand in."
+    quote: {ref: "9:108", text: لَّمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ}
+  - words: [[وَكَانَتْ, ""], [جُدْرَانُ, ""], [الْمَسْجِدِ, ""], [بَيْضَاءَ, ""], [تَلْمَعُ, ""], [فِي, ""], [شَمْسِ, ""], [الصَّبَاحِ, ""], [وَحَوْلَهُ, ""], [نَخْلٌ, ""], [أَخْضَرُ, ""]]
+    en: "The walls of the mosque were white, shining in the morning sun, with green palm trees around it."
+  - words: [[قَالَ, ""], [أَبُو, ""], [زَيْدٍ, ""], [كَانَ, ""], [رَسُولُ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [يَأْتِيهِ, ""], [كُلَّ, ""], [سَبْتٍ, ""], [مَاشِيًا, ""], [وَرَاكِبًا, ""]]
+    en: "Abu Zayd said: The Messenger of Allah ﷺ used to come to it every Saturday, walking or riding."
+  - words: [[فَصَلَّى, ""], [الْجَمِيعُ, ""], [فِيهِ, ""], [رَكْعَتَيْنِ, ""], [كَمَا, ""], [كَانَ, ""], [يَفْعَلُ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "So everyone prayed two rak'as in it, as he ﷺ used to do."
+  - words: [[وَبَعْدَ, ""], [الْعَصْرِ, ""], [ذَهَبُوا, ""], [إِلَى, ""], [جَبَلِ, ""], [أُحُدٍ, "Uhud", n k], [شَمَالَ, "", k], [الْمَدِينَةِ, ""]]
+    en: "After Asr they went to Mount Uhud, north of Madinah."
+  - words: [[وَهُوَ, ""], [جَبَلٌ, ""], [كَبِيرٌ, ""], [طَوِيلٌ, ""], [لَوْنُهُ, "its colour", n k], [أَحْمَرُ, ""], [تَحْتَ, ""], [شَمْسِ, ""], [الْمَسَاءِ, ""]]
+    en: "It is a big, long mountain, red in colour under the evening sun."
+  - words: [[وَعِنْدَ, ""], [هٰذَا, ""], [الْجَبَلِ, ""], [وَقَعَتْ, "took place", n k], [مَعْرَكَةُ, "(the) battle (of)", n k], [أُحُدٍ, "", k], [فِي, ""], [السَّنَةِ, ""], [الثَّالِثَةِ, ""], [مِنَ, ""], [الْهِجْرَةِ, ""]]
+    en: "At this mountain the Battle of Uhud took place, in the third year after the Hijra."
+  - words: [[وَقَدِ, ""], [اسْتُشْهِدَ, "were martyred", n k], [فِيهَا, ""], [سَبْعُونَ, "seventy", n k], [مِنَ, ""], [الْمُسْلِمِينَ, ""], [مِنْهُمْ, ""], [حَمْزَةُ, "Hamza", n k], [عَمُّ, ""], [النَّبِيِّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُ, ""]]
+    en: "Seventy Muslims were martyred in it, among them Hamza (may Allah be pleased with him), the uncle of the Prophet ﷺ."
+  - words: [[وَدُفِنَ, "", k], [الشُّهَدَاءُ, "the martyrs", n k], [هُنَاكَ, ""], [قَرِيبًا, ""], [مِنَ, ""], [الْمَكَانِ, ""], [الَّذِي, ""], [قُتِلُوا, "", k], [فِيهِ, ""]]
+    en: "The martyrs were buried there, close to the place where they were killed."
+  - words: [[فَوَقَفُوا, ""], [عِنْدَ, ""], [مَقْبَرَةِ, "(the) graveyard (of)", n k], [الشُّهَدَاءِ, ""], [وَسَلَّمُوا, ""], [عَلَيْهِمْ, ""], [وَدَعَوْا, ""], [لَهُمْ, ""], [بِالرَّحْمَةِ, ""]]
+    en: "They stood at the graveyard of the martyrs, greeted them with peace and prayed for mercy for them."
+  - words: [[ثُمَّ, ""], [صَعِدَ, ""], [بِلَالٌ, ""], [وَزَيْدٌ, ""], [جَبَلًا, ""], [صَغِيرًا, ""], [قَرِيبًا, ""], [يُسَمَّى, "", k], [جَبَلَ, ""], [الرُّمَاةِ, "the archers", n k]]
+    en: "Then Bilal and Zayd climbed a small hill nearby called the Hill of the Archers."
+  - words: [[وَقَالَ, ""], [عُمَرُ, ""], [عَلَى, ""], [هٰذَا, ""], [الْجَبَلِ, ""], [وَضَعَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [خَمْسِينَ, "fifty", n k], [مِنَ, ""], [الرُّمَاةِ, ""]]
+    en: "Umar said: On this hill the Prophet ﷺ placed fifty of the archers."
+  - words: [[وَأَمَرَهُمْ, ""], [أَلَّا, ""], [يَتْرُكُوا, ""], [مَكَانَهُمْ, ""], [أَبَدًا, ""], [حَتَّى, ""], [يُرْسِلَ, ""], [إِلَيْهِمْ, ""]]
+    en: "He ordered them never to leave their place until he sent word to them."
+  - words: [[فَلَمَّا, ""], [رَأَى, ""], [أَكْثَرُهُمْ, ""], [أَنَّ, ""], [الْمُسْلِمِينَ, ""], [قَدْ, ""], [غَلَبُوا, "", k], [نَزَلُوا, ""], [يَطْلُبُونَ, ""], [الْغَنَائِمَ, "the spoils", n k]]
+    en: "But when most of them saw that the Muslims had won, they came down looking for the spoils."
+  - words: [[فَجَاءَ, ""], [الْعَدُوُّ, ""], [مِنْ, ""], [وَرَائِهِمْ, ""], [وَأَصَابَ, ""], [الْمُسْلِمِينَ, ""], [مَا, ""], [أَصَابَهُمْ, ""], [فِي, ""], [ذٰلِكَ, ""], [الْيَوْمِ, ""]]
+    en: "So the enemy came from behind them, and the Muslims suffered what they suffered that day."
+  - words: [[فَقَالَ, ""], [زَيْدٌ, ""], [وَهُوَ, ""], [يَنْظُرُ, ""], [إِلَى, ""], [الْجَبَلِ, ""], [هٰذَا, ""], [دَرْسٌ, ""], [فِي, ""], [طَاعَةِ, "obeying", n k], [أَمْرِ, ""], [النَّبِيِّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "Zayd said, looking at the hill: This is a lesson in obeying the command of the Prophet ﷺ."
+  - words: [[وَقَبْلَ, ""], [الْمَغْرِبِ, ""], [نَظَرَ, ""], [بِلَالٌ, ""], [إِلَى, ""], [أُحُدٍ, "", k], [طَوِيلًا, ""], [وَتَذَكَّرَ, ""], [حَدِيثًا, ""], [حَفِظَهُ, ""], [فِي, ""], [الْمَدْرَسَةِ, ""]]
+    en: "Before Maghrib Bilal looked at Uhud for a long time and remembered a hadith he had learned at the madrasa."
+  - words: [[قَالَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [إِنَّ, ""], [أُحُدًا, "", k], [جَبَلٌ, ""], [يُحِبُّنَا, ""], [وَنُحِبُّهُ, ""]]
+    en: "The Prophet ﷺ said: Uhud is a mountain that loves us, and we love it."
+  - words: [[وَفِي, ""], [الْأَيَّامِ, ""], [الْأَخِيرَةِ, ""], [صَلَّى, ""], [بِلَالٌ, ""], [الصَّلَوَاتِ, ""], [كُلَّهَا, ""], [فِي, ""], [الْمَسْجِدِ, ""], [النَّبَوِيِّ, ""], [مَعَ, ""], [أَبِيهِ, ""], [وَزَيْدٍ, ""]]
+    en: "In the last days Bilal prayed all the prayers in the mosque of the Prophet ﷺ with his father and Zayd."
+  - words: [[وَكَانَتْ, ""], [مَرْيَمُ, ""], [وَفَاطِمَةُ, ""], [تُصَلِّيَانِ, ""], [مَعَ, ""], [أُمَّيْهِمَا, "", k], [فِي, ""], [مُصَلَّى, "(the) prayer hall (of)", n k], [النِّسَاءِ, ""]]
+    en: "Maryam and Fatima prayed with their mothers in the women's prayer hall."
+  - words: [[وَفِي, ""], [الْيَوْمِ, ""], [الْأَخِيرِ, ""], [وَدَّعَتِ, "said goodbye to", n k], [الْأُسْرَتَانِ, ""], [الْمَدِينَةَ, ""], [وَوَدَّعَ, ""], [بِلَالٌ, ""], [صَدِيقَهُ, ""], [زَيْدًا, ""], [فِي, ""], [الْمَطَارِ, ""]]
+    en: "On the last day the two families said goodbye to Madinah, and Bilal said goodbye to his friend Zayd at the airport."
+  - words: [[وَقَالَ, ""], [لَهُ, ""], [زَيْدٌ, ""], [الْتَقَيْنَا, ""], [فِي, ""], [سِرِيلَانْكَا, ""], [ثُمَّ, ""], [فِي, ""], [الْقَاهِرَةِ, ""], [وَالْآنَ, ""], [فِي, ""], [مَكَّةَ, ""], [وَالْمَدِينَةِ, ""]]
+    en: "Zayd said to him: We met in Sri Lanka, then in Cairo, and now in Makkah and Madinah."
+  - words: [[فَقَالَ, ""], [بِلَالٌ, ""], [أَرْجُو, "I hope", n k], [أَنْ, ""], [يُكْتَبَ, "", k], [لَنَا, ""], [أَنْ, ""], [نَرْجِعَ, ""], [إِلَيْهِمَا, ""], [مَرَّةً, ""], [أُخْرَى, ""]]
+    en: "Bilal said: I hope it will be written for us to come back to them again."
+  - words: [[وَفِي, ""], [الطَّائِرَةِ, ""], [فَتَحَ, ""], [بِلَالٌ, ""], [مُصْحَفَهُ, ""], [وَقَرَأَ, ""], [سُورَةَ, ""], [الْكَهْفِ, ""], [لِأَنَّ, ""], [الْيَوْمَ, ""], [كَانَ, ""], [يَوْمَ, ""], [الْجُمُعَةِ, ""]]
+    en: "On the plane Bilal opened his mushaf and read Surat al-Kahf, because that day was Friday."
+
+dictionary:
+  - {ar: عُمْرَةٌ, en: umrah (the lesser pilgrimage), pos: [اسم, noun], root: عمر, pattern: فُعْلَةٌ, ayah: {ref: "2:196", text: وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ, en: "and complete the Hajj and the umrah for Allah"}, note: "From the root of visiting a place and keeping it alive with people. It can be done at any time of the year; Hajj only on its days in Dhul Hijja."}
+  - {ar: إِحْرَامٌ, en: "ihram (the state, and clothes, of the pilgrim)", pos: [مصدر, verbal noun], root: حرم, pattern: إِفْعَالٌ, ayah: {ref: "5:1", text: وَأَنتُمْ حُرُمٌ, en: "while you are in the state of ihram"}, note: "From أَحْرَمَ (بَابُ الْإِفْعَالِ): he entered a state in which some lawful things become حَرَامٌ for him for a time."}
+  - {ar: مِيقَاتٌ, en: appointed place or time; miqat, pos: [اسم, noun], root: وقت, pattern: مِفْعَالٌ, plural: مَوَاقِيتُ, ayah: {ref: "7:143", text: وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا, en: "and when Musa came at Our appointed time"}, note: "The و of وقت becomes ي after the kasra. For the pilgrim, the مِيقَاتُ is the place where ihram begins; planes from Sri Lanka pass it before Jeddah."}
+  - {ar: طَافَ, en: he went round, pos: [فعل ماض, past verb], present: يَطُوفُ, bab: بَابُ نَصَرَ, root: طوف, pattern: فَعَلَ, ayah: {ref: "22:29", text: وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ, en: "and let them go round the Ancient House"}, note: "Going round the Ka'ba seven times is الطَّوَافُ."}
+  - {ar: كَعْبَةٌ, en: the Ka'ba, pos: [اسم, noun], root: كعب, pattern: فَعْلَةٌ, ayah: {ref: "5:97", text: جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ, en: "Allah made the Ka'ba, the Sacred House"}, note: "The name comes from its cube shape. The Quran also calls it الْبَيْتُ, the House."}
+  - {ar: سَعَى, en: he went quickly; he strove; he walked between Safa and Marwa, pos: [فعل ماض, past verb], present: يَسْعَى, bab: بَابُ فَتَحَ, root: سعي, pattern: فَعَلَ, ayah: {ref: "53:39", text: وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ, en: "and that man has only what he strives for"}, note: "Past plural: سَعَوْا. The walk between as-Safa and al-Marwa is السَّعْيُ."}
+  - {ar: حَلَقَ, en: he shaved, pos: [فعل ماض, past verb], present: يَحْلِقُ, bab: بَابُ ضَرَبَ, root: حلق, pattern: فَعَلَ, ayah: {ref: "48:27", text: مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ, en: "with your heads shaved or your hair cut short"}, note: "Do not confuse it with خَلَقَ, he created: only the dot is different. قَصَّرَ (بَابُ التَّفْعِيلِ): he cut the hair short."}
+  - {ar: دَفَنَ, en: he buried, pos: [فعل ماض, past verb], present: يَدْفِنُ, bab: بَابُ ضَرَبَ, root: دفن, pattern: فَعَلَ, note: "Passive: دُفِنَ, he was buried. Not in the Quran, which says أَقْبَرَهُ (80:21)."}
+  - {ar: قَبْرٌ, en: grave, pos: [اسم, noun], root: قبر, pattern: فَعْلٌ, plural: قُبُورٌ, ayah: {ref: "80:21", text: ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ, en: "then He causes him to die and puts him in a grave"}, note: "A graveyard is مَقْبَرَةٌ, the place pattern: مَقَابِرُ in 102:2."}
+  - {ar: حُجْرَةٌ, en: room; private apartment, pos: [اسم, noun], root: حجر, pattern: فُعْلَةٌ, plural: حُجُرَاتٌ, ayah: {ref: "49:4", text: إِنَّ الَّذِينَ يُنَادُونَكَ مِن وَرَاءِ الْحُجُرَاتِ, en: "those who call you from behind the private rooms"}, note: "The rooms of the wives of the Prophet ﷺ beside the mosque. Surat al-Hujurat is named after them."}
+  - {ar: رَوْضَةٌ, en: garden; meadow, pos: [اسم, noun], root: روض, pattern: فَعْلَةٌ, plural: رِيَاضٌ, ayah: {ref: "30:15", text: فَهُمْ فِي رَوْضَةٍ يُحْبَرُونَ, en: "they will be delighted in a garden"}, note: "In the mosque of the Prophet ﷺ, الرَّوْضَةُ is the area between his house and his minbar. Riyadh, the city, is the plural: gardens."}
+  - {ar: مِنْبَرٌ, en: minbar; pulpit, pos: [اسم, noun], root: نبر, pattern: مِفْعَلٌ, plural: مَنَابِرُ, note: "The raised steps from which the imam gives the khutba. مِفْعَلٌ is a pattern for tools and instruments, and so is its sister مِفْعَالٌ: مِنْقَارٌ, a beak. Not in the Quran."}
+  - {ar: أَسَّسَ, en: he founded; he laid the foundation of, pos: [فعل ماض, past verb], present: يُؤَسِّسُ, bab: بَابُ التَّفْعِيلِ, root: أسس, pattern: فَعَّلَ, ayah: {ref: "9:108", text: لَّمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ, en: "a mosque founded on taqwa"}, note: "Added letters, from أَسَاسٌ, a foundation. In 9:108 it is passive: أُسِّسَ, it was founded."}
+  - {ar: خُشُوعٌ, en: humility; stillness in prayer, pos: [مصدر, verbal noun], root: خشع, pattern: فُعُولٌ, ayah: {ref: "23:2", text: الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ, en: "those who are humble in their prayer"}, note: "From خَشَعَ يَخْشَعُ. The heart and body both become still and humble before Allah."}
+  - {ar: شَهِيدٌ, en: martyr; witness, pos: [صفة مشبهة, "adjective; also a noun: martyr"], root: شهد, pattern: فَعِيلٌ, plural: شُهَدَاءُ, ayah: {ref: "3:140", text: وَيَتَّخِذَ مِنكُمْ شُهَدَاءَ, en: "and that He may take martyrs from among you"}, note: "Ibn Kathir explains that this part of Surat Al Imran speaks of the Battle of Uhud. اُسْتُشْهِدَ (passive, بَابُ الِاسْتِفْعَالِ): he was martyred."}
+  - {ar: مَعْرَكَةٌ, en: battle, pos: [اسم مكان, noun of place], root: عرك, pattern: مَفْعَلَةٌ, plural: مَعَارِكُ, register: modern, note: "Literally the place where fighters struggle. Classical writers usually say غَزْوَةُ أُحُدٍ for the battles of the Prophet ﷺ."}
+  - {ar: رَامٍ, en: archer; one who shoots, pos: [اسم فاعل, active participle], root: رمي, pattern: فَاعِلٌ, plural: رُمَاةٌ, ayah: {ref: "8:17", text: وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَـٰكِنَّ اللَّهَ رَمَىٰ, en: "and you did not throw when you threw, but Allah threw"}, note: "From رَمَى يَرْمِي, he threw or shot. Like قَاضٍ: the plural رُمَاةٌ is on the فُعَلَةٌ pattern, like قُضَاةٌ."}
+
+root_families:
+  - root: بني
+    words: [[بَنَى, "he built"], [بُنِيَ, "it was built"], [بَنَوْهُ, "they built it"], [بُنْيَانٌ, "a building"]]
+  - root: شهد
+    words: [[شَهِيدٌ, "martyr; witness"], [شُهَدَاءُ, "martyrs"], [اُسْتُشْهِدَ, "he was martyred"], [شَهِدَ, "he witnessed"]]
+
+grammar:
+  title_ar: الْفِعْلُ الْمَبْنِيُّ لِلْمَجْهُولِ
+  title_en: "The passive: when the doer is not named"
+  body: >-
+    When we do not name the doer, or do not need to, the verb becomes passive (مَبْنِيٌّ لِلْمَجْهُولِ) and the thing done to becomes its نَائِبُ
+    الْفَاعِلِ (stand-in for the doer), مَرْفُوعٌ (in the raf'): دَفَنَ الصَّحَابَةُ النَّبِيَّ ﷺ, the Companions buried the Prophet ﷺ; دُفِنَ النَّبِيُّ ﷺ, the Prophet ﷺ was buried.
+    In the فِعْلٌ مَاضٍ (past verb), the first letter takes a damma and the letter before the last a kasra: دَفَنَ, دُفِنَ; بَنَى, بُنِيَ; قَتَلُوا, قُتِلُوا.
+    A verb of بَابُ التَّفْعِيلِ keeps its shadda: أَسَّسَ, أُسِّسَ; وَسَّعَ, وُسِّعَ. In the فِعْلٌ مُضَارِعٌ (present verb), the first letter takes a damma and the letter before the
+    last a fatha: يُكْتَبُ, it is written; يُسَمَّى, it is called; يُقَالُ, it is said.
+  examples:
+    - [وَقَدْ دُفِنَ النَّبِيُّ ﷺ فِي حُجْرَةِ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا, "The Prophet ﷺ was buried in the room of Aisha (may Allah be pleased with her)."]
+    - [وَهُوَ أَوَّلُ مَسْجِدٍ بُنِيَ فِي الْإِسْلَامِ, "It was the first mosque built in Islam."]
+    - [جَبَلًا صَغِيرًا يُسَمَّى جَبَلَ الرُّمَاةِ, "a small hill called the Hill of the Archers"]
+
+tip:
+  title: "Reading without vowels: is it passive?"
+  body: >-
+    Without vowels, دفن can be دَفَنَ (he buried) or دُفِنَ (he was buried), and بني can be بَنَى or بُنِيَ. In this booklet passive verbs
+    keep their marks, but in booklet 5 they will not. Ask: who did it? If the sentence names no doer and the word after the verb is the
+    thing done to, read the verb as passive: ودفن الشهداء هناك can only mean the martyrs were buried. If the verb carries its doer, as in حين بنوه (when they
+    built it), it is active. A verb of بَابُ التَّفْعِيلِ with shadda on its middle letter (وسع المسجد) is passive too only if no doer was named before it and the noun after it is what was done to.
+
+reread: Read the unvowelled version above again. Then underline every passive verb and say what was done and to what.

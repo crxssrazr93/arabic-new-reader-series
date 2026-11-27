@@ -1,0 +1,70 @@
+# Bonus booklet, surah 107. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-04
+booklet: 0
+number: 4
+strand: quran
+title_ar: سُورَةُ الْمَاعُونِ
+title_en: "Al-Ma'un: Small Kindnesses"
+source: "Quran 107"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-04-doorway-pot.png
+    alt: An open wooden doorway of a simple house, with a cooking pot, a water jug and a bowl set out on the step beside it
+
+sentences:
+  - words: [[أَرَأَيْتَ, "Have you seen", q], [الَّذِي, "the one who", q], [يُكَذِّبُ, "denies", q], [بِالدِّينِ, "(in) the Recompense", q]]
+    en: Have you seen the one who denies the Day of Recompense?
+    quote: {ref: "107:1", text: أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ}
+  - words: [[فَذَٰلِكَ, "So that", q], [الَّذِي, "(is) the one who", q], [يَدُعُّ, "pushes away", q], [الْيَتِيمَ, "the orphan", q]]
+    en: He is the one who roughly drives the orphan away,
+    quote: {ref: "107:2", text: فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ}
+  - words: [[وَلَا, "and not", q], [يَحُضُّ, "he urges", q], [عَلَىٰ, "to", q], [طَعَامِ, "(the) feeding", q], [الْمِسْكِينِ, "(of) the poor", q]]
+    en: and does not encourage anyone to feed the poor.
+    quote: {ref: "107:3", text: وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ}
+  - words: [[فَوَيْلٌ, "So woe", q], [لِّلْمُصَلِّينَ, "to those who pray", q]]
+    en: So woe to those who pray,
+    quote: {ref: "107:4", text: فَوَيْلٌ لِّلْمُصَلِّينَ}
+  - words: [[الَّذِينَ, "those who", q], [هُمْ, "they", q], [عَن, "about", q], [صَلَاتِهِمْ, "their prayer", q], [سَاهُونَ, "(are) heedless", q]]
+    en: who are careless about their prayer,
+    quote: {ref: "107:5", text: الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ}
+  - words: [[الَّذِينَ, "those who", q], [هُمْ, "they", q], [يُرَاءُونَ, "show off", q]]
+    en: who do their deeds to be seen by people,
+    quote: {ref: "107:6", text: الَّذِينَ هُمْ يُرَاءُونَ}
+  - words: [[وَيَمْنَعُونَ, "and they withhold", q], [الْمَاعُونَ, "small kindnesses", q]]
+    en: and who hold back even the smallest help from others.
+    quote: {ref: "107:7", text: وَيَمْنَعُونَ الْمَاعُونَ}
+
+dictionary:
+  - {ar: كَذَّبَ, en: he denied; he called something a lie, pos: [فعل ماض, past verb], root: كذب, pattern: "فَعَّلَ", present: يُكَذِّبُ, bab: بَابُ التَّفْعِيلِ, ayah: {ref: "92:16", text: الَّذِي كَذَّبَ وَتَوَلَّىٰ, en: "the one who denied and turned away"}, note: "كَذَبَ is to lie; كَذَّبَ (with shadda) is to say that someone else lies. Followed by بِ: يُكَذِّبُ بِالدِّينِ."}
+  - {ar: يَتِيمٌ, en: orphan, pos: [صفة مشبهة, adjective used as a noun], root: يتم, pattern: فَعِيلٌ, plural: يَتَامَى, ayah: {ref: "93:9", text: فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ, en: "so as for the orphan, do not treat him harshly"}, note: "A child whose father has died."}
+  - {ar: حَضَّ, en: he urged; he encouraged, pos: [فعل ماض, past verb], root: حضض, pattern: "فَعَلَ (مُضَعَّفٌ)", present: يَحُضُّ, bab: بَابُ نَصَرَ, ayah: {ref: "69:34", text: وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ, en: "and he would not urge the feeding of the poor"}, note: "69:34 has the very same words as 107:3."}
+  - {ar: مِسْكِينٌ, en: poor person; needy, pos: [صفة مشبهة, adjective used as a noun], root: سكن, pattern: مِفْعِيلٌ, plural: مَسَاكِينُ, ayah: {ref: "90:16", text: أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ, en: "or a poor person lying in the dust"}, note: "Root سكن, to be still: poverty has made him still and helpless."}
+  - {ar: وَيْلٌ, en: woe; ruin, pos: [اسم, noun], root: ويل, pattern: فَعْلٌ, ayah: {ref: "83:1", text: وَيْلٌ لِّلْمُطَفِّفِينَ, en: "woe to those who give short measure"}}
+  - {ar: صَلَاةٌ, en: prayer (salah), pos: [اسم, noun], root: صلو, pattern: فَعَلَةٌ, plural: صَلَوَاتٌ, ayah: {ref: "2:3", text: وَيُقِيمُونَ الصَّلَاةَ, en: "and they establish the prayer"}, note: "The verb صَلَّى (he prayed) and the active participle مُصَلٍّ (one who prays; plural مُصَلُّونَ) are from the same root."}
+  - {ar: سَاهٍ, en: heedless; careless, pos: [اسم فاعل, active participle], root: سهو, pattern: فَاعِلٌ, plural: سَاهُونَ, ayah: {ref: "51:11", text: الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ, en: "those who are heedless, sunk in confusion"}}
+  - {ar: مَنَعَ, en: he held back; he refused, pos: [فعل ماض, past verb], root: منع, pattern: "فَعَلَ", present: يَمْنَعُ, bab: بَابُ فَتَحَ, ayah: {ref: "70:21", text: وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا, en: "and when good touches him, he holds it back"}}
+
+grammar:
+  title_ar: الِاسْمُ الْمَوْصُولُ
+  title_en: "الَّذِي and الَّذِينَ: the one who, those who"
+  body: >-
+    الَّذِي (the one who, for one male) and الَّذِينَ (those who, for a male or mixed group) join a description to a noun.
+    The words after them (the صلة) tell you who is meant. This surah builds its whole picture with them: first one man,
+    الَّذِي, then a group, الَّذِينَ.
+  examples:
+    - [الَّذِي يُكَذِّبُ بِالدِّينِ, "the one who denies the Recompense"]
+    - [الَّذِينَ هُمْ يُرَاءُونَ, "those who show off"]
+    - [صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ, "the path of those You have blessed (1:7)"]
+
+tip:
+  title: "Meaning note: عَن صَلَاتِهِمْ, not فِي صَلَاتِهِمْ"
+  body: >-
+    The ayah says heedless عَن (about) their prayer, not فِي (in) their prayer. The tafsir scholars point out the
+    difference: everyone makes small slips inside the prayer; the warning is for those careless about the prayer itself,
+    delaying it past its time or neglecting it. الْمَاعُون is the small help people normally share (Ibn Kathir mentions
+    lending a pot, a bucket or an axe, and also zakat).
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

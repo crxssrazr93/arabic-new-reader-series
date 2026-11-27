@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ booklet.title if booklet else stories[0].title_en }}</title>
+<link rel="stylesheet" href="templates/style.css">
+</head>
+<body>
+
+{% if booklet %}
+<section class="cover">
+  <div class="band"><div class="ornament"></div></div>
+  <div class="num">Arabic New Reader Series · Booklet {{ booklet.number }}{% if booklet.part %} · Part {{ booklet.part }}{% endif %}</div>
+  <h1>{{ booklet.title }}</h1>
+  <div class="title-ar ar">{{ booklet.title_ar }}</div>
+  {% if booklet.cover_image %}<div class="art"><img src="assets/illustrations/{{ booklet.cover_image }}" alt=""></div>{% endif %}
+</section>
+
+<section class="front">
+  <h2>How to use this booklet</h2>
+  {% for p in booklet.intro %}<p>{{ p|bidi }}</p>{% endfor %}
+  <div class="howto">
+    {% for c in booklet.howto %}<div class="card"><b>{{ c[0] }}</b>{{ c[1]|bidi }}</div>{% endfor %}
+  </div>
+  <h2 style="margin-top:6mm">Contents</h2>
+  <ol class="contents">
+    {% for st in stories %}
+    <li><span class="n">{{ st.number }}</span><span class="en">{{ st.title_en }}</span><span class="ar">{{ st.title_ar }}</span><a class="pg" href="#st-{{ st.id }}"></a></li>
+    {% endfor %}
+    {% if booklet.translation == 'back' %}<li><span class="n"></span><span class="en">Translations</span><span class="ar">التَّرْجَمَة</span><a class="pg" href="#translations"></a></li>{% endif %}
+    <li><span class="n"></span><span class="en">Glossary</span><span class="ar">المُعْجَم</span><a class="pg" href="#glossary"></a></li>
+  </ol>
+  {% if booklet.credits %}<div class="credits">{% for c in booklet.credits %}{{ c }}<br>{% endfor %}</div>{% endif %}
+</section>
+{% endif %}
+
+{% for st in stories %}
+<section class="story" id="st-{{ st.id }}">
+  <div class="opener">
+    <div class="left">
+      <div class="kicker">{% if st.booklet == 0 %}Surah {{ st.source|replace('Quran ', '') }}{% else %}Story {{ st.number }} · {{ st.strand|capitalize }}{% endif %}</div>
+      <h2>{{ st.title_en }}</h2>
+      {% if st.meta_line and st.booklet != 0 %}<div class="madinah">{{ st.meta_line }}</div>{% endif %}
+    </div>
+    <div class="title-ar ar">{{ st.title_ar }}</div>
+  </div>
+
+  {% for s in st.sents %}
+    {% if s.ill %}<div class="unit">{# a picture never ends a page without its sentence #}
+      {% if s.ill.missing %}
+      <figure class="ill"><div style="height:60mm;border:1.5px dashed #ccc;border-radius:3mm;display:flex;align-items:center;justify-content:center;color:#999;font-size:9pt">[illustration: {{ s.ill.alt }}]</div></figure>
+      {% else %}
+      <figure class="ill"><img src="assets/illustrations/{{ s.ill.file }}" alt="{{ s.ill.alt }}"></figure>
+      {% endif %}
+    {% endif %}
+    <div class="sent" id="s-{{ st.id }}-{{ s.n }}">
+      <div class="line">
+        {% for it in s.toks %}
+          {# Ornate brackets sit inside the first and last quoted word, so they never wrap onto a line alone. #}
+          {% set q = 'q' in it.flags %}
+          {% set opens = q and (loop.first or 'q' not in loop.previtem.flags) %}
+          {% set closes = q and (loop.last or 'q' not in loop.nextitem.flags) %}
+          <span class="w{% if q %} q{% endif %}"><span class="a" lang="ar">{% if opens %}<span class="bracket">﴾</span>{% endif %}{{ it.ar }}{% if closes %}<span class="bracket">﴿</span>{% endif %}</span>{% if it.gloss %}<span class="g">{{ it.gloss|bidi }}</span>{% endif %}</span>
+        {% endfor %}
+      </div>
+      {% if st.cfg.translation == 'inline' %}
+      <div class="en"><span class="n">{{ s.n }}</span>{{ s.en|bidi }}{% if s.quote %}<span class="ref">({{ s.quote.ref|ref }})</span>{% endif %}</div>
+      {% else %}
+      <div class="en" style="color:#9aa0aa;font-size:8pt"><span class="n">{{ s.n }}</span>{% if s.quote %}{{ s.quote.ref|ref }}{% endif %}</div>
+      {% endif %}
+    </div>
+    {% if s.ill %}</div>{% endif %}
+  {% endfor %}
+
+  {% if st.cfg.translation == 'after' %}
+  <div class="box translation" style="border:1px solid var(--rule)">
+    <h3>Translation</h3>
+    {% for s in st.sents %}<p><b style="color:var(--accent)">{{ s.n }}</b> {{ s.en|bidi }}{% if s.quote %} <span style="color:var(--quran)">({{ s.quote.ref|ref }})</span>{% endif %}</p>{% endfor %}
+  </div>
+  {% endif %}
+
+</section>
+
+<section class="dict">
+  <div class="dict-head"><h2>Dictionary · {{ st.title_en }}</h2><span class="ar">القَامُوس</span></div>
+  <div class="entries">
+    {% for e in st.dictionary %}
+    <div class="entry" id="d-{{ st.id }}-{{ loop.index }}">
+      <div class="top">
+        <div>
+          <div class="mean">{{ e.en|bidi }}{% if e.register == 'modern' %}<span class="tag modern">modern</span>{% elif e.register == 'both' %}<span class="tag both">classical + modern</span>{% endif %}</div>
+          <div class="facts">
+            <span class="ar">{{ e.pos[0] }}</span> {{ e.pos[1]|bidi }}<br>
+            {% if e.root %}root <span class="root-letters">{{ e.root_spaced }}</span>{% endif %}
+            {% if e.pattern %} · pattern {{ e.pattern|bidi }}{% endif %}
+            {% if e.present %}<br>present <span class="ar">{{ e.present }}</span>{% endif %}{% if e.bab %} · <span class="ar">{{ e.bab }}</span>{% endif %}
+            {% if e.plural %}<br>plural {{ e.plural|bidi }}{% endif %}
+          </div>
+        </div>
+        <div style="text-align:right">
+          <div class="word">{{ e.word_html|safe }}</div>
+          <div class="bare">{{ e.bare }}</div>
+        </div>
+      </div>
+      {% if e.ayah_text %}<div class="ayah"><div class="ayah-row"><span class="r">{{ e.ayah.ref|ref }}</span><span class="t">{{ e.ayah_text }}</span></div>{% if e.ayah.en %}<div class="ayah-en">{{ e.ayah.en|bidi }}</div>{% endif %}</div>{% endif %}
+      {% if e.note %}<div class="note">{{ e.note|bidi }}</div>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  {% if st.root_families %}
+  <div class="keep">
+  <h3 style="margin:5mm 0 2mm">Root families</h3>
+  <div class="families">
+    {% for f in st.root_families %}
+    <div class="family">
+      <div class="root-big">{{ f.root|join(' ') }}</div>
+      {% for w in f.words %}<div class="row"><span class="e">{{ w[1]|bidi }}</span><span class="a">{{ w[0] }}</span></div>{% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+  </div>
+  {% endif %}
+
+  {% if st.grammar %}
+  <div class="box grammar" id="g-{{ st.id }}">
+    <h3>{{ st.grammar.title_en|bidi }} · <span class="ar" style="font-size:15pt">{{ st.grammar.title_ar }}</span></h3>
+    <div>{{ st.grammar.body|bidi }}</div>
+    {% for ex in st.grammar.examples %}<div class="ex"><span>{{ ex[1]|bidi }}</span><span class="a">{{ ex[0] }}</span></div>{% endfor %}
+  </div>
+  {% endif %}
+
+  {% if st.tip %}
+  <div class="box tip" id="t-{{ st.id }}"><h3>{{ st.tip.title|bidi }}</h3>{{ st.tip.body|bidi }}</div>
+  {% endif %}
+
+  {% if st.cfg.unvowelled == 'try' and st.try_it %}
+  <div class="box try">
+    <h3>Try it without vowels</h3>
+    <div class="words">{% for w in st.try_it.words %}<span>{{ w }}</span>{% endfor %}</div>
+    {% if st.try_it.sentence %}<div class="sentence">{{ st.try_it.sentence }}</div>{% endif %}
+  </div>
+  {% elif st.cfg.unvowelled == 'full' %}
+  <div class="box try long">
+    <h3>Read the whole story without vowels</h3>
+    <div class="para">{{ st.plain_text }}</div>
+  </div>
+  {% endif %}
+
+  {% if st.reread %}<div class="box reread"><h3>Read it again</h3>{{ st.reread|bidi }}</div>{% endif %}
+</section>
+{% endfor %}
+
+{% if booklet %}
+{% if booklet.translation == 'back' %}
+<section class="glossary" id="translations">
+  <h2 class="section-title">Translations</h2>
+  {% for st in stories %}
+  <h3>{{ st.number }}. {{ st.title_en }}</h3>
+  {% for s in st.sents %}<p style="margin:0 0 1.2mm"><b style="color:var(--accent)">{{ s.n }}</b> {{ s.en|bidi }}{% if s.quote %} <span style="color:var(--quran)">({{ s.quote.ref|ref }})</span>{% endif %}</p>{% endfor %}
+  {% endfor %}
+</section>
+{% endif %}
+<section class="glossary" id="glossary">
+  <h2 class="section-title">Glossary · <span class="ar">المُعْجَم</span></h2>
+  <p style="color:var(--muted);font-size:9pt">Every dictionary word in this booklet, ordered by root. The number is the story where it first appears.</p>
+  <div class="gl-cols">
+    {% for g in glossary %}
+    <div class="gl-row"><span class="s">{{ g.story }}</span><span class="a">{{ g.ar }}</span><span class="r">{{ g.root }}</span><span class="e">{{ g.en|bidi }}</span></div>
+    {% endfor %}
+  </div>
+</section>
+{% if notes_page %}
+<section class="notes-page">
+  <h2 class="section-title">Notes</h2>
+  <div class="lines">{% for i in range(22) %}<div></div>{% endfor %}</div>
+</section>
+{% endif %}
+{% endif %}
+
+</body>
+</html>

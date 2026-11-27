@@ -1,0 +1,62 @@
+# Bonus booklet, surah 105. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-02
+booklet: 0
+number: 2
+strand: quran
+title_ar: سُورَةُ الْفِيلِ
+title_en: "Al-Fil: The Elephant"
+source: "Quran 105"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-02-desert-road.png
+    alt: An empty desert road winding between rocky hills toward a distant valley town, under a sky darkening with heavy clouds
+
+sentences:
+  - words: [[أَلَمْ, "Have not", q], [تَرَ, "you seen", q], [كَيْفَ, "how", q], [فَعَلَ, "dealt", q], [رَبُّكَ, "your Lord", q], [بِأَصْحَابِ, "with (the) companions", q], [الْفِيلِ, "(of) the elephant", q]]
+    en: Do you not know how your Lord dealt with the army of the elephant?
+    quote: {ref: "105:1", text: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ}
+  - words: [[أَلَمْ, "Did not", q], [يَجْعَلْ, "He make", q], [كَيْدَهُمْ, "their plot", q], [فِي, "in", q], [تَضْلِيلٍ, "(utter) failure", q]]
+    en: Did He not make their scheme come to nothing?
+    quote: {ref: "105:2", text: أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ}
+  - words: [[وَأَرْسَلَ, "And He sent", q], [عَلَيْهِمْ, "against them", q], [طَيْرًا, "birds", q], [أَبَابِيلَ, "in flocks", q]]
+    en: He sent against them birds, flock after flock,
+    quote: {ref: "105:3", text: وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ}
+  - words: [[تَرْمِيهِم, "striking them", q], [بِحِجَارَةٍ, "with stones", q], [مِّن, "of", q], [سِجِّيلٍ, "baked clay", q]]
+    en: pelting them with stones of hard baked clay,
+    quote: {ref: "105:4", text: تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ}
+  - words: [[فَجَعَلَهُمْ, "So He made them", q], [كَعَصْفٍ, "like straw", q], [مَّأْكُولٍ, "eaten up", q]]
+    en: and so He left them like stalks of straw that cattle have eaten and chewed up.
+    quote: {ref: "105:5", text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ}
+
+dictionary:
+  - {ar: رَأَى, en: he saw, pos: [فعل ماض, past verb], root: رأي, pattern: "فَعَلَ", present: يَرَى, bab: بَابُ فَتَحَ, ayah: {ref: "53:11", text: مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ, en: "the heart did not deny what it saw"}, note: "After لَمْ the last letter drops: لَمْ تَرَ, you did not see. Here it means: do you not know."}
+  - {ar: صَاحِبٌ, en: companion; owner; one who has, pos: [اسم فاعل, active participle], root: صحب, pattern: فَاعِلٌ, plural: أَصْحَابٌ, ayah: {ref: "18:9", text: أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ, en: "that the people of the Cave and the Inscription"}, note: "أَصْحَابُ الْفِيلِ: the people of the elephant, the army that came with it."}
+  - {ar: كَيْدٌ, en: plot; scheme, pos: [مصدر, verbal noun], root: كيد, pattern: فَعْلٌ, ayah: {ref: "86:15", text: إِنَّهُمْ يَكِيدُونَ كَيْدًا, en: "they are plotting a plot"}}
+  - {ar: تَضْلِيلٌ, en: leading astray; wasting, pos: [مصدر, verbal noun], root: ضلل, pattern: تَفْعِيلٌ, ayah: {ref: "4:60", text: وَيُرِيدُ الشَّيْطَانُ أَن يُضِلَّهُمْ ضَلَالًا بَعِيدًا, en: "and Shaytan wants to lead them far astray"}, note: "مَصْدَرٌ (verbal noun) of ضَلَّلَ (بَابُ التَّفْعِيلِ). A plot فِي تَضْلِيلٍ went astray and missed its aim. Same root as الضَّالِّينَ in al-Fatiha."}
+  - {ar: أَرْسَلَ, en: he sent, pos: [فعل ماض, past verb], root: رسل, pattern: "أَفْعَلَ", present: يُرْسِلُ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "73:15", text: إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا, en: "indeed, We have sent to you a messenger"}, note: "Same root: رَسُولٌ, messenger, the one who is sent."}
+  - {ar: طَيْرٌ, en: birds, pos: [اسم جمع, collective noun], root: طير, pattern: فَعْلٌ, ayah: {ref: "67:19", text: أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ, en: "do they not see the birds above them, spreading their wings"}, note: "One bird is طَائِرٌ. The verb طَارَ means it flew."}
+  - {ar: حَجَرٌ, en: stone; rock, pos: [اسم, noun], root: حجر, pattern: فَعَلٌ, plural: حِجَارَةٌ, ayah: {ref: "2:60", text: فَقُلْنَا اضْرِب بِّعَصَاكَ الْحَجَرَ, en: "so We said: strike the rock with your staff"}}
+  - {ar: جَعَلَ, en: he made; he put, pos: [فعل ماض, past verb], root: جعل, pattern: "فَعَلَ", present: يَجْعَلُ, bab: بَابُ فَتَحَ, ayah: {ref: "78:10", text: وَجَعَلْنَا اللَّيْلَ لِبَاسًا, en: "and We made the night a covering"}, note: "With two objects it means: he made X into Y (جَعَلَهُمْ كَعَصْفٍ)."}
+
+grammar:
+  title_ar: كَافُ التَّشْبِيهِ
+  title_en: "كَ: like"
+  body: >-
+    The one letter كَ, joined to the front of a noun, means "like". The noun after it is مَجْرُورٌ (it takes kasra), just as after بِ or لِ.
+    So عَصْفٌ (straw) becomes كَعَصْفٍ, like straw. The Quran often paints a picture this way.
+  examples:
+    - [كَعَصْفٍ مَّأْكُولٍ, "like eaten-up straw (105:5)"]
+    - [كَالْفَرَاشِ الْمَبْثُوثِ, "like scattered moths (101:4)"]
+    - [كَالْجِبَالِ, "like the mountains (11:42)"]
+
+tip:
+  title: "Meaning note: أَبَابِيل and سِجِّيل"
+  body: >-
+    أَبَابِيل means groups coming one after another, flock after flock; it has no singular in normal use.
+    سِجِّيل, as the tafsir scholars explain (Ibn Kathir, al-Tabari), is stone made of clay, very hard; al-Qurtubi adds that the clay was baked. Small stones,
+    from small birds, were enough to destroy an army that came to tear down the Kaaba, in the year the Prophet ﷺ was born (as the tafsir books report).
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

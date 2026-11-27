@@ -1,0 +1,42 @@
+{% extends "base.html.j2" %}
+{% set nav = 'about' %}
+{% block main %}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ root }}index.html">Home</a><span aria-hidden="true">/</span>About</nav>
+  <div class="prose">
+    <h1>About the series</h1>
+    <p style="margin-top: var(--x-sp-3)">The Arabic New Reader Series is five graded booklets of stories, from fully vowelled text with every word explained to unvowelled classical and modern Arabic. This website and the printable PDFs are built from the same files, so the Arabic you read here is the Arabic on the printed page.</p>
+
+    <h2>Sources</h2>
+    <h3>The Quran</h3>
+    <p>Every ayah is the text of <a href="https://tanzil.net">Tanzil</a> (tanzil.net), used unchanged under CC BY 3.0. Every quoted ayah is checked against Tanzil letter for letter. Quran text is shown inside ﴾ ﴿ with its surah name and number, and in green.</p>
+    <h3>Stories of the prophets, the Seerah and hadith</h3>
+    <p>These follow the Quran and the reports named in each story, from Sahih al-Bukhari and Sahih Muslim. Details beyond the ayat were checked against the classical tafsirs (Ibn Kathir, al-Tabari, al-Qurtubi, al-Baghawi and al-Sa'di). Where a detail rests on a weaker report, the text says so ("the tafsir books report") or leaves it out. The English meanings of the ayat were written for this series and are not copied from a published translation.</p>
+    <h3>Fables and tales</h3>
+    <p>The fables come from Kalila wa Dimna by Ibn al-Muqaffa'. The fable of the Ring Dove is retold in booklet 2 and appears in the original Arabic at the end of booklet 5; the lion and the hare is retold in booklet 4. The Juha stories are traditional tales, retold. The modern stories were written for this series.</p>
+    <h3>Pictures</h3>
+    <p>The pictures were made with an AI image generator in one fixed style. They follow a policy: no animals and no faces, and the prophets and the companions are never drawn. Scenes show places and objects.</p>
+
+    <h2>How the text was checked</h2>
+    <ol>
+      <li><b>Tanzil match.</b> A script compares every quoted ayah with Tanzil, letter for letter.</li>
+      <li><b>Vowelling check.</b> Every word was compared with an independent Arabic morphological analyser (CAMeL Tools), and each disagreement was reviewed in the proofreading pass.</li>
+      <li><b>Linter.</b> A set of automatic checks looks for common slips in vowel marks, hamzat al-wasl, sun and moon letters, and the story format.</li>
+      <li><b>Independent proofreading.</b> A separate AI proofreading pass, one per booklet, worked out the vowels and case endings of each sentence from the bare letters first, and only then compared them with the story. The same pass checked every gloss, English line, dictionary root and pattern.</li>
+      <li><b>Tafsir and hadith check.</b> Every religious statement was checked against the sources themselves, and attributed ("Ibn Kathir explains") or removed when the sources did not support it.</li>
+    </ol>
+    <p>The stories, glosses and dictionaries were written with the help of AI models (Claude), and the checks above were run with the same tools. The series is a draft: a teacher of Arabic and Islamic studies is reviewing it now, and corrections from that review and from readers are made as they come in. These checks reduce mistakes; they do not remove them. Treat the series as a learning aid and ask a teacher about anything that matters.</p>
+
+    <h2>Licences and attribution</h2>
+    <ul>
+      <li>Quran text: Tanzil, CC BY 3.0. It must not be changed, and the attribution must stay with it.</li>
+      <li>Stories, glosses, dictionaries, translations and pictures: CC BY-SA 4.0.</li>
+      <li>Code that builds the PDFs and this site: MIT.</li>
+      <li>Fonts: Scheherazade New and Charis, SIL Open Font License 1.1 (<a href="fonts/OFL.txt">Scheherazade New</a>, <a href="fonts/OFL-Charis.txt">Charis</a>, <a href="fonts/NOTICE.txt">notice</a>). They are served from this site; nothing is loaded from another server.</li>
+    </ul>
+
+    <h2>Report a mistake</h2>
+    <p>If you find a wrong vowel, gloss, translation or ayah, please <a href="{{ site.issues }}">open an issue</a>. Say which booklet, story and sentence number it is, and what you think it should be.</p>
+  </div>
+</div>
+{% endblock %}

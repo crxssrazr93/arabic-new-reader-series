@@ -1,0 +1,186 @@
+# Booklet 3, story 2. Seerah strand. Grammar ceiling: Madinah Book 2.
+id: b3-02
+booklet: 3
+number: 2
+strand: seerah
+title_ar: الْهِجْرَةُ وَسُرَاقَةُ
+title_en: The Hijra and Suraqa
+madinah: "Book 2 (the six abwab of the three-letter verb: past and present vowels)"
+source: "Sahih al-Bukhari 3905 (Aisha: Abu Bakr told to wait, the two riding camels, the guide, the cave of Thawr for three nights, Abdullah ibn Abi Bakr and Amir ibn Fuhayra, the coast road), 3906 (Suraqa ibn Malik's own account: the blood price, the man who saw figures on the coast, the horse, the Prophet's recitation, the forelegs sinking to the knees, the dust like smoke, the offer of provisions, the written safe-conduct; then the Muslims of Madinah waiting each morning and the man on the fort), 3615 and 3652 (Abu Bakr: the rock's shade, 'the search party has caught up with us' (3652), 'do not grieve, Allah is with us', the prayer against Suraqa and for him, the hard ground (3615, where the narrator Zuhayr was unsure of this word), Suraqa turning back the searchers), 3653 and 3922 (the idolaters' feet above the cave, 'what do you think of two whose third is Allah'), 3911 (Anas: first pursuing, then guarding). Quran 9:40. The spider's web and the dove's nest at the cave are weak reports and are left out."
+
+illustrations:
+  - before: 12
+    file: b3-02-cave-thawr.png
+    alt: A dark rocky mountainside at night with a small cave opening among the boulders, stars above, no people
+    prompt: A steep rocky mountain at night under a clear sky full of stars, a small dark cave opening among large boulders halfway up the slope, a faint moonlit path of stones below. No people, no animals.
+  - before: 37
+    file: b3-02-hoofprints.png
+    alt: A desert road along a coast at midday, a line of hoofprints in the sand ending in a deep churned patch, dust in the air, no people or animals
+    prompt: An empty desert track running beside a distant sea under a bright midday sky, a single line of horse hoofprints in the sand leading to a deep churned hollow where the ground has given way, a faint cloud of dust rising. No people, no animals.
+  - before: 50
+    file: b3-02-madinah-palms.png
+    alt: Palm groves of Madinah seen from a distance across a stony plain in morning light, low houses among the palms, no people
+    prompt: Dense green palm groves seen from far away across a black stony volcanic plain in early morning light, low mud-brick houses and a small fort tower among the palms, hills on the horizon. No people, no animals.
+
+sentences:
+  - words: [[كَانَ, ""], [الْمُشْرِكُونَ, "the idolaters", n], [فِي, ""], [مَكَّةَ, ""], [يُؤْذُونَ, "harming", n], [الْمُسْلِمِينَ, "the Muslims", n], [أَذًى, "harm", n], [شَدِيدًا, "severe", n]]
+    en: "The idolaters in Makkah were harming the Muslims severely."
+  - words: [[فَهَاجَرَ, "So emigrated", n], [كَثِيرٌ, ""], [مِنَ, ""], [الْمُسْلِمِينَ, ""], [إِلَى, ""], [الْمَدِينَةِ, ""], [بِإِذْنِ, "with (the) permission", n], [اللَّهِ, ""]]
+    en: "So many of the Muslims emigrated to Madinah, with Allah's permission."
+  - words: [[وَبَقِيَ, "And remained", n], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [فِي, ""], [مَكَّةَ, ""], [يَنْتَظِرُ, ""], [أَمْرَ, ""], [رَبِّهِ, ""]]
+    en: "The Prophet ﷺ stayed behind in Makkah, waiting for his Lord's command."
+  - words: [[وَأَرَادَ, ""], [أَبُو, ""], [بَكْرٍ, ""], [رَضِيَ, "was pleased", n], [اللَّهُ, ""], [عَنْهُ, "with him", n], [الْهِجْرَةَ, "the emigration", n], [فَطَلَبَ, ""], [مِنْهُ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [أَنْ, ""], [يَنْتَظِرَ, ""]]
+    en: "Abu Bakr (may Allah be pleased with him) wanted to emigrate too, but the Prophet ﷺ asked him to wait."
+  - words: [[فَانْتَظَرَ, ""], [أَبُو, ""], [بَكْرٍ, ""], [لِيَكُونَ, ""], [صَاحِبَهُ, ""], [وَأَطْعَمَ, ""], [رَاحِلَتَيْنِ, "two riding camels", n], [عِنْدَهُ, ""], [أَرْبَعَةَ, "four", n], [أَشْهُرٍ, ""]]
+    en: "So Abu Bakr waited, to be his companion, and for four months he fed two riding camels that he had."
+  - words: [[وَفِي, ""], [يَوْمٍ, ""], [جَاءَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [إِلَى, ""], [بَيْتِ, ""], [أَبِي, ""], [بَكْرٍ, ""], [فِي, ""], [الظُّهْرِ, ""]]
+    en: "Then one day the Prophet ﷺ came to Abu Bakr's house at midday."
+  - words: [[وَأَخْبَرَهُ, ""], [أَنَّ, ""], [اللَّهَ, ""], [قَدْ, ""], [أَذِنَ, "permitted", n], [لَهُ, ""], [فِي, ""], [الْخُرُوجِ, "leaving", n]]
+    en: "He told him that Allah had given him permission to leave."
+  - words: [[فَطَلَبَ, ""], [أَبُو, ""], [بَكْرٍ, ""], [أَنْ, ""], [يَصْحَبَهُ, "he accompanies him", n], [فَقَالَ, ""], [لَهُ, ""], [نَعَمْ, ""]]
+    en: "Abu Bakr asked to go with him, and he said: Yes."
+  - words: [[وَاسْتَأْجَرَا, "And the two hired", n], [دَلِيلًا, "a guide", n], [يَعْرِفُ, ""], [الطَّرِيقَ, ""], [وَكَانَ, ""], [عَلَى, ""], [دِينِ, "(the) religion (of)", n], [قُرَيْشٍ, ""]]
+    en: "The two of them hired a guide who knew the way, though he still followed the religion of Quraysh."
+  - words: [[فَأَعْطَيَاهُ, ""], [الرَّاحِلَتَيْنِ, ""], [وَوَاعَدَاهُ, "and set a meeting (at)", n], [غَارَ, "(the) cave (of)", n], [ثَوْرٍ, "Thawr", n], [بَعْدَ, ""], [ثَلَاثِ, ""], [لَيَالٍ, "nights", n]]
+    en: "They gave him the two camels and arranged to meet him at the cave of Thawr after three nights."
+  - words: [[ثُمَّ, ""], [خَرَجَ, ""], [رَسُولُ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَأَبُو, ""], [بَكْرٍ, ""], [إِلَى, ""], [جَبَلِ, ""], [ثَوْرٍ, ""]]
+    en: "Then the Messenger of Allah ﷺ and Abu Bakr went out to the mountain of Thawr."
+  - words: [[وَدَخَلَا, ""], [غَارًا, ""], [فِي, ""], [الْجَبَلِ, ""], [وَبَقِيَا, ""], [فِيهِ, ""], [ثَلَاثَ, ""], [لَيَالٍ, ""]]
+    en: "They went into a cave in the mountain and stayed in it for three nights."
+  - words: [[وَكَانَ, ""], [عَبْدُ, ""], [اللَّهِ, ""], [بْنُ, ""], [أَبِي, ""], [بَكْرٍ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُمَا, "with the two of them", n], [يَبِيتُ, "spending the night", n], [عِنْدَهُمَا, ""], [كُلَّ, ""], [لَيْلَةٍ, ""]]
+    en: "Abdullah, the son of Abu Bakr (may Allah be pleased with them both), spent every night with them."
+  - words: [[وَيَرْجِعُ, ""], [فِي, ""], [الصَّبَاحِ, ""], [إِلَى, ""], [مَكَّةَ, ""], [فَيَسْمَعُ, ""], [أَخْبَارَ, "(the) news", n], [قُرَيْشٍ, ""], [وَيَأْتِيهِمَا, ""], [بِهَا, ""]]
+    en: "In the morning he would go back to Makkah, hear what Quraysh were saying, and bring the news to them."
+  - words: [[وَكَانَ, ""], [عَامِرُ, "Amir", n], [بْنُ, ""], [فُهَيْرَةَ, "Fuhayra", n], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُ, ""], [يَرْعَى, "grazing", n], [غَنَمًا, "sheep", n], [قَرِيبًا, ""], [مِنْهُمَا, ""], [فَيَشْرَبَانِ, ""], [مِنْ, ""], [لَبَنِهَا, ""]]
+    en: "And 'Amir ibn Fuhayra (may Allah be pleased with him) grazed sheep close by, and the two of them drank their milk."
+  - words: [[وَجَاءَ, ""], [الْمُشْرِكُونَ, ""], [يَطْلُبُونَهُمَا, ""], [فَرَفَعَ, ""], [أَبُو, ""], [بَكْرٍ, ""], [رَأْسَهُ, ""], [فَرَأَى, ""], [أَقْدَامَهُمْ, "their feet", n]]
+    en: "The idolaters came searching for them. Abu Bakr raised his head and saw their feet."
+  - words: [[فَقَالَ, ""], [لِلنَّبِيِّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [لَوْ, ""], [نَظَرَ, ""], [أَحَدُهُمْ, ""], [تَحْتَ, ""], [قَدَمَيْهِ, ""], [لَرَآنَا, "he would see us", n]]
+    en: "He said to the Prophet ﷺ: If one of them looked down below his feet, he would see us."
+  - words: [[فَقَالَ, ""], [لَهُ, ""], [مَا, ""], [ظَنُّكَ, "your thought", n], [يَا, ""], [أَبَا, ""], [بَكْرٍ, ""], [بِاثْنَيْنِ, "about two", n], [اللَّهُ, ""], [ثَالِثُهُمَا, "(is) their third", n]]
+    en: "He said to him: What do you think, Abu Bakr, of two whose third is Allah?"
+  - words: [[وَذَكَرَ, ""], [اللَّهُ, ""], [ذٰلِكَ, ""], [فِي, ""], [الْقُرْآنِ, ""], [ثَانِيَ, "", q], [اثْنَيْنِ, "", q], [إِذْ, "", q], [هُمَا, "", q], [فِي, "", q], [الْغَارِ, "", q], [إِذْ, "", q], [يَقُولُ, "", q], [لِصَاحِبِهِ, "", q], [لَا, "", q], [تَحْزَنْ, "", q], [إِنَّ, "", q], [اللَّهَ, "", q], [مَعَنَا, "", q]]
+    en: "Allah mentions this in the Quran: The second of two, when the two were in the cave, when he said to his companion: Do not grieve, Allah is with us."
+    quote: {ref: "9:40", text: ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا}
+  - words: [[فَحَفِظَهُمَا, ""], [اللَّهُ, ""], [وَرَجَعَ, ""], [الْمُشْرِكُونَ, ""], [وَلَمْ, ""], [يَرَوْهُمَا, ""]]
+    en: "Allah protected them, and the idolaters went back without seeing them."
+  - words: [[وَبَعْدَ, ""], [ثَلَاثِ, ""], [لَيَالٍ, ""], [جَاءَ, ""], [الدَّلِيلُ, ""], [بِالرَّاحِلَتَيْنِ, ""], [فِي, ""], [الصَّبَاحِ, ""]]
+    en: "After three nights the guide came with the two camels in the morning."
+  - words: [[فَرَكِبُوا, ""], [وَمَعَهُمَا, ""], [عَامِرٌ, ""], [وَالدَّلِيلُ, ""], [وَانْطَلَقُوا, ""], [نَحْوَ, ""], [الْمَدِينَةِ, ""], [عَلَى, ""], [طَرِيقِ, ""], [السَّاحِلِ, "the coast", n]]
+    en: "They mounted, with 'Amir and the guide alongside them, and set off toward Madinah along the coast road."
+  - words: [[وَسَارُوا, ""], [لَيْلَتَهُمْ, ""], [كُلَّهَا, ""], [وَمِنَ, ""], [الْغَدِ, ""], [حَتَّى, ""], [اشْتَدَّ, "grew strong", n], [الْحَرُّ, "the heat", n]]
+    en: "They travelled all that night and on into the next day, until the heat grew fierce."
+  - words: [[فَنَزَلُوا, ""], [فِي, ""], [ظِلِّ, "(the) shade (of)", n], [صَخْرَةٍ, ""], [طَوِيلَةٍ, ""], [لِيَسْتَرِيحُوا, "to rest", n]]
+    en: "So they stopped in the shade of a long rock to rest."
+  - words: [[وَفَرَشَ, "And spread out", n], [أَبُو, ""], [بَكْرٍ, ""], [لِلنَّبِيِّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [مَكَانًا, ""], [فَنَامَ, ""], [وَجَلَسَ, ""], [يَحْرُسُهُ, "guarding him", n]]
+    en: "Abu Bakr prepared a place for the Prophet ﷺ, who slept, and he sat keeping watch over him."
+  - words: [[وَكَانَتْ, ""], [قُرَيْشٌ, ""], [قَدْ, ""], [جَعَلَتْ, ""], [دِيَةَ, "(the) blood price (of)", n], [كُلِّ, ""], [وَاحِدٍ, ""], [مِنْهُمَا, ""], [لِمَنْ, ""], [يَقْتُلُهُ, ""], [أَوْ, ""], [يَأْسِرُهُ, "captures him", n]]
+    en: "Quraysh had offered the full blood price for each of them to anyone who killed him or took him captive."
+  - words: [[وَكَانَ, ""], [سُرَاقَةُ, "Suraqa", n], [بْنُ, ""], [مَالِكٍ, ""], [رَضِيَ, ""], [اللَّهُ, ""], [عَنْهُ, ""], [جَالِسًا, "sitting", n], [مَعَ, ""], [قَوْمِهِ, ""], [بَنِي, ""], [مُدْلِجٍ, "Mudlij", n]]
+    en: "Suraqa ibn Malik (may Allah be pleased with him) was sitting with his people, the Banu Mudlij."
+  - words: [[فَجَاءَ, ""], [رَجُلٌ, ""], [وَقَالَ, ""], [إِنِّي, ""], [رَأَيْتُ, ""], [أَشْخَاصًا, "figures", n], [عَلَى, ""], [السَّاحِلِ, ""]]
+    en: "A man came and said: I have seen some figures on the coast."
+  - words: [[وَأَظُنُّهُمْ, ""], [مُحَمَّدًا, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [وَأَصْحَابَهُ, ""]]
+    en: "I think they are Muhammad ﷺ and his companions."
+  - words: [[فَعَرَفَ, ""], [سُرَاقَةُ, ""], [أَنَّهُمْ, ""], [هُمْ, ""], [وَلٰكِنَّهُ, ""], [قَالَ, ""], [لَيْسُوا, ""], [بِهِمْ, ""]]
+    en: "Suraqa knew that it was them, but he said: It is not them."
+  - words: [[ثُمَّ, ""], [أَمَرَ, ""], [جَارِيَتَهُ, "his servant girl", n], [أَنْ, ""], [تُخْرِجَ, ""], [فَرَسَهُ, "his horse", n], [وَأَخَذَ, ""], [رُمْحَهُ, "his spear", n], [وَخَرَجَ, ""], [مِنْ, ""], [خَلْفِ, "(the) back (of)", n], [الْبَيْتِ, ""]]
+    en: "Then he told his servant girl to take his horse out, and he took his spear and left by the back of the house."
+  - words: [[فَرَكِبَ, ""], [فَرَسَهُ, ""], [وَأَسْرَعَ, ""], [حَتَّى, ""], [قَرُبَ, "he came near", n], [مِنْهُمْ, ""], [فَعَثَرَتْ, "stumbled", n], [بِهِ, ""], [فَسَقَطَ, ""], [عَنْهَا, ""]]
+    en: "He rode his horse fast until he came near them, but it stumbled and he fell off."
+  - words: [[ثُمَّ, ""], [رَكِبَ, ""], [مَرَّةً, ""], [أُخْرَى, ""], [حَتَّى, ""], [سَمِعَ, ""], [قِرَاءَةَ, "(the) recitation (of)", n], [رَسُولِ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "Then he rode again, until he could hear the recitation of the Messenger of Allah ﷺ."
+  - words: [[وَكَانَ, ""], [رَسُولُ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [لَا, ""], [يَلْتَفِتُ, "turn (to look)", n], [وَكَانَ, ""], [أَبُو, ""], [بَكْرٍ, ""], [يَلْتَفِتُ, ""], [كَثِيرًا, ""]]
+    en: "The Messenger of Allah ﷺ did not turn round to look, but Abu Bakr kept turning round."
+  - words: [[فَقَالَ, ""], [أَبُو, ""], [بَكْرٍ, ""], [قَدْ, ""], [لَحِقَنَا, "caught up with us", n], [الطَّلَبُ, "the search party", n], [يَا, ""], [رَسُولَ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "Abu Bakr said: The searchers have caught up with us, O Messenger of Allah ﷺ!"
+  - words: [[فَقَالَ, ""], [لَهُ, ""], [لَا, ""], [تَحْزَنْ, ""], [إِنَّ, ""], [اللَّهَ, ""], [مَعَنَا, ""]]
+    en: "He said to him: Do not grieve, Allah is with us."
+  - words: [[وَدَعَا, ""], [عَلَيْهِ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [فَسَاخَتْ, "sank", n], [يَدَا, "(the) two forelegs (of)", n], [فَرَسِهِ, ""], [فِي, ""], [الْأَرْضِ, ""]]
+    en: "The Prophet ﷺ prayed against him, and the forelegs of his horse sank into the ground."
+  - words: [[حَتَّى, ""], [بَلَغَتَا, ""], [الرُّكْبَتَيْنِ, "the knees", n], [وَكَانَتِ, ""], [الْأَرْضُ, ""], [هُنَاكَ, ""], [صُلْبَةً, "hard", n]]
+    en: "They sank right up to the knees, though the ground there was hard."
+  - words: [[فَسَقَطَ, ""], [سُرَاقَةُ, ""], [عَنْهَا, ""], [ثُمَّ, ""], [أَخْرَجَتْ, ""], [يَدَيْهَا, ""], [بِصُعُوبَةٍ, "with difficulty", n]]
+    en: "Suraqa fell off, and then the horse pulled its legs out with great difficulty."
+  - words: [[فَصَعِدَ, "And rose", n], [مِنْ, ""], [أَثَرِ, ""], [يَدَيْهَا, ""], [غُبَارٌ, "dust", n], [إِلَى, ""], [السَّمَاءِ, ""], [مِثْلَ, ""], [الدُّخَانِ, "the smoke", n]]
+    en: "From the marks of its legs, dust rose up into the sky like smoke."
+  - words: [[وَعَرَفَ, ""], [سُرَاقَةُ, ""], [أَنَّ, ""], [أَمْرَ, ""], [رَسُولِ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [سَيَظْهَرُ, "will prevail", n]]
+    en: "Suraqa knew then that the cause of the Messenger of Allah ﷺ would prevail."
+  - words: [[فَنَادَاهُمْ, ""], [وَطَلَبَ, ""], [مِنْهُمُ, ""], [الْأَمَانَ, "safety", n], [فَوَقَفُوا, ""], [لَهُ, ""]]
+    en: "He called out to them and asked them for a promise of safety, and they stopped for him."
+  - words: [[وَقَالَ, ""], [لَهُمَا, ""], [ادْعُوَا, "pray (you two)", n], [لِي, ""], [وَأَنَا, ""], [أَرُدُّ, "I (will) turn back", n], [عَنْكُمَا, ""], [مَنْ, ""], [يَطْلُبُكُمَا, ""]]
+    en: "He said to the two of them: Pray for me, and I will turn back anyone who is searching for you."
+  - words: [[فَدَعَا, ""], [لَهُ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [فَنَجَا, ""]]
+    en: "The Prophet ﷺ prayed for him, and he was freed."
+  - words: [[وَأَخْبَرَهُمْ, ""], [سُرَاقَةُ, ""], [بِمَا, ""], [تُرِيدُ, ""], [قُرَيْشٌ, ""], [بِهِمْ, ""], [وَعَرَضَ, "and offered", n], [عَلَيْهِمُ, ""], [الزَّادَ, "provisions", n]]
+    en: "Suraqa told them what Quraysh intended against them, and he offered them provisions."
+  - words: [[فَلَمْ, ""], [يَأْخُذَا, ""], [مِنْهُ, ""], [شَيْئًا, ""], [وَلَمْ, ""], [يَطْلُبَا, ""], [مِنْهُ, ""], [إِلَّا, ""], [أَنْ, ""], [يُخْفِيَ, "he hides", n], [خَبَرَهُمْ, ""]]
+    en: "They took nothing from him, and asked him for nothing except to keep their news hidden."
+  - words: [[وَطَلَبَ, ""], [سُرَاقَةُ, ""], [كِتَابَ, ""], [أَمَانٍ, ""], [فَكَتَبَهُ, ""], [لَهُ, ""], [عَامِرُ, ""], [بْنُ, ""], [فُهَيْرَةَ, ""], [فِي, ""], [قِطْعَةٍ, ""], [مِنْ, ""], [جِلْدٍ, "leather", n]]
+    en: "Suraqa asked for a written promise of safety, and 'Amir ibn Fuhayra wrote it for him, on a piece of leather."
+  - words: [[وَرَجَعَ, ""], [سُرَاقَةُ, ""], [فَكَانَ, ""], [لَا, ""], [يَلْقَى, ""], [أَحَدًا, ""], [يَطْلُبُهُمْ, ""], [إِلَّا, ""], [رَدَّهُ, ""]]
+    en: "Suraqa went back, and every man he met who was searching for them, he turned back."
+  - words: [[فَكَانَ, ""], [فِي, ""], [أَوَّلِ, ""], [النَّهَارِ, ""], [يَطْلُبُهُمْ, ""], [وَفِي, ""], [آخِرِهِ, ""], [يَحْرُسُهُمْ, ""]]
+    en: "At the start of the day he was hunting them, and by its end he was guarding them."
+  - words: [[وَكَانَ, ""], [الْمُسْلِمُونَ, ""], [فِي, ""], [الْمَدِينَةِ, ""], [يَخْرُجُونَ, ""], [كُلَّ, ""], [صَبَاحٍ, ""], [يَنْتَظِرُونَ, ""], [رَسُولَ, ""], [اللَّهِ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""]]
+    en: "In Madinah, the Muslims went out every morning to wait for the Messenger of Allah ﷺ."
+  - words: [[فَإِذَا, ""], [اشْتَدَّ, ""], [الْحَرُّ, ""], [رَجَعُوا, ""], [إِلَى, ""], [بُيُوتِهِمْ, ""]]
+    en: "When the heat grew fierce, they went back to their homes."
+  - words: [[وَفِي, ""], [يَوْمٍ, ""], [رَآهُ, ""], [رَجُلٌ, ""], [مِنْ, ""], [فَوْقِ, "(the) top (of)", n], [حِصْنٍ, "a fort", n], [قَادِمًا, ""], [مَعَ, ""], [أَصْحَابِهِ, ""]]
+    en: "One day a man on top of a fort saw him coming with his companions."
+  - words: [[فَنَادَى, ""], [بِأَعْلَى, "at the top (of)", n], [صَوْتِهِ, ""], [هٰذَا, ""], [الَّذِي, ""], [تَنْتَظِرُونَ, ""], [قَدْ, ""], [جَاءَ, ""]]
+    en: "He called out at the top of his voice: The one you are waiting for has come!"
+  - words: [[فَخَرَجَ, ""], [الْمُسْلِمُونَ, ""], [إِلَيْهِ, ""], [مُسْرِعِينَ, ""], [وَاسْتَقْبَلُوهُ, "and welcomed him", n], [وَوَصَلَ, ""], [إِلَى, ""], [الْمَدِينَةِ, ""], [سَالِمًا, "safe", n]]
+    en: "The Muslims hurried out to welcome him, and he reached Madinah safely."
+  - words: [[وَكَانَ, ""], [اللَّهُ, ""], [مَعَهُ, ""], [كَمَا, ""], [قَالَ, ""], [لِصَاحِبِهِ, ""], [فِي, ""], [الْغَارِ, ""]]
+    en: "Allah was with him, just as he had told his companion in the cave."
+
+dictionary:
+  - {ar: أَذًى, en: harm; hurt, pos: [اسم, noun], root: أذي, pattern: فَعَلٌ, ayah: {ref: "2:262", text: ثُمَّ لَا يُتْبِعُونَ مَا أَنفَقُوا مَنًّا وَلَا أَذًى, en: "then do not follow what they spent with reminders or harm"}, note: "The verb is آذَى يُؤْذِي, to harm: يُؤْذُونَ, they harm."}
+  - {ar: هَاجَرَ, en: he emigrated, pos: [فعل ماض, past verb], root: هجر, pattern: فَاعَلَ, present: يُهَاجِرُ, bab: بَابُ الْمُفَاعَلَةِ, ayah: {ref: "8:74", text: وَالَّذِينَ آمَنُوا وَهَاجَرُوا, en: "and those who believed and emigrated"}, note: "The emigration: الْهِجْرَةُ. The Muslims who emigrated from Makkah are the مُهَاجِرُونَ."}
+  - {ar: أَذِنَ, en: he permitted, pos: [فعل ماض, past verb], root: أذن, pattern: فَعِلَ, present: يَأْذَنُ, bab: بَابُ سَمِعَ, ayah: {ref: "22:39", text: أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا, en: "permission is given to those who are fought against, because they were wronged"}, note: "Permission: إِذْنٌ, as in بِإِذْنِ اللَّهِ. Same root as أَذَانٌ: both are about hearing and announcing."}
+  - {ar: بَقِيَ, en: he remained; he stayed, pos: [فعل ماض, past verb], root: بقي, pattern: فَعِلَ, present: يَبْقَى, bab: بَابُ سَمِعَ, ayah: {ref: "55:27", text: وَيَبْقَىٰ وَجْهُ رَبِّكَ, en: "and the Face of your Lord remains"}, note: "The rest of something: بَقِيَّةٌ."}
+  - {ar: دَلِيلٌ, en: guide; proof, pos: [اسم, noun], root: دلل, pattern: فَعِيلٌ, plural: "أَدِلَّاءُ (guides), أَدِلَّةٌ (proofs)", ayah: {ref: "25:45", text: ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا, en: "then We made the sun a guide to it"}, note: "A person who shows the way, or a proof that shows the truth. The hadith calls this guide هَادِيًا خِرِّيتًا, an expert guide."}
+  - {ar: وَعَدَ, en: he promised; he set a meeting, pos: [فعل ماض, past verb], root: وعد, pattern: فَعَلَ, present: يَعِدُ, bab: بَابُ ضَرَبَ, ayah: {ref: "31:33", text: إِنَّ وَعْدَ اللَّهِ حَقٌّ, en: "indeed, the promise of Allah is true"}, note: "The present drops the و. A promise: وَعْدٌ. The hadith says وَاعَدَاهُ (بَابُ الْمُفَاعَلَةِ): they set a meeting with him."}
+  - {ar: غَارٌ, en: cave, pos: [اسم, noun], root: غور, pattern: فَعَلٌ, plural: غِيرَانٌ, ayah: {ref: "9:40", text: إِذْ هُمَا فِي الْغَارِ, en: "when the two were in the cave"}, note: "A small cave in a mountain. Ghar Hira, where the first revelation came, and Ghar Thawr, where the two hid. Its origin is غَوَرٌ (a hollow ا for و)."}
+  - {ar: خَبَرٌ, en: news; report, pos: [اسم, noun], root: خبر, pattern: فَعَلٌ, plural: أَخْبَارٌ, ayah: {ref: "99:4", text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا, en: "that Day it will tell its news"}, note: "The verb أَخْبَرَ, he told, is from the same root. In grammar, الْخَبَرُ is the predicate of a nominal sentence."}
+  - {ar: رَعَى, en: he grazed (animals); he looked after, pos: [فعل ماض, past verb], root: رعي, pattern: فَعَلَ, present: يَرْعَى, bab: بَابُ فَتَحَ, ayah: {ref: "20:54", text: كُلُوا وَارْعَوْا أَنْعَامَكُمْ, en: "eat and graze your cattle"}, note: "A shepherd: رَاعٍ (الرَّاعِي)."}
+  - {ar: قَدَمٌ, en: foot, pos: [اسم, noun], root: قدم, pattern: فَعَلٌ, plural: أَقْدَامٌ, ayah: {ref: "47:7", text: وَيُثَبِّتْ أَقْدَامَكُمْ, en: "and He will make your feet firm"}, note: "Feminine. Two feet: قَدَمَانِ, قَدَمَيْهِ. Same root as قَدِيمٌ and قَادِمٌ: going first."}
+  - {ar: سَاحِلٌ, en: coast; shore, pos: [اسم, noun], root: سحل, pattern: فَاعِلٌ, plural: سَوَاحِلُ, ayah: {ref: "20:39", text: فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ, en: "then let the sea cast him onto the shore"}, note: "The whole coastline. شَاطِئٌ is the beach where you walk."}
+  - {ar: ظِلٌّ, en: shade; shadow, pos: [اسم, noun], root: ظلل, pattern: فِعْلٌ, plural: ظِلَالٌ, ayah: {ref: "56:30", text: وَظِلٍّ مَّمْدُودٍ, en: "and shade spread out"}}
+  - {ar: فَرَسٌ, en: horse, pos: [اسم, noun], root: فرس, pattern: فَعَلٌ, plural: أَفْرَاسٌ, note: "Used for a male or female horse, and treated as feminine in this hadith: فَعَثَرَتْ بِهِ فَرَسُهُ. The word is not in the Quran, which says خَيْلٌ, horses (16:8)."}
+  - {ar: اِلْتَفَتَ, en: he turned round to look, pos: [فعل ماض, past verb], root: لفت, pattern: اِفْتَعَلَ, present: يَلْتَفِتُ, bab: بَابُ الِافْتِعَالِ, ayah: {ref: "11:81", text: وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ, en: "and let none of you look back"}, note: "Said of looking back over your shoulder."}
+  - {ar: لَحِقَ, en: he caught up with; he joined, pos: [فعل ماض, past verb], root: لحق, pattern: فَعِلَ, present: يَلْحَقُ, bab: بَابُ سَمِعَ, ayah: {ref: "62:3", text: وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ, en: "and others of them who have not yet joined them"}, note: "The jussive after لَمَّا: لَمَّا يَلْحَقُوا, not yet joined."}
+  - {ar: دُخَانٌ, en: smoke, pos: [اسم, noun], root: دخن, pattern: فُعَالٌ, ayah: {ref: "44:10", text: يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ, en: "the Day the sky brings a visible smoke"}, note: "Surah 44 is named after it: سُورَةُ الدُّخَانِ."}
+  - {ar: ظَهَرَ, en: it appeared; it prevailed, pos: [فعل ماض, past verb], root: ظهر, pattern: فَعَلَ, present: يَظْهَرُ, bab: بَابُ فَتَحَ, ayah: {ref: "9:33", text: لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ, en: "to make it prevail over all religion"}, note: "It will prevail: سَيَظْهَرُ. Same root as الظُّهْرُ, midday, when the sun is highest and clearest."}
+  - {ar: اِسْتَقْبَلَ, en: he welcomed; he went out to meet; he faced, pos: [فعل ماض, past verb], root: قبل, pattern: اِسْتَفْعَلَ, present: يَسْتَقْبِلُ, bab: بَابُ الِاسْتِفْعَالِ, ayah: {ref: "46:24", text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ, en: "then when they saw it as a cloud facing their valleys"}, register: both, note: "Classical: to face something, as you face the قِبْلَةُ. Modern: to welcome a visitor, as at an airport."}
+
+root_families:
+  - root: صحب
+    words: [[صَحِبَ, "he accompanied"], [صَاحِبٌ, "companion"], [أَصْحَابٌ, "companions"], [الصَّحَابَةُ, "the Companions of the Prophet"]]
+  - root: هجر
+    words: [[هَاجَرَ, "he emigrated"], [الْهِجْرَةُ, "the emigration"], [مُهَاجِرٌ, "an emigrant"], [الْمُهَاجِرُونَ, "the Muhajirun"]]
+
+grammar:
+  title_ar: أَبْوَابُ الْفِعْلِ الثُّلَاثِيِّ
+  title_en: "The abwab: which vowel the مُضَارِعُ (present verb) takes"
+  body: >-
+    A three-letter verb has a vowel on its middle letter in the فِعْلٌ مَاضٍ (past verb) and another in the مُضَارِعُ (present verb). The pair is fixed for each verb and is
+    learned with it, like a surname. Madrasa books name each pattern by a model verb: بَابُ نَصَرَ (a, then u): خَرَجَ يَخْرُجُ.
+    بَابُ ضَرَبَ (a, then i): جَلَسَ يَجْلِسُ, رَجَعَ يَرْجِعُ, عَرَفَ يَعْرِفُ. بَابُ فَتَحَ (a, then a): ذَهَبَ يَذْهَبُ, usually when
+    the middle or last letter is a throat letter (ء ه ع ح غ خ). بَابُ سَمِعَ (i, then a): حَزِنَ يَحْزَنُ, لَحِقَ يَلْحَقُ, صَعِدَ يَصْعَدُ.
+    بَابُ كَرُمَ (u, then u): قَرُبَ يَقْرُبُ, for states and qualities. بَابُ حَسِبَ (i, then i) is rare.
+  examples:
+    - [خَرَجَ يَخْرُجُ, "bab nasara: he went out, he goes out"]
+    - [رَجَعَ يَرْجِعُ, "bab daraba: he went back, he goes back"]
+    - [لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا, "bab sami'a (حَزِنَ يَحْزَنُ): Do not grieve, Allah is with us. (Quran 9:40)"]
+
+tip:
+  title: "Reading without vowels: the phrases of respect"
+  body: >-
+    After the Prophet's ﷺ name an unvowelled book always writes صلى الله عليه وسلم. Read it as one unit, ṣallā llāhu ʿalayhi wa sallam,
+    without stopping to work out each word. Printed books often shorten it to the single sign ﷺ, and older ones to (ص). Scholars dislike shortening it; when you see a sign, still say the full words. After a
+    companion's name comes رضي الله عنه, raḍiya llāhu ʿanhu, and after another prophet's name عليه السلام, ʿalayhi s-salām. When you
+    see the first word of one of these phrases, you already know the rest.
+
+reread: Read the unvowelled version above again. Then recite Surat at-Tawba 9:40 and say which sentences of the story it covers.

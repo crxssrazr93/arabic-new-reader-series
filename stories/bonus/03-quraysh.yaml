@@ -1,0 +1,58 @@
+# Bonus booklet, surah 106. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-03
+booklet: 0
+number: 3
+strand: quran
+title_ar: سُورَةُ قُرَيْشٍ
+title_en: "Quraysh"
+source: "Quran 106"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-03-trade-route.png
+    alt: A long trade road leaving a valley town between bare mountains, cool grey clouds on one side of the sky and bright summer sun on the other
+
+sentences:
+  - words: [[لِإِيلَافِ, "For (the) familiar safety", q], [قُرَيْشٍ, "(of) Quraysh", q]]
+    en: For the safety and ease that Quraysh had grown used to,
+    quote: {ref: "106:1", text: لِإِيلَافِ قُرَيْشٍ}
+  - words: [[إِيلَافِهِمْ, "their familiar safety (in)", q], [رِحْلَةَ, "(the) journey", q], [الشِّتَاءِ, "(of) winter", q], [وَالصَّيْفِ, "and summer", q]]
+    en: their safe and familiar journeys, in winter and in summer,
+    quote: {ref: "106:2", text: إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ}
+  - words: [[فَلْيَعْبُدُوا, "so let them worship", q], [رَبَّ, "(the) Lord", q], [هَـٰذَا, "(of) this", q], [الْبَيْتِ, "House", q]]
+    en: let them worship the Lord of this House,
+    quote: {ref: "106:3", text: فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ}
+  - words: [[الَّذِي, "who", q], [أَطْعَمَهُم, "fed them", q], [مِّن, "(saving them) from", q], [جُوعٍ, "hunger", q], [وَآمَنَهُم, "and made them safe", q], [مِّنْ, "from", q], [خَوْفٍ, "fear", q]]
+    en: who fed them and saved them from hunger, and made them safe from fear.
+    quote: {ref: "106:4", text: الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ}
+
+dictionary:
+  - {ar: إِيلَافٌ, en: being used to something; familiar safety, pos: [مصدر, verbal noun], root: ألف, pattern: إِفْعَالٌ, ayah: {ref: "8:63", text: وَأَلَّفَ بَيْنَ قُلُوبِهِمْ, en: "and He brought their hearts together"}, note: "From آلَفَ (بَابُ الْإِفْعَالِ). The root is about things coming together and becoming familiar; in 8:63 Allah joined their hearts."}
+  - {ar: رِحْلَةٌ, en: journey, pos: [اسم, noun], root: رحل, pattern: فِعْلَةٌ, ayah: {ref: "12:70", text: جَعَلَ السِّقَايَةَ فِي رَحْلِ أَخِيهِ, en: "he put the drinking cup in his brother's saddlebag"}, note: "رَحْلٌ is a traveller's saddle bag; رِحْلَةٌ is the journey. Quraysh traded south to Yemen in winter and north to Sham in summer (Ibn Kathir and al-Baghawi report this view)."}
+  - {ar: شِتَاءٌ, en: winter, pos: [اسم, noun], root: شتو, pattern: فِعَالٌ, note: "Its pair is صَيْفٌ, summer. Both words come only here in the Quran."}
+  - {ar: أَطْعَمَ, en: he fed, pos: [فعل ماض, past verb], root: طعم, pattern: "أَفْعَلَ", present: يُطْعِمُ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "76:8", text: وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا, en: "and they give food to the poor, though they love it themselves"}, note: "Same root as طَعَامٌ, food. بَابُ الْإِفْعَالِ here means to give someone food."}
+  - {ar: جُوعٌ, en: hunger, pos: [اسم, noun], root: جوع, pattern: فُعْلٌ, ayah: {ref: "88:7", text: لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ, en: "which neither nourishes nor relieves hunger"}}
+  - {ar: خَوْفٌ, en: fear, pos: [مصدر, verbal noun], root: خوف, pattern: فَعْلٌ, ayah: {ref: "2:38", text: فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ, en: "no fear will be upon them, nor will they grieve"}}
+  - {ar: أَمْنٌ, en: safety; security, pos: [مصدر, verbal noun], root: أمن, pattern: فَعْلٌ, ayah: {ref: "2:125", text: وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا, en: "and when We made the House a place of return for people and a place of safety"}, note: "In the surah: آمَنَهُم, He made them safe. The same verb آمَنَ also means he believed (you meet it in the stories too)."}
+
+grammar:
+  title_ar: لَامُ الْأَمْرِ
+  title_en: "Let them: the lam of command"
+  body: >-
+    A لِ before a فِعْلٌ مُضَارِعٌ (present verb) can turn it into a command for someone who is not being spoken to: "let him", "let them".
+    The verb becomes مَجْزُومٌ, so يَعْبُدُونَ loses its ن and becomes يَعْبُدُوا. After فَ or وَ the lam takes sukun: فَلْيَعْبُدُوا.
+  examples:
+    - [فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ, "so let them worship the Lord of this House"]
+    - [فَلْيَفْرَحُوا, "so let them rejoice (10:58)"]
+    - [لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ, "let the one who has plenty spend from his plenty (65:7)"]
+
+tip:
+  title: "Meaning note: the root أمن"
+  body: >-
+    أمن is about safety and trust. آمَنَهُم: He made them safe. أَمْنٌ: safety. أَمِينٌ: trustworthy, the one you feel
+    safe with. إِيمَانٌ: faith (تَصْدِيقٌ), from the same root of trust and safety. The surah reminds Quraysh that their food and
+    their safety both came from the Lord of the Kaaba.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

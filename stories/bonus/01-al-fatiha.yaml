@@ -1,0 +1,69 @@
+# Bonus booklet, surah 1. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-01
+booklet: 0
+number: 1
+strand: quran
+title_ar: سُورَةُ الْفَاتِحَةِ
+title_en: "Al-Fatiha: The Opening"
+source: "Quran 1"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-01-straight-road.png
+    alt: A single straight road running across open green land toward the sunrise on the horizon
+
+sentences:
+  - words: [[بِسْمِ, "In (the) name", q], [اللَّهِ, "(of) Allah", q], [الرَّحْمَـٰنِ, "the Most Gracious", q], [الرَّحِيمِ, "the Most Merciful", q]]
+    en: I begin in the name of Allah, the Most Gracious, the Most Merciful.
+    quote: {ref: "1:1", text: بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ}
+  - words: [[الْحَمْدُ, "All praise", q], [لِلَّهِ, "(is) for Allah", q], [رَبِّ, "(the) Lord", q], [الْعَالَمِينَ, "(of) the worlds", q]]
+    en: All praise and thanks belong to Allah, the Lord of every world.
+    quote: {ref: "1:2", text: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ}
+  - words: [[الرَّحْمَـٰنِ, "the Most Gracious", q], [الرَّحِيمِ, "the Most Merciful", q]]
+    en: The Most Gracious, the Most Merciful.
+    quote: {ref: "1:3", text: الرَّحْمَـٰنِ الرَّحِيمِ}
+  - words: [[مَالِكِ, "Master", q], [يَوْمِ, "(of the) Day", q], [الدِّينِ, "(of) the Recompense", q]]
+    en: The Master of the Day when everyone is repaid for their deeds.
+    quote: {ref: "1:4", text: مَالِكِ يَوْمِ الدِّينِ}
+  - words: [[إِيَّاكَ, "You alone", q], [نَعْبُدُ, "we worship", q], [وَإِيَّاكَ, "and You alone", q], [نَسْتَعِينُ, "we ask for help", q]]
+    en: You alone we worship, and from You alone we ask for help.
+    quote: {ref: "1:5", text: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ}
+  - words: [[اهْدِنَا, "Guide us (to)", q], [الصِّرَاطَ, "the path", q], [الْمُسْتَقِيمَ, "the straight", q]]
+    en: Guide us to the straight path (and keep us firm on it).
+    quote: {ref: "1:6", text: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ}
+  - words: [[صِرَاطَ, "(The) path", q], [الَّذِينَ, "(of) those", q], [أَنْعَمْتَ, "You have favoured", q], [عَلَيْهِمْ, "upon them", q], [غَيْرِ, "not", q], [الْمَغْضُوبِ, "(of those) who earned anger", q], [عَلَيْهِمْ, "upon them", q], [وَلَا, "and not", q], [الضَّالِّينَ, "(of) those who go astray", q]]
+    en: The path of those You have blessed, not of those who have earned anger, nor of those who have lost the way.
+    quote: {ref: "1:7", text: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ}
+
+dictionary:
+  - {ar: حَمْدٌ, en: praise; thanks, pos: [مصدر, verbal noun], root: حمد, pattern: فَعْلٌ, ayah: {ref: "18:1", text: الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ, en: "all praise belongs to Allah, who sent down the Book upon His servant"}, note: "Praise for good qualities and thanks for good done, both at once. Same root: مُحَمَّدٌ, the much praised one."}
+  - {ar: رَبٌّ, en: Lord; master who looks after and raises, pos: [اسم, noun], root: ربب, pattern: فَعْلٌ, plural: أَرْبَابٌ, ayah: {ref: "96:3", text: اقْرَأْ وَرَبُّكَ الْأَكْرَمُ, en: "read, and your Lord is the Most Generous"}, note: "With ال (الرَّبُّ) it is used only for Allah."}
+  - {ar: عَالَمٌ, en: world; one kind of created beings, pos: [اسم, noun], root: علم, pattern: فَاعَلٌ, plural: عَالَمُونَ, ayah: {ref: "21:107", text: وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ, en: "and We did not send you except as a mercy to all the worlds"}, note: "Each kind of creation (people, jinn, angels and the rest) is a عَالَم. Do not mix it up with عَالِمٌ, a scholar."}
+  - {ar: رَحِيمٌ, en: merciful; very merciful, pos: [صفة مشبهة, adjective], root: رحم, pattern: فَعِيلٌ, ayah: {ref: "9:128", text: بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ, en: "to the believers he is kind and merciful"}, note: "In 9:128 it describes the Prophet ﷺ. With ال, الرَّحِيمُ is a name of Allah."}
+  - {ar: مَالِكٌ, en: owner; master, pos: [اسم فاعل, active participle], root: ملك, pattern: فَاعِلٌ, ayah: {ref: "3:26", text: قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ, en: "say: O Allah, Owner of all dominion"}, note: "The one who owns (مَلَكَ). Compare مَلِكٌ, king, in surah an-Nas."}
+  - {ar: اِسْتَعَانَ, en: he asked for help, pos: [فعل ماض, past verb], root: عون, pattern: "اِسْتَفْعَلَ", present: يَسْتَعِينُ, bab: بَابُ الِاسْتِفْعَالِ, ayah: {ref: "2:45", text: وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ, en: "and seek help through patience and prayer"}, note: "In بَابُ الِاسْتِفْعَالِ the meaning is often asking for something (الطَّلَبُ): عَوْنٌ is help, اِسْتَعَانَ is to ask for help. In the surah: نَسْتَعِينُ, we ask for help."}
+  - {ar: هَدَى, en: he guided, pos: [فعل ماض, past verb], root: هدي, pattern: "فَعَلَ", present: يَهْدِي, bab: بَابُ ضَرَبَ, ayah: {ref: "93:7", text: وَوَجَدَكَ ضَالًّا فَهَدَىٰ, en: "and He found you unaware of the way and guided you"}, note: "In the surah: اهْدِنَا, guide us. It is a فِعْلُ أَمْرٍ (command) in form, but a دُعَاءٌ (a request to Allah) in meaning, with نَا us. 93:7 has both هَدَى and ضَالّ, like the end of al-Fatiha."}
+  - {ar: صِرَاطٌ, en: path; road, pos: [اسم, noun], root: صرط, pattern: فِعَالٌ, plural: صُرُطٌ, ayah: {ref: "36:4", text: عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ, en: "on a straight path"}, note: "A wide, clear road. The straight path is Islam, as the tafsir scholars explain."}
+
+grammar:
+  title_ar: تَقْدِيمُ الْمَفْعُولِ
+  title_en: "Putting the object first: You alone"
+  body: >-
+    Normal order is the verb, then the مَفْعُولٌ بِهِ (object): نَعْبُدُكَ, we worship You. In al-Fatiha the object comes first, as the separate
+    pronoun إِيَّاكَ, before the verb. Moving the object to the front gives restriction (الحصر): You, and no one else.
+    That is why the gloss says "You alone".
+  examples:
+    - [إِيَّاكَ نَعْبُدُ, "You alone we worship"]
+    - [وَإِيَّاكَ نَسْتَعِينُ, "and You alone we ask for help"]
+    - [نَعْبُدُكَ, "we worship You (no restriction)"]
+
+tip:
+  title: "Meaning note: two names from رحم"
+  body: >-
+    الرَّحْمَـٰن and الرَّحِيم both come from رحم, mercy (the same root as رَحِمٌ, the womb). The pattern فَعْلَان
+    gives fullness: mercy that fills everything. The pattern فَعِيل gives something lasting: mercy that keeps coming.
+    Ibn Kathir explains الرَّحْمَـٰن as mercy for all creation and الرَّحِيم as mercy especially for the believers.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

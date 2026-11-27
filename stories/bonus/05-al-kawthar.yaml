@@ -1,0 +1,54 @@
+# Bonus booklet, surah 108. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-05
+booklet: 0
+number: 5
+strand: quran
+title_ar: سُورَةُ الْكَوْثَرِ
+title_en: "Al-Kawthar: Abundance"
+source: "Quran 108"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-05-wide-river.png
+    alt: A broad, calm river flowing between green banks lined with trees under a clear bright sky
+
+sentences:
+  - words: [[إِنَّا, "Indeed We", q], [أَعْطَيْنَاكَ, "have given you", q], [الْكَوْثَرَ, "al-Kawthar (abundant good)", q]]
+    en: We have given you al-Kawthar, good beyond measure.
+    quote: {ref: "108:1", text: إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ}
+  - words: [[فَصَلِّ, "So pray", q], [لِرَبِّكَ, "to your Lord", q], [وَانْحَرْ, "and sacrifice", q]]
+    en: So pray to your Lord, and offer your sacrifice to Him alone.
+    quote: {ref: "108:2", text: فَصَلِّ لِرَبِّكَ وَانْحَرْ}
+  - words: [[إِنَّ, "Indeed", q], [شَانِئَكَ, "your hater", q], [هُوَ, "he", q], [الْأَبْتَرُ, "(is) the one cut off", q]]
+    en: It is the one who hates you who is cut off from all good.
+    quote: {ref: "108:3", text: إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ}
+
+dictionary:
+  - {ar: أَعْطَى, en: he gave, pos: [فعل ماض, past verb], root: عطو, pattern: "أَفْعَلَ", present: يُعْطِي, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "93:5", text: وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ, en: "and your Lord will give you, and you will be pleased"}, note: "In the surah: أَعْطَيْنَاكَ, We gave you (نَا We, كَ you)."}
+  - {ar: كَوْثَرٌ, en: abundance; a great amount of good, pos: [اسم, noun], root: كثر, pattern: فَوْعَلٌ, ayah: {ref: "102:1", text: أَلْهَاكُمُ التَّكَاثُرُ, en: "competing for more distracts you"}, note: "Same root as كَثِيرٌ, much. In a sahih hadith (Muslim) the Prophet ﷺ described al-Kawthar as a river in Paradise that his Lord promised him."}
+  - {ar: نَحَرَ, en: he sacrificed (a camel), pos: [فعل ماض, past verb], root: نحر, pattern: "فَعَلَ", present: يَنْحَرُ, bab: بَابُ فَتَحَ, note: "From نَحْرٌ, the upper chest, where a camel is sacrificed. The verb comes only here in the Quran. In the surah: اِنْحَرْ, sacrifice! (command)."}
+  - {ar: شَانِئٌ, en: one who hates, pos: [اسم فاعل, active participle], root: شنأ, pattern: فَاعِلٌ, ayah: {ref: "5:2", text: وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ, en: "and do not let hatred of a people drive you"}, note: "Tanzil writes it شَانِئَكَ. In 5:2: شَنَآنُ, hatred."}
+  - {ar: أَبْتَرُ, en: cut off; one with no lasting good or remembrance, pos: [صفة, adjective], root: بتر, pattern: أَفْعَلُ, note: "بَتَرَ is to cut off. Comes only here in the Quran. As Ibn Kathir reports, an enemy called the Prophet ﷺ by the name أَبْتَر when his son died; Allah turned the word back on them."}
+
+grammar:
+  title_ar: إِنَّ وَاسْمُهَا
+  title_en: "إِنَّ: indeed"
+  body: >-
+    إِنَّ makes a sentence strong and certain ("indeed"). The noun after it, the اسْمُ إِنَّ, is مَنْصُوبٌ (fatha): شَانِئَكَ, not شَانِئُكَ.
+    A pronoun can join on: إِنَّ with نَا becomes إِنَّا, indeed We. In ayah 3, هُوَ between the two parts adds
+    "he and no one else": it is your hater who is cut off, not you.
+  examples:
+    - [إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ, "Indeed We have given you al-Kawthar"]
+    - [إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ, "Indeed your hater, he is the one cut off"]
+    - [إِنَّهُ كَانَ تَوَّابًا, "Indeed He is ever accepting of repentance (110:3)"]
+
+tip:
+  title: "Meaning note: the root كثر"
+  body: >-
+    كثر is about much and many: كَثِيرٌ, much; أَكْثَرُ, more, most; تَكَاثُرٌ, competing for more (102:1).
+    The pattern فَوْعَل makes it very large: كَوْثَر, an abundance with no end. The surah answers the enemies' word
+    أَبْتَر (cut off) with its opposite.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

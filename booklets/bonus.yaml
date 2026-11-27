@@ -1,0 +1,31 @@
+number: Bonus
+title: The Surahs You Know
+title_ar: سُوَرٌ تَحْفَظُهَا
+subtitle: Al-Fatiha and the last ten surahs, word by word, with roots.
+cover_image: cover-bonus.png
+cover_prompt: An open Mushaf resting on a carved wooden stand (rahl) on a woven prayer mat, soft morning light from a lattice window, no visible text on the pages.
+vowels: full
+gloss: all
+translation: inline
+unvowelled: none
+intro:
+  - You know these surahs by heart. Here you meet them word by word, so that every time you recite them you understand each word as you say it.
+  - The Arabic is the Mushaf text exactly as printed (Tanzil, simple script). Under each word is its meaning; under each ayah, an English rendering of its meaning, written for this booklet.
+  - After each surah, a short dictionary gives the key words with their roots and where else they appear in the Quran.
+howto:
+  - [1. Recite, "Recite the ayah from memory, then read it here."]
+  - [2. Word by word, "Say each word and its meaning aloud."]
+  - [3. Root, "In the dictionary, find other words you know from the same root."]
+  - [4. Without help, "Cover the grey line and recite again, thinking of each meaning."]
+stories:
+  - stories/bonus/01-al-fatiha.yaml
+  - stories/bonus/02-al-fil.yaml
+  - stories/bonus/03-quraysh.yaml
+  - stories/bonus/04-al-maun.yaml
+  - stories/bonus/05-al-kawthar.yaml
+  - stories/bonus/06-al-kafirun.yaml
+  - stories/bonus/07-an-nasr.yaml
+  - stories/bonus/08-al-masad.yaml
+  - stories/bonus/09-al-ikhlas.yaml
+  - stories/bonus/10-al-falaq.yaml
+  - stories/bonus/11-an-nas.yaml

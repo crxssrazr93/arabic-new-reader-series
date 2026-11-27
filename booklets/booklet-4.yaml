@@ -1,0 +1,25 @@
+number: 4
+title: Letting Go of the Marks
+title_ar: بِلَا حَرَكَاتٍ تَقْرِيبًا
+subtitle: Four stories. Vowel marks only on new and difficult words.
+cover_image: cover-4.png
+cover_prompt: The mouth of a cave in a rocky mountainside at dawn, warm light spilling across the stones, a wide valley below, no people.
+vowels: partial
+parts: [1, 2, 3]
+gloss: marked
+translation: after
+unvowelled: full
+intro:
+  - Most words in this booklet have no vowel marks. You know them now. Only new words, and words that could be read two ways, keep their marks, and shadda is kept so you can see doubled letters.
+  - "When you meet a word without marks, use what you know: its root, its pattern, and its place in the sentence. That is exactly how scholars read the kutub."
+  - The translation comes after each story, and the whole story appears again with no marks at all.
+howto:
+  - [1. Read, "Read the story through. Use pattern and context for unmarked words."]
+  - [2. Check, "Read the translation after the story."]
+  - [3. Study, "Learn the new words and their patterns."]
+  - [4. Challenge, "Read the fully unvowelled version aloud."]
+stories:
+  - stories/booklet-4/01-ashab-al-kahf.yaml
+  - stories/booklet-4/02-ath-thalatha-fil-ghar.yaml
+  - stories/booklet-4/03-al-asad-wal-arnab.yaml
+  - stories/booklet-4/04-ar-rihla-ilal-madina.yaml

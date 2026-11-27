@@ -1,0 +1,24 @@
+number: 5
+title: The Open Page
+title_ar: الصَّفْحَةُ الْمَفْتُوحَةُ
+subtitle: Real Arabic without vowel marks, classical and modern.
+cover_image: cover-5.png
+cover_prompt: An old handwritten-style book lying open on a carved stand beside a modern newspaper folded on a table, warm lamp light, no readable text anywhere.
+vowels: none
+parts: [1, 2]
+gloss: marked
+translation: back
+unvowelled: none
+intro:
+  - This is the page you have been working toward. The stories have no vowel marks, just like a classical kitab or a newspaper in Cairo.
+  - New words still have a meaning beside them, and every dictionary word is listed fully vowelled in the glossary at the back. The translations are at the back of the booklet. Try not to look until you have finished.
+  - The last piece (story 3, in part 3) is not written for learners at all, and it is short on purpose. It is the original Arabic of the fable of the Ring Dove from Kalila wa Dimna, which you first met retold in booklet 2.
+howto:
+  - [1. Read, "Read each story twice before you check anything."]
+  - [2. Mark, "Underline in pencil any word you could not read."]
+  - [3. Check, "Use the glossary, then the translation at the back."]
+  - [4. Return, "Come back a week later and read it again."]
+stories:
+  - stories/booklet-5/01-yunus.yaml
+  - stories/booklet-5/02-khabar-al-huffaz.yaml
+  - stories/booklet-5/03-al-hamama-al-mutawwaqa-al-asl.yaml

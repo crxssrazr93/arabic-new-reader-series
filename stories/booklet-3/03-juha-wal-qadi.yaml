@@ -1,0 +1,167 @@
+# Booklet 3, story 3. Tale strand, told in class by Ustadh Hamid. Grammar ceiling: Madinah Book 2.
+id: b3-03
+booklet: 3
+number: 3
+strand: tale
+title_ar: جُحَا وَالْقَاضِي
+title_en: Juha and the Judge
+madinah: "Book 2 (ism fa'il and ism maf'ul of the three-letter verb)"
+source: "Traditional Juha tale, 'the pot that gave birth and died' (قِدْرُ جُحَا), retold. The ending at the judge's court, where each pot goes back to its owner, is our own, so that the story closes on justice rather than on Juha keeping what is not his."
+
+illustrations:
+  - before: 6
+    file: b3-03-two-pots.png
+    alt: A large copper cooking pot with a small copper pot sitting inside it, on the stone doorstep of an old house
+    prompt: A large shining copper cooking pot with a small copper pot sitting inside it, placed on the stone doorstep of an old Middle Eastern house with a wooden door, warm morning light. No people, no animals.
+  - before: 25
+    file: b3-03-judge-room.png
+    alt: An old judge's sitting room with floor cushions, a low wooden desk, an inkpot, a pen and an open book, light through an arched window, no people
+    prompt: The sitting room of a judge in an old town, floor cushions along the walls, a low wooden writing desk with an inkpot, a reed pen and an open book, sunlight through an arched window with a wooden lattice. No people, no animals.
+
+sentences:
+  - words: [[فِي, ""], [الْفَصْلِ, ""], [قَالَ, ""], [الْأُسْتَاذُ, ""], [حَامِدٌ, ""], [لِلطُّلَّابِ, ""], [الْيَوْمَ, ""], [أَقُصُّ, ""], [عَلَيْكُمْ, ""], [قِصَّةَ, ""], [جُحَا, ""], [وَالْقَاضِي, "and the judge", n]]
+    en: "In class Ustadh Hamid said to the students: Today I will tell you the story of Juha and the judge."
+  - words: [[كَانَ, ""], [لِجُحَا, ""], [جَارٌ, "a neighbour", n], [غَنِيٌّ, "rich", n], [يُحِبُّ, ""], [الْمَالَ, "money", n], [حُبًّا, ""], [شَدِيدًا, ""]]
+    en: "Juha had a rich neighbour who loved money very much."
+  - words: [[وَكَانَ, ""], [هٰذَا, ""], [الْجَارُ, ""], [طَامِعًا, "greedy", n], [لَا, ""], [يَشْبَعُ, "is satisfied", n], [أَبَدًا, "ever", n]]
+    en: "This neighbour was greedy, and he was never satisfied."
+  - words: [[وَفِي, ""], [يَوْمٍ, ""], [مِنَ, ""], [الْأَيَّامِ, ""], [جَاءَ, ""], [إِلَى, ""], [جُحَا, ""], [ضُيُوفٌ, ""], [كَثِيرُونَ, ""], [مِنْ, ""], [قَرْيَةٍ, ""], [بَعِيدَةٍ, ""]]
+    en: "One day many guests came to Juha from a faraway village."
+  - words: [[وَلَمْ, ""], [يَكُنْ, ""], [فِي, ""], [مَطْبَخِ, ""], [جُحَا, ""], [قِدْرٌ, ""], [كَبِيرَةٌ, ""], [يَطْبُخُ, ""], [فِيهَا, ""], [طَعَامًا, ""], [لِهٰؤُلَاءِ, ""], [الضُّيُوفِ, ""]]
+    en: "There was no pot in Juha's kitchen big enough to cook food for all these guests."
+  - words: [[فَذَهَبَ, ""], [إِلَى, ""], [جَارِهِ, ""], [وَاسْتَعَارَ, "and borrowed", n], [مِنْهُ, ""], [قِدْرًا, ""], [كَبِيرَةً, ""], [مِنْ, ""], [نُحَاسٍ, "copper", n]]
+    en: "So he went to his neighbour and borrowed a big copper pot from him."
+  - words: [[فَأَعْطَاهُ, ""], [الْجَارُ, ""], [الْقِدْرَ, ""], [وَقَالَ, ""], [لَهُ, ""], [أَعِدْهَا, "give it back", n], [إِلَيَّ, ""], [غَدًا, ""]]
+    en: "The neighbour gave him the pot and said: Give it back to me tomorrow."
+  - words: [[فَطَبَخَ, ""], [جُحَا, ""], [فِيهَا, ""], [طَعَامًا, ""], [طَيِّبًا, ""], [وَأَكَلَ, ""], [الضُّيُوفُ, ""], [وَشَكَرُوهُ, ""]]
+    en: "Juha cooked good food in it, and the guests ate and thanked him."
+  - words: [[وَفِي, ""], [الْغَدِ, ""], [جَاءَ, ""], [جُحَا, ""], [إِلَى, ""], [بَابِ, ""], [جَارِهِ, ""], [بِالْقِدْرِ, ""], [الْكَبِيرَةِ, ""], [وَفِيهَا, ""], [قِدْرٌ, ""], [صَغِيرَةٌ, ""]]
+    en: "The next day Juha came to his neighbour's door with the big pot, and inside it was a small pot."
+  - words: [[فَنَظَرَ, ""], [الْجَارُ, ""], [إِلَى, ""], [الْقِدْرِ, ""], [الصَّغِيرَةِ, ""], [وَسَأَلَ, ""], [مَا, ""], [هٰذِهِ, ""], [يَا, ""], [جُحَا, ""]]
+    en: "The neighbour looked at the small pot and asked: What is this, Juha?"
+  - words: [[قَالَ, ""], [جُحَا, ""], [أَبْشِرْ, "be glad!", n], [يَا, ""], [جَارِي, ""], [فَقَدْ, ""], [وَلَدَتْ, "gave birth", n], [قِدْرُكَ, ""], [عِنْدِي, ""]]
+    en: "Juha said: Good news, my neighbour! Your pot gave birth at my house."
+  - words: [[وَهٰذِهِ, ""], [الْقِدْرُ, ""], [الصَّغِيرَةُ, ""], [مَوْلُودُهَا, "its newborn", n], [فَهِيَ, ""], [لَكَ, ""], [أَيْضًا, ""]]
+    en: "And this small pot is its newborn, so it is yours too."
+  - words: [[عَرَفَ, ""], [الْجَارُ, ""], [أَنَّ, ""], [الْقُدُورَ, ""], [لَا, ""], [تَلِدُ, "give birth", n], [وَلٰكِنَّهُ, ""], [سَكَتَ, "kept quiet", n]]
+    en: "The neighbour knew that pots do not give birth, but he kept quiet."
+  - words: [[وَأَخَذَ, ""], [الْقِدْرَيْنِ, ""], [وَهُوَ, ""], [مَسْرُورٌ, "pleased", n], [وَقَالَ, ""], [أَنْتَ, ""], [رَجُلٌ, ""], [صَادِقٌ, "honest", n], [يَا, ""], [جُحَا, ""]]
+    en: "He took both pots, very pleased, and said: You are an honest man, Juha."
+  - words: [[وَقَالَ, ""], [فِي, ""], [نَفْسِهِ, ""], [لَيْتَ, "if only", n], [قِدْرِي, ""], [تَلِدُ, ""], [كُلَّ, ""], [يَوْمٍ, ""]]
+    en: "And he said to himself: If only my pot would give birth every day!"
+  - words: [[وَبَعْدَ, ""], [أُسْبُوعٍ, ""], [رَجَعَ, ""], [جُحَا, ""], [إِلَى, ""], [جَارِهِ, ""], [وَطَلَبَ, ""], [مِنْهُ, ""], [الْقِدْرَ, ""], [الْكَبِيرَةَ, ""], [مَرَّةً, ""], [أُخْرَى, ""]]
+    en: "A week later Juha went back to his neighbour and asked him for the big pot once more."
+  - words: [[فَأَعْطَاهُ, ""], [الْجَارُ, ""], [الْقِدْرَ, ""], [فَرِحًا, ""], [وَهُوَ, ""], [يَنْتَظِرُ, ""], [قِدْرًا, ""], [صَغِيرَةً, ""], [أُخْرَى, ""]]
+    en: "The neighbour happily gave him the pot, already waiting for another small one."
+  - words: [[وَمَرَّتِ, ""], [الْأَيَّامُ, ""], [وَلَمْ, ""], [يُعِدْ, ""], [جُحَا, ""], [الْقِدْرَ, ""], [إِلَى, ""], [صَاحِبِهَا, ""], [وَلَمْ, ""], [يَذْكُرْهَا, ""]]
+    en: "The days went by, and Juha did not give the pot back to its owner, or even mention it."
+  - words: [[فَذَهَبَ, ""], [الْجَارُ, ""], [إِلَى, ""], [بَيْتِ, ""], [جُحَا, ""], [وَسَأَلَهُ, ""], [أَيْنَ, ""], [قِدْرِي, ""], [يَا, ""], [جُحَا, ""]]
+    en: "So the neighbour went to Juha's house and asked him: Where is my pot, Juha?"
+  - words: [[فَقَالَ, ""], [جُحَا, ""], [بِوَجْهٍ, "with a face", n], [حَزِينٍ, ""], [عِنْدِي, ""], [خَبَرٌ, "news", n], [حَزِينٌ, ""], [يَا, ""], [جَارِي, ""]]
+    en: "Juha said with a sad face: I have sad news, my neighbour."
+  - words: [[إِنَّ, ""], [قِدْرَكَ, ""], [الْكَبِيرَةَ, ""], [قَدْ, ""], [مَاتَتْ, "died", n], [فِي, ""], [بَيْتِي, ""], [أَمْسِ, "yesterday", n]]
+    en: "Your big pot died at my house yesterday."
+  - words: [[فَصَاحَ, "shouted", n], [الْجَارُ, ""], [بِصَوْتٍ, ""], [عَالٍ, "loud", n], [مَاتَتْ, ""], [هَلْ, ""], [تَمُوتُ, ""], [الْقُدُورُ, ""], [يَا, ""], [جُحَا, ""]]
+    en: "The neighbour shouted loudly: Died? Do pots die, Juha?"
+  - words: [[قَالَ, ""], [جُحَا, ""], [صَدَّقْتَ, "you believed", n], [أَنَّهَا, ""], [وَلَدَتْ, ""], [فَلِمَاذَا, ""], [لَا, ""], [تُصَدِّقُ, ""], [أَنَّهَا, ""], [مَاتَتْ, ""]]
+    en: "Juha said: You believed that it gave birth, so why do you not believe that it died?"
+  - words: [[فَغَضِبَ, ""], [الْجَارُ, ""], [غَضَبًا, "anger", n], [شَدِيدًا, ""], [وَذَهَبَ, ""], [إِلَى, ""], [الْقَاضِي, ""], [يَشْكُو, "complaining about", n], [جُحَا, ""]]
+    en: "The neighbour was furious, and he went to the judge to complain about Juha."
+  - words: [[فَأَرْسَلَ, ""], [الْقَاضِي, ""], [إِلَى, ""], [جُحَا, ""], [وَجَمَعَهُمَا, ""], [فِي, ""], [مَجْلِسِهِ, "his court", n]]
+    en: "The judge sent for Juha and brought the two of them together in his court."
+  - words: [[قَالَ, ""], [الْجَارُ, ""], [أَيُّهَا, "O", n], [الْقَاضِي, ""], [أَنَا, ""], [رَجُلٌ, ""], [مَظْلُومٌ, "wronged", n]]
+    en: "The neighbour said: O judge, I am a man who has been wronged."
+  - words: [[اِسْتَعَارَ, ""], [جُحَا, ""], [قِدْرِي, ""], [الْكَبِيرَةَ, ""], [مُنْذُ, "(some time) ago", n], [أَيَّامٍ, ""], [وَلَمْ, ""], [يُعِدْهَا, ""], [إِلَيَّ, ""]]
+    en: "Juha borrowed my big pot some days ago and did not give it back to me."
+  - words: [[فَقَالَ, ""], [الْقَاضِي, ""], [وَمَاذَا, ""], [تَقُولُ, ""], [أَنْتَ, ""], [يَا, ""], [جُحَا, ""]]
+    en: "The judge said: And what do you say, Juha?"
+  - words: [[فَقَصَّ, ""], [جُحَا, ""], [عَلَى, ""], [الْقَاضِي, ""], [قِصَّةَ, ""], [الْقِدْرِ, ""], [مِنْ, ""], [أَوَّلِهَا, ""], [إِلَى, ""], [آخِرِهَا, ""]]
+    en: "Juha told the judge the story of the pot from beginning to end."
+  - words: [[فَسَأَلَ, ""], [الْقَاضِي, ""], [الْجَارَ, ""], [هَلْ, ""], [أَخَذْتَ, ""], [الْقِدْرَ, ""], [الصَّغِيرَةَ, ""]]
+    en: "The judge asked the neighbour: Did you take the small pot?"
+  - words: [[قَالَ, ""], [الْجَارُ, ""], [نَعَمْ, ""], [أَخَذْتُهَا, ""], [وَهِيَ, ""], [الْآنَ, ""], [فِي, ""], [بَيْتِي, ""]]
+    en: "The neighbour said: Yes, I took it, and it is in my house now."
+  - words: [[فَقَالَ, ""], [الْقَاضِي, ""], [وَهَلْ, ""], [صَدَّقْتَ, ""], [أَنَّ, ""], [الْقِدْرَ, ""], [تَلِدُ, ""]]
+    en: "The judge said: And did you believe that a pot gives birth?"
+  - words: [[فَسَكَتَ, ""], [الْجَارُ, ""], [وَاحْمَرَّ, "and turned red", n], [وَجْهُهُ, ""], [وَلَمْ, ""], [يَقُلْ, ""], [شَيْئًا, ""]]
+    en: "The neighbour fell silent, his face turned red, and he said nothing."
+  - words: [[فَضَحِكَ, ""], [الْقَاضِي, ""], [وَقَالَ, ""], [صَدَّقْتَ, ""], [الْكَذِبَ, ""], [لَمَّا, ""], [نَفَعَكَ, ""], [وَكَذَّبْتَهُ, "and you called it a lie", n], [لَمَّا, ""], [ضَرَّكَ, "it harmed you", n]]
+    en: "The judge laughed and said: You believed a lie when it brought you gain, and called it a lie when it brought you loss."
+  - words: [[إِنَّ, ""], [الطَّمَعَ, "greed", n], [هُوَ, ""], [الَّذِي, ""], [جَعَلَكَ, ""], [تُصَدِّقُ, ""], [مَا, ""], [لَا, ""], [يُصَدِّقُهُ, ""], [عَاقِلٌ, "a sensible person", n]]
+    en: "It was greed that made you believe what no sensible person would believe."
+  - words: [[ثُمَّ, ""], [الْتَفَتَ, ""], [الْقَاضِي, ""], [إِلَى, ""], [جُحَا, ""], [وَقَالَ, ""], [وَأَنْتَ, ""], [أَيْضًا, ""], [لَمْ, ""], [تَكُنْ, ""], [صَادِقًا, ""]]
+    en: "Then the judge turned to Juha and said: And you were not truthful either."
+  - words: [[فَالْقُدُورُ, ""], [لَا, ""], [تَلِدُ, ""], [وَلَا, ""], [تَمُوتُ, ""], [يَا, ""], [جُحَا, ""], [وَأَنْتَ, ""], [تَعْرِفُ, ""], [ذٰلِكَ, ""]]
+    en: "Pots neither give birth nor die, Juha, and you know that."
+  - words: [[ثُمَّ, ""], [حَكَمَ, "judged", n], [الْقَاضِي, ""], [بَيْنَهُمَا, ""], [بِالْعَدْلِ, "with justice", n]]
+    en: "Then the judge ruled between them with justice."
+  - words: [[فَقَالَ, ""], [عَلَى, "it is for ... to", n], [جُحَا, ""], [أَنْ, ""], [يُعِيدَ, ""], [الْقِدْرَ, ""], [الْكَبِيرَةَ, ""], [إِلَى, ""], [صَاحِبِهَا, ""]]
+    en: "He said: Juha must give the big pot back to its owner."
+  - words: [[وَعَلَى, ""], [الْجَارِ, ""], [أَنْ, ""], [يُعِيدَ, ""], [الْقِدْرَ, ""], [الصَّغِيرَةَ, ""], [إِلَى, ""], [جُحَا, ""]]
+    en: "And the neighbour must give the small pot back to Juha."
+  - words: [[فَكُلُّ, ""], [شَيْءٍ, ""], [يَرْجِعُ, ""], [إِلَى, ""], [صَاحِبِهِ, ""], [وَلَا, ""], [يَبْقَى, ""], [أَحَدٌ, ""], [مَظْلُومًا, ""]]
+    en: "So everything goes back to its owner, and no one is left wronged."
+  - words: [[فَقَالَ, ""], [جُحَا, ""], [حَكَمْتَ, ""], [بِالْحَقِّ, ""], [أَيُّهَا, ""], [الْقَاضِي, ""]]
+    en: "Juha said: You have judged rightly, O judge."
+  - words: [[وَقَالَ, ""], [جُحَا, ""], [صَدَقْتَ, ""], [أَيُّهَا, ""], [الْقَاضِي, ""], [الْقُدُورُ, ""], [لَا, ""], [تَلِدُ, ""], [وَلَا, ""], [تَمُوتُ, ""], [وَأَنَا, ""], [لَمْ, ""], [أَكُنْ, ""], [صَادِقًا, ""]]
+    en: "And Juha said: You are right, O judge. Pots neither give birth nor die, and I was not truthful."
+  - words: [[فَضَحِكَ, ""], [الْقَاضِي, ""], [وَضَحِكَ, ""], [كُلُّ, ""], [مَنْ, ""], [فِي, ""], [الْمَجْلِسِ, ""], [إِلَّا, ""], [الْجَارَ, ""], [فَإِنَّهُ, ""], [أَخَذَ, ""], [قِدْرَهُ, ""], [وَرَجَعَ, ""], [إِلَى, ""], [بَيْتِهِ, ""], [سَاكِتًا, "silent", n]]
+    en: "The judge laughed, and everyone in the court laughed, except the neighbour: he took his pot and went home without a word."
+  - words: [[وَضَحِكَ, ""], [الطُّلَّابُ, ""], [فِي, ""], [الْفَصْلِ, ""], [ضَحِكًا, ""], [كَثِيرًا, ""]]
+    en: "The students in the class laughed a great deal."
+  - words: [[فَقَالَ, ""], [بِلَالٌ, ""], [ضَاحِكًا, ""], [جُحَا, ""], [ذَكِيٌّ, ""], [وَلٰكِنَّ, ""], [الْقَاضِيَ, ""], [أَذْكَى, "cleverer", n], [مِنْهُ, ""]]
+    en: "Bilal said, laughing: Juha is clever, but the judge is cleverer than him."
+  - words: [[فَقَالَ, ""], [الْأُسْتَاذُ, ""], [حَامِدٌ, ""], [صَدَقْتَ, ""], [يَا, ""], [بِلَالُ, ""], [فَالْقَاضِي, ""], [الْعَادِلُ, "just", n], [يَرُدُّ, "returns", n], [كُلَّ, ""], [حَقٍّ, ""], [إِلَى, ""], [صَاحِبِهِ, ""]]
+    en: "Ustadh Hamid said: You are right, Bilal. A just judge returns every right to its owner."
+  - words: [[وَفِي, ""], [هٰذِهِ, ""], [الْقِصَّةِ, ""], [دَرْسَانِ, "two lessons", n], [لَنَا, ""], [أَيْضًا, ""]]
+    en: "And this story has two lessons for us as well."
+  - words: [[الطَّمَعُ, ""], [يُعْمِي, "blinds", n], [صَاحِبَهُ, ""], [وَالْكَذِبُ, ""], [لَا, ""], [يَأْتِي, ""], [بِخَيْرٍ, ""], [أَبَدًا, ""]]
+    en: "Greed blinds the one who has it, and lying never brings any good."
+
+dictionary:
+  - {ar: قَاضٍ, en: judge, pos: [اسم فاعل, active participle], root: قضي, pattern: فَاعِلٌ, plural: قُضَاةٌ, ayah: {ref: "20:72", text: فَاقْضِ مَا أَنتَ قَاضٍ, en: "so decree whatever you will decree"}, note: "From قَضَى, he judged; he decided. The last root letter ي hides when there is tanwin: قَاضٍ. With ال it comes back: الْقَاضِي, and the case ending is only seen as a fatha: رَأَيْتُ الْقَاضِيَ."}
+  - {ar: جَارٌ, en: neighbour, pos: [اسم, noun], root: جور, pattern: فَعَلٌ, plural: جِيرَانٌ, ayah: {ref: "4:36", text: وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ, en: "and the neighbour who is related and the neighbour who is a stranger"}, note: "أَصْلُهُ جَوَرٌ: the middle و turned into alif, so the pattern is فَعَلٌ."}
+  - {ar: غَنِيٌّ, en: rich; free of need, pos: [صفة مشبهة, adjective of lasting quality], root: غني, pattern: فَعِيلٌ, plural: أَغْنِيَاءُ, ayah: {ref: "35:15", text: وَاللَّهُ هُوَ الْغَنِيُّ الْحَمِيدُ, en: "and Allah is the Free of all need, the Praiseworthy"}, note: "Used of Allah, it means needing nothing. The opposite of فَقِيرٌ."}
+  - {ar: طَمِعَ, en: he was greedy; he hoped for, pos: [فعل ماض, past verb], root: طمع, pattern: فَعِلَ, present: يَطْمَعُ, bab: بَابُ سَمِعَ, ayah: {ref: "26:82", text: وَالَّذِي أَطْمَعُ أَن يَغْفِرَ لِي خَطِيئَتِي, en: "and the One who, I hope, will forgive my fault(s)"}, note: "Greed: الطَّمَعُ. A greedy person: طَامِعٌ (اسْمُ فَاعِلٍ). Hoping in Allah is good; greed for things is not."}
+  - {ar: اِسْتَعَارَ, en: he borrowed (a thing), pos: [فعل ماض, past verb], root: عور, pattern: اِسْتَفْعَلَ, present: يَسْتَعِيرُ, bab: بَابُ الِاسْتِفْعَالِ, register: both, note: "Asking for the use of something you will give back. A loan of a thing: عَارِيَةٌ. In modern Arabic, الاِسْتِعَارَةُ is also a metaphor, a word borrowed for another meaning."}
+  - {ar: نُحَاسٌ, en: copper; brass, pos: [اسم, noun], root: نحس, pattern: فُعَالٌ, ayah: {ref: "55:35", text: يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ, en: "a flame of fire and molten copper will be sent against you"}}
+  - {ar: أَعَادَ, en: he gave back; he repeated, pos: [فعل ماض, past verb], root: عود, pattern: أَفْعَلَ, present: يُعِيدُ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "20:55", text: مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ, en: "from it We created you, and into it We will return you"}, note: "Command: أَعِدْ. After لَمْ the long ي drops: لَمْ يُعِدْ."}
+  - {ar: مَوْلُودٌ, en: newborn; child, pos: [اسم مفعول, passive participle], root: ولد, pattern: مَفْعُولٌ, ayah: {ref: "31:33", text: وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئًا, en: "nor will a child be of any use to his father"}, note: "From وَلَدَ, to give birth: the one who is born. The verb is وَلَدَتْ, she gave birth; present تَلِدُ (the و drops)."}
+  - {ar: مَسْرُورٌ, en: pleased; happy, pos: [اسم مفعول, passive participle], root: سرر, pattern: مَفْعُولٌ, ayah: {ref: "84:9", text: وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا, en: "and he will return to his people happy"}, note: "From سَرَّ, to make happy: literally made happy."}
+  - {ar: سَكَتَ, en: he was silent; he kept quiet, pos: [فعل ماض, past verb], root: سكت, pattern: فَعَلَ, present: يَسْكُتُ, bab: بَابُ نَصَرَ, ayah: {ref: "7:154", text: وَلَمَّا سَكَتَ عَن مُّوسَى الْغَضَبُ, en: "and when the anger of Musa عَلَيْهِ السَّلَامُ was stilled"}, note: "Silent: سَاكِتٌ (اسْمُ فَاعِلٍ)."}
+  - {ar: مَاتَ, en: he died, pos: [فعل ماض, past verb], root: موت, pattern: فَعَلَ, present: يَمُوتُ, bab: بَابُ نَصَرَ, ayah: {ref: "3:185", text: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ, en: "every soul will taste death"}, note: "Death: الْمَوْتُ. The middle و shows in the present and the noun."}
+  - {ar: صَدَّقَ, en: he believed (someone or something), pos: [فعل ماض, past verb], root: صدق, pattern: فَعَّلَ, present: يُصَدِّقُ, bab: بَابُ التَّفْعِيلِ, ayah: {ref: "39:33", text: وَالَّذِي جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ, en: "and the one who brought the truth and believed in it"}, note: "صَدَقَ (one shadda less) means he told the truth; صَدَّقَ means he believed it. The opposite of صَدَّقَ is كَذَّبَ."}
+  - {ar: شَكَا, en: he complained, pos: [فعل ماض, past verb], root: شكو, pattern: فَعَلَ, present: يَشْكُو, bab: بَابُ نَصَرَ, ayah: {ref: "12:86", text: إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ, en: "I only complain of my grief and sorrow to Allah"}, note: "The words of Ya'qub عَلَيْهِ السَّلَامُ in Surat Yusuf."}
+  - {ar: مَجْلِسٌ, en: sitting place; council; court, pos: [اسم مكان, noun of place], root: جلس, pattern: مَفْعِلٌ, plural: مَجَالِسُ, ayah: {ref: "58:11", text: إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ, en: "when you are told to make room in the gatherings"}, note: "From جَلَسَ. مَجْلِسُ الْقَاضِي is the judge's court. In modern Arabic مَجْلِسٌ is also a council or parliament."}
+  - {ar: ظَلَمَ, en: he wronged; he was unjust, pos: [فعل ماض, past verb], root: ظلم, pattern: فَعَلَ, present: يَظْلِمُ, bab: بَابُ ضَرَبَ, ayah: {ref: "18:49", text: وَلَا يَظْلِمُ رَبُّكَ أَحَدًا, en: "and your Lord does not wrong anyone"}, note: "The one who wrongs: ظَالِمٌ. The one who is wronged: مَظْلُومٌ."}
+  - {ar: حَكَمَ, en: he judged; he ruled, pos: [فعل ماض, past verb], root: حكم, pattern: فَعَلَ, present: يَحْكُمُ, bab: بَابُ نَصَرَ, ayah: {ref: "4:58", text: وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ, en: "and when you judge between people, judge with justice"}, note: "A ruling: حُكْمٌ."}
+  - {ar: عَدْلٌ, en: justice; fairness, pos: [مصدر, verbal noun], root: عدل, pattern: فَعْلٌ, ayah: {ref: "16:90", text: إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ, en: "indeed Allah commands justice and doing good"}, note: "A just person: عَادِلٌ (اسْمُ فَاعِلٍ)."}
+
+root_families:
+  - root: ولد
+    words: [[وَلَدَتْ, "she gave birth"], [تَلِدُ, "she gives birth"], [وَلَدٌ, "child"], [أَوْلَادٌ, "children"], [مَوْلُودٌ, "newborn"]]
+  - root: ظلم
+    words: [[ظَلَمَ, "he wronged"], [ظَالِمٌ, "wrongdoer"], [مَظْلُومٌ, "wronged"], [ظُلْمٌ, "injustice"], [ظُلْمَةٌ, "darkness"]]
+
+grammar:
+  title_ar: اِسْمُ الْفَاعِلِ وَاسْمُ الْمَفْعُولِ
+  title_en: "The doer and the done-to: فَاعِلٌ and مَفْعُولٌ"
+  body: >-
+    From almost every three-letter verb you can make two nouns. اسْمُ الْفَاعِلِ (the doer's noun), on the pattern فَاعِلٌ, is the one who does the action:
+    ظَلَمَ, he wronged; ظَالِمٌ, a wrongdoer. عَقَلَ, he understood; عَاقِلٌ, a sensible person. عَدَلَ, he was just; عَادِلٌ, just.
+    اسْمُ الْمَفْعُولِ (the done-to noun), on the pattern مَفْعُولٌ, is the one the action is done to: ظَلَمَ, مَظْلُومٌ, wronged. سَرَّ, he made happy;
+    مَسْرُورٌ, pleased. وَلَدَتْ, she gave birth; مَوْلُودٌ, newborn. When the last root letter is ي, the فَاعِلٌ loses it under tanwin
+    when it is مَرْفُوعٌ or مَجْرُورٌ: قَضَى gives قَاضٍ, and with ال the ي returns: الْقَاضِي. When it is مَنْصُوبٌ the ي stays: رَأَيْتُ قَاضِيًا.
+  examples:
+    - [أَنَا رَجُلٌ مَظْلُومٌ, "I am a man who has been wronged."]
+    - [فَالْقَاضِي الْعَادِلُ يَرُدُّ كُلَّ حَقٍّ إِلَى صَاحِبِهِ, "A just judge returns every right to its owner."]
+    - [وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا, "and he will return to his people happy (Quran 84:9)"]
+
+tip:
+  title: "Reading without vowels: مفعول or مفعل?"
+  body: >-
+    Two patterns both start with م. If you see a و just before the last letter, it is the مَفْعُولٌ pattern, a thing done to:
+    مظلوم, مسرور, مولود, مكتوب. If there is no و, it is usually the place pattern مَفْعَلٌ or مَفْعِلٌ from booklet 1: مجلس, مسجد,
+    مطبخ, ملعب. So مجلس is majlis, a place for sitting, and مولود is mawlūd, someone born. The letter و tells you before any vowel does.
+
+reread: Read the unvowelled version above again. Then find every word on the pattern فاعل or مفعول and say which verb it comes from.

@@ -1,0 +1,62 @@
+# Bonus booklet, surah 113. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-10
+booklet: 0
+number: 10
+strand: quran
+title_ar: سُورَةُ الْفَلَقِ
+title_en: "Al-Falaq: The Daybreak"
+source: "Quran 113"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-10-daybreak-hills.png
+    alt: First light breaking over a line of dark hills, a bright band of dawn splitting the night sky above them
+
+sentences:
+  - words: [[قُلْ, "Say", q], [أَعُوذُ, "I seek refuge", q], [بِرَبِّ, "in (the) Lord", q], [الْفَلَقِ, "(of) the daybreak", q]]
+    en: "Say: I seek refuge with the Lord of the daybreak,"
+    quote: {ref: "113:1", text: قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ}
+  - words: [[مِن, "from", q], [شَرِّ, "(the) evil", q], [مَا, "(of) what", q], [خَلَقَ, "He created", q]]
+    en: from the evil of everything He has created,
+    quote: {ref: "113:2", text: مِن شَرِّ مَا خَلَقَ}
+  - words: [[وَمِن, "and from", q], [شَرِّ, "(the) evil", q], [غَاسِقٍ, "(of the) darkness", q], [إِذَا, "when", q], [وَقَبَ, "it settles", q]]
+    en: and from the evil of the night when its darkness spreads over everything,
+    quote: {ref: "113:3", text: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ}
+  - words: [[وَمِن, "and from", q], [شَرِّ, "(the) evil", q], [النَّفَّاثَاتِ, "(of) the blowers", q], [فِي, "on", q], [الْعُقَدِ, "the knots", q]]
+    en: and from the evil of those who blow on knots to work magic,
+    quote: {ref: "113:4", text: وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ}
+  - words: [[وَمِن, "and from", q], [شَرِّ, "(the) evil", q], [حَاسِدٍ, "(of) an envier", q], [إِذَا, "when", q], [حَسَدَ, "he envies", q]]
+    en: and from the evil of an envier when he envies.
+    quote: {ref: "113:5", text: وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ}
+
+dictionary:
+  - {ar: عَاذَ, en: he sought refuge; he sought protection, pos: [فعل ماض, past verb], root: عوذ, pattern: "فَعَلَ", present: يَعُوذُ, bab: بَابُ نَصَرَ, ayah: {ref: "19:18", text: قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَـٰنِ مِنكَ, en: "she said: I seek refuge in the Most Merciful from you"}, note: "The middle و shows in the present and becomes ا in the past (أَجْوَفُ, hollow). The same word as in أَعُوذُ بِاللَّهِ."}
+  - {ar: فَلَقٌ, en: daybreak; dawn, pos: [اسم, noun], root: فلق, pattern: فَعَلٌ, ayah: {ref: "6:96", text: فَالِقُ الْإِصْبَاحِ, en: "the One who splits open the dawn"}, note: "فَالِقٌ is the اسْمُ فَاعِلٍ (active participle) of فَلَقَ (بَابُ ضَرَبَ)."}
+  - {ar: شَرٌّ, en: evil; harm, pos: [اسم, noun], root: شرر, pattern: فَعْلٌ, plural: شُرُورٌ, ayah: {ref: "99:8", text: وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ, en: "and whoever does an atom's weight of evil will see it"}, note: "Its opposite is خَيْرٌ, good."}
+  - {ar: خَلَقَ, en: he created, pos: [فعل ماض, past verb], root: خلق, pattern: "فَعَلَ", present: يَخْلُقُ, bab: بَابُ نَصَرَ, ayah: {ref: "67:2", text: الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ, en: "the One who created death and life"}, note: "Same root: خَالِقٌ, Creator; خَلْقٌ, creation."}
+  - {ar: غَاسِقٌ, en: darkness; the dark night, pos: [اسم فاعل, active participle], root: غسق, pattern: فَاعِلٌ, ayah: {ref: "17:78", text: إِلَىٰ غَسَقِ اللَّيْلِ, en: "until the darkness of the night"}, note: "غَسَقُ اللَّيْلِ is the deep dark of night (17:78). Most tafsir scholars take غَاسِق here as the night; a hadith in at-Tirmidhi points to the moon as a غَاسِق, and al-Tabari says the word covers every dark thing when it comes."}
+  - {ar: عُقْدَةٌ, en: knot, pos: [اسم, noun], root: عقد, pattern: فُعْلَةٌ, plural: عُقَدٌ, ayah: {ref: "20:27", text: وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي, en: "and untie the knot from my tongue"}, note: "In 20:27 Musa عَلَيْهِ السَّلَامُ asks for the knot in his tongue to be untied."}
+  - {ar: حَسَدَ, en: he envied, pos: [فعل ماض, past verb], root: حسد, pattern: "فَعَلَ", present: يَحْسُدُ, bab: بَابُ نَصَرَ, ayah: {ref: "4:54", text: أَمْ يَحْسُدُونَ النَّاسَ, en: "or do they envy people"}, note: "حَاسِدٌ (اسم فاعل) is the one who envies: he wants the good someone else has to be taken from them."}
+
+grammar:
+  title_ar: فِعْلُ الْأَمْرِ قُلْ
+  title_en: "قُلْ: Say!"
+  body: >-
+    قُلْ is the فِعْلُ أَمْرٍ (command) from قَالَ يَقُولُ, he said. To make the command, start from the فِعْلٌ مُضَارِعٌ (present verb) يَقُولُ, drop the يَ, and
+    end with sukun: قُولْ. Two sukuns cannot meet, so the long و drops: قُلْ. Allah tells the Prophet ﷺ to say these
+    words, and they become words for every believer to say.
+  examples:
+    - [قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ, "Say: I seek refuge with the Lord of the daybreak"]
+    - [قُلْ هُوَ اللَّهُ أَحَدٌ, "Say: He is Allah, One (112:1)"]
+    - [قُلْ يَا أَيُّهَا الْكَافِرُونَ, "Say: O disbelievers (109:1)"]
+
+tip:
+  title: "Meaning note: the root فلق"
+  body: >-
+    فلق means to split open. فَالِقُ الْحَبِّ وَالنَّوَىٰ (6:95): the One who splits the seed and the date stone so a plant comes out.
+    الْفَلَق is the daybreak, the light splitting the night. You ask the Lord who splits the darkness with morning
+    to protect you from the dark things listed after it.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

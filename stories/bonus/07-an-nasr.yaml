@@ -1,0 +1,57 @@
+# Bonus booklet, surah 110. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-07
+booklet: 0
+number: 7
+strand: quran
+title_ar: سُورَةُ النَّصْرِ
+title_en: "An-Nasr: The Help"
+source: "Quran 110"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-07-open-gates.png
+    alt: The wide open gates of a walled city at sunrise, with many roads from the surrounding desert all leading toward them
+
+sentences:
+  - words: [[إِذَا, "When", q], [جَاءَ, "comes", q], [نَصْرُ, "(the) help", q], [اللَّهِ, "(of) Allah", q], [وَالْفَتْحُ, "and the victory", q]]
+    en: When Allah's help comes, and the victory (the opening of Makkah),
+    quote: {ref: "110:1", text: إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ}
+  - words: [[وَرَأَيْتَ, "and you see", q], [النَّاسَ, "the people", q], [يَدْخُلُونَ, "entering", q], [فِي, "into", q], [دِينِ, "(the) religion", q], [اللَّهِ, "(of) Allah", q], [أَفْوَاجًا, "(in) crowds", q]]
+    en: and you see people entering Allah's religion in crowds,
+    quote: {ref: "110:2", text: وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا}
+  - words: [[فَسَبِّحْ, "then glorify", q], [بِحَمْدِ, "with (the) praise", q], [رَبِّكَ, "(of) your Lord", q], [وَاسْتَغْفِرْهُ, "and ask Him forgiveness", q], [إِنَّهُ, "Indeed He", q], [كَانَ, "is ever", q], [تَوَّابًا, "Accepting of repentance", q]]
+    en: then glorify your Lord with His praise and ask Him for forgiveness. He always turns to those who repent.
+    quote: {ref: "110:3", text: فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا}
+
+dictionary:
+  - {ar: جَاءَ, en: he came, pos: [فعل ماض, past verb], root: جيأ, pattern: "فَعَلَ", present: يَجِيءُ, bab: بَابُ ضَرَبَ, ayah: {ref: "17:81", text: وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ, en: "and say: the truth has come and falsehood has vanished"}, note: "The middle root letter ي turns into ا in the past."}
+  - {ar: نَصْرٌ, en: help; victory, pos: [مصدر, verbal noun], root: نصر, pattern: فَعْلٌ, ayah: {ref: "61:13", text: نَصْرٌ مِّنَ اللَّهِ وَفَتْحٌ قَرِيبٌ, en: "help from Allah and a victory near at hand"}, note: "مَصْدَرٌ (verbal noun) of نَصَرَ, he helped; the verb that gives باب نَصَرَ its name. 61:13 has نَصْر and فَتْح together, as in this surah."}
+  - {ar: فَتْحٌ, en: opening; conquest, pos: [مصدر, verbal noun], root: فتح, pattern: فَعْلٌ, ayah: {ref: "48:1", text: إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا, en: "indeed, We have given you a clear victory"}, note: "مَصْدَرٌ of فَتَحَ, he opened (you meet it in the stories too). الْفَتْحُ here is the conquest of Makkah, as the tafsir scholars explain."}
+  - {ar: دَخَلَ, en: he entered, pos: [فعل ماض, past verb], root: دخل, pattern: "فَعَلَ", present: يَدْخُلُ, bab: بَابُ نَصَرَ, ayah: {ref: "89:30", text: وَادْخُلِي جَنَّتِي, en: "and enter My Paradise"}}
+  - {ar: فَوْجٌ, en: crowd; group, pos: [اسم, noun], root: فوج, pattern: فَعْلٌ, plural: أَفْوَاجٌ, ayah: {ref: "78:18", text: يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا, en: "the Day the Horn is blown and you come forth in crowds"}}
+  - {ar: سَبَّحَ, en: he glorified (declared Allah free of every fault), pos: [فعل ماض, past verb], root: سبح, pattern: "فَعَّلَ", present: يُسَبِّحُ, bab: بَابُ التَّفْعِيلِ, ayah: {ref: "87:1", text: سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى, en: "glorify the name of your Lord, the Most High"}, note: "In the surah: سَبِّحْ, glorify! (command). Same root: سُبْحَانَ اللَّهِ."}
+  - {ar: اِسْتَغْفَرَ, en: he asked for forgiveness, pos: [فعل ماض, past verb], root: غفر, pattern: "اِسْتَفْعَلَ", present: يَسْتَغْفِرُ, bab: بَابُ الِاسْتِفْعَالِ, ayah: {ref: "71:10", text: فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا, en: "and I said: ask your Lord for forgiveness, He is ever Most Forgiving"}, note: "غَفَرَ is to forgive; بَابُ الِاسْتِفْعَالِ asks for it (الطَّلَبُ), like اِسْتَعَانَ in al-Fatiha. 71:10 ends إِنَّهُ كَانَ غَفَّارًا, very like this surah."}
+  - {ar: تَوَّابٌ, en: one who accepts repentance again and again, pos: [صيغة مبالغة, intensive form], root: توب, pattern: فَعَّالٌ, ayah: {ref: "2:37", text: إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ, en: "truly He is the One who accepts repentance, the Most Merciful"}, note: "تَابَ means he turned back (repented); for Allah, it means He turns to the servant in mercy. فَعَّال means doing it a great deal."}
+
+grammar:
+  title_ar: إِذَا وَجَوَابُهَا
+  title_en: "إِذَا: when ... then"
+  body: >-
+    إِذَا means "when" about something sure to happen. The verb after it is often a فِعْلٌ مَاضٍ (past verb) in form (جَاءَ) but future in meaning:
+    when it comes. The answer (جواب) often starts with فَ: فَسَبِّحْ, then glorify. So the surah has one long sentence:
+    when A and B happen, then do C.
+  examples:
+    - [إِذَا جَاءَ نَصْرُ اللَّهِ, "when Allah's help comes"]
+    - [فَسَبِّحْ بِحَمْدِ رَبِّكَ, "then glorify your Lord with His praise"]
+    - [مِن شَرِّ حَاسِدٍ إِذَا حَسَدَ, "from the evil of an envier when he envies (113:5)"]
+
+tip:
+  title: "Meaning note: the root سبح"
+  body: >-
+    سبح first means to swim or float far out. سَبَّحَ is to declare Allah far above every fault and weakness.
+    Ibn Abbas رَضِيَ اللَّهُ عَنْهُمَا (may Allah be pleased with them both) understood this surah as a sign from Allah to the Prophet ﷺ that his life was near its end
+    (Sahih al-Bukhari); so at the moment of victory the command is not to celebrate oneself but to glorify Allah and ask forgiveness.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

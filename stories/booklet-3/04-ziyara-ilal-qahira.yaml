@@ -1,0 +1,181 @@
+# Booklet 3, story 4. Modern strand (MSA). Grammar ceiling: Madinah Book 2.
+id: b3-04
+booklet: 3
+number: 4
+strand: modern
+title_ar: زِيَارَةٌ إِلَى الْقَاهِرَةِ
+title_en: A Visit to Cairo
+madinah: "Book 2 (the five nouns: أَبٌ, أَخٌ, ذُو and their case letters)"
+
+illustrations:
+  - before: 16
+    file: b3-04-azhar.png
+    alt: The courtyard of al-Azhar mosque in morning light, white marble floor, arches and several minarets against a blue sky, no people
+    prompt: The wide white marble courtyard of al-Azhar mosque in Cairo in bright morning light, a row of pointed arches around it and several tall decorated minarets against a blue sky. No people, no animals.
+  - before: 24
+    file: b3-04-old-cairo.png
+    alt: A long street of old Cairo with stone houses, wooden window lattices and minarets, ending at a great stone city gate, no people
+    prompt: A long narrow street in old Islamic Cairo with tall stone houses, carved wooden window lattices, small shop fronts with shutters, and minarets above, ending at a massive stone city gate with two towers. No people, no animals.
+  - before: 40
+    file: b3-04-nile-sunset.png
+    alt: A small sailing boat on the calm Nile at sunset, palm trees and minarets along both banks, no people
+    prompt: A small wooden sailing boat with a white sail on the calm wide Nile at sunset, palm trees, houses and minarets along both banks, orange sky reflected in the water. No people, no animals.
+
+sentences:
+  - words: [[فِي, ""], [عُطْلَةِ, "(the) holiday (of)", n], [الصَّيْفِ, ""], [سَافَرَ, ""], [بِلَالٌ, ""], [مَعَ, ""], [أَبِيهِ, ""], [مِنْ, ""], [سِرِيلَانْكَا, ""], [إِلَى, ""], [الْقَاهِرَةِ, ""]]
+    en: "In the summer holiday Bilal travelled with his father from Sri Lanka to Cairo."
+  - words: [[أَرَادَا, ""], [أَنْ, ""], [يَزُورَا, "(to) visit", n], [زَيْدًا, ""], [وَأُسْرَتَهُ, ""], [فِي, ""], [بَيْتِهِمْ, ""], [فِي, ""], [مِصْرَ, ""]]
+    en: "The two of them wanted to visit Zayd and his family at their home in Egypt."
+  - words: [[وَفِي, ""], [مَطَارِ, ""], [الْقَاهِرَةِ, ""], [كَانَ, ""], [زَيْدٌ, ""], [يَنْتَظِرُهُمَا, ""], [مَعَ, ""], [أَبِيهِ, ""], [عِنْدَ, ""], [الْبَابِ, ""]]
+    en: "At Cairo airport Zayd was waiting for them at the door with his father."
+  - words: [[وَأَبُو, ""], [زَيْدٍ, ""], [رَجُلٌ, ""], [طَوِيلٌ, ""], [ذُو, "with (having)", n], [وَجْهٍ, ""], [بَاسِمٍ, "smiling", n]]
+    en: "Abu Zayd is a tall man with a smiling face."
+  - words: [[سَلَّمَ, ""], [زَيْدٌ, ""], [عَلَى, ""], [بِلَالٍ, ""], [وَعَانَقَهُ, "and hugged him", n], [طَوِيلًا, ""], [وَهُوَ, ""], [سَعِيدٌ, ""], [جِدًّا, ""]]
+    en: "Zayd greeted Bilal and hugged him for a long time, very happy."
+  - words: [[وَسَلَّمَ, ""], [أَبُو, ""], [زَيْدٍ, ""], [عَلَى, ""], [أَبِي, ""], [بِلَالٍ, ""], [وَقَالَ, ""], [أَهْلًا, ""], [وَسَهْلًا, "and welcome", n]]
+    en: "Abu Zayd greeted Bilal's father and said: Welcome, you are among family."
+  - words: [[ثُمَّ, ""], [رَكِبُوا, ""], [السَّيَّارَةَ, ""], [إِلَى, ""], [بَيْتِ, ""], [أَبِي, ""], [زَيْدٍ, ""], [فِي, ""], [حَيٍّ, "a quarter (of town)", n], [قَدِيمٍ, ""]]
+    en: "Then they drove to Abu Zayd's house in an old part of the city."
+  - words: [[وَكَانَ, ""], [فِي, ""], [الشَّوَارِعِ, ""], [زِحَامٌ, "crowding", n], [شَدِيدٌ, ""], [مِنَ, ""], [السَّيَّارَاتِ, ""], [وَالنَّاسِ, ""]]
+    en: "The streets were packed with cars and people."
+  - words: [[وَفِي, ""], [الْبَيْتِ, ""], [اسْتَقْبَلَتْهُمْ, ""], [أُمُّ, ""], [زَيْدٍ, ""], [وَأَخُوهُ, ""], [الْكَبِيرُ, ""], [عُمَرُ, ""]]
+    en: "At the house Zayd's mother and his older brother Umar welcomed them."
+  - words: [[وَعُمَرُ, ""], [طَالِبٌ, ""], [فِي, ""], [جَامِعَةِ, ""], [الْأَزْهَرِ, ""], [يَدْرُسُ, ""], [فِيهَا, ""], [الْحَدِيثَ, "hadith", n]]
+    en: "Umar is a student at al-Azhar University, where he studies hadith."
+  - words: [[وَأُخْتُ, ""], [زَيْدٍ, ""], [الصَّغِيرَةُ, ""], [فَاطِمَةُ, ""], [تَدْرُسُ, ""], [فِي, ""], [مَدْرَسَةٍ, ""], [قَرِيبَةٍ, ""], [مِنَ, ""], [الْبَيْتِ, ""]]
+    en: "Zayd's little sister Fatima goes to a school near the house."
+  - words: [[وَضَعَتْ, ""], [أُمُّ, ""], [زَيْدٍ, ""], [عَلَى, ""], [الْمَائِدَةِ, ""], [طَعَامًا, ""], [مِصْرِيًّا, "Egyptian", n], [كَثِيرًا, ""]]
+    en: "Zayd's mother put plenty of Egyptian food on the table."
+  - words: [[وَكَانَ, ""], [فِيهِ, ""], [فُولٌ, "fava beans", n], [وَطَعْمِيَّةٌ, "and falafel (Egyptian word)", n], [وَخُبْزٌ, ""], [حَارٌّ, ""], [وَشَايٌ, "and tea", n]]
+    en: "There were fava beans, falafel, hot bread and tea."
+  - words: [[أَكَلَ, ""], [بِلَالٌ, ""], [كَثِيرًا, ""], [وَقَالَ, ""], [هٰذَا, ""], [الطَّعَامُ, ""], [لَذِيذٌ, "delicious", n], [جِدًّا, ""]]
+    en: "Bilal ate a lot and said: This food is really delicious."
+  - words: [[فَضَحِكَ, ""], [أَبُو, ""], [زَيْدٍ, ""], [وَقَالَ, ""], [وَغَدًا, ""], [تَأْكُلُ, ""], [الْكُشَرِيَّ, "koshari (Egyptian dish)", n]]
+    en: "Abu Zayd laughed and said: And tomorrow you will eat koshari."
+  - words: [[فِي, ""], [الصَّبَاحِ, ""], [ذَهَبُوا, ""], [جَمِيعًا, ""], [إِلَى, ""], [الْجَامِعِ, "the (great) mosque", n], [الْأَزْهَرِ, ""]]
+    en: "In the morning they all went to the mosque of al-Azhar."
+  - words: [[وَهُوَ, ""], [مَسْجِدٌ, ""], [قَدِيمٌ, ""], [ذُو, ""], [مَآذِنَ, "minarets", n], [عَالِيَةٍ, "tall", n], [وَقِبَابٍ, "and domes", n], [جَمِيلَةٍ, ""]]
+    en: "It is an old mosque with tall minarets and beautiful domes."
+  - words: [[وَعُمْرُهُ, "and its age", n], [أَكْثَرُ, ""], [مِنْ, ""], [أَلْفِ, "(a) thousand", n], [سَنَةٍ, "year", n]]
+    en: "It is more than a thousand years old."
+  - words: [[وَفِي, ""], [الْمَسْجِدِ, ""], [رَأَى, ""], [بِلَالٌ, ""], [طُلَّابًا, ""], [مِنْ, ""], [بِلَادٍ, ""], [كَثِيرَةٍ, ""]]
+    en: "In the mosque Bilal saw students from many countries."
+  - words: [[بَعْضُهُمْ, ""], [يَقْرَأُ, ""], [الْقُرْآنَ, ""], [وَبَعْضُهُمْ, ""], [يَجْلِسُ, ""], [حَوْلَ, ""], [شَيْخٍ, "a shaykh", n], [يُعَلِّمُهُمْ, ""]]
+    en: "Some of them were reading the Quran, and some were sitting around a shaykh who was teaching them."
+  - words: [[وَسَمِعَ, ""], [بِلَالٌ, ""], [أَصْوَاتَهُمْ, ""], [وَهُمْ, ""], [يَقْرَؤُونَ, ""], [فَشَعَرَ, ""], [كَأَنَّهُ, "as if he", n], [فِي, ""], [مَدْرَسَتِهِ, ""]]
+    en: "Bilal heard their voices as they recited, and he felt as if he were in his own madrasa."
+  - words: [[وَصَلَّى, ""], [بِلَالٌ, ""], [وَأَبُوهُ, ""], [الظُّهْرَ, ""], [فِي, ""], [الْأَزْهَرِ, ""], [مَعَ, ""], [الطُّلَّابِ, ""], [وَالنَّاسِ, ""]]
+    en: "Bilal and his father prayed Zuhr in al-Azhar with the students and the people."
+  - words: [[وَقَالَ, ""], [عُمَرُ, ""], [أَخُو, ""], [زَيْدٍ, ""], [هُنَا, ""], [دَرَسَ, ""], [عُلَمَاءُ, "scholars", n], [كَثِيرُونَ, ""], [مُنْذُ, "since", n], [زَمَنٍ, ""], [طَوِيلٍ, ""]]
+    en: "Umar, Zayd's brother, said: Many scholars have studied here, for a very long time."
+  - words: [[وَبَعْدَ, ""], [الصَّلَاةِ, ""], [مَشَوْا, ""], [فِي, ""], [شَارِعِ, ""], [الْمُعِزِّ, "al-Mu'izz", n], [فِي, ""], [الْقَاهِرَةِ, ""], [الْقَدِيمَةِ, ""]]
+    en: "After the prayer they walked along al-Mu'izz Street in old Cairo."
+  - words: [[وَهُوَ, ""], [شَارِعٌ, ""], [طَوِيلٌ, ""], [ذُو, ""], [بُيُوتٍ, ""], [وَمَسَاجِدَ, ""], [قَدِيمَةٍ, ""], [وَدَكَاكِينَ, "and shops", n], [صَغِيرَةٍ, ""]]
+    en: "It is a long street with old houses and mosques and small shops."
+  - words: [[وَفِي, ""], [آخِرِهِ, ""], [بَابٌ, ""], [كَبِيرٌ, ""], [فِي, ""], [سُورِ, "(the) wall (of)", n], [الْمَدِينَةِ, ""], [اسْمُهُ, ""], [بَابُ, ""], [الْفُتُوحِ, "al-Futuh (the Conquests)", n]]
+    en: "At its end is a great gate in the city wall, called Bab al-Futuh."
+  - words: [[وَفِي, ""], [الطَّرِيقِ, ""], [دَخَلُوا, ""], [مَكْتَبَةً, ""], [صَغِيرَةً, ""], [قَرِيبَةً, ""], [مِنَ, ""], [الْأَزْهَرِ, ""]]
+    en: "On the way they went into a small bookshop near al-Azhar."
+  - words: [[كَانَ, ""], [صَاحِبُ, ""], [الْمَكْتَبَةِ, ""], [شَيْخًا, ""], [ذَا, ""], [لِحْيَةٍ, "a beard", n], [بَيْضَاءَ, "white", n]]
+    en: "The owner of the bookshop was an old man with a white beard."
+  - words: [[وَكَانَتِ, ""], [الْكُتُبُ, ""], [فِي, ""], [كُلِّ, ""], [مَكَانٍ, ""], [مِنَ, ""], [الْأَرْضِ, ""], [إِلَى, ""], [السَّقْفِ, "the ceiling", n]]
+    en: "There were books everywhere, from the floor to the ceiling."
+  - words: [[وَفِيهَا, ""], [كُتُبٌ, ""], [قَدِيمَةٌ, ""], [وَمَخْطُوطَاتٌ, "and manuscripts", n], [بِخَطٍّ, "in handwriting", n], [جَمِيلٍ, ""]]
+    en: "There were old books in it, and manuscripts in beautiful handwriting."
+  - words: [[سَأَلَ, ""], [الْبَائِعُ, "the seller", n], [بِلَالًا, ""], [مِنْ, ""], [أَيْنَ, ""], [أَنْتَ, ""], [يَا, ""], [بُنَيَّ, ""]]
+    en: "The bookseller asked Bilal: Where are you from, my son?"
+  - words: [[قَالَ, ""], [بِلَالٌ, ""], [أَنَا, ""], [مِنْ, ""], [سِرِيلَانْكَا, ""], [وَأَنَا, ""], [حَافِظٌ, ""], [لِلْقُرْآنِ, ""]]
+    en: "Bilal said: I am from Sri Lanka, and I am a hafiz of the Quran."
+  - words: [[فَفَرِحَ, ""], [الشَّيْخُ, ""], [وَقَالَ, ""], [مَا, ""], [شَاءَ, ""], [اللَّهُ, ""], [بَارَكَ, "(may) bless", n], [اللَّهُ, ""], [فِيكَ, ""]]
+    en: "The old man was delighted and said: Masha'Allah, may Allah bless you."
+  - words: [[وَكَانَ, ""], [الشَّيْخُ, ""], [ذَا, ""], [صَوْتٍ, ""], [هَادِئٍ, "calm", n], [وَكَلَامٍ, ""], [طَيِّبٍ, ""]]
+    en: "The old man had a calm voice and kind words."
+  - words: [[ثُمَّ, ""], [أَخْرَجَ, ""], [لَهُ, ""], [كِتَابًا, ""], [مِنْ, ""], [رَفٍّ, "a shelf", n], [عَالٍ, "high", n]]
+    en: "Then he brought out a book for him from a high shelf."
+  - words: [[وَقَالَ, ""], [هٰذَا, ""], [كِتَابُ, ""], [قَصَصِ, ""], [النَّبِيِّينَ, ""], [لِأَبِي, ""], [الْحَسَنِ, ""], [النَّدْوِيِّ, "an-Nadwi", n], [رَحِمَهُ, "(may) have mercy on him", n], [اللَّهُ, ""]]
+    en: "He said: This is Qasas an-Nabiyyin, the Stories of the Prophets, by Abul Hasan an-Nadwi (may Allah have mercy on him)."
+  - words: [[وَهُوَ, ""], [كِتَابٌ, ""], [سَهْلٌ, "easy", n], [يَقْرَؤُهُ, ""], [الطُّلَّابُ, ""], [لِيَتَعَلَّمُوا, "to learn", n], [الْعَرَبِيَّةَ, ""]]
+    en: "It is an easy book that students read to learn Arabic."
+  - words: [[فَاشْتَرَاهُ, "so he bought it", n], [بِلَالٌ, ""], [وَدَفَعَ, ""], [ثَمَنَهُ, ""], [مِنْ, ""], [مَالِهِ, ""]]
+    en: "So Bilal bought it and paid for it with his own money."
+  - words: [[وَاشْتَرَى, ""], [أَبُوهُ, ""], [مُصْحَفًا, "a mushaf", n], [صَغِيرًا, ""], [جَمِيلًا, ""], [هَدِيَّةً, "(as) a gift", n], [لِمَرْيَمَ, ""]]
+    en: "And his father bought a small, beautiful mushaf as a gift for Maryam."
+  - words: [[وَقَبْلَ, ""], [الْمَغْرِبِ, ""], [رَكِبُوا, ""], [قَارِبًا, "a boat", n], [صَغِيرًا, ""], [ذَا, ""], [شِرَاعٍ, "a sail", n], [أَبْيَضَ, ""], [فِي, ""], [النِّيلِ, ""]]
+    en: "Before Maghrib they took a small boat with a white sail out on the Nile."
+  - words: [[كَانَ, ""], [الْمَاءُ, ""], [هَادِئًا, ""], [وَالشَّمْسُ, ""], [تَغْرُبُ, ""], [خَلْفَ, "behind", n], [النَّخْلِ, "the palm trees", n]]
+    en: "The water was calm, and the sun was setting behind the palm trees."
+  - words: [[وَعَلَى, ""], [ضِفَّتَيِ, "(the) two banks (of)", n], [النَّهْرِ, ""], [بُيُوتٌ, ""], [وَأَشْجَارٌ, ""], [وَمَآذِنُ, ""], [كَثِيرَةٌ, ""]]
+    en: "On both banks of the river were houses, trees and many minarets."
+  - words: [[وَكَانَ, ""], [النَّسِيمُ, "the breeze", n], [بَارِدًا, ""], [بَعْدَ, ""], [يَوْمٍ, ""], [حَارٍّ, ""]]
+    en: "The breeze was cool after a hot day."
+  - words: [[قَالَ, ""], [زَيْدٌ, ""], [أَتَذْكُرُ, ""], [يَا, ""], [بِلَالُ, ""], [رِسَالَتِي, ""], [الْأُولَى, ""], [إِلَيْكَ, ""]]
+    en: "Zayd said: Do you remember my first letter to you, Bilal?"
+  - words: [[كَتَبْتُ, ""], [لَكَ, ""], [فِيهَا, ""], [عَنِ, ""], [النِّيلِ, ""], [وَالْأَزْهَرِ, ""], [وَالْآنَ, ""], [رَأَيْتَهُمَا, ""], [بِعَيْنَيْكَ, ""]]
+    en: "I wrote to you in it about the Nile and al-Azhar, and now you have seen them with your own eyes."
+  - words: [[فَقَالَ, ""], [بِلَالٌ, ""], [نَعَمْ, ""], [وَهٰذِهِ, ""], [أَجْمَلُ, "(the) most beautiful", n], [زِيَارَةٍ, "visit", n], [فِي, ""], [حَيَاتِي, "my life", n], [كُلِّهَا, ""]]
+    en: "Bilal said: Yes, and this is the most beautiful visit of my life."
+  - words: [[وَفِي, ""], [الْيَوْمِ, ""], [الْأَخِيرِ, ""], [أَكَلُوا, ""], [الْكُشَرِيَّ, ""], [فِي, ""], [مَطْعَمٍ, "a restaurant", n], [مَشْهُورٍ, "famous", n]]
+    en: "On the last day they ate koshari in a famous restaurant."
+  - words: [[وَالْكُشَرِيُّ, ""], [أَرُزٌّ, "rice", n], [وَعَدَسٌ, "and lentils", n], [وَمَكَرُونَةٌ, "and pasta (Egyptian word)", n], [مَعَ, ""], [صَلْصَةٍ, "a sauce", n], [حَارَّةٍ, ""]]
+    en: "Koshari is rice, lentils and pasta with a spicy sauce."
+  - words: [[قَالَ, ""], [بِلَالٌ, ""], [هٰذَا, ""], [أَطْيَبُ, "(the) best", n], [طَعَامٍ, ""], [أَكَلْتُهُ, ""], [فِي, ""], [مِصْرَ, ""]]
+    en: "Bilal said: This is the best food I have eaten in Egypt."
+  - words: [[ثُمَّ, ""], [جَاءَ, ""], [وَقْتُ, "(the) time (of)", n], [السَّفَرِ, ""], [فَوَدَّعَ, "and said goodbye to", n], [بِلَالٌ, ""], [وَأَبُوهُ, ""], [أُسْرَةَ, ""], [زَيْدٍ, ""]]
+    en: "Then it was time to travel, and Bilal and his father said goodbye to Zayd's family."
+  - words: [[وَقَالَ, ""], [أَبُو, ""], [بِلَالٍ, ""], [لِأَبِي, ""], [زَيْدٍ, ""], [شُكْرًا, ""], [لَكُمْ, ""], [عَلَى, ""], [كُلِّ, ""], [شَيْءٍ, ""]]
+    en: "Bilal's father said to Abu Zayd: Thank you for everything."
+  - words: [[فَقَالَ, ""], [أَبُو, ""], [زَيْدٍ, ""], [بَيْتُنَا, ""], [بَيْتُكُمْ, ""], [وَأَنْتُمْ, ""], [أَهْلُنَا, ""]]
+    en: "Abu Zayd said: Our home is your home, and you are our family."
+  - words: [[وَأَعْطَى, ""], [عُمَرُ, ""], [بِلَالًا, ""], [قَلَمًا, ""], [جَمِيلًا, ""], [وَقَالَ, ""], [اكْتُبْ, ""], [إِلَى, ""], [زَيْدٍ, ""], [دَائِمًا, ""]]
+    en: "Umar gave Bilal a beautiful pen and said: Write to Zayd always."
+  - words: [[وَفِي, ""], [الطَّائِرَةِ, ""], [فَتَحَ, ""], [بِلَالٌ, ""], [كِتَابَهُ, ""], [الْجَدِيدَ, "new", n], [وَبَدَأَ, ""], [يَقْرَأُ, ""]]
+    en: "On the plane Bilal opened his new book and began to read."
+  - words: [[وَنَظَرَ, ""], [إِلَيْهِ, ""], [أَبُوهُ, ""], [مَسْرُورًا, ""], [وَقَالَ, ""], [هٰذِهِ, ""], [أَحْسَنُ, ""], [هَدِيَّةٍ, ""], [مِنْ, ""], [مِصْرَ, ""]]
+    en: "His father looked at him, pleased, and said: This is the best gift from Egypt."
+
+dictionary:
+  - {ar: زَارَ, en: he visited, pos: [فعل ماض, past verb], present: يَزُورُ, bab: بَابُ نَصَرَ, root: زور, pattern: فَعَلَ, ayah: {ref: "102:2", text: حَتَّىٰ زُرْتُمُ الْمَقَابِرَ, en: "until you visit the graves"}, note: "The root و shows in the present. A visit: زِيَارَةٌ. A visitor: زَائِرٌ."}
+  - {ar: ذُو, en: having; owner of; with, pos: [اسم, noun], ayah: {ref: "85:15", text: ذُو الْعَرْشِ الْمَجِيدُ, en: "Owner of the Throne, the Glorious"}, note: "One of the five nouns. Always مُضَافٌ (the first word of an idafa), followed by its مُضَافٌ إِلَيْهِ. ذُو when مَرْفُوعٌ (raf'), ذَا when مَنْصُوبٌ (nasb), ذِي when مَجْرُورٌ (jarr): رَجُلٌ ذُو وَجْهٍ بَاسِمٍ (raf'), then كَانَ شَيْخًا ذَا لِحْيَةٍ (nasb), then مَرَرْتُ بِرَجُلٍ ذِي لِحْيَةٍ (jarr). Feminine: ذَاتُ, as in ذَاتَ يَوْمٍ, one day."}
+  - {ar: زِحَامٌ, en: crowding; traffic jam, pos: [مصدر, verbal noun], root: زحم, pattern: فِعَالٌ, register: modern, note: "The everyday word for crowded streets in a big city."}
+  - {ar: لَذِيذٌ, en: delicious, pos: [صفة مشبهة, adjective], root: لذذ, pattern: فَعِيلٌ, ayah: {ref: "43:71", text: وَفِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ, en: "and in it is whatever souls desire and eyes delight in"}, note: "Pleasure, delight: لَذَّةٌ."}
+  - {ar: جَامِعٌ, en: congregational mosque; one who gathers, pos: [اسم فاعل, active participle], root: جمع, pattern: فَاعِلٌ, plural: جَوَامِعُ, ayah: {ref: "3:9", text: رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ, en: "Our Lord, You will gather the people"}, register: both, note: "Classical: one who gathers. Then the great mosque that gathers people for Jumu'a: الْجَامِعُ الْأَزْهَرُ. Compare جَامِعَةٌ, a university."}
+  - {ar: مِئْذَنَةٌ, en: minaret, pos: [اسم مكان, noun of place], root: أذن, pattern: مِفْعَلَةٌ, plural: مَآذِنُ, ayah: {ref: "9:3", text: وَأَذَانٌ مِّنَ اللَّهِ وَرَسُولِهِ, en: "and an announcement from Allah and His Messenger"}, note: "The tower the أَذَانُ is called from. It is on the مِفْعَلَةٌ pattern, which is usually used for tools; the lexicons call it a place. The plural مَآذِنُ is diptote: ذُو مَآذِنَ."}
+  - {ar: قُبَّةٌ, en: dome, pos: [اسم, noun], root: قبب, pattern: فُعْلَةٌ, plural: قِبَابٌ, note: "Not in the Quran. The Dome of the Rock is قُبَّةُ الصَّخْرَةِ."}
+  - {ar: سُورٌ, en: city wall, pos: [اسم, noun], root: سور, pattern: فُعْلٌ, plural: أَسْوَارٌ, ayah: {ref: "57:13", text: فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُ بَابٌ, en: "and a wall with a gate will be put between them"}, note: "Old Cairo was walled, and three of its great gates still stand."}
+  - {ar: لِحْيَةٌ, en: beard, pos: [اسم, noun], root: لحي, pattern: فِعْلَةٌ, plural: لِحًى, ayah: {ref: "20:94", text: لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي, en: "do not seize me by my beard or my head"}, note: "The words of Harun عَلَيْهِ السَّلَامُ to Musa عَلَيْهِ السَّلَامُ."}
+  - {ar: أَبْيَضُ, en: white, pos: [صفة مشبهة, adjective], root: بيض, pattern: أَفْعَلُ, plural: بِيضٌ, ayah: {ref: "7:108", text: وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ, en: "and he drew out his hand, and it was white for the onlookers"}, note: "Colours take أَفْعَلُ for the masculine and فَعْلَاءُ for the feminine: أَبْيَضُ, بَيْضَاءُ. Both are diptote: لِحْيَةٍ بَيْضَاءَ."}
+  - {ar: بَائِعٌ, en: seller; shopkeeper, pos: [اسم فاعل, active participle], root: بيع, pattern: فَاعِلٌ, ayah: {ref: "2:275", text: وَأَحَلَّ اللَّهُ الْبَيْعَ, en: "and Allah has made trade lawful"}, note: "From بَاعَ يَبِيعُ, he sold. The middle root letter ي turns into hamza in the فَاعِلٌ pattern: بَائِعٌ."}
+  - {ar: اِشْتَرَى, en: he bought, pos: [فعل ماض, past verb], present: يَشْتَرِي, bab: بَابُ الِافْتِعَالِ, root: شري, pattern: اِفْتَعَلَ, ayah: {ref: "9:111", text: إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ, en: "Allah has bought from the believers their souls"}, note: "The plain verb شَرَى can mean he sold: وَشَرَوْهُ بِثَمَنٍ بَخْسٍ (12:20), they sold him."}
+  - {ar: قَارِبٌ, en: small boat, pos: [اسم, noun], root: قرب, pattern: فَاعِلٌ, plural: قَوَارِبُ, register: modern, note: "A small boat, as against سَفِينَةٌ, a ship. The Nile sailing boat is also called فَلُوكَةٌ."}
+  - {ar: ضِفَّةٌ, en: bank (of a river), pos: [اسم, noun], root: ضفف, pattern: فِعْلَةٌ, plural: ضِفَافٌ, note: "Two banks: ضِفَّتَانِ. In ضِفَّتَيِ النَّهْرِ the ن drops in idafa and the ي takes a kasra to meet ال."}
+  - {ar: مَطْعَمٌ, en: restaurant, pos: [اسم مكان, noun of place], root: طعم, pattern: مَفْعَلٌ, plural: مَطَاعِمُ, register: modern, note: "The مَفْعَلٌ place pattern again: a place for طَعَامٌ, like مَطْبَخٌ, a place for cooking."}
+  - {ar: وَدَّعَ, en: he said goodbye to, pos: [فعل ماض, past verb], present: يُوَدِّعُ, bab: بَابُ التَّفْعِيلِ, root: ودع, pattern: فَعَّلَ, ayah: {ref: "93:3", text: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ, en: "your Lord has not left you, nor is He displeased"}, note: "In 93:3 it means to leave someone. The farewell pilgrimage is حَجَّةُ الْوَدَاعِ."}
+
+root_families:
+  - root: زور
+    words: [[زَارَ, "he visited"], [يَزُورُ, "he visits"], [زِيَارَةٌ, "a visit"], [زَائِرٌ, "a visitor"]]
+  - root: شري
+    words: [[اِشْتَرَى, "he bought"], [يَشْتَرِي, "he buys"], [فَاشْتَرَاهُ, "so he bought it"], [وَشَرَوْهُ, "and they sold him (12:20)"]]
+
+grammar:
+  title_ar: الْأَسْمَاءُ الْخَمْسَةُ
+  title_en: "The five nouns: أَبٌ, أَخٌ, ذُو and their long letters"
+  body: >-
+    Five nouns show their case with a long letter instead of a short vowel when they are مُضَافٌ (the first word of an idafa): أَبٌ, أَخٌ, حَمٌ (father-in-law),
+    فَمٌ (as فُو) and ذُو. When مَرْفُوعٌ (raf') they take و: أَبُو زَيْدٍ, أَخُوهُ. When مَنْصُوبٌ (nasb) they take ا: يَا أَبَا بَكْرٍ, ذَا لِحْيَةٍ.
+    When مَجْرُورٌ (jarr) they take ي: بَيْتِ أَبِي زَيْدٍ, عَلَى أَبِي بِلَالٍ. ذُو is always مُضَافٌ, so it always shows its case this way.
+    With the ي of "my", the rule stops: أَبِي is simply my father, in every case.
+  examples:
+    - [وَأَبُو زَيْدٍ رَجُلٌ طَوِيلٌ ذُو وَجْهٍ بَاسِمٍ, "Abu Zayd is a tall man with a smiling face. (raf')"]
+    - [كَانَ صَاحِبُ الْمَكْتَبَةِ شَيْخًا ذَا لِحْيَةٍ بَيْضَاءَ, "The bookshop owner was an old man with a white beard. (nasb)"]
+    - [وَقَالَ أَبُو بِلَالٍ لِأَبِي زَيْدٍ شُكْرًا لَكُمْ, "Bilal's father said to Abu Zayd: Thank you. (raf' and jarr)"]
+
+tip:
+  title: "Reading without vowels: the case you can still see"
+  body: >-
+    In a text with no vowels almost every case ending disappears, but not in the five nouns. ابو, ابا and ابي, or اخو, اخا and اخي,
+    carry their case in the spelling itself. So in وقال ابو بلال لابي زيد you can see at once who spoke (ابو, the doer) and who was spoken
+    to (لابي, after a preposition). One trap: ابي alone at the end of a phrase is usually "my father", while ابي followed by a name
+    (ابي زيد, ابي بكر) is Abu Zayd or Abu Bakr in the jarr.
+
+reread: Read the unvowelled version above again. Then find every أبو, أبا, أبي, أخو, ذو and ذا, and say why it has that letter.

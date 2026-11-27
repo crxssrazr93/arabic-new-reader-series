@@ -1,0 +1,159 @@
+# Booklet 2, story 3. Quran strand, read in class with Ustadh Hamid. Grammar ceiling: Madinah Book 1 end, Book 2 start.
+id: b2-03
+booklet: 2
+number: 3
+strand: quran
+title_ar: سُلَيْمَانُ وَوَادِي النَّمْلِ
+title_en: Sulayman and the Valley of the Ants
+madinah: "Book 1 end and Book 2 start (sound masculine plural, past and present verbs, kana lightly)"
+source: "Quran 27:15 to 19, in order. Also 2:251 and 38:35 (Dawud and Sulayman as kings), 21:79 (Allah gave Sulayman understanding). Sentence 9 gives the tafsir of 27:16, attributed in the sentence (Ibn Kathir, al-Baghawi and al-Qurtubi: prophethood and kingship, not wealth; al-Tabari: knowledge and kingship). The teacher's remarks after the ayat are reflections, not part of the narration."
+
+illustrations:
+  - before: 15
+    file: b2-03-valley-army.png
+    alt: A vast rocky valley seen from a hilltop, with tall banners and a cloud of dust rising on the far horizon, no figures visible
+  - before: 18
+    file: b2-03-valley-floor.png
+    alt: Close view of a quiet valley floor at dawn with small mounds of earth and tiny openings in the ground, no creatures
+
+sentences:
+  - words: [[فِي, In], [الْفَصْلِ, the classroom], [قَرَأَ, recited], [بِلَالٌ, Bilal], [بِصَوْتٍ, in a voice], [جَمِيلٍ, beautiful], [آيَاتٍ, ayat], [مِنْ, from], [سُورَةِ, "(the) surah"], [النَّمْلِ, "(of) the Ants"]]
+    en: "In class Bilal recited some ayat of Surat an-Naml in a beautiful voice."
+  - words: [[وَكَانَ, And was], [زَيْدٌ, Zayd], [مَعَهُ, with him], [فِي, in], [الْفَصْلِ, the classroom], [يَسْمَعُ, listening]]
+    en: "Zayd was with him in the class, listening."
+  - words: [[سَأَلَ, asked], [زَيْدٌ, Zayd], [لِمَاذَا, Why (is)], [اسْمُ, "(the) name"], [السُّورَةِ, "(of) the surah"], [النَّمْلُ, the Ants]]
+    en: "Zayd asked: Why is the surah called the Ants?"
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, Ustadh], [حَامِدٌ, Hamid], [فِيهَا, In it (is)], [قِصَّةٌ, a story], [عَجِيبَةٌ, wonderful], [عَنْ, about], [نَمْلَةٍ, an ant]]
+    en: "Ustadh Hamid said: In it there is a wonderful story about an ant."
+  - words: [[النَّمْلُ, Ants], [صَغِيرٌ, "(are) small"], [جِدًّا, very], [وَيَسْكُنُ, and they live], [فِي, in], [بُيُوتٍ, homes], [تَحْتَ, under], [الْأَرْضِ, the ground]]
+    en: "Ants are very small, and they live in homes under the ground."
+  - words: [[كَانَ, was], [دَاوُدُ, Dawud], [عَلَيْهِ, upon him], [السَّلَامُ, (be) peace], [نَبِيًّا, a prophet], [وَمَلِكًا, and a king], [وَكَانَ, and was], [ابْنُهُ, his son], [سُلَيْمَانُ, Sulayman], [عَلَيْهِ, upon him], [السَّلَامُ, (be) peace], [نَبِيًّا, a prophet], [وَمَلِكًا, and a king]]
+    en: "Dawud (peace be upon him) was a prophet and a king, and his son Sulayman (peace be upon him) was a prophet and a king."
+  - words: [[أَعْطَى, gave], [اللَّهُ, Allah], [دَاوُدَ, Dawud], [وَسُلَيْمَانَ, and Sulayman], [عِلْمًا, knowledge]]
+    en: "Allah gave Dawud and Sulayman knowledge."
+  - words: [[وَقَالَا, And they both said, q], [الْحَمْدُ, Praise, q], [لِلَّهِ, "(be) to Allah", q], [الَّذِي, who, q], [فَضَّلَنَا, favoured us, q], [عَلَىٰ, over, q], [كَثِيرٍ, many, q], [مِّنْ, of, q], [عِبَادِهِ, His servants, q], [الْمُؤْمِنِينَ, believing, q]]
+    en: "And they both said: Praise be to Allah, who has favoured us over many of His believing servants."
+    quote: {ref: "27:15", text: وَقَالَا الْحَمْدُ لِلَّهِ الَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ الْمُؤْمِنِينَ}
+  - words: [[قَالَ, said], [الْمُفَسِّرُونَ, the scholars of tafsir], [وَرِثَ, inherited], [سُلَيْمَانُ, Sulayman], [أَبَاهُ, "(from) his father"], [دَاوُدَ, Dawud], [فِي, in], [النُّبُوَّةِ, prophethood], [وَالْمُلْكِ, and kingship]]
+    en: "The scholars of tafsir say: Sulayman inherited prophethood and kingship from his father Dawud."
+  - words: [[عَلَّمَ, taught], [اللَّهُ, Allah], [سُلَيْمَانَ, Sulayman], [مَنْطِقَ, "(the) speech"], [الطَّيْرِ, "(of) the birds"]]
+    en: "Allah taught Sulayman the speech of the birds."
+  - words: [[فَكَانَ, So was], [سُلَيْمَانُ, Sulayman], [يَفْهَمُ, understanding], [كَلَامَ, "(the) speech"], [الطَّيْرِ, "(of) the birds"]]
+    en: "So Sulayman understood what the birds said."
+  - words: [[وَأَعْطَاهُ, And gave him], [اللَّهُ, Allah], [مِنْ, of], [كُلِّ, every], [شَيْءٍ, thing]]
+    en: "And Allah gave him something of everything."
+  - words: [[وَكَانَ, And had], [لِسُلَيْمَانَ, Sulayman], [جُنُودٌ, soldiers], [مِنَ, from], [الْجِنِّ, the jinn], [وَالْإِنْسِ, and mankind], [وَالطَّيْرِ, and the birds]]
+    en: "Sulayman had armies of jinn, men and birds."
+  - words: [[ذَاتَ, "(On) one"], [يَوْمٍ, day], [جَمَعَ, gathered], [سُلَيْمَانُ, Sulayman], [جُنُودَهُ, his soldiers], [كُلَّهُمْ, all of them]]
+    en: "One day Sulayman gathered all his armies."
+  - words: [[سَارَ, marched], [الْجُنُودُ, the soldiers], [مَعَهُ, with him], [صُفُوفًا, "(in) rows"], [وَكَانُوا, and they were], [كَثِيرِينَ, many]]
+    en: "The soldiers marched with him in ordered rows, and there were very many of them."
+  - words: [[حَتَّى, Until], [وَصَلُوا, they reached], [إِلَى, "(to)"], [وَادِي, "(the) valley"], [النَّمْلِ, "(of) the ants"]]
+    en: "At last they came to the valley of the ants."
+  - words: [[وَفِي, And in], [ذٰلِكَ, that], [الْوَادِي, valley], [نَمْلٌ, "(were) ants"], [كَثِيرٌ, many]]
+    en: "In that valley there were many ants."
+  - words: [[قَالَتْ, said, q], [نَمْلَةٌ, an ant, q], [يَا, O, q], [أَيُّهَا, "(you)", q], [النَّمْلُ, ants, q], [ادْخُلُوا, enter, q], [مَسَاكِنَكُمْ, your dwellings, q]]
+    en: "An ant said: O ants, go into your dwellings,"
+    quote: {ref: "27:18", text: قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ}
+  - words: [[لَا, "(so) not", q], [يَحْطِمَنَّكُمْ, will crush you, q], [سُلَيْمَانُ, Sulayman, q], [وَجُنُودُهُ, and his soldiers, q], [وَهُمْ, while they, q], [لَا, "not", q], [يَشْعُرُونَ, notice, q]]
+    en: "so that Sulayman and his soldiers do not crush you without noticing."
+    quote: {ref: "27:18", text: لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ}
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [الْمَسَاكِنُ, The dwellings], [هِيَ, "(they are)"], [الْبُيُوتُ, the homes]]
+    en: "The Ustadh said: Masakin means homes."
+  - words: [[هٰذِهِ, This], [النَّمْلَةُ, the ant], [عَرَفَتِ, knew], [اسْمَ, "(the) name"], [سُلَيْمَانَ, "(of) Sulayman"]]
+    en: "This ant knew Sulayman's name."
+  - words: [[وَعَرَفَتْ, And she knew], [أَنَّ, that], [جُنُودَهُ, his soldiers], [لَا, "(do) not"], [يَشْعُرُونَ, notice], [بِالنَّمْلِ, the ants]]
+    en: "And she knew that his soldiers would not notice the ants."
+  - words: [[سَمِعَ, heard], [سُلَيْمَانُ, Sulayman], [قَوْلَ, "(the) words"], [النَّمْلَةِ, "(of) the ant"], [وَفَهِمَهُ, and he understood it]]
+    en: "Sulayman heard what the ant said and understood it."
+  - words: [[فَتَبَسَّمَ, So he smiled, q], [ضَاحِكًا, laughing, q], [مِّن, at, q], [قَوْلِهَا, her words, q]]
+    en: "So he smiled, laughing at her words."
+    quote: {ref: "27:19", text: فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا}
+  - words: [[وَكَانَ, And was], [سُلَيْمَانُ, Sulayman], [سَعِيدًا, happy], [بِنِعْمَةِ, "with (the) favour"], [اللَّهِ, "(of) Allah"], [عَلَيْهِ, upon him]]
+    en: "Sulayman was happy with Allah's favour upon him."
+  - words: [[ثُمَّ, Then], [دَعَا, called upon], [سُلَيْمَانُ, Sulayman], [رَبَّهُ, his Lord], [وَقَالَ, and said]]
+    en: "Then Sulayman called upon his Lord and said:"
+  - words: [[رَبِّ, My Lord, q], [أَوْزِعْنِي, inspire me, q], [أَنْ, to, q], [أَشْكُرَ, thank (You for), q], [نِعْمَتَكَ, Your favour, q], [الَّتِي, which, q], [أَنْعَمْتَ, You bestowed, q], [عَلَيَّ, "on me", q], [وَعَلَىٰ, "and on", q], [وَالِدَيَّ, my parents, q]]
+    en: "My Lord, inspire me to be grateful for Your favour which You have bestowed on me and on my parents,"
+    quote: {ref: "27:19", text: رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ}
+  - words: [[وَأَنْ, and to, q], [أَعْمَلَ, do, q], [صَالِحًا, good, q], [تَرْضَاهُ, that pleases You, q], [وَأَدْخِلْنِي, and admit me, q], [بِرَحْمَتِكَ, by Your mercy, q], [فِي, among, q], [عِبَادِكَ, Your servants, q], [الصَّالِحِينَ, righteous, q]]
+    en: "and to do good that pleases You, and admit me by Your mercy among Your righteous servants."
+    quote: {ref: "27:19", text: وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ}
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [سُلَيْمَانُ, Sulayman], [مَلِكٌ, "(was) a king"], [عَظِيمٌ, great], [وَجُنُودُهُ, and his soldiers], [كَثِيرُونَ, "(were) many"]]
+    en: "The Ustadh said: Sulayman was a great king with many soldiers."
+  - words: [[وَمَعَ, And with], [ذٰلِكَ, that], [سَمِعَ, he listened (to)], [كَلَامَ, "(the) words"], [نَمْلَةٍ, "(of) an ant"], [صَغِيرَةٍ, small]]
+    en: "Even so, he listened to the words of a small ant."
+  - words: [[وَمَا, And not], [غَضِبَ, he got angry], [عَلَيْهَا, "at her"], [بَلْ, rather], [تَبَسَّمَ, he smiled], [وَشَكَرَ, and he thanked], [رَبَّهُ, his Lord]]
+    en: "He did not get angry with her. He smiled and thanked his Lord."
+  - words: [[وَالنَّمْلَةُ, And the ant], [صَغِيرَةٌ, "(was) small"], [وَلٰكِنَّهَا, but she], [خَافَتْ, feared], [عَلَى, for], [قَوْمِهَا, her people]]
+    en: "The ant was small, but she feared for her people."
+  - words: [[فَنَادَتْ, So she called], [قَوْمَهَا, her people], [وَدَعَتْهُمْ, and she called them], [إِلَى, to], [مَسَاكِنِهِمْ, their homes]]
+    en: "So she called out to her people and sent them to their homes."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [الْمُؤْمِنُونَ, Believers], [يَشْكُرُونَ, thank], [اللَّهَ, Allah], [عَلَى, for], [نِعَمِهِ, His blessings], [دَائِمًا, always]]
+    en: "Bilal said: Believers always thank Allah for His blessings."
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [صَدَقْتَ, you are right], [يَا, O], [بِلَالُ, Bilal]]
+    en: "The Ustadh said: You are right, Bilal."
+  - words: [[وَنَحْنُ, And we], [أَيْضًا, too], [نَدْعُو, pray], [بِدُعَاءِ, "with (the) dua"], [سُلَيْمَانَ, "(of) Sulayman"]]
+    en: "We too pray with the dua of Sulayman."
+  - words: [[ثُمَّ, Then], [قَرَأَ, recited], [الطُّلَّابُ, the students], [الدُّعَاءَ, the dua], [مَعًا, together], [بِصَوْتٍ, with a voice], [وَاحِدٍ, one]]
+    en: "Then the students recited the dua together, with one voice."
+  - words: [[وَقَالَ, And said], [زَيْدٌ, Zayd], [الْآنَ, Now], [أَعْرِفُ, I know], [لِمَاذَا, why], [اسْمُ, "(the) name"], [السُّورَةِ, "(of) the surah"], [النَّمْلُ, "(is) the Ants"]]
+    en: "And Zayd said: Now I know why the surah is called the Ants."
+  - words: [[فَرِحَ, was happy], [زَيْدٌ, Zayd], [وَكَتَبَ, and he wrote], [الدُّعَاءَ, the dua], [بِقَلَمِهِ, with his pen], [فِي, in], [كِتَابِهِ, his book]]
+    en: "Zayd was happy, and he wrote the dua in his book with his pen."
+  - words: [[وَفِي, And in], [الْمَسَاءِ, the evening], [رَجَعَ, he returned], [إِلَى, to], [الْبَيْتِ, the house], [وَحَفِظَهُ, and he memorised it]]
+    en: "In the evening he went home and learned it by heart."
+
+dictionary:
+  - {ar: آيَةٌ, en: ayah; sign, pos: [اسم, noun], root: أيي, pattern: فَعْلَةٌ, plural: آيَاتٌ, ayah: {ref: "12:7", text: لَّقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِّلسَّائِلِينَ, en: "in Yusuf and his brothers there are signs for those who ask"}, register: both, note: "A sign from Allah, and a verse of the Quran. Plural with ـَاتٌ."}
+  - {ar: مَلِكٌ, en: king, pos: [اسم, noun], root: ملك, pattern: فَعِلٌ, plural: مُلُوكٌ, ayah: {ref: "114:2", text: مَلِكِ النَّاسِ, en: "the King of mankind"}, note: "Kingship is مُلْكٌ: وَالْمُلْكِ in sentence 9."}
+  - {ar: عِلْمٌ, en: knowledge, pos: [مصدر, verbal noun], root: علم, pattern: فِعْلٌ, plural: عُلُومٌ, ayah: {ref: "20:114", text: وَقُل رَّبِّ زِدْنِي عِلْمًا, en: "and say: my Lord, increase me in knowledge"}}
+  - {ar: وَرِثَ, en: he inherited, pos: [فعل ماض, past verb], root: ورث, pattern: فَعِلَ, present: يَرِثُ, bab: بَابُ حَسِبَ, ayah: {ref: "19:6", text: يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ, en: "who will inherit from me and from the family of Ya'qub"}, note: "بَابُ حَسِبَ takes a kasra in the present (يَرِثُ), and the first root letter و drops. The du'a of Zakariyya عَلَيْهِ السَّلَامُ for a son. In 27:16 the tafsir books explain that Sulayman inherited prophethood and kingship, not wealth."}
+  - {ar: طَيْرٌ, en: birds, pos: [اسم, noun], root: طير, pattern: فَعْلٌ, plural: طُيُورٌ, ayah: {ref: "105:3", text: وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ, en: "and He sent against them birds in flocks"}, note: "An اسْمُ جِنْسٍ جَمْعِيٌّ (birds as a kind), like نَمْلٌ for ants and حَمَامٌ for doves. One bird is طَائِرٌ."}
+  - {ar: جُنْدٌ, en: army; soldiers, pos: [اسم, noun], root: جند, pattern: فُعْلٌ, plural: جُنُودٌ, ayah: {ref: "85:17", text: هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ, en: "has the story of the armies reached you"}, note: "One soldier today is جُنْدِيٌّ."}
+  - {ar: جِنٌّ, en: jinn, pos: [اسم, noun], root: جنن, pattern: فِعْلٌ, ayah: {ref: "55:33", text: يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ, en: "O company of jinn and mankind"}, note: "Hidden beings made of fire. Their partner word is الْإِنْسُ, mankind. Same root as جَنَّةٌ (a hidden garden)."}
+  - {ar: سَارَ, en: he travelled; he marched, pos: [فعل ماض, past verb], root: سير, pattern: فَعَلَ, present: يَسِيرُ, bab: بَابُ ضَرَبَ, ayah: {ref: "52:10", text: وَتَسِيرُ الْجِبَالُ سَيْرًا, en: "and the mountains move along"}, note: "A car (سَيَّارَةٌ) and a caravan come from this root."}
+  - {ar: صَفٌّ, en: row; line, pos: [اسم, noun], root: صفف, pattern: فَعْلٌ, plural: صُفُوفٌ, ayah: {ref: "89:22", text: وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا, en: "and your Lord comes, with the angels rank upon rank"}, note: "Also a school class today: الصَّفُّ الْأَوَّلُ, the first year."}
+  - {ar: وَادٍ, en: valley, pos: [اسم, noun], root: ودي, pattern: فَاعِلٌ, plural: أَوْدِيَةٌ, ayah: {ref: "20:12", text: إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى, en: "you are in the sacred valley of Tuwa"}, note: "With ال: الْوَادِي. The Quran writes it without the final ي: وَادِ النَّمْلِ."}
+  - {ar: نَمْلٌ, en: ants, pos: [اسم, noun], root: نمل, pattern: فَعْلٌ, ayah: {ref: "27:18", text: حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ, en: "until, when they came to the valley of the ants"}, note: "An اسْمُ جِنْسٍ جَمْعِيٌّ (ants as a kind). One ant is نَمْلَةٌ. Surah 27 is named after them."}
+  - {ar: فَهِمَ, en: he understood, pos: [فعل ماض, past verb], root: فهم, pattern: فَعِلَ, present: يَفْهَمُ, bab: بَابُ سَمِعَ, ayah: {ref: "21:79", text: فَفَهَّمْنَاهَا سُلَيْمَانَ, en: "and We gave Sulayman understanding of it"}, note: "فَهَّمَ (with shadda): he made someone understand."}
+  - {ar: تَبَسَّمَ, en: he smiled, pos: [فعل ماض, past verb], root: بسم, pattern: تَفَعَّلَ, present: يَتَبَسَّمُ, bab: بَابُ التَّفَعُّلِ, ayah: {ref: "27:19", text: فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا, en: "so he smiled, laughing at her words"}, note: "In بَابُ التَّفَعُّلِ the verb has تَـ in front and a shadda on the middle letter."}
+  - {ar: شَكَرَ, en: he thanked, pos: [فعل ماض, past verb], root: شكر, pattern: فَعَلَ, present: يَشْكُرُ, bab: بَابُ نَصَرَ, ayah: {ref: "14:7", text: لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ, en: "if you are grateful, I will surely give you more"}, note: "Thanks: شُكْرٌ."}
+  - {ar: نِعْمَةٌ, en: favour; blessing, pos: [اسم, noun], root: نعم, pattern: فِعْلَةٌ, plural: نِعَمٌ, ayah: {ref: "93:11", text: وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ, en: "and as for the favour of your Lord, speak of it"}, note: "Same root as أَنْعَمَ, He bestowed. It is spelled with the same letters as نَعَمْ (yes), but نَعَمْ is a حَرْفٌ and a حَرْفٌ has no root."}
+  - {ar: رَحْمَةٌ, en: mercy, pos: [مصدر, verbal noun], root: رحم, pattern: فَعْلَةٌ, ayah: {ref: "21:107", text: وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ, en: "and We sent you (O Prophet ﷺ) only as a mercy to the worlds"}, note: "Same root as الرَّحْمَـٰنُ and الرَّحِيمُ."}
+  - {ar: صَالِحٌ, en: righteous; good, pos: [اسم فاعل, active participle], root: صلح, pattern: فَاعِلٌ, plural: صَالِحُونَ, ayah: {ref: "21:105", text: أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ, en: "that the earth will be inherited by My righteous servants"}, note: "Sound plural: الصَّالِحُونَ as subject, الصَّالِحِينَ after a preposition (27:19)."}
+  - {ar: مُؤْمِنٌ, en: believer, pos: [اسم فاعل, active participle], root: أمن, pattern: مُفْعِلٌ, plural: مُؤْمِنُونَ, ayah: {ref: "23:1", text: قَدْ أَفْلَحَ الْمُؤْمِنُونَ, en: "the believers have succeeded"}, note: "One who believes (آمَنَ). Feminine plural: مُؤْمِنَاتٌ."}
+  - {ar: دُعَاءٌ, en: dua; prayer of asking, pos: [مصدر, verbal noun], root: دعو, pattern: فُعَالٌ, plural: أَدْعِيَةٌ, ayah: {ref: "14:40", text: رَبَّنَا وَتَقَبَّلْ دُعَاءِ, en: "our Lord, and accept my prayer"}, note: "The verbal noun of دَعَا. The du'a of Ibrahim عَلَيْهِ السَّلَامُ; the Quran writes دُعَاءِ, my prayer, without the final ي."}
+  - {ar: كَلَامٌ, en: speech; words, pos: [اسم, noun], root: كلم, pattern: فَعَالٌ, ayah: {ref: "9:6", text: حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ, en: "until he hears the words of Allah"}, note: "كَلَامُ اللَّهِ: the Quran."}
+  - {ar: مَسْكَنٌ, en: dwelling; home, pos: [اسم مكان, noun of place], root: سكن, pattern: مَفْعَلٌ, plural: مَسَاكِنُ, ayah: {ref: "27:18", text: ادْخُلُوا مَسَاكِنَكُمْ, en: "enter your dwellings"}, note: "The place where you live (سَكَنَ يَسْكُنُ). The plural مَسَاكِنُ never takes tanwin."}
+
+root_families:
+  - root: صلح
+    words: [[صَالِحٌ, "righteous"], [صَالِحُونَ, "righteous people"], [صَالِحَاتٌ, "good deeds"], [إِصْلَاحٌ, "putting right"]]
+  - root: شكر
+    words: [[شَكَرَ, "he thanked"], [يَشْكُرُ, "he thanks"], [شُكْرٌ, "thanks"], [شَاكِرٌ, "grateful"]]
+
+grammar:
+  title_ar: جَمْعُ الْمُذَكَّرِ السَّالِمِ
+  title_en: "The sound masculine plural: ـُونَ and ـِينَ"
+  body: >-
+    Many words for male people (and words used for them) make their plural by adding an ending, without changing the word:
+    مُؤْمِنٌ, مُؤْمِنُونَ. The ending is ـُونَ when the word is مَرْفُوعٌ (a مُبْتَدَأٌ (topic), خَبَرٌ (predicate) or فَاعِلٌ (doer)), and ـِينَ when it is مَجْرُورٌ (after a حَرْفُ جَرٍّ, preposition)
+    or مَنْصُوبٌ (as مَفْعُولٌ بِهِ (object) or as خَبَرُ كَانَ). The ن at the end never takes tanwin and drops in مُضَافٌ (the first word of an idafa).
+  examples:
+    - [الْمُؤْمِنُونَ يَشْكُرُونَ اللَّهَ, "Believers thank Allah. (مُبْتَدَأٌ)"]
+    - [وَكَانُوا كَثِيرِينَ, "and they were many. (خَبَرُ كَانَ)"]
+    - [فِي عِبَادِكَ الصَّالِحِينَ, "among Your righteous servants (27:19)"]
+
+tip:
+  title: "Reading without vowels: the long letters are written"
+  body: >-
+    Even with no marks at all, the long vowels are always on the page: ا is ā, و is ū, ي is ī. Read them first and the word
+    almost reads itself: the name of Sulayman عَلَيْهِ السَّلَامُ, سليمان, is su-lay-mān, جنود is ju-nūd, الصالحين is aṣ-ṣā-li-ḥīn. Usually ا is ā, و is ū and ي is ī; but after a fatha, ي and و can be consonants (ay, aw), as in سُلَيْمَان and يَوْم. Only the short vowels are missing,
+    and the pattern of the word usually tells you those.
+
+try_it:
+  words: [سليمان, النمل, جنود, المؤمنون, الصالحين]
+  sentence: سمع سليمان قول النملة وفهمه
+
+reread: Cover the grey word line with a strip of paper and read the story again. Then learn the dua of Sulayman (27:19) by heart, as Zayd did.

@@ -1,0 +1,64 @@
+# Bonus booklet, surah 114. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-11
+booklet: 0
+number: 11
+strand: quran
+title_ar: سُورَةُ النَّاسِ
+title_en: "An-Nas: Mankind"
+source: "Quran 114"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-11-town-night.png
+    alt: A quiet town at night under a dark starry sky, with warm light glowing in a few windows and empty streets
+
+sentences:
+  - words: [[قُلْ, "Say", q], [أَعُوذُ, "I seek refuge", q], [بِرَبِّ, "in (the) Lord", q], [النَّاسِ, "(of) mankind", q]]
+    en: "Say: I seek refuge with the Lord of all people,"
+    quote: {ref: "114:1", text: قُلْ أَعُوذُ بِرَبِّ النَّاسِ}
+  - words: [[مَلِكِ, "(the) King", q], [النَّاسِ, "(of) mankind", q]]
+    en: the King of all people,
+    quote: {ref: "114:2", text: مَلِكِ النَّاسِ}
+  - words: [[إِلَـٰهِ, "(the) God", q], [النَّاسِ, "(of) mankind", q]]
+    en: the God of all people,
+    quote: {ref: "114:3", text: إِلَـٰهِ النَّاسِ}
+  - words: [[مِن, "from", q], [شَرِّ, "(the) evil", q], [الْوَسْوَاسِ, "(of) the whisperer", q], [الْخَنَّاسِ, "who slinks away", q]]
+    en: from the evil of the whisperer who pulls back and hides,
+    quote: {ref: "114:4", text: مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ}
+  - words: [[الَّذِي, "who", q], [يُوَسْوِسُ, "whispers", q], [فِي, "into", q], [صُدُورِ, "(the) chests", q], [النَّاسِ, "(of) mankind", q]]
+    en: who whispers into the hearts of people,
+    quote: {ref: "114:5", text: الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ}
+  - words: [[مِنَ, "from among", q], [الْجِنَّةِ, "the jinn", q], [وَالنَّاسِ, "and mankind", q]]
+    en: from among the jinn and mankind.
+    quote: {ref: "114:6", text: مِنَ الْجِنَّةِ وَالنَّاسِ}
+
+dictionary:
+  - {ar: مَلِكٌ, en: king, pos: [اسم, noun], root: ملك, pattern: فَعِلٌ, plural: مُلُوكٌ, ayah: {ref: "20:114", text: فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ, en: "so exalted is Allah, the True King"}, note: "Compare مَالِكٌ, owner, in al-Fatiha: same root, different pattern. Allah is both."}
+  - {ar: إِلَـٰهٌ, en: god; one who is worshipped, pos: [اسم, noun], root: أله, pattern: فِعَالٌ, plural: آلِهَةٌ, ayah: {ref: "2:255", text: اللَّهُ لَا إِلَـٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ, en: "Allah, none has the right to be worshipped but Him, the Ever-Living, the Sustainer of all"}, note: "Tanzil writes it with a small (dagger) alif: إِلَـٰه. As in لَا إِلَـٰهَ إِلَّا اللَّهُ, there is no god but Allah."}
+  - {ar: وَسْوَسَ, en: he whispered (evil suggestions), pos: [فعل ماض, past verb], root: وسوس, pattern: "فَعْلَلَ", present: يُوَسْوِسُ, bab: بَابُ فَعْلَلَ, ayah: {ref: "20:120", text: فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ, en: "then Shaytan whispered to him"}, note: "Noun: وَسْوَاسٌ, the whisperer, or the whispering."}
+  - {ar: خَنَّاسٌ, en: one who slinks back again and again, pos: [صيغة مبالغة, intensive form], root: خنس, pattern: فَعَّالٌ, ayah: {ref: "81:15", text: فَلَا أُقْسِمُ بِالْخُنَّسِ, en: "so I swear by the stars that draw back"}, note: "خَنَسَ is to pull back and hide. In 81:15: the stars that draw back and hide by day."}
+  - {ar: صَدْرٌ, en: chest; heart, pos: [اسم, noun], root: صدر, pattern: فَعْلٌ, plural: صُدُورٌ, ayah: {ref: "94:1", text: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ, en: "did We not open your chest for you"}, note: "In the Quran the chest holds the heart, so صَدْر often means the inner self."}
+  - {ar: جِنٌّ, en: jinn, pos: [اسم جمع, collective noun], root: جنن, pattern: فِعْلٌ, ayah: {ref: "72:1", text: أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ, en: "that a group of the jinn listened"}, note: "جِنَّةٌ in this surah means the same. The root جنن is about being hidden: جَنَّةٌ, a garden hidden by its trees; جَنِينٌ, a baby hidden in the womb."}
+
+grammar:
+  title_ar: الْإِضَافَةُ الْمُتَكَرِّرَةُ
+  title_en: "Three idafas, one Lord"
+  body: >-
+    رَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَـٰهِ النَّاسِ are three إِضَافَةٌ phrases (possession phrases). In each, the first word, the مُضَافٌ, has no ال and no tanwin,
+    and النَّاسِ is مَجْرُورٌ as the مُضَافٌ إِلَيْهِ. رَبِّ is مَجْرُورٌ after بِ, and مَلِكِ and إِلَـٰهِ are also مَجْرُورٌ,
+    as نَعْتٌ (describing word) of رَبِّ (some parse them as بَدَلٌ), because they describe the same Lord. Three names, one after another: He raises you, He rules you, and He alone is worshipped.
+  examples:
+    - [بِرَبِّ النَّاسِ, "in the Lord of mankind"]
+    - [مَلِكِ النَّاسِ, "the King of mankind"]
+    - [إِلَـٰهِ النَّاسِ, "the God of mankind"]
+
+tip:
+  title: "Meaning note: وَسْوَاس and خَنَّاس"
+  body: >-
+    وَسْوَسَ repeats its sound (وَسْ وَسْ), like the whisper it describes, over and over. خَنَّاس is the one who pulls back.
+    Ibn Abbas رَضِيَ اللَّهُ عَنْهُمَا (may Allah be pleased with them both) explained: the whisperer sits on the heart; when a person remembers Allah it slinks away, and when he
+    forgets, it whispers. So the cure is in the surah itself: remembering Allah.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

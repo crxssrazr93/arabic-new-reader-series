@@ -1,0 +1,161 @@
+# Booklet 2, story 2. Quran strand. Grammar ceiling: Madinah Book 1 end, Book 2 start.
+id: b2-02
+booklet: 2
+number: 2
+strand: quran
+title_ar: يُوسُفُ وَالْجُبُّ
+title_en: Yusuf and the Well
+madinah: "Book 1 end and Book 2 start (past and present verbs, verb and subject agreement, kana lightly)"
+source: "Quran 12:4 to 20, in order. Ya'qub's feelings in sentences 6 and 16 follow 12:5 and 12:13; Allah's revelation to Yusuf in sentence 19 follows 12:15. Sentence 38 gives the view Ibn Kathir and al-Tabari prefer on 12:20 (the brothers sold him; Qatada said the caravan). Also 12:3 (the best of stories) and 12:7."
+
+illustrations:
+  - before: 3
+    file: b2-02-stars-dream.png
+    alt: A dreamlike night sky with eleven bright stars, a full moon and a glowing sun low on the horizon over quiet hills, no figures
+  - before: 18
+    file: b2-02-well.png
+    alt: An old stone well standing alone in an empty, rocky land at dusk
+  - before: 29
+    file: b2-02-caravan-well.png
+    alt: A desert track leading to the stone well, with bundles of trade goods and a leather bucket on a rope at its rim, tents far away, no people or animals
+
+sentences:
+  - words: [[يَعْقُوبُ, Ya'qub], [عَلَيْهِ, upon him], [السَّلَامُ, (be) peace], [نَبِيٌّ, "(was) a prophet"], [مِنْ, from among], [أَنْبِيَاءِ, "(the) prophets"], [اللَّهِ, "(of) Allah"], [وَيُوسُفُ, and Yusuf], [عَلَيْهِ, upon him], [السَّلَامُ, (be) peace], [ابْنُهُ, "(was) his son"]]
+    en: "Ya'qub (peace be upon him) was one of Allah's prophets, and Yusuf (peace be upon him) was his son."
+  - words: [[وَكَانَ, And had], [لِيُوسُفَ, Yusuf], [إِخْوَةٌ, brothers], [كَثِيرُونَ, many], [يَعِيشُونَ, living], [مَعَهُ, with him], [فِي, in], [بَيْتِ, "(the) house"], [أَبِيهِمْ, "(of) their father"]]
+    en: "Yusuf had many brothers who lived with him in their father's house."
+  - words: [[رَأَى, saw], [يُوسُفُ, Yusuf], [فِي, in], [نَوْمِهِ, his sleep], [رُؤْيَا, a dream], [عَجِيبَةً, wondrous]]
+    en: "In his sleep Yusuf saw a wondrous dream."
+  - words: [[قَالَ, said], [يُوسُفُ, Yusuf], [لِأَبِيهِ, to his father], [يَا, O, q], [أَبَتِ, my father, q], [إِنِّي, indeed I, q], [رَأَيْتُ, saw, q], [أَحَدَ, "one", q], [عَشَرَ, "(and) ten", q], [كَوْكَبًا, stars, q]]
+    en: "Yusuf said to his father: O my father, I saw eleven stars,"
+    quote: {ref: "12:4", text: يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا}
+  - words: [[وَالشَّمْسَ, and the sun, q], [وَالْقَمَرَ, and the moon, q], [رَأَيْتُهُمْ, I saw them, q], [لِي, to me, q], [سَاجِدِينَ, prostrating, q]]
+    en: "and the sun and the moon. I saw them prostrating to me."
+    quote: {ref: "12:4", text: وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ}
+  - words: [[خَافَ, feared], [يَعْقُوبُ, Ya'qub], [عَلَى, for], [ابْنِهِ, his son], [مِنْ, from], [إِخْوَتِهِ, his brothers]]
+    en: "Ya'qub feared for his son because of his brothers."
+  - words: [[قَالَ, He said], [يَا, O, q], [بُنَيَّ, my son, q], [لَا, "(do) not", q], [تَقْصُصْ, tell, q], [رُؤْيَاكَ, your dream, q], [عَلَىٰ, to, q], [إِخْوَتِكَ, your brothers, q], [فَيَكِيدُوا, or they will plot, q], [لَكَ, against you, q], [كَيْدًا, a plot, q]]
+    en: "He said: O my son, do not tell your dream to your brothers, or they will plot against you."
+    quote: {ref: "12:5", text: يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا}
+  - words: [[قَالَ, said], [إِخْوَةُ, "(the) brothers"], [يُوسُفَ, "(of) Yusuf"], [أَبُونَا, Our father], [يُحِبُّ, loves], [يُوسُفَ, Yusuf], [وَأَخَاهُ, and his brother], [أَكْثَرَ, more], [مِنَّا, than us]]
+    en: "Yusuf's brothers said: Our father loves Yusuf and his brother more than us."
+  - words: [[وَقَالُوا, And they said], [نَحْنُ, We (are)], [جَمَاعَةٌ, a group], [كَبِيرَةٌ, big], [قَوِيَّةٌ, strong]]
+    en: "And they said: We are a big, strong group."
+  - words: [[قَالَ, said], [بَعْضُهُمْ, some of them], [اُقْتُلُوا, kill], [يُوسُفَ, Yusuf], [أَوِ, or], [اتْرُكُوهُ, leave him], [فِي, in], [أَرْضٍ, a land], [بَعِيدَةٍ, far away]]
+    en: "Some of them said: Kill Yusuf, or leave him in a far land."
+  - words: [[وَقَالَ, And said], [وَاحِدٌ, one], [مِنْهُمْ, of them], [لَا, "(we do) not"], [نَقْتُلُهُ, kill him], [بَلْ, rather], [نُلْقِيهِ, we throw him], [فِي, into], [الْجُبِّ, the well]]
+    en: "And one of them said: We will not kill him. We will throw him into the well instead."
+  - words: [[ثُمَّ, Then], [يَمُرُّ, pass], [بِهِ, by him], [بَعْضُ, some], [الْمُسَافِرِينَ, "(of) the travellers"], [فَيَأْخُذُونَهُ, and they take him]]
+    en: "Then some travellers will pass by and take him away."
+  - words: [[ذَهَبَ, went], [الْإِخْوَةُ, the brothers], [إِلَى, to], [أَبِيهِمْ, their father], [يَعْقُوبَ, Ya'qub]]
+    en: "The brothers went to their father Ya'qub."
+  - words: [[قَالُوا, They said], [يَا, O], [أَبَانَا, our father], [أَرْسِلْ, send], [يُوسُفَ, Yusuf], [مَعَنَا, with us], [غَدًا, tomorrow]]
+    en: "They said: O our father, send Yusuf with us tomorrow."
+  - words: [[يَلْعَبُ, plays], [يُوسُفُ, Yusuf], [مَعَنَا, with us], [وَنَحْنُ, and we], [نَحْفَظُهُ, guard him]]
+    en: "Yusuf will play with us, and we will look after him."
+  - words: [[حَزِنَ, was sad], [يَعْقُوبُ, Ya'qub], [وَخَافَ, and he feared], [عَلَى, for], [يُوسُفَ, Yusuf], [مِنَ, from], [الذِّئْبِ, the wolf]]
+    en: "Ya'qub was sad, and he feared that the wolf would harm Yusuf."
+  - words: [[وَفِي, And on], [الْغَدِ, the next day], [ذَهَبَ, went], [الْإِخْوَةُ, the brothers], [بِيُوسُفَ, with Yusuf]]
+    en: "The next day the brothers took Yusuf with them."
+  - words: [[وَأَلْقَى, And threw], [الْإِخْوَةُ, the brothers], [يُوسُفَ, Yusuf], [فِي, into], [ظُلْمَةِ, "(the) darkness"], [الْجُبِّ, "(of) the well"]]
+    en: "And the brothers threw Yusuf down into the dark of the well."
+  - words: [[وَأَوْحَى, And revealed], [اللَّهُ, Allah], [إِلَى, to], [يُوسُفَ, Yusuf], [أَنَّهُ, that he], [سَيُخْبِرُهُمْ, will tell them], [بِأَمْرِهِمْ, about their deed], [يَوْمًا, one day]]
+    en: "And Allah revealed to Yusuf that one day he would tell them about this deed of theirs."
+  - words: [[فِي, In], [الْمَسَاءِ, the evening], [جَاءَ, came], [الْإِخْوَةُ, the brothers], [إِلَى, to], [أَبِيهِمْ, their father], [وَهُمْ, and they], [يَبْكُونَ, "(were) weeping"]]
+    en: "In the evening the brothers came to their father, weeping."
+  - words: [[قَالُوا, They said], [يَا, O], [أَبَانَا, our father], [ذَهَبْنَا, we went], [نَجْرِي, running (a race)], [وَتَرَكْنَا, and we left], [يُوسُفَ, Yusuf], [عِنْدَ, by], [مَتَاعِنَا, our things]]
+    en: "They said: O our father, we went off racing and left Yusuf by our things."
+  - words: [[وَقَالُوا, And they said], [جَاءَ, came], [الذِّئْبُ, the wolf], [فَأَكَلَ, and ate], [يُوسُفَ, Yusuf]]
+    en: "And they said: The wolf came and ate Yusuf."
+  - words: [[وَأَنْتَ, And you], [لَا, "(do) not"], [تُصَدِّقُنَا, believe us], [وَلَوْ, even if], [قُلْنَا, we spoke], [الْحَقَّ, the truth]]
+    en: "And you will not believe us, even if we tell the truth."
+  - words: [[وَجَاءُوا, And they came], [بِقَمِيصِ, "with (the) shirt"], [يُوسُفَ, "(of) Yusuf"], [وَعَلَيْهِ, and on it], [دَمٌ, "(was) blood"], [كَذِبٌ, "false"]]
+    en: "And they brought Yusuf's shirt with false blood on it."
+  - words: [[سَمِعَ, heard], [يَعْقُوبُ, Ya'qub], [قَوْلَهُمْ, their words], [وَرَأَى, and he saw], [الْقَمِيصَ, the shirt]]
+    en: "Ya'qub heard their words and saw the shirt."
+  - words: [[قَالَ, said], [يَعْقُوبُ, Ya'qub], [بَلْ, Rather, q], [سَوَّلَتْ, have made (it) seem good, q], [لَكُمْ, to you, q], [أَنفُسُكُمْ, your souls, q], [أَمْرًا, a matter, q], [فَصَبْرٌ, so patience, q], [جَمِيلٌ, "(is) beautiful", q]]
+    en: "Ya'qub said: Rather, your souls have tempted you into something. So patience is beautiful."
+    quote: {ref: "12:18", text: بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ}
+  - words: [[وَصَبَرَ, And was patient], [يَعْقُوبُ, Ya'qub], [وَطَلَبَ, and he sought], [الْعَوْنَ, help], [مِنْ, from], [رَبِّهِ, his Lord]]
+    en: "Ya'qub was patient, and he asked his Lord for help."
+  - words: [[وَكَانَ, And was], [يُوسُفُ, Yusuf], [فِي, in], [الْجُبِّ, the well], [وَحْدَهُ, alone], [وَهُوَ, and he (was)], [غُلَامٌ, a boy], [صَغِيرٌ, young]]
+    en: "And Yusuf was alone in the well, a young boy."
+  - words: [[ثُمَّ, Then], [جَاءَتْ, came], [سَيَّارَةٌ, a caravan], [إِلَى, to], [ذٰلِكَ, that], [الْمَكَانِ, the place]]
+    en: "Then a sayyara came to that place."
+  - words: [[السَّيَّارَةُ, The word sayyara], [فِي, in], [الْقُرْآنِ, the Quran], [قَافِلَةٌ, "(is) a caravan"], [مِنَ, of], [الْمُسَافِرِينَ, travellers]]
+    en: "In the Quran a sayyara is a caravan of travellers."
+  - words: [[يَرْكَبُ, ride], [الْمُسَافِرُونَ, the travellers], [وَيَسِيرُونَ, and they journey], [مِنْ, from], [بَلَدٍ, a land], [إِلَى, to], [بَلَدٍ, a land]]
+    en: "The travellers ride and journey from land to land."
+  - words: [[فَأَرْسَلُوا, So they sent], [رَجُلًا, a man], [مِنْهُمْ, of them], [إِلَى, to], [الْجُبِّ, the well]]
+    en: "They sent one of their men to the well."
+  - words: [[كَانَ, was], [الرَّجُلُ, the man], [يَطْلُبُ, looking for], [الْمَاءَ, water], [لِأَصْحَابِهِ, for his companions]]
+    en: "The man was fetching water for his companions."
+  - words: [[أَدْلَى, let down], [الرَّجُلُ, the man], [دَلْوَهُ, his bucket], [فِي, into], [الْجُبِّ, the well]]
+    en: "The man let his bucket down into the well."
+  - words: [[فَرَأَى, And saw], [الرَّجُلُ, the man], [غُلَامًا, a boy], [فِي, in], [الْجُبِّ, the well], [فَفَرِحَ, and he was glad]]
+    en: "The man saw a boy in the well and was glad."
+  - words: [[أَخَذَ, took], [رِجَالُ, "(the) men"], [السَّيَّارَةِ, "(of) the caravan"], [يُوسُفَ, Yusuf], [وَجَعَلُوهُ, and they made him], [بِضَاعَةً, goods (to sell)]]
+    en: "The men of the caravan took Yusuf and kept him as goods to sell."
+  - words: [[وَشَرَوْهُ, And they sold him, q], [بِثَمَنٍ, for a price, q], [بَخْسٍ, very low, q], [دَرَاهِمَ, dirhams, q], [مَعْدُودَةٍ, few, q]]
+    en: "And they sold him for a very low price, a few dirhams."
+    quote: {ref: "12:20", text: وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ}
+  - words: [[قَالَ, said], [الْمُفَسِّرُونَ, the scholars of tafsir], [بَاعَهُ, sold him], [إِخْوَتُهُ, his brothers]]
+    en: "The scholars of tafsir say: it was his brothers who sold him."
+  - words: [[وَاللَّهُ, And Allah], [يَعْلَمُ, knows], [كُلَّ, all], [مَا, what], [يَفْعَلُونَ, they do]]
+    en: "And Allah knows everything they do."
+  - words: [[هٰذِهِ, "This (is)"], [بِدَايَةُ, "(the) beginning"], [قِصَّةِ, "(of the) story"], [يُوسُفَ, "(of) Yusuf"], [وَهِيَ, and it (is)], [مِنْ, among], [أَحْسَنِ, "(the) best"], [الْقَصَصِ, "(of) stories"]]
+    en: "This is the beginning of the story of Yusuf, one of the best of stories."
+
+dictionary:
+  - {ar: أَخٌ, en: brother, pos: [اسم, noun], root: أخو, plural: إِخْوَةٌ, ayah: {ref: "49:10", text: إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ, en: "the believers are but brothers"}, note: "Like أَبٌ, it grows a long vowel before a pronoun: أَخُوهُ, أَخَاهُ, أَخِيهِ. Two plurals: إِخْوَةٌ and إِخْوَانٌ. Later usage tends to keep إِخْوَةٌ for brothers by birth and إِخْوَانٌ for friends, but the Quran uses both ways: in this ayah the believers are إِخْوَةٌ."}
+  - {ar: رُؤْيَا, en: dream; vision, pos: [اسم, noun], root: رأي, pattern: فُعْلَى, ayah: {ref: "37:105", text: قَدْ صَدَّقْتَ الرُّؤْيَا, en: "you have fulfilled the vision"}, note: "From رَأَى, he saw: what is seen in sleep. The ا at the end is not a case ending, so it never changes."}
+  - {ar: كَوْكَبٌ, en: star; planet, pos: [اسم, noun], root: كوكب, plural: كَوَاكِبُ, ayah: {ref: "82:2", text: وَإِذَا الْكَوَاكِبُ انتَثَرَتْ, en: "and when the stars are scattered"}, note: "Four root letters. After أَحَدَ عَشَرَ the noun is singular with tanwin fath: كَوْكَبًا."}
+  - {ar: قَمَرٌ, en: moon, pos: [اسم, noun], root: قمر, pattern: فَعَلٌ, ayah: {ref: "91:2", text: وَالْقَمَرِ إِذَا تَلَاهَا, en: "and by the moon when it follows it"}, note: "A moon letter: الْقَمَرُ keeps its lam. That is where the name moon letters comes from."}
+  - {ar: كَيْدٌ, en: plot; scheme, pos: [مصدر, verbal noun], root: كيد, pattern: فَعْلٌ, ayah: {ref: "86:15", text: إِنَّهُمْ يَكِيدُونَ كَيْدًا, en: "they are plotting a plot"}, note: "The verb is كَادَ يَكِيدُ, to plot."}
+  - {ar: قَتَلَ, en: he killed, pos: [فعل ماض, past verb], root: قتل, pattern: فَعَلَ, present: يَقْتُلُ, bab: بَابُ نَصَرَ, ayah: {ref: "81:9", text: بِأَيِّ ذَنبٍ قُتِلَتْ, en: "for what sin she was killed"}, note: "We kill: نَقْتُلُ. Kill! (to several people): اُقْتُلُوا."}
+  - {ar: بَعْضٌ, en: some; part, pos: [اسم, noun], root: بعض, pattern: فَعْلٌ, ayah: {ref: "12:10", text: يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ, en: "some travellers will pick him up"}, note: "Usually in idafa or with a pronoun: بَعْضُهُمْ, some of them; بَعْضُنَا بِبَعْضٍ, one another."}
+  - {ar: جُبٌّ, en: "well (deep, unlined)", pos: [اسم, noun], root: جبب, pattern: فُعْلٌ, ayah: {ref: "12:15", text: أَن يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ, en: "to put him in the depths of the well"}, note: "Only in Surat Yusuf. The everyday word for a well is بِئْرٌ."}
+  - {ar: غَدٌ, en: tomorrow, pos: [اسم, noun], root: غدو, ayah: {ref: "31:34", text: وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ غَدًا, en: "and no soul knows what it will earn tomorrow"}, note: "غَدًا: tomorrow (as an adverb). فِي الْغَدِ: on the next day."}
+  - {ar: حَزِنَ, en: he was sad, pos: [فعل ماض, past verb], root: حزن, pattern: فَعِلَ, present: يَحْزَنُ, bab: بَابُ سَمِعَ, ayah: {ref: "9:40", text: لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا, en: "do not grieve, Allah is with us"}, note: "A verb of بَابُ سَمِعَ usually takes a fatha in the present (a few take a kasra, like وَرِثَ in story 3). Sad: حَزِينٌ."}
+  - {ar: خَافَ, en: he feared, pos: [فعل ماض, past verb], root: خوف, pattern: فَعِلَ, present: يَخَافُ, bab: بَابُ سَمِعَ, ayah: {ref: "106:4", text: وَآمَنَهُم مِّنْ خَوْفٍ, en: "and made them safe from fear"}, note: "I fear: أَخَافُ. Fear is خَوْفٌ, where the root و shows. خَافَ عَلَى: to fear for someone."}
+  - {ar: ذِئْبٌ, en: wolf, pos: [اسم, noun], root: ذأب, pattern: فِعْلٌ, plural: ذِئَابٌ, ayah: {ref: "12:13", text: وَأَخَافُ أَن يَأْكُلَهُ الذِّئْبُ, en: "and I fear the wolf will eat him"}, note: "The words of Ya'qub عَلَيْهِ السَّلَامُ himself."}
+  - {ar: أَوْحَى, en: he revealed; he inspired, pos: [فعل ماض, past verb], root: وحي, pattern: أَفْعَلَ, present: يُوحِي, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "99:5", text: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا, en: "because your Lord inspired it"}, note: "Revelation is وَحْيٌ. The last root letter is weak (لَفِيفٌ)."}
+  - {ar: بَكَى, en: he wept, pos: [فعل ماض, past verb], root: بكي, pattern: فَعَلَ, present: يَبْكِي, bab: بَابُ ضَرَبَ, ayah: {ref: "53:60", text: وَتَضْحَكُونَ وَلَا تَبْكُونَ, en: "and you laugh and do not weep"}, note: "They weep: يَبْكُونَ. The opposite of ضَحِكَ."}
+  - {ar: مَتَاعٌ, en: belongings; provision, pos: [اسم, noun], root: متع, pattern: فَعَالٌ, plural: أَمْتِعَةٌ, ayah: {ref: "80:32", text: مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ, en: "as provision for you and your cattle"}, note: "Things you carry and use. In 12:17 the brothers say they left Yusuf عَلَيْهِ السَّلَامُ عِنْدَ مَتَاعِنَا."}
+  - {ar: قَمِيصٌ, en: shirt, pos: [اسم, noun], root: قمص, pattern: فَعِيلٌ, plural: قُمْصَانٌ, ayah: {ref: "12:93", text: اذْهَبُوا بِقَمِيصِي هَـٰذَا, en: "take this shirt of mine"}, note: "The shirt of Yusuf عَلَيْهِ السَّلَامُ comes three times in his story: here, at the door (12:25), and at the end (12:93)."}
+  - {ar: دَمٌ, en: blood, pos: [اسم, noun], root: دمي, plural: دِمَاءٌ, ayah: {ref: "12:18", text: بِدَمٍ كَذِبٍ, en: "with false blood"}, note: "Only two letters are written; the third root letter ي returns in the dual دَمَيَانِ, and shows as a hamza in the plural دِمَاءٌ."}
+  - {ar: كَذِبٌ, en: lie; false, pos: [مصدر, verbal noun], root: كذب, pattern: فَعِلٌ, ayah: {ref: "96:16", text: نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ, en: "a lying, sinful forelock"}, note: "دَمٌ كَذِبٌ: the verbal noun is used as an adjective, blood that was a lie. A liar is كَاذِبٌ."}
+  - {ar: صَبَرَ, en: he was patient, pos: [فعل ماض, past verb], root: صبر, pattern: فَعَلَ, present: يَصْبِرُ, bab: بَابُ ضَرَبَ, ayah: {ref: "2:153", text: إِنَّ اللَّهَ مَعَ الصَّابِرِينَ, en: "indeed Allah is with the patient"}, note: "Patience is صَبْرٌ: فَصَبْرٌ جَمِيلٌ (12:18)."}
+  - {ar: غُلَامٌ, en: boy; young man, pos: [اسم, noun], root: غلم, pattern: فُعَالٌ, plural: غِلْمَانٌ, ayah: {ref: "12:19", text: هَـٰذَا غُلَامٌ, en: "this is a boy"}, note: "What the man at the well cried out when he found Yusuf عَلَيْهِ السَّلَامُ."}
+  - {ar: دَلْوٌ, en: bucket, pos: [اسم, noun], root: دلو, pattern: فَعْلٌ, ayah: {ref: "12:19", text: فَأَدْلَىٰ دَلْوَهُ, en: "and he let down his bucket"}, note: "أَدْلَى: he let down, from the same root."}
+
+root_families:
+  - root: أخو
+    words: [[أَخٌ, "brother"], [إِخْوَةٌ, "brothers"], [أُخْتٌ, "sister"], [أَخَوَاتٌ, "sisters"]]
+  - root: رأي
+    words: [[رَأَى, "he saw"], [يَرَى, "he sees"], [رُؤْيَا, "dream"], [رَأْيٌ, "opinion"]]
+
+grammar:
+  title_ar: الْفِعْلُ وَالْفَاعِلُ
+  title_en: "The verb and its doer: who agrees with whom"
+  body: >-
+    When the verb comes before its فَاعِلٌ (doer), it stays singular, even if the doer is plural. It only shows masculine or feminine:
+    قَالَ إِخْوَةُ يُوسُفَ عَلَيْهِ السَّلَامُ, جَاءَتْ سَيَّارَةٌ. When the noun comes first it is a مُبْتَدَأٌ (topic), and the verb after it agrees fully
+    and carries a pronoun (the و of the group) as its own فَاعِلٌ: الْإِخْوَةُ ذَهَبُوا, هُمْ يَبْكُونَ. Once the brothers are known, every later verb about them is plural too: جَاءَ الْإِخْوَةُ ... قَالُوا.
+  examples:
+    - [قَالَ إِخْوَةُ يُوسُفَ, "Yusuf's brothers said."]
+    - [جَاءَ الْإِخْوَةُ إِلَى أَبِيهِمْ وَهُمْ يَبْكُونَ, "The brothers came to their father weeping."]
+    - [وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ, "And a caravan came, and they sent their water drawer (12:19)"]
+
+tip:
+  title: "Reading without vowels: the alif of tanwin fath"
+  body: >-
+    An alif at the end of a noun, after a letter that cannot take a long a, is usually the seat of tanwin fath: كوكبا, غدا, غلاما,
+    رجلا, شيئا. Read it -an inside the sentence and -ā when you stop: kawkaban inside the ayah, kawkabā if you stop on it. A word ending in
+    ة takes tanwin fath with no alif: عجيبة. You know this from every ayah that ends كَيْدًا or عِلْمًا.
+
+try_it:
+  words: [يوسف, الجب, الذئب, غلاما, إخوته]
+  sentence: جاء الإخوة إلى أبيهم وهم يبكون
+
+reread: Cover the grey word line with a strip of paper and read the story again. Then recite Surat Yusuf 12:4 to 20 and find every sentence of this story in it.

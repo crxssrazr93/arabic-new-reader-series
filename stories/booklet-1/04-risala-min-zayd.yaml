@@ -1,0 +1,130 @@
+# Booklet 1, story 4. Modern strand. Grammar ceiling: Madinah Book 1.
+id: b1-04
+booklet: 1
+number: 4
+strand: modern
+title_ar: رِسَالَةٌ مِنْ زَيْدٍ
+title_en: A Letter from Zayd
+madinah: "Book 1 (هٰذَا and هٰذِهِ, ال, idafa, attached pronouns, simple past verbs)"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: b1-04-letter.png
+    alt: An envelope with Egyptian stamps lying on a wooden desk beside a window
+  - before: 10
+    file: b1-04-cairo.png
+    alt: The Cairo skyline at sunset with many minarets and domes
+  - before: 15
+    file: b1-04-nile-boats.png
+    alt: The Nile at evening with small sailing boats on the water
+
+sentences:
+  - words: [[فِي, "On"], [يَوْمِ, "(the) day"], [الْجُمُعَةِ, "(of) Friday"], [جَاءَتْ, came], [رِسَالَةٌ, a letter], [إِلَى, to], [بَيْتِ, "(the) house"], [بِلَالٍ, "(of) Bilal"]]
+    en: On Friday a letter came to Bilal's house.
+  - words: [[هٰذِهِ, This], [رِسَالَةٌ, "(is) a letter"], [مِنْ, from], [صَدِيقِهِ, his friend], [زَيْدٍ, Zayd]]
+    en: It is a letter from his friend Zayd.
+  - words: [[زَيْدٌ, Zayd], [طَالِبٌ, "(is) a student"], [مِنَ, from], [الْقَاهِرَةِ, Cairo], [فِي, in], [مِصْرَ, Egypt]]
+    en: Zayd is a student from Cairo, in Egypt.
+  - words: [[أَخَذَ, took], [بِلَالٌ, Bilal], [الرِّسَالَةَ, the letter], [وَذَهَبَ, and went], [إِلَى, to], [غُرْفَتِهِ, his room]]
+    en: Bilal took the letter and went to his room.
+  - words: [[فَتَحَ, opened], [بِلَالٌ, Bilal], [الرِّسَالَةَ, the letter], [وَقَرَأَهَا, and read it]]
+    en: Bilal opened the letter and read it.
+  - words: [[بِسْمِ, In (the) name, q], [اللَّهِ, "(of) Allah", q], [الرَّحْمَـٰنِ, the Most Gracious, q], [الرَّحِيمِ, the Most Merciful, q]]
+    en: In the name of Allah, the Most Gracious, the Most Merciful.
+    quote: {ref: "1:1", text: بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ}
+  - words: [[السَّلَامُ, Peace], [عَلَيْكَ, "(be) upon you"], [يَا, O], [بِلَالُ, Bilal]]
+    en: Peace be upon you, Bilal.
+  - words: [[أَنَا, I], [بِخَيْرٍ, "(am) well"], [وَالْحَمْدُ, and praise], [لِلَّهِ, "(be) to Allah"]]
+    en: I am well, praise be to Allah.
+  - words: [[أَنَا, I], [فِي, "(am) in"], [الْقَاهِرَةِ, Cairo], [مَعَ, with], [أُسْرَتِي, my family]]
+    en: I am in Cairo with my family.
+  - words: [[الْقَاهِرَةُ, Cairo], [مَدِينَةٌ, "(is) a city"], [كَبِيرَةٌ, big], [وَجَمِيلَةٌ, and beautiful]]
+    en: Cairo is a big, beautiful city.
+  - words: [[فِيهَا, In it], [مَسَاجِدُ, "(are) mosques"], [كَثِيرَةٌ, many], [وَشَوَارِعُ, and streets], [طَوِيلَةٌ, long]]
+    en: It has many mosques and long streets.
+  - words: [[وَفِيهَا, And in it], [الْأَزْهَرُ, "(is) al-Azhar"], [وَهُوَ, and it], [مَسْجِدٌ, "(is) a mosque"], [قَدِيمٌ, old], [وَجَامِعَةٌ, and a university], [كَبِيرَةٌ, big]]
+    en: And al-Azhar is there. It is an old mosque and a big university.
+  - words: [[بَيْتُنَا, Our house], [قَرِيبٌ, "(is) near"], [مِنَ, from], [النِّيلِ, the Nile]]
+    en: Our house is near the Nile.
+  - words: [[هٰذَا, This], [النَّهْرُ, the river], [طَوِيلٌ, "(is) long"], [وَمَاؤُهُ, and its water], [عَذْبٌ, "(is) fresh"]]
+    en: This river is long, and its water is fresh.
+  - words: [[فِي, In], [الْمَسَاءِ, the evening], [ذَهَبْتُ, I went], [مَعَ, with], [أَبِي, my father], [إِلَى, to], [النِّيلِ, the Nile]]
+    en: In the evening I went to the Nile with my father.
+  - words: [[وَرَأَيْنَا, and we saw], [سُفُنًا, boats], [صَغِيرَةً, small], [عَلَى, "on"], [الْمَاءِ, the water]]
+    en: And we saw small boats on the water.
+  - words: [[مَدْرَسَتِي, My school], [كَبِيرَةٌ, "(is) big"], [وَفِيهَا, and in it], [مَكْتَبَةٌ, "(is) a library"], [وَمَلْعَبٌ, and a playground]]
+    en: My school is big, and it has a library and a playground.
+  - words: [[وَفِي, And in], [فَصْلِي, my classroom], [حَاسُوبٌ, "(is) a computer"], [لِكُلِّ, for every], [طَالِبٍ, student]]
+    en: And in my classroom there is a computer for every student.
+  - words: [[مُعَلِّمُ, "(The) teacher"], [الْعَرَبِيَّةِ, "(of) Arabic"], [رَجُلٌ, "(is) a man"], [طَيِّبٌ, kind]]
+    en: The Arabic teacher is a kind man.
+  - words: [[حَفِظْتُ, I memorised], [جُزْءَ, Juz], [عَمَّ, Amma], [فِي, in], [الْمَدْرَسَةِ, the school]]
+    en: I have memorised Juz 'Amma at school.
+  - words: [[يَا, O], [بِلَالُ, Bilal], [أَنَا, I], [قَادِمٌ, "(am) coming"], [إِلَى, to], [سِرِيلَانْكَا, Sri Lanka], [فِي, in], [الصَّيْفِ, the summer]]
+    en: Bilal, I am coming to Sri Lanka in the summer!
+  - words: [[سَلَامِي, My greetings], [إِلَى, to], [أَبِيكَ, your father], [وَأُمِّكَ, and your mother], [وَأَهْلِ, and (the) people], [بَيْتِكَ, "(of) your house"]]
+    en: My greetings to your father, your mother and your family.
+  - words: [[صَدِيقُكَ, Your friend], [زَيْدٌ, Zayd]]
+    en: Your friend, Zayd.
+  - words: [[فَرِحَ, was happy], [بِلَالٌ, Bilal], [بِالرِّسَالَةِ, with the letter], [كَثِيرًا, very much]]
+    en: Bilal was very happy with the letter.
+  - words: [[ثُمَّ, Then], [ذَهَبَ, went], [إِلَى, to], [الْمَطْبَخِ, the kitchen], [وَقَرَأَ, and read], [الرِّسَالَةَ, the letter], [لِأُمِّهِ, to his mother], [وَمَرْيَمَ, and Maryam]]
+    en: Then he went to the kitchen and read the letter to his mother and Maryam.
+
+dictionary:
+  - {ar: رِسَالَةٌ, en: letter; message, pos: [اسم, noun], root: رسل, pattern: فِعَالَةٌ, plural: رَسَائِلُ, ayah: {ref: "7:79", text: لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي, en: "I have certainly conveyed to you the message of my Lord"}, register: both, note: "In the Quran: a message from Allah, brought by a messenger (رَسُولٌ). Today also a letter."}
+  - {ar: صَدِيقٌ, en: friend, pos: [اسم, noun], root: صدق, pattern: فَعِيلٌ, plural: أَصْدِقَاءُ, ayah: {ref: "24:61", text: أَوْ صَدِيقِكُمْ, en: "or your friend's home"}}
+  - {ar: جُمُعَةٌ, en: Friday; gathering, pos: [اسم, noun], root: جمع, pattern: فُعُلَةٌ, ayah: {ref: "62:9", text: إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ, en: "when the call is made for prayer on the day of Friday"}, note: "يَوْمُ الْجُمُعَةِ: the day of gathering, Friday."}
+  - {ar: خَيْرٌ, en: good; better, pos: [اسم, noun], root: خير, pattern: فَعْلٌ, ayah: {ref: "97:3", text: لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ, en: "the Night of Decree is better than a thousand months"}, note: "أَنَا بِخَيْرٍ: I am well."}
+  - {ar: حَمْدٌ, en: praise, pos: [مصدر, verbal noun], root: حمد, pattern: فَعْلٌ, ayah: {ref: "1:2", text: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ, en: "all praise belongs to Allah, Lord of all the worlds"}}
+  - {ar: أُسْرَةٌ, en: family, pos: [اسم, noun], root: أسر, pattern: فُعْلَةٌ, plural: أُسَرٌ, ayah: {ref: "76:28", text: وَشَدَدْنَا أَسْرَهُمْ, en: "and We made their frames strong"}, register: modern, note: "Not in the Quran. The Quran has أَسْرٌ from the same root: the strong frame of the body (76:28). A family holds together like that frame. The Quran word for family is أَهْلٌ."}
+  - {ar: مَدِينَةٌ, en: city, pos: [اسم, noun], root: مدن, pattern: فَعِيلَةٌ, plural: مُدُنٌ, ayah: {ref: "9:101", text: وَمِنْ أَهْلِ الْمَدِينَةِ, en: "and among the people of Madinah"}, note: "الْمَدِينَةُ: the city of the Prophet ﷺ."}
+  - {ar: جَمِيلٌ, en: beautiful, pos: [صفة مشبهة, adjective], root: جمل, pattern: فَعِيلٌ, ayah: {ref: "70:5", text: فَاصْبِرْ صَبْرًا جَمِيلًا, en: "so be patient with a beautiful patience"}}
+  - {ar: شَارِعٌ, en: street, pos: [اسم, noun], root: شرع, pattern: فَاعِلٌ, plural: شَوَارِعُ, ayah: {ref: "45:18", text: ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِّنَ الْأَمْرِ, en: "then We placed you on a clear way in the matter of religion"}, register: modern, note: "Same root as شَرِيعَةٌ, a clear way. A street is a way through the city."}
+  - {ar: قَدِيمٌ, en: old; ancient, pos: [صفة مشبهة, adjective], root: قدم, pattern: فَعِيلٌ, ayah: {ref: "36:39", text: حَتَّىٰ عَادَ كَالْعُرْجُونِ الْقَدِيمِ, en: "until it becomes again like an old, dried palm stalk"}}
+  - {ar: جَامِعَةٌ, en: university, pos: [اسم, noun], root: جمع, pattern: فَاعِلَةٌ, plural: جَامِعَاتٌ, ayah: {ref: "3:9", text: رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ, en: "our Lord, You will gather all people together"}, register: modern, note: "The place that gathers (جَمَعَ) students. جَامِعٌ is a big mosque for Jumu'a."}
+  - {ar: نَهْرٌ, en: river, pos: [اسم, noun], root: نهر, pattern: فَعْلٌ, plural: أَنْهَارٌ, ayah: {ref: "2:25", text: تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ, en: "beneath which rivers flow"}}
+  - {ar: عَذْبٌ, en: fresh; sweet (water), pos: [صفة مشبهة, adjective], root: عذب, pattern: فَعْلٌ, ayah: {ref: "25:53", text: هَـٰذَا عَذْبٌ فُرَاتٌ, en: "this one is fresh and sweet"}}
+  - {ar: مَسَاءٌ, en: evening, pos: [اسم, noun], root: مسو, pattern: فَعَالٌ, ayah: {ref: "30:17", text: فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ, en: "so glorify Allah when you reach the evening and when you reach the morning"}, note: "تُمْسُونَ: you reach the evening. The opposite of صَبَاحٌ."}
+  - {ar: رَأَى, en: he saw, pos: [فعل ماض, past verb], root: رأي, pattern: فَعَلَ, present: يَرَى, bab: بَابُ فَتَحَ, ayah: {ref: "96:14", text: أَلَمْ يَعْلَم بِأَنَّ اللَّهَ يَرَىٰ, en: "does he not know that Allah sees"}, note: "رَأَيْنَا: we saw. يَرَىٰ: He sees."}
+  - {ar: صَغِيرٌ, en: small; young, pos: [صفة مشبهة, adjective], root: صغر, pattern: فَعِيلٌ, plural: صِغَارٌ, ayah: {ref: "54:53", text: وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ, en: "and everything, small and great, is written down"}, note: "The opposite of كَبِيرٌ."}
+  - {ar: مَكْتَبَةٌ, en: library; bookshop, pos: [اسم مكان, noun of place], root: كتب, pattern: مَفْعَلَةٌ, plural: مَكْتَبَاتٌ, register: modern, note: "The place of books (كُتُبٌ)."}
+  - {ar: مَلْعَبٌ, en: playground; sports field, pos: [اسم مكان, noun of place], root: لعب, pattern: مَفْعَلٌ, plural: مَلَاعِبُ, ayah: {ref: "6:32", text: وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ وَلَهْوٌ, en: "and the life of this world is nothing but play and amusement"}, register: modern, note: "The place of play (لَعِبٌ)."}
+  - {ar: حَاسُوبٌ, en: computer, pos: [اسم, noun], root: حسب, pattern: فَاعُولٌ, plural: حَوَاسِيبُ, ayah: {ref: "88:26", text: ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم, en: "then upon Us is their reckoning"}, register: modern, note: "A machine that counts (حَسَبَ). Same root as الْحِسَابُ, the Reckoning."}
+  - {ar: عَرَبِيٌّ, en: Arab; Arabic, pos: [اسم منسوب, "relational adjective (nisba)"], root: عرب, pattern: فَعَلِيٌّ, ayah: {ref: "12:2", text: إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا, en: "indeed, We sent it down as an Arabic Quran"}, note: "الْعَرَبِيَّةُ: the Arabic language."}
+  - {ar: صَيْفٌ, en: summer, pos: [اسم, noun], root: صيف, pattern: فَعْلٌ, ayah: {ref: "106:2", text: رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ, en: "the journey of winter and of summer"}}
+  - {ar: قَادِمٌ, en: coming; arriving, pos: [اسم فاعل, active participle], root: قدم, pattern: فَاعِلٌ, ayah: {ref: "89:24", text: يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي, en: "if only I had sent ahead something for my life"}, register: modern, note: "أَنَا قَادِمٌ: I am coming (soon). The فَاعِلٌ form can speak about the near future."}
+
+root_families:
+  - root: كتب
+    words: [[كَتَبَ, he wrote], [كِتَابٌ, book], [كَاتِبٌ, writer], [مَكْتَبَةٌ, library], [مَكْتُوبٌ, written]]
+  - root: رسل
+    words: [[أَرْسَلَ, he sent], [رَسُولٌ, messenger], [رِسَالَةٌ, letter; message]]
+
+grammar:
+  title_ar: اِسْمُ الْإِشَارَةِ
+  title_en: "Demonstratives: this and that"
+  body: >-
+    هٰذَا (this, masculine) and هٰذِهِ (this, feminine) point to something near; ذٰلِكَ and تِلْكَ point to something far.
+    With a noun that has no ال they make a sentence: هٰذِهِ رِسَالَةٌ, "this is a letter".
+    With a noun that has ال they make a phrase, "this river", and the sentence still needs its خَبَرٌ (predicate): هٰذَا النَّهْرُ طَوِيلٌ.
+    So in ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ, "that Book" is the phrase and لَا رَيْبَ فِيهِ is its خَبَرٌ. Some scholars read الْكِتَابُ itself as the خَبَرٌ, "That is the Book".
+  examples:
+    - [هٰذِهِ رِسَالَةٌ, "This is a letter."]
+    - [هٰذَا النَّهْرُ طَوِيلٌ, "This river is long."]
+    - [ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ, "That Book: there is no doubt in it. (Quran 2:2)"]
+
+tip:
+  title: "Reading without vowels: the مَفْعَلٌ place pattern"
+  body: >-
+    A word that is م plus three root letters is very often a place: مكتبة (place of books), ملعب (place of play),
+    مدرسة (place of study), مطبخ (place of cooking). Read the م with a fatha and the first root letter with a sukun:
+    ma-k-ta-ba, ma-l-'a-b. A few have a kasra in the middle: مَسْجِدٌ، مَجْلِسٌ. If you know the root, you can guess both the meaning and the vowels.
+
+try_it:
+  words: [رسالة, صديق, القاهرة, مكتبة, ملعب]
+  sentence: بيتنا قريب من النيل
+
+reread: Cover the grey word line with a strip of paper and read the letter again. Then write a short answer to Zayd in Arabic, using five words from this story.

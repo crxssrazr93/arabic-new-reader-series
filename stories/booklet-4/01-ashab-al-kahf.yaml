@@ -1,0 +1,216 @@
+# Booklet 4, story 1. Quran strand. Grammar ceiling: Madinah Book 2 end and Book 3.
+id: b4-01
+booklet: 4
+number: 1
+strand: quran
+title_ar: أَصْحَابُ الْكَهْفِ
+title_en: The People of the Cave
+madinah: "Book 2 end (kana and its sisters: كَانَ, صَارَ, أَصْبَحَ, ظَلَّ, لَيْسَ, مَا زَالَ)"
+source: "Quran 18:9 to 26, in order: first the short summary of 18:9 to 12, then the full account of 18:13 to 26. 'Their story is not more wondrous than the creation of the heavens and the earth' (18:9), 'which food is purest: lawful and good' (18:19), 'raising them is a sign of the raising on the Day of Resurrection' (18:21) and the dog sharing their sleep by the blessing of their company (18:18) follow Ibn Kathir's explanation. 'He covered their ears: they slept so deeply that no sound woke them' (18:11) follows al-Qurtubi (from Ibn Abbas) and al-Baghawi; Ibn Kathir says only that Allah cast sleep on them. No names, no number for the young men, no name for the dog and no account of the trip to the city are given, because the ayat do not give them. The closing line about seeking shelter with Allah echoes Sahih Muslim 2176."
+
+illustrations:
+  - before: 15
+    file: b4-01-cave-dawn.png
+    alt: The dark mouth of a cave in a rocky mountainside at dawn, the first light on the stones, no people or animals
+    prompt: The dark mouth of a cave in a rough rocky mountainside at dawn, pale gold first light touching the stones around the entrance, a few dry bushes, a quiet valley below in soft mist. No people, no animals.
+  - before: 24
+    file: b4-01-sunlight-cave.png
+    alt: Inside a wide cave, a beam of sunlight slanting past the entrance and falling on the rock wall to one side, the floor of the cave in shade
+    prompt: View from inside a wide cave looking toward its entrance, a long beam of morning sunlight slanting past the opening and falling on the rock wall to the right side, the sandy floor in the middle of the cave left in cool shade. No people, no animals.
+  - before: 35
+    file: b4-01-silver-coin.png
+    alt: One old worn silver coin lying on a flat grey stone, plain markings, soft light
+    prompt: A single old, worn silver coin with plain geometric markings and no faces or figures, lying on a flat grey stone, soft side light, close up. No people, no animals, no readable writing.
+
+sentences:
+  - words: [[فِي, ""], [سُورَةِ, ""], [الْكَهْفِ, "the Cave", n k], [قِصَّةُ, ""], [فِتْيَةٍ, ""], [آمَنُوا, ""], [بِرَبِّهِمْ, ""], [فِي, ""], [زَمَنٍ, ""], [قَدِيمٍ, ""], [جِدًّا, ""]]
+    en: "In Surat al-Kahf is the story of some young men who believed in their Lord, a very long time ago."
+  - words: [[وَيُسَمِّيهِمُ, "calls them", n k], [اللَّهُ, ""], [فِي, ""], [كِتَابِهِ, ""], [أَصْحَابَ, ""], [الْكَهْفِ, ""], [وَالرَّقِيمِ, "and ar-Raqim", n k], [وَقِصَّتُهُمْ, ""], [مِنْ, ""], [آيَاتِ, ""], [اللَّهِ, ""], [الْعَجِيبَةِ, ""]]
+    en: "Allah calls them in His Book the People of the Cave and ar-Raqim, and their story is one of Allah's wonderful signs."
+  - words: [[وَلٰكِنَّهَا, ""], [لَيْسَتْ, ""], [أَعْجَبَ, "more wondrous", n k], [مِنْ, ""], [خَلْقِ, ""], [السَّمَاوَاتِ, ""], [وَالْأَرْضِ, ""], [وَمَا, ""], [فِيهِمَا, ""], [مِنْ, ""], [آيَاتٍ, ""], [أُخْرَى, ""]]
+    en: "But it is not more wondrous than the creation of the heavens and the earth, and the other signs in them."
+  - words: [[فَاللَّهُ, ""], [الَّذِي, ""], [خَلَقَ, ""], [السَّمَاوَاتِ, ""], [وَالْأَرْضَ, ""], [قَادِرٌ, "able", n k], [عَلَى, ""], [أَنْ, ""], [يَجْعَلَ, ""], [فِتْيَةً, ""], [يَنَامُونَ, ""], [سِنِينَ, "years", n k], [ثُمَّ, ""], [يَبْعَثَهُمْ, "raise them", n k]]
+    en: "For Allah, who created the heavens and the earth, is able to make young men sleep for years and then raise them up."
+  - words: [[كَانُوا, ""], [فِتْيَةً, ""], [مُؤْمِنِينَ, ""], [فَأَوَوْا, "and they took shelter", n k], [إِلَى, ""], [الْكَهْفِ, ""], [وَدَعَوْا, ""], [رَبَّهُمْ, ""], [دُعَاءً, ""], [صَادِقًا, ""], [مِنْ, ""], [قُلُوبِهِمْ, "their hearts", n k]]
+    en: "They were young believers. They took shelter in the cave and called on their Lord with a sincere prayer from their hearts."
+  - words: [[فَقَالُوا, "", q], [رَبَّنَا, "", q], [آتِنَا, "", q], [مِن, "", q], [لَّدُنكَ, "", q], [رَحْمَةً, "", q], [وَهَيِّئْ, "", q], [لَنَا, "", q], [مِنْ, "", q], [أَمْرِنَا, "", q], [رَشَدًا, "", q]]
+    en: "They said: Our Lord, grant us mercy from Yourself, and make our affair turn out right for us."
+    quote: {ref: "18:10", text: فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا}
+  - words: [[طَلَبُوا, ""], [مِنْ, ""], [رَبِّهِمْ, ""], [رَحْمَةً, ""], [مِنْ, ""], [عِنْدِهِ, ""], [وَطَلَبُوا, ""], [أَنْ, ""], [يَجْعَلَ, ""], [أَمْرَهُمْ, ""], [كُلَّهُ, ""], [رَشَدًا, ""], [وَخَيْرًا, ""]]
+    en: "They asked their Lord for mercy from Himself, and asked Him to make their whole affair right guidance and good."
+  - words: [[فَضَرَبَ, "and (He) covered", n k], [اللَّهُ, ""], [عَلَى, ""], [آذَانِهِمْ, "their ears", n k], [فِي, ""], [الْكَهْفِ, ""], [فَنَامُوا, ""], [نَوْمًا, ""], [عَمِيقًا, "deep", n k], [لَا, ""], [يُوقِظُهُمْ, ""], [فِيهِ, ""], [صَوْتٌ, ""]]
+    en: "Allah covered their ears in the cave, and they slept so deeply that no sound woke them."
+  - words: [[وَظَلُّوا, "and they stayed", n k], [نَائِمِينَ, ""], [سِنِينَ, ""], [كَثِيرَةً, ""], [لَهَا, ""], [عَدَدٌ, "a number", n k], [يَعْلَمُهُ, ""], [اللَّهُ, ""], [وَلَا, ""], [يَعْلَمُونَهُ, ""], [هُمْ, ""]]
+    en: "They stayed asleep for many years, a number that Allah knew and they did not."
+  - words: [[ثُمَّ, ""], [بَعَثَهُمُ, ""], [اللَّهُ, ""], [لِيَظْهَرَ, "", k], [لِلنَّاسِ, ""], [أَيُّ, ""], [الْفَرِيقَيْنِ, "(of) the two groups", n k], [أَحْسَنُ, ""], [عَدًّا, "in counting", n k], [لِمُدَّةِ, "(the) length (of)", n k], [نَوْمِهِمْ, ""]]
+    en: "Then Allah raised them, so that it would become clear to people which of the two groups had counted the length of their sleep better."
+  - words: [[وَبَعْدَ, ""], [ذٰلِكَ, ""], [يَقُصُّ, ""], [اللَّهُ, ""], [عَلَيْنَا, ""], [نَبَأَهُمْ, "their news", n k], [بِالْحَقِّ, ""], [مِنْ, ""], [أَوَّلِهِ, ""], [إِلَى, ""], [آخِرِهِ, ""]]
+    en: "After this Allah tells us their story truly, from beginning to end."
+  - words: [[كَانَ, ""], [الْفِتْيَةُ, ""], [يَعِيشُونَ, ""], [فِي, ""], [مَدِينَةٍ, ""], [بَيْنَ, ""], [قَوْمٍ, ""], [يَعْبُدُونَ, ""], [آلِهَةً, ""], [مِنْ, ""], [دُونِ, "besides", n k], [اللَّهِ, ""]]
+    en: "The young men lived in a city among a people who worshipped gods besides Allah."
+  - words: [[وَلٰكِنَّ, ""], [اللَّهَ, ""], [زَادَهُمْ, "increased them", n k], [هُدًى, "(in) guidance", n k], [وَرَبَطَ, "and made firm", n k], [عَلَى, ""], [قُلُوبِهِمْ, ""], [فَصَارُوا, ""], [أَقْوِيَاءَ, "strong", n k], [لَا, ""], [يَخَافُونَ, ""], [أَحَدًا, ""], [إِلَّا, ""], [اللَّهَ, ""]]
+    en: "But Allah increased them in guidance and made their hearts firm, so they became strong and feared no one but Allah."
+  - words: [[فَقَامُوا, ""], [وَقَالُوا, ""], [رَبُّنَا, "", q], [رَبُّ, "", q], [السَّمَاوَاتِ, "", q], [وَالْأَرْضِ, "", q], [لَن, "", q], [نَّدْعُوَ, "", q], [مِن, "", q], [دُونِهِ, "", q], [إِلَـٰهًا, "", q]]
+    en: "They stood up and said: Our Lord is the Lord of the heavens and the earth. We will never call on any god besides Him."
+    quote: {ref: "18:14", text: رَبُّنَا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ لَن نَّدْعُوَ مِن دُونِهِ إِلَـٰهًا}
+  - words: [[وَكَانَتْ, ""], [هٰذِهِ, ""], [الْكَلِمَةُ, "statement; word", n k], [صَعْبَةً, ""], [بَيْنَ, ""], [قَوْمٍ, ""], [يَعْبُدُونَ, ""], [آلِهَةً, ""], [كَثِيرَةً, ""], [وَلٰكِنَّهُمْ, ""], [قَالُوهَا, ""], [بِقُوَّةٍ, "with strength", n k]]
+    en: "These words were hard to say among a people who worshipped many gods, but they said them with strength."
+  - words: [[وَقَالُوا, ""], [هٰؤُلَاءِ, ""], [قَوْمُنَا, ""], [اتَّخَذُوا, "have taken", n k], [مِنْ, ""], [دُونِهِ, ""], [آلِهَةً, ""], [فَلِمَاذَا, ""], [لَا, ""], [يَأْتُونَ, ""], [بِدَلِيلٍ, "(with) a proof", n k], [بَيِّنٍ, "clear", n k], [عَلَيْهَا, ""]]
+    en: "They said: These people of ours have taken gods besides Him. So why do they not bring a clear proof for them?"
+  - words: [[وَلَيْسَ, ""], [أَحَدٌ, ""], [أَظْلَمَ, "more unjust", n k], [مِمَّنْ, ""], [يَكْذِبُ, ""], [عَلَى, ""], [اللَّهِ, ""], [وَيَعْبُدُ, ""], [مَعَهُ, ""], [غَيْرَهُ, ""]]
+    en: "No one does greater wrong than one who lies about Allah and worships others along with Him."
+  - words: [[ثُمَّ, ""], [قَالَ, ""], [بَعْضُهُمْ, ""], [لِبَعْضٍ, ""], [قَدْ, ""], [تَرَكْنَا, ""], [قَوْمَنَا, ""], [وَتَرَكْنَا, ""], [مَا, ""], [يَعْبُدُونَ, ""], [إِلَّا, ""], [اللَّهَ, ""], [وَحْدَهُ, ""]]
+    en: "Then they said to one another: We have left our people, and what they worship, except Allah alone."
+  - words: [[فَلْنَأْوِ, "", k], [إِلَى, ""], [الْكَهْفِ, ""], [يَنْشُرْ, "(and) will spread", n k], [لَنَا, ""], [رَبُّنَا, ""], [مِنْ, ""], [رَحْمَتِهِ, ""], [وَيُصْلِحْ, ""], [لَنَا, ""], [أَمْرَنَا, ""]]
+    en: "So let us take shelter in the cave, and our Lord will spread His mercy over us and set our affair right."
+  - words: [[فَخَرَجُوا, ""], [مِنَ, ""], [الْمَدِينَةِ, ""], [وَتَرَكُوا, ""], [بُيُوتَهُمْ, ""], [حَتَّى, ""], [أَوَوْا, "", k], [إِلَى, ""], [الْكَهْفِ, ""], [وَنَامُوا, ""], [فِيهِ, ""]]
+    en: "They left the city and their homes, until they took shelter in the cave and slept in it."
+  - words: [[وَتَرَى, ""], [الشَّمْسَ, ""], [إِذَا, ""], [طَلَعَتْ, "rose", n k], [تَمِيلُ, "turning", n k], [عَنْ, ""], [كَهْفِهِمْ, ""], [إِلَى, ""], [جِهَةِ, "(the) side (of)", n k], [الْيَمِينِ, "the right", n k]]
+    en: "You would see the sun, when it rose, turn away from their cave toward the right."
+  - words: [[وَإِذَا, ""], [غَرَبَتْ, ""], [تَتْرُكُهُمْ, ""], [إِلَى, ""], [جِهَةِ, ""], [الشِّمَالِ, "the left", n k], [وَهُمْ, ""], [نَائِمُونَ, ""], [فِي, ""], [مَكَانٍ, ""], [وَاسِعٍ, "wide", n k], [مِنَ, ""], [الْكَهْفِ, ""]]
+    en: "And when it set, it passed them by toward the left, while they slept in a wide open space within the cave."
+  - words: [[وَكَانَ, ""], [ذٰلِكَ, ""], [آيَةً, ""], [مِنْ, ""], [آيَاتِ, ""], [اللَّهِ, ""], [وَرَحْمَةً, ""], [مِنْهُ, ""], [بِعِبَادِهِ, ""], [الْمُؤْمِنِينَ, ""]]
+    en: "That was one of Allah's signs, and a mercy from Him to His believing servants."
+  - words: [[وَمَنْ, ""], [يَهْدِهِ, ""], [اللَّهُ, ""], [فَهُوَ, ""], [عَلَى, ""], [الطَّرِيقِ, ""], [الْمُسْتَقِيمِ, ""], [وَمَنْ, ""], [يُضْلِلْهُ, "He leads astray", n k], [فَلَنْ, ""], [يَجِدَ, ""], [مَنْ, ""], [يَهْدِيهِ, ""]]
+    en: "Whoever Allah guides is on the straight path, and whoever He leads astray will find no one to guide him."
+  - words: [[وَلَوْ, ""], [رَأَيْتَهُمْ, ""], [فِي, ""], [نَوْمِهِمْ, ""], [لَحَسِبْتَهُمْ, "you would think them", n k], [أَيْقَاظًا, "awake", n k], [وَهُمْ, ""], [رُقُودٌ, "asleep", n k]]
+    en: "Had you seen them in their sleep, you would have thought them awake, though they were asleep."
+  - words: [[وَكَانَ, ""], [اللَّهُ, ""], [يُقَلِّبُهُمْ, "turns them over", n k], [فِي, ""], [نَوْمِهِمْ, ""], [مَرَّةً, ""], [إِلَى, ""], [الْيَمِينِ, ""], [وَمَرَّةً, ""], [إِلَى, ""], [الشِّمَالِ, ""]]
+    en: "Allah would turn them over in their sleep, once to the right and once to the left."
+  - words: [[وَكَانَ, ""], [مَعَهُمْ, ""], [كَلْبٌ, "a dog", n k], [وَكَانَ, ""], [بَاسِطًا, "stretching out", n k], [ذِرَاعَيْهِ, "its forelegs", n k], [عِنْدَ, ""], [بَابِ, ""], [الْكَهْفِ, ""]]
+    en: "They had a dog with them, and it lay stretching out its forelegs at the entrance of the cave."
+  - words: [[وَيَقُولُ, ""], [ابْنُ, ""], [كَثِيرٍ, ""], [أَصَابَ, "befell", n k], [الْكَلْبَ, ""], [مَا, ""], [أَصَابَ, ""], [الْفِتْيَةَ, ""], [بِبَرَكَةِ, "by the blessing (of)", n k], [صُحْبَتِهِمْ, "their company", n k]]
+    en: "Ibn Kathir explains that what happened to the young men happened to the dog too, by the blessing of their company."
+  - words: [[وَلَوْ, ""], [نَظَرْتَ, ""], [إِلَيْهِمْ, ""], [لَهَرَبْتَ, "you would have fled", n k], [مِنْهُمْ, ""], [وَامْتَلَأَ, "and would have filled", n k], [قَلْبُكَ, ""], [خَوْفًا, ""], [مِنْهُمْ, ""]]
+    en: "If you had looked at them, you would have fled from them, and your heart would have filled with fear of them."
+  - words: [[وَلَبِثُوا, "and they stayed", n k], [عَلَى, ""], [هٰذِهِ, ""], [الْحَالِ, "state", n k], [سِنِينَ, ""], [طَوِيلَةً, ""], [ثُمَّ, ""], [بَعَثَهُمُ, ""], [اللَّهُ, ""], [مِنْ, ""], [نَوْمِهِمْ, ""]]
+    en: "They stayed like this for long years, and then Allah raised them from their sleep."
+  - words: [[فَأَصْبَحُوا, "and they became", n k], [أَيْقَاظًا, ""], [وَجَلَسُوا, ""], [يَسْأَلُ, ""], [بَعْضُهُمْ, ""], [بَعْضًا, ""], [عَنْ, ""], [مُدَّةِ, ""], [نَوْمِهِمْ, ""], [فِي, ""], [الْكَهْفِ, ""]]
+    en: "They were awake again, and they sat asking one another how long they had slept."
+  - words: [[قَالَ, "", q], [قَائِلٌ, "", q], [مِّنْهُمْ, "", q], [كَمْ, "", q], [لَبِثْتُمْ, "", q], [قَالُوا, "", q], [لَبِثْنَا, "", q], [يَوْمًا, "", q], [أَوْ, "", q], [بَعْضَ, "", q], [يَوْمٍ, "", q]]
+    en: "One of them said: How long have you stayed here? They said: We have stayed a day, or part of a day."
+    quote: {ref: "18:19", text: قَالَ قَائِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ}
+  - words: [[ثُمَّ, ""], [رَدُّوا, ""], [عِلْمَ, "", k], [ذٰلِكَ, ""], [إِلَى, ""], [رَبِّهِمْ, ""], [وَقَالُوا, ""], [رَبُّنَا, ""], [أَعْلَمُ, ""], [بِمُدَّةِ, ""], [نَوْمِنَا, ""]]
+    en: "Then they left the knowledge of it to their Lord, and said: Our Lord knows best how long we slept."
+  - words: [[فَقَدْ, ""], [ظَنُّوا, ""], [أَنَّهُمْ, ""], [نَامُوا, ""], [يَوْمًا, ""], [وَاحِدًا, ""], [وَأَنَّ, ""], [قَوْمَهُمْ, ""], [مَا, ""], [زَالُوا, "were still", n k], [فِي, ""], [الْمَدِينَةِ, ""]]
+    en: "For they thought they had slept a single day, and that their people were still in the city."
+  - words: [[وَكَانَتْ, ""], [مَعَهُمْ, ""], [دَرَاهِمُ, ""], [مِنْ, ""], [وَرِقٍ, "wariq (silver coins)", n k], [وَالْوَرِقُ, "", k], [هُوَ, ""], [الْفِضَّةُ, "silver", n k], [الَّتِي, ""], [يَشْتَرِي, ""], [بِهَا, ""], [النَّاسُ, ""]]
+    en: "They had coins of wariq with them, and wariq is silver, with which people buy things."
+  - words: [[فَقَالُوا, ""], [لِيَذْهَبْ, ""], [أَحَدُكُمْ, ""], [بِهٰذِهِ, ""], [الدَّرَاهِمِ, ""], [إِلَى, ""], [الْمَدِينَةِ, ""], [وَلْيَنْظُرْ, ""], [أَيُّ, ""], [طَعَامٍ, ""], [أَطْهَرُ, "(is) purest", n k]]
+    en: "They said: Let one of you go with these coins to the city, and let him see which food is purest."
+  - words: [[فَقَدْ, ""], [أَرَادُوا, ""], [طَعَامًا, ""], [حَلَالًا, "lawful", n k], [طَيِّبًا, ""], [لِأَنَّهُمْ, ""], [كَانُوا, ""], [يَخَافُونَ, ""], [اللَّهَ, ""], [فِي, ""], [كُلِّ, ""], [أَمْرِهِمْ, ""]]
+    en: "They wanted food that was lawful and good, because they feared Allah in everything they did."
+  - words: [[وَقَالُوا, ""], [فَلْيَأْتِكُمْ, "", k], [بِشَيْءٍ, ""], [مِنْهُ, ""], [وَلْيَتَلَطَّفْ, "and let him be careful", n k], [فِي, ""], [طَرِيقِهِ, ""], [وَلَا, ""], [يُخْبِرْ, ""], [أَحَدًا, ""], [بِمَكَانِكُمْ, ""]]
+    en: "They said: Let him bring you some of it, and let him be careful and gentle on his way, and tell no one where you are."
+  - words: [[فَإِنَّ, ""], [قَوْمَكُمْ, ""], [إِنْ, ""], [عَرَفُوا, ""], [مَكَانَكُمْ, ""], [رَجَمُوكُمْ, "they will stone you", n k], [بِالْحِجَارَةِ, ""], [أَوْ, ""], [أَعَادُوكُمْ, ""], [إِلَى, ""], [دِينِهِمْ, ""]]
+    en: "For if your people find out where you are, they will stone you, or force you back into their religion."
+  - words: [[وَإِنْ, ""], [رَجَعْتُمْ, ""], [إِلَى, ""], [دِينِهِمْ, ""], [فَلَنْ, ""], [تُفْلِحُوا, "you will succeed", n k], [بَعْدَ, ""], [ذٰلِكَ, ""], [أَبَدًا, ""]]
+    en: "And if you go back to their religion, you will never succeed after that."
+  - words: [[ثُمَّ, ""], [أَظْهَرَ, "made known", n k], [اللَّهُ, ""], [أَمْرَهُمْ, ""], [لِلنَّاسِ, ""], [بَعْدَ, ""], [أَنْ, ""], [لَبِثُوا, ""], [فِي, ""], [كَهْفِهِمْ, ""], [زَمَنًا, ""], [طَوِيلًا, ""]]
+    en: "Then Allah made their matter known to people, after they had stayed in their cave for a long time."
+  - words: [[لِيَعْلَمَ, ""], [النَّاسُ, ""], [أَنَّ, ""], [وَعْدَ, "", k], [اللَّهِ, ""], [حَقٌّ, ""], [وَأَنَّ, ""], [السَّاعَةَ, ""], [آتِيَةٌ, ""], [لَا, ""], [شَكَّ, "doubt", n k], [فِيهَا, ""]]
+    en: "So that people would know that Allah's promise is true, and that the Hour is coming, without any doubt."
+  - words: [[فَكَمَا, ""], [بَعَثَ, ""], [اللَّهُ, ""], [الْفِتْيَةَ, ""], [بَعْدَ, ""], [نَوْمٍ, ""], [طَوِيلٍ, ""], [كَذٰلِكَ, ""], [يَبْعَثُ, ""], [النَّاسَ, ""], [كُلَّهُمْ, ""], [يَوْمَ, ""], [الْقِيَامَةِ, "(of) Resurrection", n k]]
+    en: "Just as Allah raised the young men after a long sleep, so He will raise all people on the Day of Resurrection."
+  - words: [[وَلَيْسَ, ""], [ذٰلِكَ, ""], [صَعْبًا, ""], [عَلَى, ""], [اللَّهِ, ""], [الَّذِي, ""], [خَلَقَ, ""], [النَّاسَ, ""], [أَوَّلَ, ""], [مَرَّةٍ, ""], [وَلَمْ, ""], [يَكُونُوا, ""], [شَيْئًا, ""]]
+    en: "That is not hard for Allah, who created people the first time, when they were nothing."
+  - words: [[ثُمَّ, ""], [اخْتَلَفَ, "disagreed", n k], [النَّاسُ, ""], [فِي, ""], [أَمْرِهِمْ, ""], [فَقَالَ, ""], [بَعْضُهُمُ, ""], [ابْنُوا, "build!", n k], [عَلَيْهِمْ, ""], [بُنْيَانًا, "a building", n k]]
+    en: "Then people disagreed about them. Some of them said: Put up a building over them."
+  - words: [[وَقَالَ, ""], [الَّذِينَ, ""], [غَلَبُوا, "had the upper hand", n k], [عَلَى, ""], [أَمْرِهِمْ, ""], [سَنَتَّخِذُ, "we will set up", n k], [عَلَيْهِمْ, ""], [مَسْجِدًا, ""]]
+    en: "Those who had power over their affair said: We will set up a place of worship over them."
+  - words: [[وَرَبُّهُمْ, ""], [وَحْدَهُ, ""], [أَعْلَمُ, ""], [بِهِمْ, ""], [وَبِحَالِهِمْ, ""], [وَبِكُلِّ, ""], [مَا, ""], [كَانَ, ""], [مِنْ, ""], [أَمْرِهِمْ, ""]]
+    en: "Their Lord alone knows best about them, their state, and all that happened to them."
+  - words: [[وَاخْتَلَفَ, ""], [النَّاسُ, ""], [أَيْضًا, ""], [فِي, ""], [عَدَدِ, ""], [الْفِتْيَةِ, ""], [وَلَيْسَ, ""], [عِنْدَ, ""], [أَكْثَرِهِمْ, ""], [عِلْمٌ, "", k], [بِذٰلِكَ, ""]]
+    en: "People also disagreed about how many the young men were, though most of them had no knowledge of it."
+  - words: [[فَقَالَ, ""], [بَعْضُهُمْ, ""], [كَانُوا, ""], [ثَلَاثَةً, ""], [رَابِعُهُمْ, "the fourth of them", n k], [كَلْبُهُمْ, ""], [وَقَالَ, ""], [آخَرُونَ, ""], [كَانُوا, ""], [خَمْسَةً, "five", n k], [سَادِسُهُمْ, "the sixth of them", n k], [كَلْبُهُمْ, ""]]
+    en: "Some said: They were three, and their dog was the fourth. Others said: They were five, and their dog was the sixth."
+  - words: [[وَهٰذَانِ, ""], [الْقَوْلَانِ, ""], [رَجْمٌ, "a stoning; guessing", n k], [بِالْغَيْبِ, "at the unseen", n k], [أَيْ, "that is", n k], [ظَنٌّ, ""], [بِغَيْرِ, ""], [عِلْمٍ, ""]]
+    en: "These two sayings are guessing at the unseen, that is, a guess without knowledge."
+  - words: [[وَقَالَ, ""], [قَوْمٌ, ""], [آخَرُونَ, ""], [كَانُوا, ""], [سَبْعَةً, "seven", n k], [وَثَامِنُهُمْ, "and the eighth of them", n k], [كَلْبُهُمْ, ""]]
+    en: "And others said: They were seven, and their dog was the eighth."
+  - words: [[قُل, "", q], [رَّبِّي, "", q], [أَعْلَمُ, "", q], [بِعِدَّتِهِم, "", q], [مَّا, "", q], [يَعْلَمُهُمْ, "", q], [إِلَّا, "", q], [قَلِيلٌ, "", q]]
+    en: "Say: My Lord knows best how many they were. None know them except a few."
+    quote: {ref: "18:22", text: قُل رَّبِّي أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ}
+  - words: [[وَأَمَرَ, ""], [اللَّهُ, ""], [نَبِيَّهُ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [أَلَّا, ""], [يُجَادِلَ, "(to) argue with", n k], [النَّاسَ, ""], [فِيهِمْ, ""], [إِلَّا, ""], [جِدَالًا, "an argument", n k], [خَفِيفًا, "light", n k], [وَأَلَّا, ""], [يَسْأَلَ, ""], [عَنْهُمْ, ""], [أَحَدًا, ""], [مِنْهُمْ, ""]]
+    en: "Allah told His Prophet ﷺ not to argue with people about them except in a light way, and not to ask any of them about them."
+  - words: [[فَالْخَيْرُ, ""], [فِي, ""], [فَهْمِ, ""], [الْقِصَّةِ, ""], [لَا, ""], [فِي, ""], [السُّؤَالِ, "asking", n k], [عَنْ, ""], [عَدَدِ, ""], [أَصْحَابِهَا, ""]]
+    en: "The good lies in understanding the story, not in asking how many its people were."
+  - words: [[ثُمَّ, ""], [عَلَّمَ, ""], [اللَّهُ, ""], [نَبِيَّهُ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [أَدَبًا, "a fine manner", n k], [عَظِيمًا, ""], [فِي, ""], [الْكَلَامِ, ""], [عَنْ, ""], [عَمَلِ, ""], [الْغَدِ, ""]]
+    en: "Then Allah taught His Prophet ﷺ a beautiful manner of speaking about what one will do tomorrow."
+  - words: [[وَلَا, "", q], [تَقُولَنَّ, "", q], [لِشَيْءٍ, "", q], [إِنِّي, "", q], [فَاعِلٌ, "", q], [ذَٰلِكَ, "", q], [غَدًا, "", q]]
+    en: "And never say of anything: I will do that tomorrow,"
+    quote: {ref: "18:23", text: وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا}
+  - words: [[إِلَّا, "", q], [أَن, "", q], [يَشَاءَ, "", q], [اللَّهُ, "", q], [وَاذْكُر, "", q], [رَّبَّكَ, "", q], [إِذَا, "", q], [نَسِيتَ, "", q]]
+    en: "without adding: if Allah wills. And remember your Lord when you forget."
+    quote: {ref: "18:24", text: إِلَّا أَن يَشَاءَ اللَّهُ وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ}
+  - words: [[فَالْمُؤْمِنُ, ""], [يَقُولُ, ""], [إِنْ, ""], [شَاءَ, ""], [اللَّهُ, ""], [كُلَّمَا, "whenever", n k], [ذَكَرَ, ""], [عَمَلًا, ""], [يُرِيدُ, ""], [أَنْ, ""], [يَفْعَلَهُ, ""], [فِي, ""], [الْغَدِ, ""]]
+    en: "So a believer says In sha' Allah whenever he speaks of something he means to do tomorrow."
+  - words: [[وَإِذَا, ""], [نَسِيَ, ""], [أَنْ, ""], [يَقُولَهَا, ""], [ثُمَّ, ""], [تَذَكَّرَ, ""], [فَلْيَذْكُرْ, ""], [رَبَّهُ, ""], [حِينَ, "when", n k], [يَتَذَكَّرُ, ""]]
+    en: "And if he forgets to say it and then remembers, let him remember his Lord as soon as he remembers."
+  - words: [[وَلَبِثُوا, "", q], [فِي, "", q], [كَهْفِهِمْ, "", q], [ثَلَاثَ, "", q], [مِائَةٍ, "", q], [سِنِينَ, "", q], [وَازْدَادُوا, "", q], [تِسْعًا, "", q]]
+    en: "And they stayed in their cave three hundred years, and added nine."
+    quote: {ref: "18:25", text: وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا}
+  - words: [[أَيْ, ""], [أَنَّهُمْ, ""], [ظَلُّوا, "", k], [نَائِمِينَ, ""], [ثَلَاثَ, ""], [مِائَةِ, ""], [سَنَةٍ, ""], [وَتِسْعَ, "and nine", n k], [سِنِينَ, ""]]
+    en: "That is, they stayed asleep for three hundred and nine years."
+  - words: [[قُلِ, "", q], [اللَّهُ, "", q], [أَعْلَمُ, "", q], [بِمَا, "", q], [لَبِثُوا, "", q], [لَهُ, "", q], [غَيْبُ, "", q], [السَّمَاوَاتِ, "", q], [وَالْأَرْضِ, "", q]]
+    en: "Say: Allah knows best how long they stayed. His is the unseen of the heavens and the earth."
+    quote: {ref: "18:26", text: قُلِ اللَّهُ أَعْلَمُ بِمَا لَبِثُوا لَهُ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ}
+  - words: [[فَعِلْمُ, "", k], [الْغَيْبِ, ""], [لِلَّهِ, ""], [وَحْدَهُ, ""], [وَلَيْسَ, ""], [لِأَحَدٍ, ""], [مِنْ, ""], [خَلْقِهِ, ""], [إِلَّا, ""], [مَا, ""], [عَلَّمَهُ, ""], [اللَّهُ, ""]]
+    en: "Knowledge of the unseen belongs to Allah alone. No one in His creation has any of it, except what Allah teaches him."
+  - words: [[وَهٰذِهِ, ""], [الْقِصَّةُ, ""], [دَرْسٌ, ""], [لِكُلِّ, ""], [شَابٍّ, "young man", n k], [مُسْلِمٍ, ""], [أَنْ, ""], [يَثْبُتَ, "to stand firm", n k], [عَلَى, ""], [تَوْحِيدِ, "(the) oneness (of)", n k], [رَبِّهِ, ""], [وَيَصْحَبَ, "and to keep company with", n k], [أَهْلَ, ""], [الْخَيْرِ, ""]]
+    en: "This story is a lesson for every young Muslim: to hold firm to the oneness of his Lord, and to keep the company of good people."
+  - words: [[فَقَدْ, ""], [ثَبَتَ, ""], [الْفِتْيَةُ, ""], [عَلَى, ""], [إِيمَانِهِمْ, ""], [فَحَفِظَهُمُ, ""], [اللَّهُ, ""], [وَنَشَرَ, ""], [عَلَيْهِمْ, ""], [رَحْمَتَهُ, ""]]
+    en: "The young men held firm to their faith, and Allah protected them and spread His mercy over them."
+  - words: [[وَمَنْ, ""], [أَوَى, ""], [إِلَى, ""], [اللَّهِ, ""], [آوَاهُ, "He gives him shelter", n k], [اللَّهُ, ""], [وَلَمْ, ""], [يَتْرُكْهُ, ""], [وَحْدَهُ, ""], [أَبَدًا, ""]]
+    en: "Whoever takes shelter with Allah, Allah gives him shelter, and never leaves him alone."
+
+dictionary:
+  - {ar: كَهْفٌ, en: cave, pos: [اسم, noun], root: كهف, pattern: فَعْلٌ, plural: كُهُوفٌ, ayah: {ref: "18:10", text: إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ, en: "when the young men took shelter in the cave"}, note: "A large cave in a mountain. غَارٌ, which you met in the Hijra story, is usually a smaller cave."}
+  - {ar: أَوَى, en: he took shelter; he went to for refuge, pos: [فعل ماض, past verb], present: يَأْوِي, bab: بَابُ ضَرَبَ, root: أوي, pattern: فَعَلَ, ayah: {ref: "18:16", text: فَأْوُوا إِلَى الْكَهْفِ, en: "so take shelter in the cave"}, note: "Past plural: أَوَوْا. آوَى يُؤْوِي (بَابُ الْإِفْعَالِ): he gave someone shelter. Allah's words about the Prophet's ﷺ early years: أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ (93:6)."}
+  - {ar: قَلْبٌ, en: heart, pos: [اسم, noun], root: قلب, pattern: فَعْلٌ, plural: قُلُوبٌ, ayah: {ref: "26:89", text: إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ, en: "except whoever comes to Allah with a sound heart"}, note: "The root means to turn over. The heart is the thing that turns: يُقَلِّبُهُمْ, He turns them over."}
+  - {ar: رَبَطَ, en: he tied; he made firm, pos: [فعل ماض, past verb], present: يَرْبِطُ, bab: بَابُ ضَرَبَ, root: ربط, pattern: فَعَلَ, ayah: {ref: "18:14", text: وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ, en: "and We made their hearts firm"}, note: "To tie a rope or an animal. رَبَطَ عَلَى قَلْبِهِ: He made his heart strong and steady."}
+  - {ar: طَلَعَ, en: it rose (the sun or moon), pos: [فعل ماض, past verb], present: يَطْلُعُ, bab: بَابُ نَصَرَ, root: طلع, pattern: فَعَلَ, ayah: {ref: "18:17", text: وَتَرَى الشَّمْسَ إِذَا طَلَعَت, en: "and you would see the sun when it rose"}, note: "Its opposite is غَرَبَ. The rising of the dawn: مَطْلَعُ الْفَجْرِ (97:5)."}
+  - {ar: يَمِينٌ, en: the right (side); right hand; oath, pos: [اسم, noun], root: يمن, pattern: فَعِيلٌ, ayah: {ref: "18:18", text: وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ, en: "and We turn them over to the right and to the left"}, note: "ذَاتَ الْيَمِينِ: toward the right. In fiqh, يَمِينٌ is also an oath."}
+  - {ar: شِمَالٌ, en: the left (side); left hand, pos: [اسم, noun], root: شمل, pattern: فِعَالٌ, ayah: {ref: "69:25", text: وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ, en: "and as for the one given his record in his left hand"}, register: both, note: "Classical: the left side. In modern Arabic شَمَالٌ (with fatha) is the north; the left hand is usually الْيَسَارُ."}
+  - {ar: يَقِظٌ, en: awake, pos: [صفة مشبهة, adjective], root: يقظ, pattern: فَعِلٌ, plural: أَيْقَاظٌ, ayah: {ref: "18:18", text: وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ, en: "and you would think them awake, though they were asleep"}, note: "Same root as أَيْقَظَ, he woke someone up, which you met in Ramadan at Home."}
+  - {ar: رَاقِدٌ, en: lying asleep, pos: [اسم فاعل, active participle], root: رقد, pattern: فَاعِلٌ, plural: رُقُودٌ, ayah: {ref: "36:52", text: مَن بَعَثَنَا مِن مَّرْقَدِنَا, en: "who has raised us from our sleeping place?"}, note: "From رَقَدَ يَرْقُدُ, he lay asleep. مَرْقَدٌ is a place of sleep, on the مَفْعَلٌ place pattern."}
+  - {ar: كَلْبٌ, en: dog, pos: [اسم, noun], root: كلب, pattern: فَعْلٌ, plural: كِلَابٌ, ayah: {ref: "18:18", text: وَكَلْبُهُم بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ, en: "and their dog stretching out its forelegs at the entrance"}, note: "The Quran does not give the dog a name, and neither does this story."}
+  - {ar: بَعَثَ, en: he raised up; he sent, pos: [فعل ماض, past verb], present: يَبْعَثُ, bab: بَابُ فَتَحَ, root: بعث, pattern: فَعَلَ, ayah: {ref: "18:12", text: ثُمَّ بَعَثْنَاهُمْ, en: "then We raised them up"}, note: "Raising the dead on the Last Day is الْبَعْثُ. In 18:19 the same verb means to send: فَابْعَثُوا أَحَدَكُمْ, send one of you."}
+  - {ar: أَصْبَحَ, en: he became; it became morning, pos: [فعل ماض, past verb], present: يُصْبِحُ, bab: بَابُ الْإِفْعَالِ, root: صبح, pattern: أَفْعَلَ, ayah: {ref: "18:42", text: فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ, en: "and he began wringing his hands"}, note: "A sister of كَانَ: أَصْبَحُوا أَيْقَاظًا, they became awake. Literally, to be so in the morning (صَبَاحٌ)."}
+  - {ar: لَبِثَ, en: he stayed; he remained (for a time), pos: [فعل ماض, past verb], present: يَلْبَثُ, bab: بَابُ سَمِعَ, root: لبث, pattern: فَعِلَ, ayah: {ref: "18:19", text: قَالَ قَائِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ, en: "one of them said: how long have you stayed?"}, note: "Used for how long someone stays, so it often comes with كَمْ, how long."}
+  - {ar: وَرِقٌ, en: silver coins; silver, pos: [اسم, noun], root: ورق, pattern: فَعِلٌ, ayah: {ref: "18:19", text: فَابْعَثُوا أَحَدَكُم بِوَرِقِكُمْ هَـٰذِهِ إِلَى الْمَدِينَةِ, en: "so send one of you with this silver money of yours to the city"}, note: "Do not confuse it with وَرَقٌ, leaves or paper (وَرَقَةٌ, one leaf: 6:59). Without vowels both are ورق, so this word keeps its marks."}
+  - {ar: تَلَطَّفَ, en: he was careful and gentle, pos: [فعل ماض, past verb], present: يَتَلَطَّفُ, bab: بَابُ التَّفَعُّلِ, root: لطف, pattern: تَفَعَّلَ, ayah: {ref: "18:19", text: وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا, en: "and let him be careful and not let anyone know about you"}, note: "From لَطُفَ, he was gentle. Allah's name اللَّطِيفُ, the Subtle, the Gentle, is from the same root."}
+  - {ar: بَنَى, en: he built, pos: [فعل ماض, past verb], present: يَبْنِي, bab: بَابُ ضَرَبَ, root: بني, pattern: فَعَلَ, ayah: {ref: "91:5", text: وَالسَّمَاءِ وَمَا بَنَاهَا, en: "by the sky and the One who built it"}, note: "Command: اِبْنِ, plural اِبْنُوا. A building: بُنْيَانٌ or بِنَاءٌ."}
+  - {ar: غَيْبٌ, en: the unseen, pos: [مصدر, verbal noun], root: غيب, pattern: فَعْلٌ, ayah: {ref: "2:3", text: الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ, en: "those who believe in the unseen"}, note: "From غَابَ يَغِيبُ, it was absent. Everything hidden from our senses: the angels, the Last Day, and what is still to come."}
+  - {ar: عَدَدٌ, en: number; count, pos: [اسم, noun], root: عدد, pattern: فَعَلٌ, plural: أَعْدَادٌ, ayah: {ref: "18:11", text: فِي الْكَهْفِ سِنِينَ عَدَدًا, en: "in the cave for a number of years"}, note: "From عَدَّ يَعُدُّ, he counted. عِدَّةٌ (18:22) is also a number, the count of something."}
+
+root_families:
+  - root: قلب
+    words: [[قَلْبٌ, "heart"], [قُلُوبٌ, "hearts"], [يُقَلِّبُهُمْ, "He turns them over"], [يُقَلِّبُ كَفَّيْهِ, "he wrings his hands (18:42)"]]
+  - root: أوي
+    words: [[أَوَى, "he took shelter"], [أَوَوْا, "they took shelter"], [فَلْنَأْوِ, "so let us take shelter"], [آوَاهُ, "he gave him shelter"]]
+
+grammar:
+  title_ar: كَانَ وَأَخَوَاتُهَا
+  title_en: "Kana and its sisters: the khabar in the nasb"
+  body: >-
+    كَانَ comes before a nominal sentence. اسْمُ كَانَ (its ism) stays مَرْفُوعٌ, and خَبَرُ كَانَ (its khabar) becomes مَنْصُوبٌ:
+    الْكَلْبُ بَاسِطٌ, the dog is stretching out; كَانَ الْكَلْبُ بَاسِطًا, the dog was stretching out. Several verbs work the same way and are
+    called its sisters: صَارَ (he became), أَصْبَحَ (he became; was in the morning), ظَلَّ (he stayed, kept on), لَيْسَ (he is not) and
+    مَا زَالَ (he is still). The khabar may be a word (أَيْقَاظًا), a sound plural in ـِينَ (نَائِمِينَ), a diptote with a single fatha
+    (أَقْوِيَاءَ, أَعْجَبَ), or a whole phrase (يَعِيشُونَ فِي مَدِينَةٍ; فِي الْمَدِينَةِ).
+  examples:
+    - [وَكَانَ بَاسِطًا ذِرَاعَيْهِ عِنْدَ بَابِ الْكَهْفِ, "And it lay stretching out its forelegs at the entrance of the cave. (kana)"]
+    - [فَصَارُوا أَقْوِيَاءَ لَا يَخَافُونَ أَحَدًا إِلَّا اللَّهَ, "So they became strong, fearing no one but Allah. (sara)"]
+    - [فَأَصْبَحُوا أَيْقَاظًا, "And they became awake. (asbaha)"]
+    - [وَظَلُّوا نَائِمِينَ سِنِينَ كَثِيرَةً, "And they stayed asleep for many years. (zalla)"]
+
+tip:
+  title: "Reading without vowels: why some words keep their marks"
+  body: >-
+    From now on most words are bare, but some keep their marks because the letters alone could be read two ways. ورق is وَرِقٌ (silver coins)
+    or وَرَقٌ (leaves). ظلوا is ظَلُّوا (they stayed), from the same letters as ظِلٌّ (shade). وعد is وَعْدٌ (a promise) or وَعَدَ (he promised).
+    هدى is هُدًى (guidance) or هَدَى (he guided). أعجب and أظلم can be the comparatives أَعْجَبُ, أَظْلَمُ (more wondrous, more unjust) or
+    verbs of بَابُ الْإِفْعَالِ (أَعْجَبَ، أَظْلَمَ). When you meet a bare word, ask the same question: noun or verb? Then let the sentence decide.
+
+reread: Read the unvowelled version above again. Then recite Surat al-Kahf 18:9 to 26 and find where each part of the story comes in it.

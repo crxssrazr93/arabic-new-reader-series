@@ -1,0 +1,170 @@
+# Booklet 5, story 3. Tale strand, capstone: the original text of Ibn al-Muqaffa'. Grammar ceiling: Madinah Book 3.
+id: b5-03
+booklet: 5
+number: 3
+strand: tale
+title_ar: الْحَمَامَةُ الْمُطَوَّقَةُ
+title_en: "The Ring Dove (the original text)"
+madinah: "Book 3 (the conditional with إِنْ and لَوْ)"
+source: "Kalila wa Dimna, Ibn al-Muqaffa', the chapter of the Ring Dove (abridged). Text from lexicon/sources/kalila/hamama-default.wiki: the whole opening frame and the dove episode, from the start of the chapter to the doves' release (فانطلقت المطوقة وحمامها معها), kept word for word; everything after it (the crow's friendship with the rat, the tortoise and the gazelle) is cut. Four slips in the source are corrected: م نفس to من نفس, وأنظرو to وأنظر, تخاذلنا to تخاذلن (the feminine plural, as the doves are addressed), and حجر to جحر (the rat's hole, twice). The vowelling is ours; the source has none."
+
+illustrations:
+  - before: 7
+    file: b5-03-tree-nest.png
+    alt: A great tree with many tangled branches and dense leaves, an empty nest of twigs high in it, a wide open place around it, no birds
+    prompt: A great old tree with many tangled spreading branches and dense dark leaves standing alone in a wide grassy place at the edge of a far-off town, an empty nest of twigs high among the branches, a hunter's wooden stick leaning against the trunk. No birds, no animals, no people.
+  - before: 11
+    file: b5-03-net-grain.png
+    alt: A wide rope net pegged out over bare ground with golden grain scattered on it, long grass at the edges, no birds
+    prompt: A wide rope net pegged out flat over bare earth, golden grain scattered on and around it, long grass at the edges and a low bush where a hunter could hide, soft morning light, in the style of an old manuscript painting. No birds, no animals, no people.
+  - before: 42
+    file: b5-03-gnawed-net.png
+    alt: An empty rope net lying loose on the ground with its knots gnawed through, beside many small holes at the foot of a mound, grain scattered nearby, no animals
+    prompt: An empty rope net lying loose on the ground, its knots gnawed through and broken, beside a low earth mound with many small round burrow holes, a few grains scattered nearby, open evening sky. No birds, no animals, no people.
+
+sentences:
+  - words: [[قَالَ, ""], [دَبْشَلِيمُ, "Dabshalim", n], [الْمَلِكُ, ""], [لِبَيْدَبَا, "to Baydaba", n], [الْفَيْلَسُوفِ, "the philosopher", n], [قَدْ, ""], [سَمِعْتُ, ""], [مَثَلَ, "(the) fable (of)", n], [الْمُتَحَابَّيْنِ, "the two who loved each other", n], [كَيْفَ, ""], [قَطَعَ, ""], [بَيْنَهُمَا, ""], [الْكَذُوبُ, "the liar", n], [وَإِلَى, ""], [مَاذَا, ""], [صَارَ, ""], [عَاقِبَةُ, ""], [أَمْرِهِ, ""], [مِنْ, ""], [بَعْدِ, ""], [ذٰلِكَ, ""]]
+    en: "King Dabshalim said to Baydaba the philosopher: I have heard the fable of the two friends, how the liar cut them apart, and what the end of his affair came to after that."
+  - words: [[فَحَدِّثْنِي, "so tell me", n], [إِنْ, ""], [رَأَيْتَ, "you see fit", n], [عَنْ, ""], [إِخْوَانِ, "brothers (of)", n], [الصَّفَاءِ, "pure friendship", n], [كَيْفَ, ""], [يُبْتَدَأُ, "is begun", n], [تَوَاصُلُهُمْ, "their bond", n], [وَيَسْتَمْتِعُ, "and (how) enjoys", n], [بَعْضُهُمْ, ""], [بِبَعْضٍ, ""]]
+    en: "So tell me, if you see fit, about true friends: how their bond begins, and how they find joy in one another."
+  - words: [[قَالَ, ""], [الْفَيْلَسُوفُ, ""], [إِنَّ, ""], [الْعَاقِلَ, "the wise man", n], [لَا, ""], [يَعْدِلُ, "holds equal", n], [بِالْإِخْوَانِ, "to brothers", n], [شَيْئًا, ""], [فَالْإِخْوَانُ, ""], [هُمُ, ""], [الْأَعْوَانُ, "the helpers", n], [عَلَى, ""], [الْخَيْرِ, ""], [كُلِّهِ, ""], [وَالْمُوَاسُونَ, "and those who console", n], [عِنْدَ, ""], [مَا, ""], [يَنُوبُ, "strikes", n], [مِنَ, ""], [الْمَكْرُوهِ, "misfortune", n]]
+    en: "The philosopher said: The wise man holds nothing equal to his brothers, for brothers are helpers in every good thing, and those who console you when misfortune strikes."
+  - words: [[وَمِنْ, ""], [أَمْثَالِ, "(the) fables (of)", n], [ذٰلِكَ, ""], [مَثَلُ, ""], [الْحَمَامَةِ, ""], [الْمُطَوَّقَةِ, "the ringed (dove)", n], [وَالْجُرَذِ, "and the rat", n], [وَالظَّبْيِ, "and the gazelle", n], [وَالْغُرَابِ, ""]]
+    en: "One of the fables about this is the fable of the ring dove, the rat, the gazelle and the crow."
+  - words: [[قَالَ, ""], [الْمَلِكُ, ""], [وَكَيْفَ, ""], [كَانَ, ""], [ذٰلِكَ, ""]]
+    en: "The king said: And how was that?"
+  - words: [[قَالَ, ""], [بَيْدَبَا, ""], [زَعَمُوا, "they claim", n], [أَنَّهُ, ""], [كَانَ, ""], [بِأَرْضِ, ""], [سَكَاوَنْدَجِينَ, "Sakawandajin", n], [عِنْدَ, ""], [مَدِينَةِ, ""], [دَاهِرَ, "Dahir", n], [مَكَانٌ, ""], [كَثِيرُ, ""], [الصَّيْدِ, ""], [يَنْتَابُهُ, "visit it again and again", n], [الصَّيَّادُونَ, ""]]
+    en: "Baydaba said: They say that in the land of Sakawandajin, near the city of Dahir, there was a place full of game, to which hunters came again and again."
+  - words: [[وَكَانَ, ""], [فِي, ""], [ذٰلِكَ, ""], [الْمَكَانِ, ""], [شَجَرَةٌ, ""], [كَثِيرَةُ, ""], [الْأَغْصَانِ, ""], [مُلْتَفَّةُ, "thick (of)", n], [الْوَرَقِ, "leaves", n], [فِيهَا, ""], [وَكْرُ, "(the) nest (of)", n], [غُرَابٍ, ""]]
+    en: "In that place there was a tree with many branches and thick leaves, and in it was a crow's nest."
+  - words: [[فَبَيْنَمَا, "and while", n], [هُوَ, ""], [ذَاتَ, "one", n], [يَوْمٍ, ""], [سَاقِطٌ, "perched", n], [فِي, ""], [وَكْرِهِ, ""], [إِذْ, "suddenly", n], [بَصُرَ, "he caught sight", n], [بِصَيَّادٍ, ""], [قَبِيحِ, "ugly (of)", n], [الْمَنْظَرِ, "appearance", n], [سَيِّئِ, "bad (of)", n], [الْخُلُقِ, "character", n], [عَلَى, ""], [عَاتِقِهِ, "his shoulder", n], [شَبَكَةٌ, "a net", n], [وَفِي, ""], [يَدِهِ, ""], [عَصًا, "a stick", n], [مُقْبِلًا, "coming", n], [نَحْوَ, ""], [الشَّجَرَةِ, ""]]
+    en: "One day, while the crow was perched in its nest, it suddenly caught sight of a hunter, ugly to look at and bad in character, with a net on his shoulder and a stick in his hand, coming toward the tree."
+  - words: [[فَذُعِرَ, "was terrified", n], [مِنْهُ, ""], [الْغُرَابُ, ""], [وَقَالَ, ""], [لَقَدْ, ""], [سَاقَ, "has driven", n], [هٰذَا, ""], [الرَّجُلَ, ""], [إِلَى, ""], [هٰذَا, ""], [الْمَكَانِ, ""], [إِمَّا, "either", n], [حَيْنِي, "my doom", n k], [وَإِمَّا, ""], [حَيْنُ, "", k], [غَيْرِي, ""]]
+    en: "The crow was terrified of him and said: Either my doom or someone else's has driven this man to this place."
+  - words: [[فَلَأَثْبُتَنَّ, "so I will surely hold firm", n], [مَكَانِي, ""], [حَتَّى, ""], [أَنْظُرَ, ""], [مَاذَا, ""], [يَصْنَعُ, ""]]
+    en: "So I will hold firm in my place until I see what he does."
+  - words: [[ثُمَّ, ""], [إِنَّ, ""], [الصَّيَّادَ, ""], [نَصَبَ, "set up", n], [شَبَكَتَهُ, ""], [وَنَثَرَ, "and scattered", n], [عَلَيْهَا, ""], [الْحَبَّ, "the grain", n], [وَكَمَنَ, "and lay hidden", n], [قَرِيبًا, ""], [مِنْهَا, ""]]
+    en: "Then the hunter set up his net, scattered grain over it, and lay hidden near it."
+  - words: [[فَلَمْ, ""], [يَلْبَثْ, ""], [إِلَّا, ""], [قَلِيلًا, ""], [حَتَّى, ""], [مَرَّتْ, ""], [بِهِ, ""], [حَمَامَةٌ, ""], [يُقَالُ, ""], [لَهَا, ""], [الْمُطَوَّقَةُ, ""], [وَكَانَتْ, ""], [سَيِّدَةَ, ""], [الْحَمَامِ, ""], [وَمَعَهَا, ""], [حَمَامٌ, ""], [كَثِيرٌ, ""]]
+    en: "He had waited only a little while when a dove called the Ring Dove passed by him. She was the leader of the doves, and many doves were with her."
+  - words: [[فَعَمِيَتْ, "were blind", n], [هِيَ, ""], [وَصَوَاحِبُهَا, "and her companions", n], [عَنِ, ""], [الشَّرَكِ, "the snare", n k], [فَوَقَعْنَ, "and they came down", n], [عَلَى, ""], [الْحَبِّ, ""], [يَلْتَقِطْنَهُ, "picking it up", n], [فَعَلِقْنَ, "and they were caught", n], [فِي, ""], [الشَّبَكَةِ, ""], [كُلُّهُنَّ, ""]]
+    en: "She and her companions were blind to the snare. They came down on the grain, picking it up, and were caught in the net, every one of them."
+  - words: [[وَأَقْبَلَ, "came forward", n], [الصَّيَّادُ, ""], [فَرِحًا, ""], [مَسْرُورًا, ""]]
+    en: "The hunter came forward, glad and delighted."
+  - words: [[فَجَعَلَتْ, "began", n], [كُلُّ, ""], [حَمَامَةٍ, ""], [تَضْطَرِبُ, "to struggle", n], [فِي, ""], [حَبَائِلِهَا, "her cords", n], [وَتَلْتَمِسُ, "and to seek", n], [الْخَلَاصَ, "escape", n], [لِنَفْسِهَا, ""]]
+    en: "Each dove began to struggle in her cords and to seek escape for herself."
+  - words: [[قَالَتِ, ""], [الْمُطَوَّقَةُ, ""], [لَا, ""], [تَخَاذَلْنَ, "abandon one another", n], [فِي, ""], [الْمُعَالَجَةِ, "the struggle", n], [وَلَا, ""], [تَكُنْ, ""], [نَفْسُ, ""], [إِحْدَاكُنَّ, "(of) any one of you", n], [أَهَمَّ, "more important", n], [إِلَيْهَا, ""], [مِنْ, ""], [نَفْسِ, ""], [صَاحِبَتِهَا, ""]]
+    en: "The Ring Dove said: Do not abandon one another in this struggle, and let none of you care more for her own life than for her companion's."
+  - words: [[وَلٰكِنْ, ""], [نَتَعَاوَنُ, "we help one another", n], [جَمِيعًا, ""], [فَنَقْلَعُ, "and pull up", n], [الشَّبَكَةَ, ""], [فَيَنْجُو, ""], [بَعْضُنَا, ""], [بِبَعْضٍ, ""]]
+    en: "Rather, let us all work together and pull up the net, and so each of us will be saved by the others."
+  - words: [[فَأَقْلَعْنَ, "so they pulled up (= قَلَعْنَ)", n], [الشَّبَكَةَ, ""], [جَمِيعُهُنَّ, ""], [بِتَعَاوُنِهِنَّ, ""], [وَعَلَوْنَ, "and rose", n], [فِي, ""], [الْجَوِّ, "the air", n]]
+    en: "So all together, by helping one another, they pulled up the net and rose into the air."
+  - words: [[وَلَمْ, ""], [يَقْطَعِ, ""], [الصَّيَّادُ, ""], [رَجَاءَهُ, "his hope", n], [مِنْهُنَّ, ""], [وَظَنَّ, ""], [أَنَّهُنَّ, ""], [لَا, ""], [يُجَاوِزْنَ, "would go beyond", n], [إِلَّا, ""], [قَرِيبًا, ""], [وَيَقَعْنَ, ""]]
+    en: "The hunter did not give up hope of them; he thought they would not get far before they came down."
+  - words: [[فَقَالَ, ""], [الْغُرَابُ, ""], [لَأَتْبَعُهُنَّ, "I will follow them", n], [وَأَنْظُرُ, ""], [مَا, ""], [يَكُونُ, ""], [مِنْهُنَّ, ""]]
+    en: "The crow said: I will follow them and see what becomes of them."
+  - words: [[فَالْتَفَتَتِ, ""], [الْمُطَوَّقَةُ, ""], [فَرَأَتِ, ""], [الصَّيَّادَ, ""], [يَتْبَعُهُنَّ, ""]]
+    en: "The Ring Dove turned and saw the hunter following them."
+  - words: [[فَقَالَتْ, ""], [لِلْحَمَامِ, ""], [هٰذَا, ""], [الصَّيَّادُ, ""], [مُجِدٌّ, "in earnest", n], [فِي, ""], [طَلَبِكُنَّ, "(in) chasing you", n]]
+    en: "She said to the doves: This hunter is set on chasing you."
+  - words: [[فَإِنْ, ""], [نَحْنُ, ""], [أَخَذْنَا, "we set off", n], [فِي, ""], [الْفَضَاءِ, "the open sky", n], [لَمْ, ""], [يَخْفَ, "be hidden", n], [عَلَيْهِ, ""], [أَمْرُنَا, ""], [وَلَمْ, ""], [يَزَلْ, "(he would) keep on", n], [يَتْبَعُنَا, ""]]
+    en: "If we set off across the open sky, our course will not be hidden from him, and he will keep following us."
+  - words: [[وَإِنْ, ""], [نَحْنُ, ""], [تَوَجَّهْنَا, "headed", n], [إِلَى, ""], [الْعُمْرَانِ, "the inhabited land", n], [خَفِيَ, ""], [عَلَيْهِ, ""], [أَمْرُنَا, ""], [وَانْصَرَفَ, ""]]
+    en: "But if we head for the places where people live, we will be hidden from him and he will turn back."
+  - words: [[وَبِمَكَانِ, ""], [كَذَا, "such-and-such", n], [جُرَذٌ, ""], [هُوَ, ""], [لِي, ""], [أَخٌ, ""], [فَلَوِ, ""], [انْتَهَيْنَا, "we reached", n], [إِلَيْهِ, ""], [قَطَعَ, ""], [عَنَّا, ""], [هٰذَا, ""], [الشَّرَكَ, "", k]]
+    en: "In such-and-such a place there is a rat who is a brother to me. If we reached him, he would cut this snare off us."
+  - words: [[فَفَعَلْنَ, ""], [ذٰلِكَ, ""], [وَأَيِسَ, "gave up hope", n], [الصَّيَّادُ, ""], [مِنْهُنَّ, ""], [وَانْصَرَفَ, ""], [وَتَبِعَهُنَّ, ""], [الْغُرَابُ, ""]]
+    en: "They did so. The hunter gave up hope of them and turned back, and the crow followed them."
+  - words: [[فَلَمَّا, ""], [انْتَهَتِ, ""], [الْحَمَامَةُ, ""], [الْمُطَوَّقَةُ, ""], [إِلَى, ""], [الْجُرَذِ, ""], [أَمَرَتِ, ""], [الْحَمَامَ, ""], [أَنْ, ""], [يَسْقُطْنَ, ""], [فَوَقَعْنَ, ""]]
+    en: "When the Ring Dove reached the rat, she told the doves to come down, and they landed."
+  - words: [[وَكَانَ, ""], [لِلْجُرَذِ, ""], [مِائَةُ, ""], [جُحْرٍ, ""], [لِلْمَخَاوِفِ, "for times of danger", n], [فَنَادَتْهُ, ""], [الْمُطَوَّقَةُ, ""], [بِاسْمِهِ, ""], [وَكَانَ, ""], [اسْمُهُ, ""], [زِيرَكَ, "Zirak", n]]
+    en: "The rat had a hundred holes for times of danger. The Ring Dove called him by his name, and his name was Zirak."
+  - words: [[فَأَجَابَهَا, "answered her", n], [الْجُرَذُ, ""], [مِنْ, ""], [جُحْرِهِ, ""], [مَنْ, ""], [أَنْتِ, ""], [قَالَتْ, ""], [أَنَا, ""], [خَلِيلَتُكَ, "your close friend", n], [الْمُطَوَّقَةُ, ""]]
+    en: "The rat answered her from his hole: Who are you? She said: I am your close friend, the Ring Dove."
+  - words: [[فَأَقْبَلَ, ""], [إِلَيْهَا, ""], [الْجُرَذُ, ""], [يَسْعَى, ""], [فَقَالَ, ""], [لَهَا, ""], [مَا, ""], [أَوْقَعَكِ, "brought you down", n], [فِي, ""], [هٰذِهِ, ""], [الْوَرْطَةِ, "trouble", n]]
+    en: "The rat came hurrying to her and said: What has brought you into this trouble?"
+  - words: [[قَالَتْ, ""], [لَهُ, ""], [أَلَمْ, ""], [تَعْلَمْ, ""], [أَنَّهُ, ""], [لَيْسَ, ""], [مِنَ, ""], [الْخَيْرِ, ""], [وَالشَّرِّ, ""], [شَيْءٌ, ""], [إِلَّا, ""], [هُوَ, ""], [مُقَدَّرٌ, "decreed", n], [عَلَى, ""], [مَنْ, ""], [تُصِيبُهُ, "strike him", n], [الْمَقَادِيرُ, "the decrees", n]]
+    en: "She said to him: Do you not know that there is nothing, good or bad, that is not decreed for the one the decrees strike?"
+  - words: [[وَهِيَ, ""], [الَّتِي, ""], [أَوْقَعَتْنِي, ""], [فِي, ""], [هٰذِهِ, ""], [الْوَرْطَةِ, ""]]
+    en: "It is they that brought me into this trouble."
+  - words: [[فَقَدْ, ""], [لَا, ""], [يَمْتَنِعُ, ""], [مِنَ, ""], [الْقَدَرِ, "the decree", n], [مَنْ, ""], [هُوَ, ""], [أَقْوَى, ""], [مِنِّي, ""], [وَأَعْظَمُ, ""], [أَمْرًا, ""]]
+    en: "Even one who is stronger than I and greater in standing may not escape what is decreed."
+  - words: [[وَقَدْ, ""], [تَنْكَسِفُ, "are eclipsed", n], [الشَّمْسُ, ""], [وَالْقَمَرُ, ""], [إِذَا, ""], [قُضِيَ, "was decreed", n], [ذٰلِكَ, ""], [عَلَيْهِمَا, ""]]
+    en: "Even the sun and the moon are eclipsed when that is decreed for them."
+  - words: [[ثُمَّ, ""], [إِنَّ, ""], [الْجُرَذَ, ""], [أَخَذَ, "began", n], [فِي, ""], [قَرْضِ, ""], [الْعَقْدِ, "the knot", n], [الَّذِي, ""], [فِيهِ, ""], [الْمُطَوَّقَةُ, ""]]
+    en: "Then the rat began gnawing at the knot that held the Ring Dove."
+  - words: [[فَقَالَتْ, ""], [لَهُ, ""], [الْمُطَوَّقَةُ, ""], [ابْدَأْ, ""], [بِقَطْعِ, ""], [عُقَدِ, "(the) knots (of)", n], [سَائِرِ, "all the rest (of)", n], [الْحَمَامِ, ""], [وَبَعْدَ, ""], [ذٰلِكَ, ""], [أَقْبِلْ, "turn", n], [عَلَى, ""], [عَقْدِي, ""]]
+    en: "The Ring Dove said to him: Begin by cutting the knots of all the other doves, and after that turn to mine."
+  - words: [[وَأَعَادَتْ, ""], [ذٰلِكَ, ""], [عَلَيْهِ, ""], [مِرَارًا, "many times", n], [وَهُوَ, ""], [لَا, ""], [يَلْتَفِتُ, ""], [إِلَى, ""], [قَوْلِهَا, ""]]
+    en: "She said it to him again and again, but he paid no attention to her words."
+  - words: [[فَلَمَّا, ""], [أَكْثَرَتْ, "she said much", n], [عَلَيْهِ, ""], [الْقَوْلَ, ""], [وَكَرَّرَتْ, "and repeated", n], [قَالَ, ""], [لَهَا, ""], [لَقَدْ, ""], [كَرَّرْتِ, ""], [الْقَوْلَ, ""], [عَلَيَّ, ""]]
+    en: "When she had said it many times over, he said to her: You have repeated this to me again and again,"
+  - words: [[كَأَنَّكِ, ""], [لَيْسَ, ""], [لَكِ, ""], [فِي, ""], [نَفْسِكِ, ""], [حَاجَةٌ, "need", n], [وَلَا, ""], [لَكِ, ""], [عَلَيْهَا, ""], [شَفَقَةٌ, "tender care", n], [وَلَا, ""], [تَرْعَيْنَ, "you guard", n], [لَهَا, ""], [حَقًّا, ""]]
+    en: "as if you had no need of your own life, no tender care for it, and no regard for its right."
+  - words: [[قَالَتْ, ""], [إِنِّي, ""], [أَخَافُ, ""], [إِنْ, ""], [أَنْتَ, ""], [بَدَأْتَ, ""], [بِقَطْعِ, ""], [عَقْدِي, ""], [أَنْ, ""], [تَمَلَّ, "grow weary", n], [وَتَكْسَلَ, "and become lazy", n], [عَنْ, ""], [قَطْعِ, ""], [مَا, ""], [بَقِيَ, ""]]
+    en: "She said: I am afraid that if you begin by cutting my knot, you will grow weary and too lazy to cut the rest."
+  - words: [[وَعَرَفْتُ, ""], [أَنَّكَ, ""], [إِنْ, ""], [بَدَأْتَ, ""], [بِهِنَّ, ""], [قَبْلِي, ""], [وَكُنْتُ, ""], [أَنَا, ""], [الْأَخِيرَةَ, ""], [لَمْ, ""], [تَرْضَ, "be content", n], [وَإِنْ, ""], [أَدْرَكَكَ, "overtook you", n], [الْفُتُورُ, "weariness", n], [أَنْ, ""], [أَبْقَى, ""], [فِي, ""], [الشَّرَكِ, "", k]]
+    en: "And I knew that if you began with them before me, and I were the last, you would not be content, even if weariness overtook you, to leave me in the snare."
+  - words: [[قَالَ, ""], [الْجُرَذُ, ""], [هٰذَا, ""], [مِمَّا, ""], [يَزِيدُ, ""], [الرَّغْبَةَ, "the desire", n], [وَالْمَوَدَّةَ, "and the affection", n], [فِيكِ, ""]]
+    en: "The rat said: This is one of the things that make one want you more and love you more."
+  - words: [[ثُمَّ, ""], [إِنَّ, ""], [الْجُرَذَ, ""], [أَخَذَ, ""], [فِي, ""], [قَرْضِ, ""], [الشَّبَكَةِ, ""], [حَتَّى, ""], [فَرَغَ, "finished", n], [مِنْهَا, ""], [فَانْطَلَقَتِ, ""], [الْمُطَوَّقَةُ, ""], [وَحَمَامُهَا, ""], [مَعَهَا, ""]]
+    en: "Then the rat set to gnawing the net until he was done with it, and the Ring Dove went free, and her doves with her."
+
+dictionary:
+  - {ar: مَثَلٌ, en: fable; parable; example, pos: [اسم, noun], root: مثل, pattern: فَعَلٌ, plural: أَمْثَالٌ, ayah: {ref: "14:24", text: أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا, en: "have you not seen how Allah gives an example?"}, note: "Every chapter of Kalila wa Dimna is a مَثَلٌ: the king asks for one, the philosopher tells it. Do not confuse it with مِثْلٌ, like, the same as. Without vowels both are مثل."}
+  - {ar: عَاقِلٌ, en: sensible; wise, pos: [اسم فاعل, active participle], root: عقل, pattern: فَاعِلٌ, plural: عُقَلَاءُ, ayah: {ref: "2:44", text: أَفَلَا تَعْقِلُونَ, en: "will you not use your reason?"}, note: "From عَقَلَ يَعْقِلُ, he reasoned. الْعَاقِلُ, the wise man, is the hero of Ibn al-Muqaffa's book: almost every lesson begins إِنَّ الْعَاقِلَ."}
+  - {ar: زَعَمَ, en: he claimed; they say, pos: [فعل ماض, past verb], present: يَزْعُمُ, bab: بَابُ نَصَرَ, root: زعم, pattern: فَعَلَ, ayah: {ref: "64:7", text: زَعَمَ الَّذِينَ كَفَرُوا أَن لَّن يُبْعَثُوا, en: "those who disbelieve claim that they will never be raised"}, register: both, note: "زَعَمُوا أَنَّ, they claim that, is how Ibn al-Muqaffa opens a fable, like once upon a time. In the Quran it is a claim without proof; in a modern newspaper الْمَزْعُومُ is alleged."}
+  - {ar: وَكْرٌ, en: nest, pos: [اسم, noun], root: وكر, pattern: فَعْلٌ, plural: أَوْكَارٌ, note: "A bird's nest in a tree or a wall. In modern Arabic وَكْرٌ is also a hideout, a den: وَكْرُ اللُّصُوصِ."}
+  - {ar: بَصُرَ, en: he saw; he caught sight (of), pos: [فعل ماض, past verb], present: يَبْصُرُ, bab: بَابُ كَرُمَ, root: بصر, pattern: فَعُلَ, ayah: {ref: "20:96", text: قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ, en: "he said: I saw what they did not see"}, note: "Bab كَرُمَ (فَعُلَ يَفْعُلُ), and it takes بِـ: بَصُرَ بِصَيَّادٍ. You know بَصِيرٌ, all-seeing, and أَبْصَرَ from the same root."}
+  - {ar: عَصًا, en: stick; staff, pos: [اسم, noun], root: عصو, pattern: فَعَلٌ, plural: عِصِيٌّ, ayah: {ref: "20:18", text: قَالَ هِيَ عَصَايَ, en: "he said: it is my staff"}, note: "Feminine, like the staff of Musa عَلَيْهِ السَّلَامُ. It is an اسْمٌ مَقْصُورٌ (ends in alif), from عَصَوٌ, with tanwin: عَصًا in every case, عَصَايَ my staff."}
+  - {ar: حَيْنٌ, en: doom; destined death, pos: [اسم, noun], root: حين, pattern: فَعْلٌ, ayah: {ref: "37:148", text: فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ, en: "so We let them enjoy life for a time"}, note: "With fatha, حَيْنٌ is death or ruin: إِمَّا حَيْنِي وَإِمَّا حَيْنُ غَيْرِي. With kasra, حِينٌ is a time, as in the ayah. The bare letters حين are the same, so this word keeps its marks."}
+  - {ar: نَصَبَ, en: he set up; he raised, pos: [فعل ماض, past verb], present: يَنْصِبُ, bab: بَابُ ضَرَبَ, root: نصب, pattern: فَعَلَ, ayah: {ref: "88:19", text: وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ, en: "and at the mountains, how they are set up"}, note: "A hunter نَصَبَ الشَّبَكَةَ, set up the net. In nahw, نَصْبٌ is the fatha case, and مَنْصُوبٌ is a word in that case."}
+  - {ar: نَثَرَ, en: he scattered, pos: [فعل ماض, past verb], present: يَنْثُرُ, bab: بَابُ نَصَرَ, root: نثر, pattern: فَعَلَ, ayah: {ref: "82:2", text: وَإِذَا الْكَوَاكِبُ انتَثَرَتْ, en: "and when the stars are scattered"}, note: "In بَابُ الِافْتِعَالِ, انْتَثَرَ means to be scattered. In modern Arabic نَثْرٌ is also prose, writing that is not poetry, like this book."}
+  - {ar: كَمَنَ, en: he lay hidden; he lay in wait, pos: [فعل ماض, past verb], present: يَكْمُنُ, bab: بَابُ نَصَرَ, root: كمن, pattern: فَعَلَ, register: both, note: "Modern: كَمِينٌ is an ambush, and يَكْمُنُ فِي means to lie in: تَكْمُنُ الْمُشْكِلَةُ فِي, the problem lies in."}
+  - {ar: شَرَكٌ, en: snare; trap, pos: [اسم, noun], root: شرك, pattern: فَعَلٌ, plural: أَشْرَاكٌ, ayah: {ref: "31:13", text: إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ, en: "associating others with Allah is a great wrong"}, note: "شَرَكٌ, with two fathas, is a hunter's snare. شِرْكٌ, with kasra and sukun, is associating partners with Allah, as in the ayah. Same letters, so in this story الشرك keeps its marks."}
+  - {ar: اِلْتَقَطَ, en: he picked up, pos: [فعل ماض, past verb], present: يَلْتَقِطُ, bab: بَابُ الِافْتِعَالِ, root: لقط, pattern: اِفْتَعَلَ, ayah: {ref: "12:10", text: يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ, en: "some travellers will pick him up"}, note: "In the story of Yusuf عَلَيْهِ السَّلَامُ it is said of him in the well; here of doves picking up grain: يَلْتَقِطْنَهُ, they pick it up (feminine plural)."}
+  - {ar: عَلِقَ, en: he was caught; he hung (on), pos: [فعل ماض, past verb], present: يَعْلَقُ, bab: بَابُ سَمِعَ, root: علق, pattern: فَعِلَ, ayah: {ref: "96:2", text: خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ, en: "He created man from a clinging clot"}, note: "The root means to cling or hang: the doves clung in the net, and عَلَقٌ is what clings."}
+  - {ar: اِضْطَرَبَ, en: he struggled; he shook; he was restless, pos: [فعل ماض, past verb], present: يَضْطَرِبُ, bab: بَابُ الِافْتِعَالِ, root: ضرب, pattern: اِفْتَعَلَ, ayah: {ref: "2:60", text: فَقُلْنَا اضْرِب بِّعَصَاكَ الْحَجَرَ, en: "and We said: strike the rock with your staff"}, note: "In بَابُ الِافْتِعَالِ from ضَرَبَ: after ض the ت of افتعل turns into ط, so اضترب becomes اضْطَرَبَ. Modern: اضْطِرَابٌ is unrest or a disorder."}
+  - {ar: اِلْتَمَسَ, en: he sought; he looked for, pos: [فعل ماض, past verb], present: يَلْتَمِسُ, bab: بَابُ الِافْتِعَالِ, root: لمس, pattern: اِفْتَعَلَ, ayah: {ref: "57:13", text: قِيلَ ارْجِعُوا وَرَاءَكُمْ فَالْتَمِسُوا نُورًا, en: "it will be said: go back behind you and seek a light"}, note: "From لَمَسَ, he touched, in بَابُ الِافْتِعَالِ: to seek is to feel about for something."}
+  - {ar: خَلَاصٌ, en: escape; deliverance, pos: [مصدر, verbal noun], root: خلص, pattern: فَعَالٌ, ayah: {ref: "98:5", text: وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ, en: "and they were commanded only to worship Allah, sincere to Him in religion"}, note: "From خَلَصَ, it became free or pure. إِخْلَاصٌ, sincerity, and سُورَةُ الْإِخْلَاصِ come from the same root: a heart made free of everything but Allah."}
+  - {ar: تَعَاوَنَ, en: they cooperated; they helped one another, pos: [فعل ماض, past verb], present: يَتَعَاوَنُ, bab: بَابُ التَّفَاعُلِ, root: عون, pattern: تَفَاعَلَ, ayah: {ref: "5:2", text: وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ, en: "and help one another in goodness and piety"}, note: "بَابُ التَّفَاعُلِ is the bab of doing something together. Its مَصْدَرٌ (verbal noun) is تَعَاوُنٌ. From the same root: أَعْوَانٌ, helpers, and نَسْتَعِينُ, we seek help (1:5)."}
+  - {ar: جَوٌّ, en: air; sky; (modern) weather, pos: [اسم, noun], root: جوو, pattern: فَعْلٌ, ayah: {ref: "16:79", text: أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ, en: "do they not see the birds, made subject (to Allah) in the air of the sky?"}, register: both, note: "Classical: the open air between earth and sky. Modern: the weather (الْجَوُّ حَارٌّ, the weather is hot) and the mood of a place."}
+  - {ar: فَضَاءٌ, en: open space; (modern) outer space, pos: [اسم, noun], root: فضو, pattern: فَعَالٌ, register: both, note: "Classical: an open, empty expanse with nothing to hide in. Modern: outer space; an astronaut is رَائِدُ فَضَاءٍ."}
+  - {ar: عُمْرَانٌ, en: "inhabited land; (modern) building, urban life", pos: [اسم, noun], root: عمر, pattern: فُعْلَانٌ, ayah: {ref: "9:18", text: إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ, en: "only those who believe in Allah maintain the mosques of Allah"}, register: both, note: "From عَمَرَ, to inhabit, to keep alive with people. Ibn Khaldun used عُمْرَانٌ for human civilisation; a modern architect studies الْعِمَارَةُ."}
+  - {ar: أَيِسَ, en: he gave up hope; he despaired, pos: [فعل ماض, past verb], present: يَأْيَسُ, bab: بَابُ سَمِعَ, root: أيس, pattern: فَعِلَ, ayah: {ref: "12:87", text: وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ, en: "and do not despair of the mercy of Allah"}, note: "A form of يَئِسَ (يَيْأَسُ) with the first two letters swapped; both mean the same, and the Quran uses يَئِسَ. You met يَيْأَسْ in the story of Yunus."}
+  - {ar: خَلِيلٌ, en: close friend, pos: [صفة مشبهة, adjective of a lasting quality], root: خلل, pattern: فَعِيلٌ, plural: أَخِلَّاءُ, ayah: {ref: "4:125", text: وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا, en: "and Allah took Ibrahim as a close friend"}, note: "Feminine خَلِيلَةٌ: أَنَا خَلِيلَتُكَ. A friend so close that love has entered every gap (خَلَلٌ) of the heart."}
+  - {ar: وَرْطَةٌ, en: predicament; trouble one cannot get out of, pos: [اسم, noun], root: ورط, pattern: فَعْلَةٌ, plural: وَرَطَاتٌ, register: both, note: "Classical: a pit or a trap one falls into. Modern: any mess one is caught in, and تَوَرَّطَ فِي is to get mixed up in something."}
+  - {ar: شَفَقَةٌ, en: tender care; pity, pos: [اسم, noun], root: شفق, pattern: فَعَلَةٌ, ayah: {ref: "21:28", text: وَهُم مِّنْ خَشْيَتِهِ مُشْفِقُونَ, en: "and they tremble in awe of Him"}, note: "Care mixed with fear for the one you care about. مُشْفِقٌ is one who fears, as in the ayah; الشَّفَقُ is the red glow after sunset (84:16)."}
+  - {ar: مَوَدَّةٌ, en: affection; love, pos: [مصدر, verbal noun], root: ودد, pattern: مَفْعَلَةٌ, ayah: {ref: "30:21", text: وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً, en: "and He placed between you affection and mercy"}, note: "From وَدَّ يَوَدُّ, he loved, he wished. Allah's name الْوَدُودُ, the Loving (85:14), is from the same root."}
+
+root_families:
+  - root: شرك
+    words: [[شَرَكٌ, "snare"], [الشِّرْكُ, "associating partners with Allah"], [شَرِيكٌ, "partner"], [الْمُشَارَكَةُ, "taking part (story 2)"]]
+  - root: عون
+    words: [[تَعَاوَنَ, "they helped one another"], [تَعَاوُنٌ, "cooperation"], [أَعْوَانٌ, "helpers"], [نَسْتَعِينُ, "we seek help (1:5)"]]
+
+grammar:
+  title_ar: الشَّرْطُ بِـإِنْ وَلَوْ
+  title_en: "The conditional: in and law"
+  body: >-
+    إِنْ, if, sets a real possibility. Classical Arabic often puts a past verb after it with a future meaning, and the answer is a past
+    verb too, or لَمْ with a مَجْزُومٌ verb (jussive): إِنْ نَحْنُ أَخَذْنَا ... لَمْ يَخْفَ (if we set off ... it will not be hidden). A pronoun after إِنْ, as in
+    إِنْ نَحْنُ and إِنْ أَنْتَ, is a فَاعِلٌ لِفِعْلٍ مَحْذُوفٍ يُفَسِّرُهُ الْمَذْكُورُ (the doer of a dropped verb that the verb after it explains): إِنْ must be followed by a verb, so one is understood before the pronoun.
+    لَوْ, if, is in the madrasa's words حَرْفُ امْتِنَاعٍ لِامْتِنَاعٍ (it names something that did not happen). Here the dove uses it like إِنْ, for something hoped for in the future. Its answer is a past verb, often with لَ (as with لَوْلَا in story 1: لَبَقِيَ): فَلَوِ انْتَهَيْنَا إِلَيْهِ
+    قَطَعَ عَنَّا هٰذَا الشَّرَكَ. And وَإِنْ, even if, can stand without an answer of its own: وَإِنْ أَدْرَكَكَ الْفُتُورُ. Compare لَوْلَا from story 1.
+  examples:
+    - [فَإِنْ نَحْنُ أَخَذْنَا فِي الْفَضَاءِ لَمْ يَخْفَ عَلَيْهِ أَمْرُنَا, "If we set off across the open sky, our course will not be hidden from him. (in, answer with لَمْ)"]
+    - [وَإِنْ نَحْنُ تَوَجَّهْنَا إِلَى الْعُمْرَانِ خَفِيَ عَلَيْهِ أَمْرُنَا, "If we head for the inhabited land, we will be hidden from him. (in, answer a past verb)"]
+    - [فَلَوِ انْتَهَيْنَا إِلَيْهِ قَطَعَ عَنَّا هٰذَا الشَّرَكَ, "If we reached him, he would cut this snare off us. (law)"]
+
+tip:
+  title: "Reading without vowels: Ibn al-Muqaffa's signposts"
+  body: >-
+    Classical prose has no paragraphs or quotation marks, so the author gives you signposts. زعموا أنه (they claim that) opens the tale.
+    فبينما ... إذ ... (while ... suddenly ...) marks the moment something happens. ثم إن starts a new step of the action. قال and قالت tell you who
+    speaks, and the speech simply follows. Watch the endings: a ن at the end of a verb (فوقعن, فعلقن, يلتقطنه, أقلعن) is the feminine plural,
+    the doves; the same verb without it (فأقبل, نصب) is the hunter or the rat. Ibn al-Muqaffa also describes with a pair of إِضَافَاتٌ (مُضَافٌ + مُضَافٌ إِلَيْهِ):
+    قبيح المنظر، سيئ الخلق, ugly of looks, bad of character. Finally, a few words keep their vowels because the bare letters lie:
+    الشرك (snare, not shirk), حيني (my doom, not my time).
+
+reread: Read the original twice without help. Then read the retelling from booklet 2 (The Ring Dove) and find three things Ibn al-Muqaffa says that the retelling left out. This booklet stops where the doves are set free; in the full chapter the story goes on with the crow, the rat, the tortoise and the gazelle.

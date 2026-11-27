@@ -1,0 +1,76 @@
+# Website settings. Edit this file, then run: python scripts/build_site.py
+
+site:
+  title: Arabic New Reader Series
+  repo: https://github.com/crxssrazr93/arabic-new-reader-series
+  issues: https://github.com/crxssrazr93/arabic-new-reader-series/issues/new
+
+# One URL per PDF part, in order. The count must match `parts` in booklets/booklet-N.yaml
+# (booklet 1: 2 parts, 2: 2, 3: 2, 4: 4, 5: 3). Release assets.
+downloads:
+  1:
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-1-part-1.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-1-part-2.pdf
+  2:
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-2-part-1.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-2-part-2.pdf
+  3:
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-3-part-1.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-3-part-2.pdf
+  4:
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-4-part-1.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-4-part-2.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-4-part-3.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-4-part-4.pdf
+  5:
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-5-part-1.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-5-part-2.pdf
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/booklet-5-part-3.pdf
+  bonus:
+    - https://github.com/crxssrazr93/arabic-new-reader-series/releases/download/v1/bonus.pdf
+
+# What each booklet adds and assumes, stated by proficiency (shown on the home page and the booklet page).
+levels:
+  1:
+    label: Full marks, every word glossed
+    adds: Reading short stories for meaning. Every word has its meaning under it, every story has a dictionary with roots, and each dictionary word is tied to an ayah you may already know.
+    assumes: You read Arabic script with full vowel marks, you know some of the Quran by heart, and you know the basics of Madinah Book 1 (ism, fi'l, harf; al and tanwin; idafa; simple nominal and verbal sentences).
+    marks: Full vowel marks
+    glosses: Every word
+    english: Under each sentence
+  2:
+    label: Verbs and plurals, the last word in pause
+    adds: Past and present verbs, verb and subject agreement, and many plurals. The last word of each sentence is shown as it is read when you stop, without its final vowel.
+    assumes: Booklet 1, and the end of Madinah Book 1 with the start of Book 2 (past and present verbs, kana lightly).
+    marks: Full, last word in pause
+    glosses: Every word
+    english: Under each sentence
+  3:
+    label: No case endings, only new words glossed
+    adds: Longer stories with the case endings left off, and only new words glossed. Each story returns at the end with no marks at all.
+    assumes: Booklet 2, and the case endings from your nahw lessons, so that you can supply them yourself.
+    marks: No case endings
+    glosses: New words only
+    english: After the story
+  4:
+    label: Marks only where they help
+    adds: Stories where only new and ambiguous words keep their marks, and shadda stays so doubled letters are visible. You work out the rest from the root, the pattern and the place in the sentence.
+    assumes: Booklet 3, and a working feel for roots and the common word patterns.
+    marks: Shadda and difficult words
+    glosses: New words only
+    english: After the story
+  5:
+    label: Unvowelled classical and modern Arabic
+    adds: Stories with no vowel marks at all, as in a printed book or a newspaper, ending with the original Arabic of a fable from Kalila wa Dimna.
+    assumes: Booklet 4, and comfort reading unvowelled text slowly with a dictionary beside you.
+    marks: None
+    glosses: New words only
+    english: At the back
+  bonus:
+    label: "Bonus: Juz 'Amma word by word"
+    note: Read alongside booklet 1 or 2
+    adds: Al-Fatiha and the last ten surahs, word by word, with roots. The Arabic is the Mushaf text exactly as printed (Tanzil), so the vowel marks never change. Each surah has a short dictionary that ties its key words to other places in the Quran.
+    assumes: You know these surahs by heart, and can read Arabic script with full vowel marks. It pairs well with booklet 1 or 2.
+    marks: Full, exactly as in the Mushaf
+    glosses: Every word
+    english: Under each ayah

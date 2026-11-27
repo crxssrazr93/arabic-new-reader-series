@@ -1,0 +1,26 @@
+number: 2
+title: Words That Move
+title_ar: كَلِمَاتٌ تَتَحَرَّكُ
+subtitle: Five stories. Verbs in past and present. Full vowel marks, with the last word of each sentence read in pause.
+cover_image: cover-2.png
+cover_prompt: A quiet airport window at sunrise looking out at a waiting airliner, a small suitcase and a prayer mat rolled beside it, palm trees beyond.
+vowels: pausal
+parts: [3]
+gloss: all
+translation: inline
+unvowelled: try
+intro:
+  - "In this booklet the verbs come alive. You will meet the مَاضٍ (past: ذَهَبَ, he went) and the مُضَارِعٌ (present: يَذْهَبُ, he goes), and plurals of many kinds."
+  - One change in the vowel marks. The last word of each sentence is printed the way it is read when you stop, without its final vowel (بِلَالٌ becomes بِلَال). This is how Arabic is read aloud, and how you already stop at the end of an ayah.
+  - Every word still has its meaning under it. Words from booklet 1 come back again and again, so you can watch your own progress.
+howto:
+  - [1. Read, "Read the Arabic line aloud. Guess first, then look down."]
+  - [2. Verbs, "Find the verb in each sentence. مَاضٍ or مُضَارِعٌ?"]
+  - [3. Study, "Go through the dictionary and its ayat."]
+  - [4. Reread, "Cover the grey line and read again."]
+stories:
+  - stories/booklet-2/01-zayd-fi-srilanka.yaml
+  - stories/booklet-2/02-yusuf-wal-jubb.yaml
+  - stories/booklet-2/03-sulayman-wa-wadi-an-naml.yaml
+  - stories/booklet-2/04-al-hamama-al-mutawwaqa.yaml
+  - stories/booklet-2/05-ramadan-fil-bayt.yaml

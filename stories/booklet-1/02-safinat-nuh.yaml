@@ -1,0 +1,131 @@
+# Booklet 1, story 2. Quran strand. Grammar ceiling: Madinah Book 1.
+id: b1-02
+booklet: 1
+number: 2
+strand: quran
+title_ar: سَفِينَةُ نُوحٍ
+title_en: The Ark of Nuh
+madinah: "Book 1 (ال, prepositions, idafa, simple past verbs)"
+source: "Quran 11:36 to 48; 23:27; 54:11 to 14. Also 29:14 (he stayed among them a long time) and 26:121 (most of them did not believe)."
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 5
+    file: b1-02-ark-building.png
+    alt: A large wooden ship being built on dry land, with planks and tools lying around it and no people
+  - before: 9
+    file: b1-02-flood-rain.png
+    alt: A dark sky pouring heavy rain over wide rising floodwater
+  - before: 23
+    file: b1-02-ark-mountain.png
+    alt: A wooden ship resting on a mountain top as the water goes down under a clearing sky
+
+sentences:
+  - words: [[نُوحٌ, Nuh], [عَلَيْهِ, upon him], [السَّلَامُ, "(be) peace"], [نَبِيٌّ, "(was) a prophet"], [مِنْ, from among], [أَنْبِيَاءِ, "(the) prophets"], [اللَّهِ, "(of) Allah"]]
+    en: Nuh (peace be upon him) was one of Allah's prophets.
+  - words: [[دَعَا, called], [نُوحٌ, Nuh], [قَوْمَهُ, his people], [إِلَى, to], [عِبَادَةِ, "(the) worship"], [اللَّهِ, "(of) Allah"], [زَمَنًا, "(for) a time"], [طَوِيلًا, long]]
+    en: Nuh called his people to worship Allah for a long time.
+  - words: [[فَآمَنَ, and believed], [مَعَهُ, with him], [قَلِيلٌ, a few], [مِنْ, of], [قَوْمِهِ, his people]]
+    en: A few of his people believed with him.
+  - words: [[وَكَفَرَ, and disbelieved], [أَكْثَرُ, most], [قَوْمِهِ, "(of) his people"], [بِاللَّهِ, in Allah]]
+    en: But most of his people disbelieved in Allah.
+  - words: [[صَنَعَ, made], [نُوحٌ, Nuh], [الْفُلْكَ, the ark], [بِأَمْرِ, by (the) command], [اللَّهِ, "(of) Allah"]]
+    en: Nuh built the ark by Allah's command.
+  - words: [[الْفُلْكُ, The ark], [سَفِينَةٌ, "(was) a ship"], [كَبِيرَةٌ, big], [مِنْ, of], [خَشَبٍ, wood]]
+    en: The ark was a big ship made of wood.
+  - words: [[مَرَّ, passed], [عَلَيْهِ, by him], [كِبَارُ, "(the) chiefs"], [قَوْمِهِ, "(of) his people"], [فَسَخِرُوا, and they mocked], [مِنْهُ, him]]
+    en: The chiefs of his people passed by him and mocked him.
+  - words: [[ثُمَّ, Then], [جَاءَ, came], [أَمْرُ, "(the) command"], [اللَّهِ, "(of) Allah"]]
+    en: Then Allah's command came.
+  - words: [[فَتَحَ, opened], [اللَّهُ, Allah], [أَبْوَابَ, "(the) gates"], [السَّمَاءِ, "(of) the sky"], [بِمَاءٍ, with water], [كَثِيرٍ, much]]
+    en: Allah opened the gates of the sky with much water.
+  - words: [[وَخَرَجَ, and came out], [الْمَاءُ, the water], [مِنْ, from], [عُيُونِ, "(the) springs"], [الْأَرْضِ, "(of) the earth"]]
+    en: And water burst out from springs in the earth.
+  - words: [[رَكِبَ, rode], [نُوحٌ, Nuh], [فِي, in], [السَّفِينَةِ, the ship], [مَعَ, with], [أَهْلِهِ, his family], [وَالْمُؤْمِنِينَ, and the believers]]
+    en: Nuh boarded the ship with his family and the believers.
+  - words: [[وَحَمَلَ, and he carried], [فِيهَا, in it], [مِنْ, of], [كُلٍّ, each (kind)], [زَوْجَيْنِ, a pair]]
+    en: And he carried in it a pair of every kind.
+  - words: [[جَرَتِ, sailed], [السَّفِينَةُ, the ship], [بِهِمْ, with them], [فِي, in], [مَوْجٍ, waves], [كَالْجِبَالِ, like the mountains]]
+    en: The ship sailed with them through waves like mountains.
+  - words: [[السَّفِينَةُ, The ship], [عَلَى, "(was) on"], [الْمَاءِ, the water], [وَالْمَاءُ, and the water], [فِي, "(was) in"], [كُلِّ, every], [مَكَانٍ, place]]
+    en: The ship was on the water, and water was everywhere.
+  - words: [[اِبْنُ, "(The) son"], [نُوحٍ, "(of) Nuh"], [فِي, "(was) in"], [مَكَانٍ, a place], [بَعِيدٍ, far], [عَنْهُمْ, from them]]
+    en: Nuh's son was in a place apart from them.
+  - words: [[نَادَى, called], [نُوحٌ, Nuh], [ابْنَهُ, his son]]
+    en: Nuh called out to his son.
+  - words: [[قَالَ, he said], [يَا, O, q], [بُنَيَّ, my son, q], [ارْكَب, ride, q], [مَّعَنَا, with us, q], [وَلَا, and do not, q], [تَكُن, be, q], [مَّعَ, with, q], [الْكَافِرِينَ, the disbelievers, q]]
+    en: "He said: O my son, ride with us, and do not be with the disbelievers."
+    quote: {ref: "11:42", text: يَا بُنَيَّ ارْكَب مَّعَنَا وَلَا تَكُن مَّعَ الْكَافِرِينَ}
+  - words: [[طَلَبَ, sought], [الِابْنُ, the son], [جَبَلًا, a mountain]]
+    en: The son looked for a mountain.
+  - words: [[وَحَالَ, and came between], [الْمَوْجُ, the waves], [بَيْنَ, between], [نُوحٍ, Nuh], [وَابْنِهِ, and his son]]
+    en: And the waves came between Nuh and his son.
+  - words: [[فَغَرِقَ, and drowned], [الِابْنُ, the son], [مَعَ, with], [الْكَافِرِينَ, the disbelievers]]
+    en: And the son drowned with the disbelievers.
+  - words: [[ثُمَّ, Then], [أَمَرَ, commanded], [اللَّهُ, Allah], [الْأَرْضَ, the earth], [وَالسَّمَاءَ, and the sky]]
+    en: Then Allah gave His command to the earth and the sky.
+  - words: [[فَذَهَبَ, and went away], [الْمَاءُ, the water], [عَنِ, from], [الْأَرْضِ, the earth]]
+    en: And the water went down from the earth.
+  - words: [[وَوَقَفَتِ, and came to rest], [السَّفِينَةُ, the ship], [عَلَى, "on"], [جَبَلِ, "(the) mountain"], [الْجُودِيِّ, "(of) al-Judi"]]
+    en: And the ship came to rest on Mount al-Judi.
+  - words: [[نَزَلَ, came down], [نُوحٌ, Nuh], [وَالْمُؤْمِنُونَ, and the believers], [بِسَلَامٍ, with peace], [مِنَ, from], [اللَّهِ, Allah]]
+    en: Nuh and the believers came down with peace from Allah.
+  - words: [[هٰذِهِ, This], [قِصَّةُ, "(is the) story"], [نُوحٍ, "(of) Nuh"], [فِي, in], [سُورَةِ, "(the) surah"], [هُودٍ, "(of) Hud"]]
+    en: This is the story of Nuh in Surat Hud.
+
+dictionary:
+  - {ar: نَبِيٌّ, en: prophet, pos: [اسم, noun], root: نبأ, pattern: فَعِيلٌ, plural: أَنْبِيَاءُ, ayah: {ref: "66:1", text: يَا أَيُّهَا النَّبِيُّ, en: "O Prophet"}, note: "One who brings news (نَبَأٌ) from Allah."}
+  - {ar: قَوْمٌ, en: people; nation, pos: [اسم, noun], root: قوم, pattern: فَعْلٌ, plural: أَقْوَامٌ, ayah: {ref: "71:1", text: إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ, en: "indeed, We sent Nuh to his people"}}
+  - {ar: دَعَا, en: he called; he prayed, pos: [فعل ماض, past verb], root: دعو, pattern: فَعَلَ, present: يَدْعُو, bab: بَابُ نَصَرَ, ayah: {ref: "71:5", text: إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا, en: "I called my people night and day"}, note: "دَعَا إِلَى: to call someone to something. The و of the root shows in دَعَوْتُ."}
+  - {ar: آمَنَ, en: he believed, pos: [فعل ماض, past verb], root: أمن, pattern: أَفْعَلَ, present: يُؤْمِنُ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "103:3", text: إِلَّا الَّذِينَ آمَنُوا, en: "except those who believe"}, note: "آ is أَ followed by a hidden أْ (أَأْمَنَ). The believer is مُؤْمِنٌ."}
+  - {ar: قَلِيلٌ, en: few; little, pos: [صفة مشبهة, adjective], root: قلل, pattern: فَعِيلٌ, ayah: {ref: "11:40", text: وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ, en: "and only a few believed with him"}, note: "The opposite of كَثِيرٌ."}
+  - {ar: صَنَعَ, en: he made; he built, pos: [فعل ماض, past verb], root: صنع, pattern: فَعَلَ, present: يَصْنَعُ, bab: بَابُ فَتَحَ, ayah: {ref: "11:37", text: وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا, en: "and build the ship under Our watchful eyes"}}
+  - {ar: فُلْكٌ, en: ark; ship, pos: [اسم, noun], root: فلك, pattern: فُعْلٌ, ayah: {ref: "36:41", text: فِي الْفُلْكِ الْمَشْحُونِ, en: "in the fully laden ship"}, note: "The same word is used for one ship or many."}
+  - {ar: سَفِينَةٌ, en: ship, pos: [اسم, noun], root: سفن, pattern: فَعِيلَةٌ, plural: سُفُنٌ, ayah: {ref: "18:71", text: حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ, en: "until, when the two of them boarded the boat"}}
+  - {ar: سَخِرَ, en: he mocked, pos: [فعل ماض, past verb], root: سخر, pattern: فَعِلَ, present: يَسْخَرُ, bab: بَابُ سَمِعَ, ayah: {ref: "11:38", text: سَخِرُوا مِنْهُ, en: "they mocked him"}, note: "سَخِرَ مِنْ: to mock someone."}
+  - {ar: أَمْرٌ, en: command; matter, pos: [اسم, noun], root: أمر, pattern: فَعْلٌ, plural: أُمُورٌ, ayah: {ref: "97:4", text: مِّن كُلِّ أَمْرٍ, en: "with every decree"}, note: "The verb is أَمَرَ, he commanded."}
+  - {ar: فَتَحَ, en: he opened, pos: [فعل ماض, past verb], root: فتح, pattern: فَعَلَ, present: يَفْتَحُ, bab: بَابُ فَتَحَ, ayah: {ref: "54:11", text: فَفَتَحْنَا أَبْوَابَ السَّمَاءِ, en: "so We opened the gates of the sky"}}
+  - {ar: سَمَاءٌ, en: sky; heaven, pos: [اسم, noun], root: سمو, pattern: فَعَالٌ, plural: سَمَاوَاتٌ, ayah: {ref: "86:1", text: وَالسَّمَاءِ وَالطَّارِقِ, en: "by the sky and the one that comes by night"}}
+  - {ar: مَاءٌ, en: water, pos: [اسم, noun], root: موه, plural: مِيَاهٌ, ayah: {ref: "86:6", text: خُلِقَ مِن مَّاءٍ دَافِقٍ, en: "he was created from gushing water"}}
+  - {ar: رَكِبَ, en: he rode; he boarded, pos: [فعل ماض, past verb], root: ركب, pattern: فَعِلَ, present: يَرْكَبُ, bab: بَابُ سَمِعَ, ayah: {ref: "11:41", text: ارْكَبُوا فِيهَا بِسْمِ اللَّهِ, en: "board it, in the name of Allah"}}
+  - {ar: أَهْلٌ, en: family; people (of a place), pos: [اسم, noun], root: أهل, pattern: فَعْلٌ, ayah: {ref: "20:132", text: وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ, en: "and command your family to pray"}}
+  - {ar: مَوْجٌ, en: waves, pos: [اسم, noun], root: موج, pattern: فَعْلٌ, ayah: {ref: "11:42", text: فِي مَوْجٍ كَالْجِبَالِ, en: "amid waves like mountains"}, note: "A word for waves together. One wave is مَوْجَةٌ."}
+  - {ar: جَبَلٌ, en: mountain, pos: [اسم, noun], root: جبل, pattern: فَعَلٌ, plural: جِبَالٌ, ayah: {ref: "78:7", text: وَالْجِبَالَ أَوْتَادًا, en: "and the mountains as pegs"}}
+  - {ar: اِبْنٌ, en: son, pos: [اسم, noun], root: بنو, plural: أَبْنَاءٌ, ayah: {ref: "11:42", text: وَنَادَىٰ نُوحٌ ابْنَهُ, en: "and Nuh called out to his son"}, note: "Starts with هَمْزَةُ الْوَصْلِ (hamzat al-wasl), so inside a sentence the alif is silent. بُنَيَّ is the loving form: my dear son."}
+  - {ar: نَادَى, en: he called out, pos: [فعل ماض, past verb], root: ندو, pattern: فَاعَلَ, present: يُنَادِي, bab: بَابُ الْمُفَاعَلَةِ, ayah: {ref: "19:3", text: إِذْ نَادَىٰ رَبَّهُ نِدَاءً خَفِيًّا, en: "when he called on his Lord with a quiet call"}, note: "A long ا after the first root letter: a verb of بَابُ الْمُفَاعَلَةِ (فَاعَلَ)."}
+  - {ar: حَالَ, en: he came between; he stood in the way, pos: [فعل ماض, past verb], root: حول, pattern: فَعَلَ, present: يَحُولُ, bab: بَابُ نَصَرَ, ayah: {ref: "11:43", text: وَحَالَ بَيْنَهُمَا الْمَوْجُ, en: "and the waves came between the two of them"}, note: "حَالَ بَيْنَ: to come between two things. The middle root letter و turns into ا, as in قَالَ."}
+  - {ar: غَرِقَ, en: he drowned, pos: [فعل ماض, past verb], root: غرق, pattern: فَعِلَ, present: يَغْرَقُ, bab: بَابُ سَمِعَ, ayah: {ref: "71:25", text: أُغْرِقُوا فَأُدْخِلُوا نَارًا, en: "they were drowned, then made to enter a Fire"}, note: "أُغْرِقُوا: they were drowned (the people of Nuh عَلَيْهِ السَّلَامُ)."}
+  - {ar: نَزَلَ, en: he came down, pos: [فعل ماض, past verb], root: نزل, pattern: فَعَلَ, present: يَنْزِلُ, bab: بَابُ ضَرَبَ, ayah: {ref: "97:1", text: إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ, en: "indeed, We sent it down on the Night of Decree"}, note: "أَنْزَلَ: he sent down."}
+  - {ar: كَافِرٌ, en: disbeliever, pos: [اسم فاعل, active participle], root: كفر, pattern: فَاعِلٌ, plural: كَافِرُونَ, ayah: {ref: "109:1", text: قُلْ يَا أَيُّهَا الْكَافِرُونَ, en: "say: O disbelievers"}, note: "One who disbelieves (كَفَرَ). In the story: الْكَافِرِينَ, after a preposition."}
+
+root_families:
+  - root: أمن
+    words: [[آمَنَ, he believed], [مُؤْمِنٌ, believer], [إِيمَانٌ, faith], [أَمِينٌ, trustworthy], [أَمْنٌ, safety]]
+  - root: كفر
+    words: [[كَفَرَ, he disbelieved], [كَافِرٌ, disbeliever], [كُفْرٌ, disbelief]]
+
+grammar:
+  title_ar: حَرْفُ الْجَرِّ وَالِاسْمُ الْمَجْرُورُ
+  title_en: "Prepositions and the majrur noun"
+  body: >-
+    Words like فِي، مِنْ، إِلَى، عَلَى، عَنْ and the joined بِـ and كَـ are حُرُوفُ الْجَرِّ (prepositions). The noun right after one
+    is مَجْرُورٌ (genitive): it ends in a kasra, or kasratan when it has no ال and is not the first noun of an idafa (عَلَى جَبَلِ الْجُودِيِّ). A pronoun can join straight on: فِيهَا, عَلَيْهِ.
+    The word مَعَ ("with") is not a حَرْفٌ but an اسْمٌ, a ظَرْفٌ (adverb of place and time). The noun after it is مُضَافٌ إِلَيْهِ, so it is also مَجْرُورٌ.
+  examples:
+    - [فِي السَّفِينَةِ, "in the ship"]
+    - [عَلَى جَبَلِ الْجُودِيِّ, "on Mount al-Judi"]
+    - [مِن مَّاءٍ دَافِقٍ, "from a gushing fluid (Quran 86:6)"]
+
+tip:
+  title: "Reading without vowels: sun and moon letters"
+  body: >-
+    After ال, look at the next letter. If it is one of the 14 sun letters (ت ث د ذ ر ز س ش ص ض ط ظ ل ن) the lam is silent and
+    the letter is doubled: السماء is as-samā', السفينة is as-safīna. Any other letter is a moon letter and the lam is read:
+    الماء is al-mā', الأرض is al-arḍ, الجبال is al-jibāl. You never need the shadda printed to know this.
+
+try_it:
+  words: [سفينة, الماء, السماء, الأرض, جبل]
+  sentence: ركب نوح في السفينة مع أهله
+
+reread: Cover the grey word line with a strip of paper and read the story again. Then find the story in Surat Hud (11:36 to 48) and read it there.

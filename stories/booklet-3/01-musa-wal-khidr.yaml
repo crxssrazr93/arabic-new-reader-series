@@ -1,0 +1,192 @@
+# Booklet 3, story 1. Quran strand. Grammar ceiling: Madinah Book 2.
+id: b3-01
+booklet: 3
+number: 1
+strand: quran
+title_ar: مُوسَى وَالْخَضِرُ
+title_en: Musa and al-Khidr
+madinah: "Book 2 (negation with لَمْ and the jussive; the dual in verbs and nouns)"
+source: "Quran 18:60 to 82, in order. Details outside the ayat follow Sahih al-Bukhari 122, 3401 and 4725 and Sahih Muslim 2380: Musa's answer and Allah's blame, the fish in a basket, Yusha' ibn Nun, the fish stirring in the basket and the young man forgetting to tell Musa (Bukhari 4725), the crew carrying them without a fare, the bird at the edge of the ship, the plank pulled out, 'the first was forgetfulness', the boy playing with other boys, the wall set straight by hand, Musa's words about the village, the king passing the damaged boat by and its owners mending it with a piece of wood (Muslim 2380), the name al-Khidr, and the Prophet's ﷺ closing words. 'Every sound boat' (English only; the Arabic follows the mushaf, وَرَاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينَةٍ غَصْبًا) is Ibn Abbas's reading in Bukhari 3401 and the meaning Ibn Kathir, al-Baghawi and al-Tabari give on 18:79. 'The boy was a disbeliever' is in the Prophet's ﷺ words in Muslim 2380 (طُبِعَ يَوْمَ طُبِعَ كَافِرًا), in Ibn Abbas's reading in Bukhari 3401, and in Ibn Kathir, al-Baghawi, al-Tabari and al-Qurtubi on 18:80."
+
+illustrations:
+  - before: 9
+    file: b3-01-two-seas.png
+    alt: A rocky shore where two seas of slightly different colour meet, a large flat rock on the sand in front, evening light, no people or animals
+    prompt: A wide rocky seashore at evening where two seas of slightly different blue and green meet in a long line, a large flat rock on the sand in the foreground. No people, no animals, no fish.
+  - before: 28
+    file: b3-01-boat-plank.png
+    alt: A small wooden sailing boat pulled up on a shore, one plank missing from its side, the loose plank lying on the sand
+    prompt: A small old wooden sailing boat resting on a sandy shore, one plank clearly missing from its side leaving a dark gap, the loose plank lying on the sand beside it, calm sea behind. No people, no animals.
+  - before: 37
+    file: b3-01-leaning-wall.png
+    alt: An old mud-brick wall leaning over in a quiet village lane, small flat-roofed houses behind, no people
+    prompt: A quiet village lane in an old Middle Eastern village, an old mud-brick wall leaning badly to one side as if about to fall, small flat-roofed houses and a palm tree behind, late afternoon light. No people, no animals.
+
+sentences:
+  - words: [[قَامَ, ""], [مُوسَى, ""], [عَلَيْهِ, "upon him", n], [السَّلَامُ, "(be) peace", n], [يَوْمًا, ""], [فِي, ""], [قَوْمِهِ, ""], [بَنِي, ""], [إِسْرَائِيلَ, ""], [يُكَلِّمُهُمْ, "speaking to them", n], [وَيُذَكِّرُهُمْ, "and reminding them", n]]
+    en: "One day Musa (peace be upon him) stood up among his people, the Children of Israel, speaking to them and reminding them."
+  - words: [[فَسَأَلَهُ, ""], [سَائِلٌ, "someone asking", n], [مِنْهُمْ, ""], [أَيُّ, ""], [النَّاسِ, ""], [أَعْلَمُ, "most knowing", n]]
+    en: "Someone among them asked him: Which of the people knows the most?"
+  - words: [[فَقَالَ, ""], [مُوسَى, ""], [أَنَا, ""], [أَعْلَمُ, ""], [فَعَتَبَ, "and gently reproached", n], [اللَّهُ, ""], [عَلَيْهِ, ""], [إِذْ, ""], [لَمْ, ""], [يَرُدَّ, "refer (back)", n], [الْعِلْمَ, ""], [إِلَيْهِ, ""]]
+    en: "Musa said: I do. And Allah gently reproached him for this, because he did not refer the knowledge back to Him."
+  - words: [[فَأَوْحَى, ""], [اللَّهُ, ""], [إِلَيْهِ, ""], [أَنَّ, ""], [عَبْدًا, ""], [مِنْ, ""], [عِبَادِي, "My servants", n], [عِنْدَ, ""], [مَجْمَعِ, "(the) meeting place", n], [الْبَحْرَيْنِ, ""], [هُوَ, ""], [أَعْلَمُ, ""], [مِنْكَ, ""]]
+    en: "So Allah revealed to him: A servant of Mine at the meeting place of the two seas knows more than you."
+  - words: [[فَأَمَرَهُ, ""], [اللَّهُ, ""], [أَنْ, ""], [يَأْخُذَ, ""], [حُوتًا, "a fish", n], [فِي, ""], [سَلَّةٍ, "a basket", n], [وَيَطْلُبَ, ""], [الْعَبْدَ, ""], [حَيْثُ, "where", n], [يَفْقِدُهُ, "he loses it", n]]
+    en: "Allah told him to take a fish in a basket, and to look for the servant where he lost it."
+  - words: [[فَخَرَجَ, ""], [مُوسَى, ""], [وَمَعَهُ, ""], [فَتَاهُ, ""], [يُوشَعُ, "Yusha'", n], [بْنُ, ""], [نُونٍ, "Nun", n]]
+    en: "Musa set out, and with him was his young man, Yusha' ibn Nun."
+  - words: [[وَحَمَلَا, ""], [الْحُوتَ, ""], [فِي, ""], [السَّلَّةِ, ""], [وَسَارَا, ""]]
+    en: "The two of them carried the fish in the basket and set off."
+  - words: [[وَأَرَادَ, ""], [مُوسَى, ""], [أَنْ, ""], [يَسِيرَ, ""], [حَتَّى, ""], [يَبْلُغَ, "he reaches", n], [مَجْمَعَ, ""], [الْبَحْرَيْنِ, ""], [وَلَوْ, ""], [سَارَ, ""], [زَمَنًا, ""], [طَوِيلًا, ""]]
+    en: "Musa meant to keep going until he reached the meeting place of the two seas, even if it took him a long time."
+  - words: [[فَلَمَّا, "And when", n], [بَلَغَا, ""], [الصَّخْرَةَ, "the rock", n], [عِنْدَ, ""], [مَجْمَعِ, ""], [الْبَحْرَيْنِ, ""], [وَضَعَا, ""], [رُؤُوسَهُمَا, "their heads", n], [وَنَامَا, ""]]
+    en: "When they reached the rock at the meeting place of the two seas, they laid down their heads and slept."
+  - words: [[فَتَحَرَّكَ, ""], [الْحُوتُ, ""], [فِي, ""], [السَّلَّةِ, ""], [وَخَرَجَ, ""], [مِنْهَا, ""], [وَسَقَطَ, "and fell", n], [فِي, ""], [الْبَحْرِ, ""]]
+    en: "The fish stirred in the basket, slipped out of it and fell into the sea."
+  - words: [[وَجَعَلَ, ""], [اللَّهُ, ""], [طَرِيقَهُ, ""], [فِي, ""], [الْمَاءِ, ""], [مِثْلَ, "like", n], [النَّفَقِ, "the tunnel", n], [وَكَانَ, ""], [ذٰلِكَ, ""], [عَجَبًا, "a wonder", n]]
+    en: "And Allah made its path through the water like a tunnel. It was a wonder."
+  - words: [[فَلَمَّا, ""], [قَامَ, ""], [مُوسَى, ""], [نَسِيَ, "forgot", n], [الْفَتَى, ""], [أَنْ, ""], [يُخْبِرَهُ, ""], [بِأَمْرِ, ""], [الْحُوتِ, ""], [فَسَارَا, ""], [بَقِيَّةَ, "(the) rest", n], [لَيْلَتِهِمَا, ""], [وَيَوْمِهِمَا, ""]]
+    en: "When Musa woke, the young man forgot to tell him about the fish, and they walked on for the rest of that night and the next day."
+  - words: [[فَلَمَّا, ""], [جَاءَ, ""], [الصَّبَاحُ, ""], [تَعِبَ, ""], [مُوسَى, ""], [وَطَلَبَ, ""], [مِنْ, ""], [فَتَاهُ, ""], [طَعَامَهُمَا, ""], [لِيَأْكُلَا, ""]]
+    en: "When morning came, Musa felt tired and asked his young man for their food, so that they could eat."
+  - words: [[وَلَمْ, ""], [يَتْعَبْ, ""], [مُوسَى, ""], [فِي, ""], [سَفَرِهِ, ""], [حَتَّى, ""], [تَرَكَا, ""], [ذٰلِكَ, ""], [الْمَكَانَ, ""], [وَرَاءَهُمَا, ""]]
+    en: "Musa had not felt tired on his journey until they had left that place behind them."
+  - words: [[فَتَذَكَّرَ, "then remembered", n], [الْفَتَى, ""], [الْحُوتَ, ""], [وَأَخْبَرَ, ""], [مُوسَى, ""], [بِمَا, ""], [رَأَى, ""], [عِنْدَ, ""], [الصَّخْرَةِ, ""]]
+    en: "Then the young man remembered the fish and told Musa what he had seen at the rock."
+  - words: [[وَقَالَ, ""], [إِنَّهُ, ""], [مَا, ""], [أَنْسَاهُ, "made him forget", n], [ذِكْرَ, "(the) mention (of)", n], [الْحُوتِ, ""], [إِلَّا, ""], [الشَّيْطَانُ, "Shaytan", n]]
+    en: "He said that it was only Shaytan who had made him forget to mention the fish."
+  - words: [[فَعَرَفَ, ""], [مُوسَى, ""], [أَنَّ, ""], [ذٰلِكَ, ""], [هُوَ, ""], [الْمَكَانُ, ""], [الَّذِي, ""], [يَطْلُبَانِهِ, ""], [فَرَجَعَا, ""], [عَلَى, ""], [آثَارِهِمَا, "their (own) tracks", n]]
+    en: "Musa knew that this was the very place they were looking for, so they went back the way they had come, following their own tracks."
+  - words: [[فَوَجَدَا, "", q], [عَبْدًا, "", q], [مِّنْ, "", q], [عِبَادِنَا, "", q], [آتَيْنَاهُ, "", q], [رَحْمَةً, "", q], [مِّنْ, "", q], [عِندِنَا, "", q], [وَعَلَّمْنَاهُ, "", q], [مِن, "", q], [لَّدُنَّا, "", q], [عِلْمًا, "", q]]
+    en: "And they found one of Our servants, to whom We had given mercy from Us, and whom We had taught knowledge from Our own presence."
+    quote: {ref: "18:65", text: فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِّنْ عِندِنَا وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْمًا}
+  - words: [[قَالَ, "", q], [لَهُ, "", q], [مُوسَىٰ, "", q], [هَلْ, "", q], [أَتَّبِعُكَ, "", q], [عَلَىٰ, "", q], [أَن, "", q], [تُعَلِّمَنِ, "", q], [مِمَّا, "", q], [عُلِّمْتَ, "", q], [رُشْدًا, "", q]]
+    en: "Musa said to him: May I follow you, so that you teach me some of the right guidance you have been taught?"
+    quote: {ref: "18:66", text: قَالَ لَهُ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا}
+  - words: [[قَالَ, "", q], [إِنَّكَ, "", q], [لَن, "", q], [تَسْتَطِيعَ, "", q], [مَعِيَ, "", q], [صَبْرًا, "", q]]
+    en: "He said: You will never be able to be patient with me."
+    quote: {ref: "18:67", text: قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا}
+  - words: [[وَكَيْفَ, "", q], [تَصْبِرُ, "", q], [عَلَىٰ, "", q], [مَا, "", q], [لَمْ, "", q], [تُحِطْ, "", q], [بِهِ, "", q], [خُبْرًا, "", q]]
+    en: "And how can you be patient about something you have no full knowledge of?"
+    quote: {ref: "18:68", text: وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا}
+  - words: [[فَوَعَدَهُ, "promised him", n], [مُوسَى, ""], [أَنْ, ""], [يَصْبِرَ, ""], [إِنْ, ""], [شَاءَ, ""], [اللَّهُ, ""], [وَأَنْ, ""], [يُطِيعَ, "he obeys", n], [أَمْرَهُ, ""]]
+    en: "Musa promised him that he would be patient, if Allah willed, and that he would obey his command."
+  - words: [[فَطَلَبَ, ""], [مِنْهُ, ""], [الْعَبْدُ, ""], [أَلَّا, "not to", n], [يَسْأَلَهُ, ""], [عَنْ, ""], [شَيْءٍ, ""], [حَتَّى, ""], [يُخْبِرَهُ, ""], [بِهِ, ""], [هُوَ, ""]]
+    en: "The servant asked him not to question him about anything until he himself told him about it."
+  - words: [[فَانْطَلَقَا, "So the two set off", n], [يَمْشِيَانِ, ""], [عَلَى, ""], [شَاطِئِ, ""], [الْبَحْرِ, ""], [وَلَيْسَ, ""], [لَهُمَا, ""], [سَفِينَةٌ, ""]]
+    en: "So the two of them set off, walking along the seashore, and they had no boat."
+  - words: [[فَمَرَّتْ, ""], [بِهِمَا, ""], [سَفِينَةٌ, ""], [فَعَرَفَ, ""], [أَصْحَابُهَا, ""], [الْعَبْدَ, ""], [فَحَمَلُوهُمَا, ""], [بِغَيْرِ, "without", n], [أَجْرٍ, "a fare", n]]
+    en: "A boat passed by them. Its owners knew the servant, so they carried them both without asking a fare."
+  - words: [[ثُمَّ, ""], [جَاءَ, ""], [طَائِرٌ, ""], [فَوَقَفَ, ""], [عَلَى, ""], [حَرْفِ, "(the) edge", n], [السَّفِينَةِ, ""], [وَأَخَذَ, ""], [بِمِنْقَارِهِ, "with its beak", n], [مِنْ, ""], [مَاءِ, ""], [الْبَحْرِ, ""]]
+    en: "Then a bird came and stood on the edge of the boat, and took some of the sea water in its beak."
+  - words: [[فَقَالَ, ""], [الْعَبْدُ, ""], [مَا, ""], [نَقَصَ, "took away", n], [عِلْمِي, ""], [وَعِلْمُكَ, ""], [مِنْ, ""], [عِلْمِ, ""], [اللَّهِ, ""], [إِلَّا, ""], [مِثْلَ, ""], [هٰذَا, ""]]
+    en: "The servant said: My knowledge and yours take away from Allah's knowledge no more than this."
+  - words: [[ثُمَّ, ""], [قَامَ, ""], [الْعَبْدُ, ""], [إِلَى, ""], [لَوْحٍ, "a plank", n], [مِنْ, ""], [أَلْوَاحِ, ""], [السَّفِينَةِ, ""], [فَنَزَعَهُ, "and pulled it out", n], [فَخَرَقَهَا, "making a hole in it", n]]
+    en: "Then the servant went to one of the boat's planks and pulled it out, making a hole in the boat."
+  - words: [[فَقَالَ, ""], [مُوسَى, ""], [قَوْمٌ, ""], [حَمَلُونَا, ""], [بِغَيْرِ, ""], [أَجْرٍ, ""], [أَخَرَقْتَهَا, "", q], [لِتُغْرِقَ, "", q], [أَهْلَهَا, "", q]]
+    en: "Musa said: These people carried us without a fare! Have you made a hole in it to drown its people?"
+    quote: {ref: "18:71", text: أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا}
+  - words: [[فَذَكَّرَهُ, ""], [الْعَبْدُ, ""], [بِقَوْلِهِ, ""], [الْأَوَّلِ, ""], [فَاعْتَذَرَ, "and apologised", n], [مُوسَى, ""], [بِأَنَّهُ, ""], [نَسِيَ, ""], [وَكَانَتِ, ""], [الْأُولَى, "the first (time)", n], [مِنْهُ, ""], [نِسْيَانًا, "forgetfulness", n]]
+    en: "The servant reminded him of his first words, and Musa apologised that he had forgotten. That first time truly was forgetfulness."
+  - words: [[فَانْطَلَقَا, ""], [حَتَّى, ""], [لَقِيَا, "the two met", n], [غُلَامًا, ""], [يَلْعَبُ, ""], [مَعَ, ""], [الْغِلْمَانِ, ""]]
+    en: "They set off again until they met a boy playing with other boys."
+  - words: [[فَقَتَلَهُ, ""], [الْعَبْدُ, ""], [فَأَنْكَرَ, "objected to", n], [مُوسَى, ""], [ذٰلِكَ, ""], [لِأَنَّ, ""], [الْغُلَامَ, ""], [لَمْ, ""], [يَقْتُلْ, ""], [نَفْسًا, ""]]
+    en: "The servant killed him, and Musa objected, because the boy had not killed anyone."
+  - words: [[فَذَكَّرَهُ, ""], [الْعَبْدُ, ""], [مَرَّةً, "time", n], [أُخْرَى, "another", n], [بِقَوْلِهِ, ""], [الْأَوَّلِ, ""]]
+    en: "Once more the servant reminded him of his first words."
+  - words: [[فَقَالَ, ""], [مُوسَى, ""], [إِنْ, ""], [سَأَلْتُكَ, ""], [عَنْ, ""], [شَيْءٍ, ""], [بَعْدَ, ""], [هٰذَا, ""], [فَلَا, ""], [تَصْحَبْنِي, "keep me company", n]]
+    en: "Musa said: If I ask you about anything after this, do not keep me company."
+  - words: [[فَانْطَلَقَا, ""], [حَتَّى, ""], [أَتَيَا, ""], [أَهْلَ, ""], [قَرْيَةٍ, ""], [فَطَلَبَا, ""], [مِنْهُمْ, ""], [طَعَامًا, ""]]
+    en: "They set off until they came to the people of a village, and they asked them for food."
+  - words: [[فَلَمْ, ""], [يَقْبَلْ, "accept", n], [أَهْلُ, ""], [الْقَرْيَةِ, ""], [أَنْ, ""], [يَكُونَا, ""], [ضَيْفَيْنِ, "(two) guests", n], [عِنْدَهُمْ, ""], [وَلَمْ, ""], [يُطْعِمُوهُمَا, "feed the two", n]]
+    en: "But the people of the village would not take them in as their guests, and they did not feed them."
+  - words: [[وَرَأَيَا, ""], [فِي, ""], [تِلْكَ, ""], [الْقَرْيَةِ, ""], [جِدَارًا, "a wall", n], [مَائِلًا, "leaning", n], [قَرِيبًا, ""], [مِنَ, ""], [السُّقُوطِ, "falling", n]]
+    en: "In that village they saw a leaning wall that was close to falling down."
+  - words: [[فَأَقَامَهُ, "and set it straight", n], [الْعَبْدُ, ""], [بِيَدِهِ, ""], [حَتَّى, ""], [صَارَ, "it became", n], [مُسْتَقِيمًا, "straight", n]]
+    en: "The servant set it up with his hand until it stood straight."
+  - words: [[فَقَالَ, ""], [مُوسَى, ""], [قَوْمٌ, ""], [أَتَيْنَاهُمْ, ""], [فَلَمْ, ""], [يُطْعِمُونَا, ""], [وَلَمْ, ""], [يُضَيِّفُونَا, "take us in as guests", n]]
+    en: "Musa said: These are people we came to, and they did not feed us or take us in as guests!"
+  - words: [[وَقَالَ, ""], [لَهُ, ""], [لَوْ, ""], [شِئْتَ, ""], [لَأَخَذْتَ, ""], [عَلَيْهِ, ""], [أَجْرًا, ""]]
+    en: "And he said to him: If you had wished, you could have taken a wage for it."
+  - words: [[قَالَ, "", q], [هٰذَا, "", q], [فِرَاقُ, "", q], [بَيْنِي, "", q], [وَبَيْنِكَ, "", q]]
+    en: "He said: This is the parting between me and you."
+    quote: {ref: "18:78", text: قَالَ هَـٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ}
+  - words: [[ثُمَّ, ""], [أَخْبَرَهُ, ""], [بِتَأْوِيلِ, "the meaning (behind)", n], [الْأَشْيَاءِ, ""], [الثَّلَاثَةِ, "three", n], [الَّتِي, ""], [لَمْ, ""], [يَصْبِرْ, ""], [عَلَيْهَا, ""], [قَبْلَ, ""], [أَنْ, ""], [يَتْرُكَهُ, ""]]
+    en: "Then, before leaving him, he told him the meaning behind the three things he had not been patient about."
+  - words: [[كَانَتِ, ""], [السَّفِينَةُ, ""], [لِقَوْمٍ, ""], [فُقَرَاءَ, ""], [يَعْمَلُونَ, ""], [بِهَا, ""], [فِي, ""], [الْبَحْرِ, ""]]
+    en: "The boat belonged to poor people who worked with it on the sea."
+  - words: [[وَكَانَ, ""], [وَرَاءَهُمْ, ""], [مَلِكٌ, ""], [يَأْخُذُ, ""], [كُلَّ, ""], [سَفِينَةٍ, ""], [غَصْبًا, "by force", n]]
+    en: "Behind them was a king who seized every sound boat by force."
+  - words: [[فَأَرَادَ, ""], [الْعَبْدُ, ""], [أَنْ, ""], [يَعِيبَهَا, "damage it", n], [حَتَّى, ""], [يَتْرُكَهَا, ""], [الْمَلِكُ, ""], [لِأَصْحَابِهَا, ""]]
+    en: "So the servant wanted to damage it, so that the king would leave it to its owners."
+  - words: [[فَإِذَا, ""], [جَاءَ, ""], [الْمَلِكُ, ""], [تَرَكَهَا, ""], [ثُمَّ, ""], [أَصْلَحَهَا, "mended it", n], [أَصْحَابُهَا, ""], [بِخَشَبَةٍ, ""]]
+    en: "When the king came he would pass it by, and then its owners would mend it with a piece of wood."
+  - words: [[وَكَانَ, ""], [الْغُلَامُ, ""], [كَافِرًا, ""], [وَكَانَ, ""], [أَبُوهُ, ""], [وَأُمُّهُ, ""], [مُؤْمِنَيْنِ, ""]]
+    en: "The boy was a disbeliever, while his father and mother were believers."
+  - words: [[فَخَشِيَ, "feared", n], [الْعَبْدُ, ""], [أَنْ, ""], [يُتْعِبَ, "burden", n], [الْغُلَامُ, ""], [أَبَوَيْهِ, "his parents", n], [بِطُغْيَانِهِ, "with his transgression", n], [وَكُفْرِهِ, ""]]
+    en: "The servant feared that the boy would burden his parents with his transgression and disbelief."
+  - words: [[فَأَرَادَ, ""], [أَنْ, ""], [يُبْدِلَهُمَا, "give them in exchange", n], [رَبُّهُمَا, ""], [وَلَدًا, ""], [خَيْرًا, ""], [مِنْهُ, ""], [وَأَرْحَمَ, "and kinder", n], [بِهِمَا, ""]]
+    en: "So he wished that their Lord would give them instead a child better than him and kinder to them."
+  - words: [[وَكَانَ, ""], [تَحْتَ, ""], [الْجِدَارِ, ""], [كَنْزٌ, "a treasure", n], [لِوَلَدَيْنِ, ""], [يَتِيمَيْنِ, "(two) orphans", n], [فِي, ""], [تِلْكَ, ""], [الْمَدِينَةِ, ""]]
+    en: "Under the wall was a treasure belonging to two orphan boys in that town."
+  - words: [[وَكَانَ, ""], [أَبُوهُمَا, ""], [صَالِحًا, ""], [فَأَرَادَ, ""], [اللَّهُ, ""], [أَنْ, ""], [يَكْبَرَا, "(the two) grow up", n], [وَيُخْرِجَا, "and bring out", n], [كَنْزَهُمَا, ""], [رَحْمَةً, ""], [مِنْهُ, ""]]
+    en: "Their father had been a righteous man, so Allah willed that they should grow up and bring out their treasure, as a mercy from Him."
+  - words: [[وَقَالَ, ""], [الْعَبْدُ, ""], [وَمَا, "", q], [فَعَلْتُهُ, "", q], [عَنْ, "", q], [أَمْرِي, "", q]]
+    en: "The servant said: And I did not do it of my own accord."
+    quote: {ref: "18:82", text: وَمَا فَعَلْتُهُ عَنْ أَمْرِي}
+  - words: [[وَفِي, ""], [صَحِيحِ, "(the) Sahih (of)", n], [الْبُخَارِيِّ, "al-Bukhari", n], [أَنَّ, ""], [اسْمَ, ""], [هٰذَا, ""], [الْعَبْدِ, ""], [الصَّالِحِ, ""], [الْخَضِرُ, "al-Khidr", n]]
+    en: "In Sahih al-Bukhari, the name of this righteous servant is given as al-Khidr."
+  - words: [[وَقَالَ, ""], [النَّبِيُّ, ""], [صَلَّى, ""], [اللَّهُ, ""], [عَلَيْهِ, ""], [وَسَلَّمَ, ""], [يَرْحَمُ, "(may) have mercy (on)", n], [اللَّهُ, ""], [مُوسَى, ""]]
+    en: "The Prophet ﷺ said: May Allah have mercy on Musa."
+  - words: [[لَوَدِدْنَا, "we would have loved", n], [لَوْ, ""], [صَبَرَ, ""], [حَتَّى, ""], [يُقَصَّ, "is told", n], [عَلَيْنَا, ""], [مِنْ, ""], [أَمْرِهِمَا, ""]]
+    en: "We would have loved him to be patient, so that more of their story would be told to us."
+
+dictionary:
+  - {ar: مَجْمَعٌ, en: meeting place; where things come together, pos: [اسم مكان, noun of place], root: جمع, pattern: مَفْعَلٌ, ayah: {ref: "18:60", text: حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ, en: "until I reach the meeting place of the two seas"}, note: "From جَمَعَ, he gathered. The مَفْعَلٌ pattern names a place, like مَطْبَخٌ and مَلْعَبٌ."}
+  - {ar: حُوتٌ, en: fish; whale, pos: [اسم, noun], root: حوت, pattern: فُعْلٌ, plural: حِيتَانٌ, ayah: {ref: "68:48", text: وَلَا تَكُن كَصَاحِبِ الْحُوتِ, en: "and do not be like the companion of the fish (Yunus)"}, note: "The Quran uses حُوتٌ for the great fish of Yunus عَلَيْهِ السَّلَامُ too. The everyday word for a fish to eat is سَمَكٌ."}
+  - {ar: نَسِيَ, en: he forgot, pos: [فعل ماض, past verb], root: نسي, pattern: فَعِلَ, ayah: {ref: "87:6", text: سَنُقْرِئُكَ فَلَا تَنسَىٰ, en: "We will make you recite, and you will not forget"}, present: يَنْسَى, bab: بَابُ سَمِعَ, note: "Forgetting: نِسْيَانٌ. أَنْسَى (بَابُ الْإِفْعَالِ): he made someone forget."}
+  - {ar: صَخْرَةٌ, en: rock; boulder, pos: [اسم, noun], root: صخر, pattern: فَعْلَةٌ, ayah: {ref: "18:63", text: إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ, en: "when we took shelter at the rock"}}
+  - {ar: بَلَغَ, en: he reached, pos: [فعل ماض, past verb], root: بلغ, pattern: فَعَلَ, ayah: {ref: "18:61", text: فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا, en: "so when the two reached the meeting point between them"}, present: يَبْلُغُ, bab: بَابُ نَصَرَ, note: "The form بَلَغَا means: the two of them reached."}
+  - {ar: لَمَّا, en: when (in the past), pos: [حرف, particle], ayah: {ref: "12:15", text: فَلَمَّا ذَهَبُوا بِهِ, en: "so when they took him away"}, note: "لَمَّا meaning when is followed by a فِعْلٌ مَاضٍ (past verb), and the next sentence tells what happened then: فَلَمَّا بَلَغَا ... وَضَعَا. Another لَمَّا, meaning not yet, makes a مُضَارِعٌ مَجْزُومٌ like لَمْ (Quran 62:3)."}
+  - {ar: نَفَقٌ, en: tunnel, pos: [اسم, noun], root: نفق, pattern: فَعَلٌ, plural: أَنْفَاقٌ, ayah: {ref: "6:35", text: أَن تَبْتَغِيَ نَفَقًا فِي الْأَرْضِ, en: "to seek a tunnel into the earth"}, note: "The Quran calls the fish's path سَرَبًا (18:61), a passage like a tunnel."}
+  - {ar: أَثَرٌ, en: trace; track; footprint, pos: [اسم, noun], root: أثر, pattern: فَعَلٌ, plural: آثَارٌ, ayah: {ref: "18:64", text: فَارْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصًا, en: "so they went back, retracing their footsteps"}, note: "In modern Arabic آثَارٌ also means ancient ruins and monuments."}
+  - {ar: اِنْطَلَقَ, en: he set off, pos: [فعل ماض, past verb], root: طلق, pattern: اِنْفَعَلَ, ayah: {ref: "18:71", text: فَانطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ, en: "so the two set off, until when they boarded the ship"}, present: يَنْطَلِقُ, bab: بَابُ الِانْفِعَالِ, note: "فَانْطَلَقَا comes three times in this passage, once before each event."}
+  - {ar: أَجْرٌ, en: wage; fare; reward, pos: [اسم, noun], root: أجر, pattern: فَعْلٌ, plural: أُجُورٌ, ayah: {ref: "95:6", text: فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ, en: "they will have a reward that never ends"}, note: "Payment for work here, and the reward from Allah in most ayat."}
+  - {ar: نَقَصَ, en: it became less; he took away from, pos: [فعل ماض, past verb], root: نقص, pattern: فَعَلَ, ayah: {ref: "2:155", text: وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ, en: "and loss of wealth, lives and fruits"}, present: يَنْقُصُ, bab: بَابُ نَصَرَ, note: "Loss, shortage: نَقْصٌ."}
+  - {ar: لَوْحٌ, en: plank; board; tablet, pos: [اسم, noun], root: لوح, pattern: فَعْلٌ, plural: أَلْوَاحٌ, ayah: {ref: "85:22", text: فِي لَوْحٍ مَّحْفُوظٍ, en: "in a preserved tablet"}, note: "The ark of Nuh عَلَيْهِ السَّلَامُ was made of أَلْوَاحٍ (54:13). A school blackboard is لَوْحٌ too."}
+  - {ar: خَرَقَ, en: he made a hole in; he tore, pos: [فعل ماض, past verb], root: خرق, pattern: فَعَلَ, ayah: {ref: "17:37", text: إِنَّكَ لَن تَخْرِقَ الْأَرْضَ, en: "you will never tear the earth apart"}, present: يَخْرِقُ, bab: بَابُ ضَرَبَ}
+  - {ar: لَقِيَ, en: he met, pos: [فعل ماض, past verb], root: لقي, pattern: فَعِلَ, ayah: {ref: "18:74", text: حَتَّىٰ إِذَا لَقِيَا غُلَامًا, en: "until, when they met a boy"}, present: يَلْقَى, bab: بَابُ سَمِعَ, note: "Same root as أَلْقَى, he threw: what you throw meets the ground."}
+  - {ar: جِدَارٌ, en: wall, pos: [اسم, noun], root: جدر, pattern: فِعَالٌ, plural: جُدْرَانٌ, ayah: {ref: "18:77", text: فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ, en: "and they found in it a wall about to fall down"}, note: "يُرِيدُ أَنْ: literally wants to, said of a thing that is about to happen."}
+  - {ar: سَقَطَ, en: he fell; it fell, pos: [فعل ماض, past verb], root: سقط, pattern: فَعَلَ, ayah: {ref: "6:59", text: وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا, en: "not a leaf falls but He knows it"}, present: يَسْقُطُ, bab: بَابُ نَصَرَ, note: "Falling: سُقُوطٌ."}
+  - {ar: ضَيْفٌ, en: guest, pos: [اسم, noun], root: ضيف, pattern: فَعْلٌ, plural: ضُيُوفٌ, ayah: {ref: "51:24", text: هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ, en: "has the story of Ibrahim's guests reached you?"}, note: "In 51:24 the singular ضَيْفٌ stands for a group of guests."}
+  - {ar: خَشِيَ, en: he feared (with awe), pos: [فعل ماض, past verb], root: خشي, pattern: فَعِلَ, ayah: {ref: "35:28", text: إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ, en: "only those of His servants who have knowledge truly fear Allah"}, present: يَخْشَى, bab: بَابُ سَمِعَ, note: "Fear with knowledge and respect. Compare خَافَ, plain fear."}
+  - {ar: كَنْزٌ, en: treasure, pos: [اسم, noun], root: كنز, pattern: فَعْلٌ, plural: كُنُوزٌ, ayah: {ref: "18:82", text: وَكَانَ تَحْتَهُ كَنزٌ لَّهُمَا, en: "and beneath it was a treasure belonging to them"}}
+  - {ar: تَأْوِيلٌ, en: meaning; explanation; outcome, pos: [مصدر, verbal noun], root: أول, pattern: تَفْعِيلٌ, ayah: {ref: "18:82", text: ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا, en: "that is the meaning of what you could not bear patiently"}, note: "The real meaning that something comes back to. Yusuf عَلَيْهِ السَّلَامُ uses it for the meaning of dreams."}
+
+root_families:
+  - root: صبر
+    words: [[صَبَرَ, "he was patient"], [يَصْبِرُ, "he is patient"], [صَبْرٌ, "patience"], [صَابِرٌ, "patient (one)"], [اِصْبِرْ, "be patient!"]]
+  - root: لقي
+    words: [[لَقِيَ, "he met"], [لَقِيَا, "the two met"], [أَلْقَى, "he threw"], [نُلْقِيهِ, "we throw him"]]
+
+grammar:
+  title_ar: النَّفْيُ بِـلَمْ
+  title_en: "Negation with لَمْ: a مُضَارِع with a past meaning"
+  body: >-
+    لَمْ comes before a مُضَارِعٌ (present verb) and turns it into a negative past: يَصْبِرُ, he is patient; لَمْ يَصْبِرْ, he was not patient.
+    The verb after لَمْ is مَجْزُومٌ (jussive). A damma on the last letter becomes a sukun: يَتْعَبُ, لَمْ يَتْعَبْ. The ن of the dual and plural drops:
+    يَقْبَلُونَ, لَمْ يَقْبَلُوا. A doubled verb takes a fatha: لَمْ يَرُدَّ. And when the last letter goes silent, a long vowel before it
+    shortens: تَسْتَطِيعُ becomes لَمْ تَسْتَطِعْ, تُحِيطُ becomes لَمْ تُحِطْ, يَكُونُ becomes لَمْ يَكُنْ.
+  examples:
+    - [وَلَمْ يَرُدَّ الْعِلْمَ إِلَى اللَّهِ, "And he did not refer the knowledge back to Allah."]
+    - [فَلَمْ يَقْبَلْ أَهْلُ الْقَرْيَةِ أَنْ يَكُونَا ضَيْفَيْنِ عِنْدَهُمْ, "The people of the village would not take them in as guests."]
+    - [وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا, "And how can you be patient about what you have no full knowledge of? (18:68)"]
+
+tip:
+  title: "Reading without vowels: the alif of two"
+  body: >-
+    In this story many verbs end in ا: بلغا, ناما, انطلقا, لقيا, أتيا, رأيا, وجدا. On a فِعْلٌ مَاضٍ (past verb) this alif means "the two of them":
+    balaghā, they both reached. Do not read it as the alif of tanwin fath, which only sits on nouns (غلاما, طعاما). The مُضَارِع
+    of two ends in ان: يمشيان, يطلبانه. A noun of two ends in ان or ين: البحرين, ضيفين, يتيمين, مؤمنين (but مؤمنين can also be a plural; the sentence tells you). Ask yourself: is this a verb or a noun?
+
+reread: Read the unvowelled version above again. Then recite Surat al-Kahf 18:60 to 82 and find the place of each event in it.

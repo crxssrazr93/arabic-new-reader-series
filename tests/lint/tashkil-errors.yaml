@@ -1,0 +1,4 @@
+id: t-01
+sentences:
+  - words: [[كِتَابً, a book], [الْكِتَابٌ, the book], [مَدْرَسَةًا, school], [فَاعِلُِ, doer], [ْكَتَبَ, wrote], [بُيت, house], [الْشَّمْسُ, the sun], [وَلَدَيْنِ, boy], [ذَهَبُوا, "went (they"]]
+    en: "A test line without punctuation"

@@ -1,0 +1,159 @@
+# Booklet 2, story 1. Modern strand. Grammar ceiling: Madinah Book 1 end, Book 2 start.
+id: b2-01
+booklet: 2
+number: 1
+strand: modern
+title_ar: زَيْدٌ فِي سِرِيلَانْكَا
+title_en: Zayd Comes to Sri Lanka
+madinah: "Book 1 end and Book 2 start (past verbs, the present tense يَفْعَلُ, plurals)"
+
+illustrations:
+  - before: 3
+    file: b2-01-airport.png
+    alt: An airport arrivals hall with tall windows, an airliner outside at sunrise and a suitcase by the door, no people
+  - before: 15
+    file: b2-01-house-garden.png
+    alt: A small white house with a tiled roof, a green garden in front and coconut palms behind
+  - before: 20
+    file: b2-01-sea-sunset.png
+    alt: A wide sandy beach with the sun setting into the sea and a football lying on the sand
+
+sentences:
+  - words: [[فِي, In], [الصَّيْفِ, the summer], [سَافَرَ, travelled], [زَيْدٌ, Zayd], [مِنَ, from], [الْقَاهِرَةِ, Cairo], [إِلَى, to], [سِرِيلَانْكَا, Sri Lanka]]
+    en: "In the summer Zayd travelled from Cairo to Sri Lanka."
+  - words: [[رَكِبَ, boarded], [زَيْدٌ, Zayd], [الطَّائِرَةَ, the plane], [فِي, in], [اللَّيْلِ, the night], [وَنَامَ, and he slept], [فِيهَا, in it], [قَلِيلًا, a little]]
+    en: "Zayd boarded the plane at night and slept a little on it."
+  - words: [[وَفِي, And in], [الصَّبَاحِ, the morning], [وَصَلَتِ, arrived], [الطَّائِرَةُ, the plane], [إِلَى, at], [مَطَارِ, "(the) airport"], [كُولُومْبُو, "(of) Colombo"]]
+    en: "In the morning the plane arrived at Colombo airport."
+  - words: [[فِي, In], [الْمَطَارِ, the airport], [كَانَ, was], [بِلَالٌ, Bilal], [وَأَبُوهُ, and his father]]
+    en: "Bilal and his father were at the airport."
+  - words: [[وَكَانَ, And was], [بِلَالٌ, Bilal], [يَنْظُرُ, looking], [إِلَى, at], [الْبَابِ, the door], [كُلَّ, every], [دَقِيقَةٍ, minute]]
+    en: "Bilal kept looking at the door every minute."
+  - words: [[خَرَجَ, came out], [زَيْدٌ, Zayd], [مِنَ, from], [الْبَابِ, the door], [وَمَعَهُ, and with him], [حَقِيبَةٌ, "(was) a bag"], [كَبِيرَةٌ, big]]
+    en: "Zayd came out through the door with a big bag."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [السَّلَامُ, Peace], [عَلَيْكَ, "(be) upon you"], [يَا, O], [زَيْدُ, Zayd]]
+    en: "Bilal said: Peace be upon you, Zayd!"
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [وَعَلَيْكَ, and upon you], [السَّلَامُ, "(be) peace"], [أَنَا, I], [سَعِيدٌ, "(am) happy"], [جِدًّا, very]]
+    en: "Zayd said: And upon you be peace. I am very happy!"
+  - words: [[ثُمَّ, Then], [سَلَّمَ, greeted], [زَيْدٌ, Zayd], [عَلَى, "(on)"], [أَبِي, "(the) father"], [بِلَالٍ, "(of) Bilal"]]
+    en: "Then Zayd greeted Bilal's father."
+  - words: [[رَكِبُوا, They got into], [السَّيَّارَةَ, the car], [وَذَهَبُوا, and they went], [إِلَى, to], [بَيْتِ, "(the) house"], [بِلَالٍ, "(of) Bilal"]]
+    en: "They got into the car and drove to Bilal's house."
+  - words: [[فِي, "On"], [الطَّرِيقِ, the way], [رَأَى, saw], [زَيْدٌ, Zayd], [أَشْجَارًا, trees], [كَثِيرَةً, many]]
+    en: "On the way Zayd saw many trees."
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [بَلَدُكُمْ, Your country], [أَخْضَرُ, "(is) green"], [وَجَمِيلٌ, and beautiful]]
+    en: "Zayd said: Your country is green and beautiful."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [الْمَطَرُ, The rain], [يَنْزِلُ, comes down], [هُنَا, here], [كَثِيرًا, a lot]]
+    en: "Bilal said: It rains a lot here."
+  - words: [[وَصَلَتِ, arrived], [السَّيَّارَةُ, the car], [إِلَى, at], [الْبَيْتِ, the house], [بَعْدَ, after], [سَاعَةٍ, an hour]]
+    en: "The car reached the house after an hour."
+  - words: [[بَيْتُ, "(The) house"], [بِلَالٍ, "(of) Bilal"], [صَغِيرٌ, "(is) small"], [وَأَمَامَهُ, and in front of it], [حَدِيقَةٌ, "(is) a garden"]]
+    en: "Bilal's house is small, with a garden in front of it."
+  - words: [[خَرَجَتْ, came out], [أُمُّ, "(the) mother"], [بِلَالٍ, "(of) Bilal"], [وَمَرْيَمُ, and Maryam], [إِلَى, to], [الْبَابِ, the door]]
+    en: "Bilal's mother and Maryam came out to the door."
+  - words: [[قَالَتْ, said], [أُمُّ, "(the) mother"], [بِلَالٍ, "(of) Bilal"], [أَهْلًا, Welcome], [يَا, O], [زَيْدُ, Zayd], [هٰذَا, "This (is)"], [بَيْتُكَ, your house]]
+    en: "Bilal's mother said: Welcome, Zayd. This is your home."
+  - words: [[دَخَلَ, entered], [زَيْدٌ, Zayd], [غُرْفَةَ, "(the) room"], [بِلَالٍ, "(of) Bilal"], [وَوَضَعَ, and he put down], [حَقِيبَتَهُ, his bag]]
+    en: "Zayd went into Bilal's room and put down his bag."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [أَنْتَ, You], [تَنَامُ, sleep], [هُنَا, here], [وَأَنَا, and I], [أَنَامُ, sleep], [هُنَاكَ, there]]
+    en: "Bilal said: You sleep here, and I sleep there."
+  - words: [[بَعْدَ, After], [الْعَصْرِ, "(the) Asr"], [ذَهَبَ, went], [بِلَالٌ, Bilal], [وَزَيْدٌ, and Zayd], [إِلَى, to], [الْبَحْرِ, the sea]]
+    en: "After Asr, Bilal and Zayd went to the sea."
+  - words: [[الْبَحْرُ, The sea], [قَرِيبٌ, "(is) near"], [مِنْ, "(to)"], [بَيْتِ, "(the) house"], [بِلَالٍ, "(of) Bilal"]]
+    en: "The sea is close to Bilal's house."
+  - words: [[عَلَى, "On"], [الشَّاطِئِ, the shore], [يَمْشِي, walk], [كَثِيرٌ, many], [مِنَ, of], [النَّاسِ, the people]]
+    en: "Many people walk on the shore."
+  - words: [[وَيَلْعَبُ, and play], [الْأَوْلَادُ, the boys], [بِالْكُرَةِ, with the ball], [عَلَى, "on"], [الرَّمْلِ, the sand]]
+    en: "And boys play football on the sand."
+  - words: [[نَظَرَ, looked], [زَيْدٌ, Zayd], [إِلَى, at], [الْبَحْرِ, the sea], [طَوِيلًا, "(for) a long time"]]
+    en: "Zayd looked at the sea for a long time."
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [فِي, In], [الْقَاهِرَةِ, Cairo], [نَرَى, we see], [النِّيلَ, the Nile], [وَلَا, but not], [نَرَى, we see], [الْبَحْرَ, the sea]]
+    en: "Zayd said: In Cairo we see the Nile, but we do not see the sea."
+  - words: [[قَالَ, said], [بِلَالٌ, Bilal], [أَنَا, I], [أَسْبَحُ, swim], [هُنَا, here], [مَعَ, with], [أَبِي, my father], [كُلَّ, every], [أُسْبُوعٍ, week]]
+    en: "Bilal said: I swim here with my father every week."
+  - words: [[رَأَى, saw], [زَيْدٌ, Zayd], [الشَّمْسَ, the sun], [تَغْرُبُ, setting], [فِي, into], [الْبَحْرِ, the sea]]
+    en: "Zayd watched the sun setting into the sea."
+  - words: [[فِي, In], [الْمَسْجِدِ, the mosque], [صَلَّى, prayed], [زَيْدٌ, Zayd], [الْمَغْرِبَ, "(the) Maghrib"], [مَعَ, with], [بِلَالٍ, Bilal], [وَأَبِيهِ, and his father]]
+    en: "In the mosque Zayd prayed Maghrib with Bilal and his father."
+  - words: [[ثُمَّ, Then], [رَجَعُوا, they returned], [إِلَى, to], [الْبَيْتِ, the house], [وَأَكَلُوا, and they ate], [طَعَامًا, food], [طَيِّبًا, good]]
+    en: "Then they went back home and ate a good meal."
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [لِأُمِّ, to (the) mother], [بِلَالٍ, "(of) Bilal"], [طَعَامُكِ, Your food], [طَيِّبٌ, "(is) good"], [جِدًّا, very]]
+    en: "Zayd said to Bilal's mother: Your food is delicious!"
+  - words: [[وَفِي, And in], [الصَّبَاحِ, the morning], [ذَهَبَ, went], [زَيْدٌ, Zayd], [مَعَ, with], [بِلَالٍ, Bilal], [إِلَى, to], [الْمَدْرَسَةِ, the madrasa]]
+    en: "In the morning Zayd went with Bilal to the madrasa."
+  - words: [[الْمَدْرَسَةُ, The madrasa], [كَبِيرَةٌ, "(is) big"], [وَفِيهَا, and in it], [طُلَّابٌ, "(are) students"], [كَثِيرُونَ, many]]
+    en: "The madrasa is big, and it has many students."
+  - words: [[يَقْرَأُ, read], [الطُّلَّابُ, the students], [الْقُرْآنَ, the Quran], [وَيَحْفَظُونَهُ, and they memorise it], [كُلَّ, every], [يَوْمٍ, day]]
+    en: "The students read the Quran and memorise it every day."
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, Ustadh], [حَامِدٌ, Hamid], [أَهْلًا, welcome], [بِكَ, to you], [يَا, O], [زَيْدُ, Zayd]]
+    en: "Ustadh Hamid said: Welcome, Zayd."
+  - words: [[هَلْ, "(Do)"], [تَحْفَظُ, you know by heart], [شَيْئًا, something], [مِنَ, of], [الْقُرْآنِ, the Quran]]
+    en: "Do you know any of the Quran by heart?"
+  - words: [[قَالَ, said], [زَيْدٌ, Zayd], [نَعَمْ, "yes"], [أَحْفَظُ, I know by heart], [جُزْءَ, Juz], [عَمَّ, Amma]]
+    en: "Zayd said: Yes, I know Juz 'Amma by heart."
+  - words: [[وَأَنَا, And I], [أَحْفَظُ, am memorising], [الْآنَ, now], [جُزْءَ, Juz], [تَبَارَكَ, Tabarak]]
+    en: "And now I am memorising Juz Tabarak."
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [أَحْسَنْتَ, well done], [وَبِلَالٌ, and Bilal], [يَقْرَأُ, will read], [مَعَكَ, with you], [كُلَّ, every], [يَوْمٍ, day]]
+    en: "The Ustadh said: Well done. Bilal will read with you every day."
+  - words: [[فِي, In], [الْمَسَاءِ, the evening], [كَتَبَ, wrote], [زَيْدٌ, Zayd], [رِسَالَةً, a letter], [إِلَى, to], [أُسْرَتِهِ, his family]]
+    en: "In the evening Zayd wrote a letter to his family."
+  - words: [[كَتَبَ, He wrote], [أَنَا, I], [أُحِبُّ, love], [هٰذَا, this], [الْبَلَدَ, country], [وَأُحِبُّ, and I love], [أَهْلَهُ, its people]]
+    en: "He wrote: I love this country, and I love its people."
+
+dictionary:
+  - {ar: سَافَرَ, en: he travelled, pos: [فعل ماض, past verb], root: سفر, pattern: فَاعَلَ, present: يُسَافِرُ, bab: بَابُ الْمُفَاعَلَةِ, ayah: {ref: "2:184", text: أَوْ عَلَىٰ سَفَرٍ, en: "or on a journey"}, note: "A traveller is مُسَافِرٌ; a journey is سَفَرٌ. In بَابُ الْمُفَاعَلَةِ a long ا follows the first root letter, and the present prefix takes a damma."}
+  - {ar: لَيْلٌ, en: night, pos: [اسم, noun], root: ليل, pattern: فَعْلٌ, plural: لَيَالٍ, ayah: {ref: "92:1", text: وَاللَّيْلِ إِذَا يَغْشَىٰ, en: "by the night when it covers over"}, note: "One night is لَيْلَةٌ, as in لَيْلَةُ الْقَدْرِ."}
+  - {ar: طَائِرَةٌ, en: aeroplane, pos: [اسم فاعل, active participle], root: طير, pattern: فَاعِلَةٌ, plural: طَائِرَاتٌ, ayah: {ref: "67:19", text: أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ, en: "have they not seen the birds above them, spreading their wings"}, register: modern, note: "Literally a flying thing (طَارَ, it flew). The Quran has طَيْرٌ, birds, from the same root."}
+  - {ar: وَصَلَ, en: he arrived; he joined, pos: [فعل ماض, past verb], root: وصل, pattern: فَعَلَ, present: يَصِلُ, bab: بَابُ ضَرَبَ, ayah: {ref: "13:21", text: وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ, en: "and those who join what Allah has commanded to be joined"}, register: both, note: "In the Quran: to join, to keep ties. Today also: to arrive (وَصَلَ إِلَى). In the present the first root letter و drops (يَصِلُ)."}
+  - {ar: مَطَارٌ, en: airport, pos: [اسم مكان, noun of place], root: طير, pattern: مَفْعَلٌ, plural: مَطَارَاتٌ, register: modern, note: "The place of flying (طَارَ). Compare مَطْبَخٌ and مَكْتَبٌ, which follow the same pattern."}
+  - {ar: نَظَرَ, en: he looked, pos: [فعل ماض, past verb], root: نظر, pattern: فَعَلَ, present: يَنْظُرُ, bab: بَابُ نَصَرَ, ayah: {ref: "88:17", text: أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ, en: "do they not look at the camels, how they were created"}, note: "نَظَرَ إِلَى: to look at."}
+  - {ar: خَرَجَ, en: he went out; he came out, pos: [فعل ماض, past verb], root: خرج, pattern: فَعَلَ, present: يَخْرُجُ, bab: بَابُ نَصَرَ, ayah: {ref: "86:7", text: يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ, en: "it comes out from between the backbone and the ribs"}, note: "The opposite of دَخَلَ."}
+  - {ar: سَعِيدٌ, en: happy, pos: [صفة مشبهة, adjective], root: سعد, pattern: فَعِيلٌ, plural: سُعَدَاءُ, ayah: {ref: "11:105", text: فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ, en: "so among them are the wretched and the happy"}}
+  - {ar: سَيَّارَةٌ, en: car; (in the Quran) caravan, pos: [اسم, noun], root: سير, pattern: فَعَّالَةٌ, plural: سَيَّارَاتٌ, ayah: {ref: "12:19", text: وَجَاءَتْ سَيَّارَةٌ, en: "and a caravan came"}, register: both, note: "From سَارَ, to travel. In the Quran: a band of travellers. Today: a car. You will meet the Quran meaning in story 2."}
+  - {ar: طَرِيقٌ, en: road; way, pos: [اسم, noun], root: طرق, pattern: فَعِيلٌ, plural: طُرُقٌ, ayah: {ref: "20:77", text: فَاضْرِبْ لَهُمْ طَرِيقًا فِي الْبَحْرِ يَبَسًا, en: "strike for them a dry path through the sea"}}
+  - {ar: بَلَدٌ, en: country; town, pos: [اسم, noun], root: بلد, pattern: فَعَلٌ, plural: بِلَادٌ, ayah: {ref: "90:1", text: لَا أُقْسِمُ بِهَـٰذَا الْبَلَدِ, en: "I swear by this city"}, note: "In the Quran الْبَلَدُ here is Makkah."}
+  - {ar: أَخْضَرُ, en: green, pos: [صفة مشبهة, adjective], root: خضر, pattern: أَفْعَلُ, plural: خُضْرٌ, ayah: {ref: "18:31", text: وَيَلْبَسُونَ ثِيَابًا خُضْرًا, en: "and they will wear green garments"}, note: "Colour pattern: masculine أَخْضَرُ, feminine خَضْرَاءُ, plural خُضْرٌ. No tanwin on أَخْضَرُ."}
+  - {ar: حَدِيقَةٌ, en: garden, pos: [اسم, noun], root: حدق, pattern: فَعِيلَةٌ, plural: حَدَائِقُ, ayah: {ref: "80:30", text: وَحَدَائِقَ غُلْبًا, en: "and gardens thick with trees"}}
+  - {ar: دَخَلَ, en: he entered, pos: [فعل ماض, past verb], root: دخل, pattern: فَعَلَ, present: يَدْخُلُ, bab: بَابُ نَصَرَ, ayah: {ref: "110:2", text: يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا, en: "entering the religion of Allah in crowds"}, note: "They enter: يَدْخُلُونَ."}
+  - {ar: نَامَ, en: he slept, pos: [فعل ماض, past verb], root: نوم, pattern: فَعِلَ, present: يَنَامُ, bab: بَابُ سَمِعَ, ayah: {ref: "2:255", text: لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ, en: "neither drowsiness nor sleep overtakes Him"}, note: "A hollow verb (the middle root letter و shows only in the noun). I sleep: أَنَامُ. Sleep is نَوْمٌ, where the root و shows."}
+  - {ar: بَحْرٌ, en: sea, pos: [اسم, noun], root: بحر, pattern: فَعْلٌ, plural: بِحَارٌ, ayah: {ref: "81:6", text: وَإِذَا الْبِحَارُ سُجِّرَتْ, en: "and when the seas are set ablaze"}}
+  - {ar: مَشَى, en: he walked, pos: [فعل ماض, past verb], root: مشي, pattern: فَعَلَ, present: يَمْشِي, bab: بَابُ ضَرَبَ, ayah: {ref: "25:63", text: الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا, en: "those who walk on the earth gently"}}
+  - {ar: سَبَحَ, en: he swam; he floated, pos: [فعل ماض, past verb], root: سبح, pattern: فَعَلَ, present: يَسْبَحُ, bab: بَابُ فَتَحَ, ayah: {ref: "36:40", text: وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ, en: "and each floats in an orbit"}, register: both, note: "In the Quran: the sun and moon swim through their orbits. I swim: أَسْبَحُ."}
+  - {ar: شَمْسٌ, en: sun, pos: [اسم, noun], root: شمس, pattern: فَعْلٌ, ayah: {ref: "91:1", text: وَالشَّمْسِ وَضُحَاهَا, en: "by the sun and its morning brightness"}, note: "A feminine word with no ة: الشَّمْسُ تَغْرُبُ, the sun sets."}
+  - {ar: غَرَبَ, en: it set (the sun), pos: [فعل ماض, past verb], root: غرب, pattern: فَعَلَ, present: يَغْرُبُ, bab: بَابُ نَصَرَ, ayah: {ref: "18:86", text: وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ, en: "he found it setting in a spring of dark mud"}, note: "With the sun the present is تَغْرُبُ (the sun is feminine). The sunset prayer is الْمَغْرِبُ."}
+  - {ar: شَيْءٌ, en: thing; something, pos: [اسم, noun], root: شيأ, pattern: فَعْلٌ, plural: أَشْيَاءُ, ayah: {ref: "2:20", text: إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ, en: "indeed Allah has power over everything"}, note: "شَيْئًا: something (as an object)."}
+  - {ar: أَحَبَّ, en: he loved, pos: [فعل ماض, past verb], root: حبب, pattern: أَفْعَلَ, present: يُحِبُّ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "2:195", text: إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ, en: "indeed Allah loves those who do good"}, note: "I love: أُحِبُّ. A doubled root (مُضَعَّفٌ): the two ب join. In بَابُ الْإِفْعَالِ the present prefix takes a damma."}
+
+root_families:
+  - root: طير
+    words: [[طَارَ, "it flew"], [طَيْرٌ, "birds"], [طَائِرٌ, "a bird; a flier"], [طَائِرَةٌ, "aeroplane"], [مَطَارٌ, "airport"]]
+  - root: سفر
+    words: [[سَافَرَ, "he travelled"], [سَفَرٌ, "journey"], [مُسَافِرٌ, "traveller"]]
+
+grammar:
+  title_ar: الْفِعْلُ الْمُضَارِعُ
+  title_en: "The مُضَارِع verb: present, habit and future (يَفْعَلُ)"
+  body: >-
+    The فِعْلٌ مَاضٍ (past verb, فَعَلَ) tells what was done. The فِعْلٌ مُضَارِعٌ (يَفْعَلُ) tells what is being done, what is usually done,
+    or what will be done (بِلَالٌ يَقْرَأُ مَعَكَ, Bilal will read with you).
+    It is built by adding one letter in front of the root: أَ for "I", نَ for "we", يَ for "he", تَ for "you" and for "she".
+    In a صَحِيحٌ سَالِمٌ verb (three strong root letters) the first root letter takes a sukun and the ending is a damma (مَرْفُوعٌ): ذَهَبَ, يَذْهَبُ.
+    A hollow verb such as نَامَ is an exception: the first root letter takes a fatha (تَنَامُ, أَنَامُ). For "they" add ـُونَ: يَحْفَظُونَ.
+    Put لَا in front to say "not": لَا نَرَى.
+  examples:
+    - [أَنَا أَسْبَحُ هُنَا, "I swim here."]
+    - [أَنْتَ تَنَامُ هُنَا وَأَنَا أَنَامُ هُنَاكَ, "You sleep here and I sleep there. (hollow verb: exception)"]
+    - [يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا, "entering the religion of Allah in crowds (110:2)"]
+
+tip:
+  title: "Reading without vowels: the letters أ ن ي ت"
+  body: >-
+    Teachers remember the present prefixes as أَنَيْتُ: أ ن ي ت. When a word starts with one of these four letters and is followed by
+    three root letters you know, it is very likely a present verb: أسبح, نرى, يقرأ, تحفظ. Read the prefix with a fatha and, in a صَحِيحٌ سَالِمٌ verb, the first
+    root letter with a sukun: ya-q-ra-'u, ta-ḥ-fa-ẓu. Weak verbs like نرى and تنام differ, so check the dictionary. Verbs of بَابُ الْإِفْعَالِ like أحبّ take a damma on the prefix: uḥibbu, yuḥibbu.
+
+try_it:
+  words: [يقرأ, أسبح, نرى, البحر, الطائرة]
+  sentence: أنت تنام هنا وأنا أنام هناك
+
+reread: Cover the grey word line with a strip of paper and read the story again. Underline every present verb and say who is doing it.

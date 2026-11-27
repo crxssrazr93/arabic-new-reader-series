@@ -1,0 +1,28 @@
+/* Design tokens shared by the print booklets (style.css) and the website (site.css).
+   One source for every size, line height, gap and colour: see docs/design_system.md. */
+:root {
+  /* colour */
+  --ink: #1d2433; --muted: #6b7280; --gloss: #7b8190; --rule: #e4e1da;
+  --accent: #0f6e66; --accent-soft: #e8f3f1; --root: #b3261e;
+  --quran: #1f6a3a; --quran-soft: #eef6f0; --gold: #b7862b; --paper-soft: #faf7f1;
+
+  /* type: Latin */
+  --fs-micro: 7pt; --fs-caption: 7.8pt; --fs-small: 8.5pt; --fs-body: 10.5pt;
+  --fs-h3: 11pt; --fs-h2: 15pt; --fs-h1: 19pt; --fs-display: 30pt;
+
+  /* type: Arabic */
+  --ar-font: "Scheherazade New", "Amiri", serif;
+  --ar-s: 13pt; --ar-m: 17pt; --ar-l: 23pt; --ar-xl: 26pt; --ar-title: 30pt; --ar-display: 36pt;
+  --ar-inline: 1.25em;
+
+  /* line height */
+  --lh-tight: 1.2; --lh-latin: 1.5; --lh-mixed: 1.85;
+  --lh-ar-word: 1.6; --lh-ar: 1.9; --lh-ar-para: 2.1;
+
+  /* space */
+  --sp-1: 1mm; --sp-2: 2mm; --sp-3: 3mm; --sp-4: 4mm; --sp-5: 5mm; --sp-6: 6mm;
+  --gloss-gap: 2.4mm; --word-gap: 5.5mm; --line-gap: 3mm;
+
+  /* shape */
+  --radius-s: 1.5mm; --radius-m: 2.5mm; --radius-l: 3mm;
+}

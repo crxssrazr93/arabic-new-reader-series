@@ -1,0 +1,55 @@
+{% extends "base.html.j2" %}
+{% from "_parts.html.j2" import downloads %}
+{% set nav = 'booklets' %}
+{% block main %}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ root }}index.html">Home</a><span aria-hidden="true">/</span>{{ b.label }}</nav>
+
+  <header class="b-head">
+    <div>
+      <div class="kicker">{% if b.bonus %}{{ b.level.label }}{% else %}Booklet {{ b.n }} of 5 · {{ b.level.label }}{% endif %}</div>
+      <h1>{{ b.title }}</h1>
+    </div>
+    <div class="title-ar ar" lang="ar" dir="rtl">{{ b.title_ar }}</div>
+    <p class="sub">{{ b.subtitle }}</p>
+    {% if b.cover %}<figure class="ill"><img src="{{ root }}img/{{ b.cover.src }}" width="{{ b.cover.w }}" height="{{ b.cover.h }}" alt=""></figure>{% endif %}
+  </header>
+
+  <section class="levelbox" aria-label="What this booklet adds and assumes">
+    <div><h3>What it adds</h3><p>{{ b.level.adds|bidi }}</p></div>
+    <div class="gold"><h3>What it assumes</h3><p>{{ b.level.assumes|bidi }}</p></div>
+  </section>
+
+  <section class="section" id="stories">
+    <h2>{{ "Surahs" if b.bonus else "Stories" }}</h2>
+    <ol class="slist">
+      {% for st in b.stories %}
+      <li><a href="{{ st.file }}"><span class="n">{{ st.surah if b.bonus else st.number }}</span><span class="t">{{ st.title_en }}</span><span class="ar" lang="ar" dir="rtl">{{ st.title_ar }}</span><span class="m">{% if b.bonus %}{{ st.sents|length }} ayat{% else %}{{ st.strand|capitalize }} · {{ st.sents|length }} sentences{% endif %}</span></a></li>
+      {% endfor %}
+    </ol>
+    <p style="margin-top: var(--x-sp-4)"><a href="glossary.html">Glossary of the whole booklet</a>, ordered by root and searchable.</p>
+  </section>
+
+  <section class="section" id="how">
+    <h2>How to use this booklet</h2>
+    <div class="prose">{% for p in b.intro %}<p>{{ p|bidi }}</p>{% endfor %}</div>
+    <div class="howto" style="margin-top: var(--x-sp-4)">
+      {% for c in b.howto %}<div class="c"><b>{{ c[0] }}</b><p>{{ c[1]|bidi }}</p></div>{% endfor %}
+    </div>
+  </section>
+
+  <section class="section" id="download">
+    <h2>Print it</h2>
+    <p>The same stories as a PDF for A4 paper. Each part is thin enough to staple.</p>
+    {{ downloads(b) }}
+  </section>
+
+  <nav class="pager" aria-label="Booklets">
+    {% if b.bonus %}<a href="{{ root }}b1/index.html" rel="prev"><span class="d">Read alongside</span>{{ booklets[0].title }}</a><a href="{{ root }}b2/index.html" rel="next"><span class="d">Or alongside</span>{{ booklets[1].title }}</a>
+    {% else %}
+    {% if b.n > 1 %}{% set p = booklets[b.n - 2] %}<a href="{{ root }}{{ p.dir }}/index.html" rel="prev"><span class="d">Previous booklet</span>{{ p.title }}</a>{% else %}<a href="{{ root }}index.html"><span class="d">Home</span>All booklets</a>{% endif %}
+    {% if b.n < 5 %}{% set q = booklets[b.n] %}<a href="{{ root }}{{ q.dir }}/index.html" rel="next"><span class="d">Next booklet</span>{{ q.title }}</a>{% else %}<a href="{{ root }}about.html"><span class="d">After booklet 5</span>About the series</a>{% endif %}
+    {% endif %}
+  </nav>
+</div>
+{% endblock %}

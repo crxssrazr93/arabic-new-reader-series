@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en"{% block htmlattrs %}{% endblock %}>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}{% if title != site.title %} · {{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ description }}">
+<link rel="preload" href="{{ root }}fonts/ScheherazadeNew-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="{{ root }}site.css">
+{% block head %}{% endblock %}
+<script type="module" src="{{ root }}site.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="{{ root }}index.html">{{ site.title }}</a>
+    <nav class="nav" aria-label="Site">
+      <a href="{{ root }}index.html#booklets"{% if nav == 'booklets' %} aria-current="page"{% endif %}>Booklets</a>
+      <a href="{{ root }}about.html"{% if nav == 'about' %} aria-current="page"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<p class="draft-note">Draft: a teacher is still reviewing this series, and mistakes are possible. <a href="{{ site.issues }}">Report a mistake</a>.</p>
+{% block main %}{% endblock %}
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <p>Quran text from <a href="https://tanzil.net">Tanzil</a> (tanzil.net), CC BY 3.0, unchanged. Content CC BY-SA 4.0. Code MIT.</p>
+    <p><a href="{{ root }}about.html">About and sources</a> · <a href="{{ site.issues }}">Report a mistake</a></p>
+  </div>
+</footer>
+</body>
+</html>

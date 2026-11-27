@@ -1,0 +1,122 @@
+# Booklet 1, story 1. Modern strand. Grammar ceiling: Madinah Book 1.
+id: b1-01
+booklet: 1
+number: 1
+strand: modern
+title_ar: بِلَالٌ فِي الْمَدْرَسَةِ
+title_en: Bilal at the Madrasa
+madinah: "Book 1: lessons 1 to 7 (هٰذَا, ال, prepositions, idafa)"
+vowels: full
+gloss: all
+
+# Each word is [arabic, gloss]. A third item "q" marks words that belong to a Quran quote.
+# Illustrations sit before the sentence whose number they carry.
+illustrations:
+  - before: 5
+    file: b1-01-mosque-dawn.png
+    alt: A mosque at dawn with a minaret and a lit doorway
+  - before: 10
+    file: b1-01-book-pen.png
+    alt: A book and a pen on a low wooden desk
+  - before: 12
+    file: b1-01-classroom.png
+    alt: A classroom seen from the back, with simple faceless figures seated on the floor
+    prompt: A madrasa classroom in bright morning sunlight, seen from the back of the room. A few boys in white caps and white clothes sit cross-legged on red carpets facing the front, all seen strictly from behind. Low wooden bookshelves, an arched window showing palm trees and a blue morning sky.
+
+sentences:
+  - words: [[هٰذَا, This], [بِلَالٌ, "(is) Bilal"]]
+    en: This is Bilal.
+  - words: [[بِلَالٌ, Bilal], [طَالِبٌ, "(is) a student"], [فِي, in], [مَدْرَسَةٍ, a school], [كَبِيرَةٍ, big]]
+    en: Bilal is a student in a big madrasa.
+  - words: [[وَهُوَ, and he], [حَافِظٌ, "(is) a hafiz"], [لِلْقُرْآنِ, of the Quran]]
+    en: And he is a hafiz of the Quran.
+  - words: [[بَيْتُ, house], [بِلَالٍ, "(of) Bilal"], [قَرِيبٌ, "(is) near"], [مِنَ, from], [الْمَسْجِدِ, the mosque]]
+    en: Bilal's house is near the mosque.
+  - words: [[فِي, In], [الصَّبَاحِ, the morning], [ذَهَبَ, went], [بِلَالٌ, Bilal], [إِلَى, to], [الْمَسْجِدِ, the mosque]]
+    en: In the morning Bilal went to the mosque.
+  - words: [[وَصَلَّى, and he prayed], [الْفَجْرَ, "(the) Fajr"], [مَعَ, with], [أَبِيهِ, his father]]
+    en: And he prayed Fajr with his father.
+  - words: [[ثُمَّ, Then], [رَجَعَ, he returned], [إِلَى, to], [الْبَيْتِ, the house]]
+    en: Then he returned home.
+  - words: [[أُمُّهُ, His mother], [فِي, "(is) in"], [الْمَطْبَخِ, the kitchen]]
+    en: His mother is in the kitchen.
+  - words: [[وَأُخْتُهُ, and his sister], [مَرْيَمُ, Maryam], [فِي, "(is) in"], [غُرْفَتِهَا, her room]]
+    en: And his sister Maryam is in her room.
+  - words: [[أَخَذَ, took], [بِلَالٌ, Bilal], [كِتَابَهُ, his book], [وَقَلَمَهُ, and his pen]]
+    en: Bilal took his book and his pen.
+  - words: [[وَذَهَبَ, and he went], [إِلَى, to], [الْمَدْرَسَةِ, the madrasa]]
+    en: And he went to the madrasa.
+  - words: [[الْمُعَلِّمُ, The teacher], [فِي, "(is) in"], [الْفَصْلِ, the classroom]]
+    en: The teacher is in the classroom.
+  - words: [[اِسْمُ, name], [الْمُعَلِّمِ, "(of) the teacher"], [الْأُسْتَاذُ, "(is) Ustadh"], [حَامِدٌ, Hamid]]
+    en: The teacher's name is Ustadh Hamid.
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], ["السَّلَامُ", the peace], [عَلَيْكُمْ, "(be) upon you"]]
+    en: "The Ustadh said: Peace be upon you."
+  - words: [[قَالَ, said], [الطُّلَّابُ, the students], [وَعَلَيْكُمُ, and upon you], [السَّلَامُ, "(be) the peace"]]
+    en: "The students said: And upon you be peace."
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [يَا, O], [بِلَالُ, Bilal], [اِقْرَأْ, read!]]
+    en: "The Ustadh said: O Bilal, read!"
+  - words: [[قَرَأَ, recited], [بِلَالٌ, Bilal], [اقْرَأْ, Read, q], [بِاسْمِ, in (the) name, q], [رَبِّكَ, "(of) your Lord", q], [الَّذِي, who, q], [خَلَقَ, created, q]]
+    en: "Bilal recited: Read in the name of your Lord who created."
+    quote: {ref: "96:1", text: اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ}
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [أَحْسَنْتَ, you did well], [يَا, O], [بِلَالُ, Bilal]]
+    en: "The Ustadh said: Well done, Bilal!"
+  - words: [[فَرِحَ, was happy], [بِلَالٌ, Bilal], [كَثِيرًا, a lot]]
+    en: Bilal was very happy.
+
+# Dictionary section. pos is [Arabic term, English]. ayah text must match Tanzil (checked by scripts/verify_ayat.py).
+dictionary:
+  - {ar: طَالِبٌ, en: student; seeker, pos: [اسم فاعل, active participle], root: طلب, pattern: فَاعِلٌ, plural: طُلَّابٌ, ayah: {ref: "22:73", text: ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ, en: "weak are the seeker and the sought"}, note: "In the Quran: the seeker. Today: a student."}
+  - {ar: مَدْرَسَةٌ, en: school; madrasa, pos: [اسم مكان, noun of place], root: درس, pattern: مَفْعَلَةٌ, plural: مَدَارِسُ, ayah: {ref: "3:79", text: وَبِمَا كُنتُمْ تَدْرُسُونَ, en: "and because of what you have been studying"}, note: "The place where you study (دَرَسَ)."}
+  - {ar: كَبِيرٌ, en: big; great, pos: [صفة مشبهة, adjective], root: كبر, pattern: فَعِيلٌ, plural: كِبَارٌ, ayah: {ref: "4:34", text: إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا, en: "truly Allah is Most High, Most Great"}}
+  - {ar: حَافِظٌ, en: one who memorises; guardian, pos: [اسم فاعل, active participle], root: حفظ, pattern: فَاعِلٌ, plural: حُفَّاظٌ, ayah: {ref: "15:9", text: وَإِنَّا لَهُ لَحَافِظُونَ, en: "and indeed We will guard it"}}
+  - {ar: بَيْتٌ, en: house; home, pos: [اسم, noun], root: بيت, pattern: فَعْلٌ, plural: بُيُوتٌ, ayah: {ref: "106:3", text: فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ, en: "so let them worship the Lord of this House"}}
+  - {ar: قَرِيبٌ, en: near, pos: [صفة مشبهة, adjective], root: قرب, pattern: فَعِيلٌ, ayah: {ref: "2:186", text: فَإِنِّي قَرِيبٌ, en: "then I am near"}}
+  - {ar: مَسْجِدٌ, en: mosque, pos: [اسم مكان, noun of place], root: سجد, pattern: مَفْعِلٌ, plural: مَسَاجِدُ, ayah: {ref: "17:1", text: مِّنَ الْمَسْجِدِ الْحَرَامِ, en: "from the Sacred Mosque"}, note: "The place of sujud (سَجَدَ)."}
+  - {ar: صَبَاحٌ, en: morning, pos: [اسم, noun], root: صبح, pattern: فَعَالٌ, ayah: {ref: "37:177", text: فَسَاءَ صَبَاحُ الْمُنذَرِينَ, en: "then evil will be the morning of those who were warned"}}
+  - {ar: ذَهَبَ, en: he went, pos: [فعل ماض, past verb], root: ذهب, pattern: فَعَلَ, present: يَذْهَبُ, bab: بَابُ فَتَحَ, ayah: {ref: "79:17", text: اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ, en: "go to Fir'awn (Pharaoh), for he has transgressed all bounds"}}
+  - {ar: صَلَّى, en: he prayed, pos: [فعل ماض, past verb], root: صلو, pattern: فَعَّلَ, present: يُصَلِّي, bab: بَابُ التَّفْعِيلِ, ayah: {ref: "108:2", text: فَصَلِّ لِرَبِّكَ وَانْحَرْ, en: "so pray to your Lord and sacrifice"}, note: "A doubled middle letter (shadda): a verb of بَابُ التَّفْعِيلِ (فَعَّلَ)."}
+  - {ar: رَجَعَ, en: he returned, pos: [فعل ماض, past verb], root: رجع, pattern: فَعَلَ, present: يَرْجِعُ, bab: بَابُ ضَرَبَ, ayah: {ref: "96:8", text: إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ, en: "surely to your Lord is the return"}}
+  - {ar: أُمٌّ, en: mother, pos: [اسم, noun], root: أمم, plural: أُمَّهَاتٌ, ayah: {ref: "28:10", text: وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا, en: "and the heart of Musa's mother became empty"}}
+  - {ar: أُخْتٌ, en: sister, pos: [اسم, noun], root: أخو, plural: أَخَوَاتٌ, ayah: {ref: "19:28", text: يَا أُخْتَ هَارُونَ, en: "O sister of Harun"}}
+  - {ar: غُرْفَةٌ, en: room, pos: [اسم, noun], root: غرف, pattern: فُعْلَةٌ, plural: غُرَفٌ, ayah: {ref: "25:75", text: أُولَـٰئِكَ يُجْزَوْنَ الْغُرْفَةَ, en: "those will be rewarded with the high chamber"}, register: both, note: "In the Quran: a high chamber in Paradise. Today: any room."}
+  - {ar: مَطْبَخٌ, en: kitchen, pos: [اسم مكان, noun of place], root: طبخ, pattern: مَفْعَلٌ, plural: مَطَابِخُ, register: modern, note: "Place where you cook (طَبَخَ)."}
+  - {ar: أَخَذَ, en: he took, pos: [فعل ماض, past verb], root: أخذ, pattern: فَعَلَ, present: يَأْخُذُ, bab: بَابُ نَصَرَ, ayah: {ref: "69:45", text: لَأَخَذْنَا مِنْهُ بِالْيَمِينِ, en: "We would have seized him by the right hand"}}
+  - {ar: كِتَابٌ, en: book, pos: [اسم, noun], root: كتب, pattern: فِعَالٌ, plural: كُتُبٌ, ayah: {ref: "2:2", text: ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ, en: "that is the Book, in which there is no doubt"}}
+  - {ar: قَلَمٌ, en: pen, pos: [اسم, noun], root: قلم, pattern: فَعَلٌ, plural: أَقْلَامٌ, ayah: {ref: "96:4", text: الَّذِي عَلَّمَ بِالْقَلَمِ, en: "who taught by the pen"}}
+  - {ar: مُعَلِّمٌ, en: teacher, pos: [اسم فاعل, active participle], root: علم, pattern: مُفَعِّلٌ, plural: مُعَلِّمُونَ, ayah: {ref: "96:5", text: عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ, en: "He taught man what he did not know"}, note: "The one who teaches (عَلَّمَ)."}
+  - {ar: فَصْلٌ, en: classroom; separation, pos: [اسم, noun], root: فصل, pattern: فَعْلٌ, plural: فُصُولٌ, ayah: {ref: "78:17", text: إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا, en: "truly the Day of Decision is an appointed time"}, register: both, note: "In the Quran: the Day of Decision, when Allah judges between His creation. Today: a classroom, or a season."}
+  - {ar: أُسْتَاذٌ, en: teacher; Ustadh, pos: [اسم, noun], plural: أَسَاتِذَةٌ, register: modern, note: "Borrowed from Persian, so it has no Arabic root."}
+  - {ar: سَلَامٌ, en: peace, pos: [اسم, noun], root: سلم, pattern: فَعَالٌ, ayah: {ref: "97:5", text: سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ, en: "it is peace until the break of dawn"}}
+  - {ar: قَرَأَ, en: he read; he recited, pos: [فعل ماض, past verb], root: قرأ, pattern: فَعَلَ, present: يَقْرَأُ, bab: بَابُ فَتَحَ, ayah: {ref: "96:1", text: اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ, en: "read in the name of your Lord who created"}, note: "اِقْرَأْ: read! A command (فِعْلُ أَمْرٍ)."}
+  - {ar: أَحْسَنَ, en: he did well, pos: [فعل ماض, past verb], root: حسن, pattern: أَفْعَلَ, present: يُحْسِنُ, bab: بَابُ الْإِفْعَالِ, ayah: {ref: "55:60", text: هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ, en: "is the reward for doing good anything but good"}, note: "In the story: أَحْسَنْتَ, you did well (said to one man)."}
+  - {ar: فَرِحَ, en: he was happy, pos: [فعل ماض, past verb], root: فرح, pattern: فَعِلَ, present: يَفْرَحُ, bab: بَابُ سَمِعَ, ayah: {ref: "10:58", text: فَبِذَٰلِكَ فَلْيَفْرَحُوا, en: "so in that let them rejoice"}}
+
+root_families:
+  - root: علم
+    words: [[عَلِمَ, he knew], [عِلْمٌ, knowledge], [عَالِمٌ, scholar], [عَلَّمَ, he taught], [مُعَلِّمٌ, teacher]]
+  - root: درس
+    words: [[دَرَسَ, he studied], [دَرْسٌ, lesson], [مَدْرَسَةٌ, school], [مُدَرِّسٌ, teacher]]
+
+grammar:
+  title_ar: الْمُضَافُ وَالْمُضَافُ إِلَيْهِ
+  title_en: "Idafa: joining two nouns"
+  body: >-
+    Two nouns side by side can mean "the X of Y". The first noun, الْمُضَافُ, never takes ال and never takes tanwin.
+    The second noun, الْمُضَافُ إِلَيْهِ, is always مَجْرُورٌ (genitive, usually a kasra).
+  examples:
+    - [بَيْتُ بِلَالٍ, "Bilal's house (the house of Bilal)"]
+    - [اِسْمُ الْمُعَلِّمِ, "the teacher's name"]
+    - [صَبَاحُ الْمُنذَرِينَ, "the morning of those who were warned (Quran 37:177)"]
+
+tip:
+  title: "Reading without vowels: the فَاعِلٌ pattern"
+  body: >-
+    A word written with ا after its first root letter, like طالب or حافظ, is very often on the pattern فَاعِلٌ: "one who does".
+    So without any marks you can read طالب as ṭālib and حافظ as ḥāfiẓ. The pattern gives you the vowels.
+
+try_it:
+  words: [مدرسة, طالب, كتاب, المسجد, قلم]
+  sentence: بيت بلال قريب من المسجد
+
+reread: Cover the grey word line with a strip of paper and read the story again. Check yourself only when you are stuck.

@@ -1,0 +1,7 @@
+build/
+*.pdf
+.venv/
+__pycache__/
+.env
+review/
+lexicon/sources/tafsir/

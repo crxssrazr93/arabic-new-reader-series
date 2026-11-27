@@ -1,0 +1,26 @@
+number: 3
+title: Reading on Your Own
+title_ar: أَقْرَأُ وَحْدِي
+subtitle: Four longer stories. No case endings. Only new words explained.
+cover_image: cover-3.png
+cover_prompt: A rocky seashore where two seas meet under a wide evening sky, a small wooden boat pulled up on the sand, no people.
+vowels: no_case
+parts: [2]
+gloss: marked
+translation: after
+unvowelled: full
+intro:
+  - Now you read more on your own. Words you already know have no meaning printed under them any more; only new words do.
+  - The vowel marks inside each word are still there, but the last letter of every word is bare, as when you read in pause. You know the case endings from your nahw lessons; try supplying them in your head.
+  - The English translation now comes after each story, not under each line. Read the whole story first, then check.
+  - At the end of each story the whole story appears again with no vowel marks at all. This is your real test.
+howto:
+  - [1. Read, "Read the whole story through once without stopping."]
+  - [2. Check, "Read the translation after the story and see what you missed."]
+  - [3. Study, "Go through the dictionary of new words."]
+  - [4. Challenge, "Read the unvowelled version. Mark words you could not read."]
+stories:
+  - stories/booklet-3/01-musa-wal-khidr.yaml
+  - stories/booklet-3/02-al-hijra-wa-suraqa.yaml
+  - stories/booklet-3/03-juha-wal-qadi.yaml
+  - stories/booklet-3/04-ziyara-ilal-qahira.yaml

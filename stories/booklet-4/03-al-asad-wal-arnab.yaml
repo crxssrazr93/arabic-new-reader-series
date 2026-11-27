@@ -1,0 +1,205 @@
+# Booklet 4, story 3. Tale strand, told in class by Ustadh Hamid. Grammar ceiling: Madinah Book 3.
+id: b4-03
+booklet: 4
+number: 3
+strand: tale
+title_ar: الْأَسَدُ وَالْأَرْنَبُ
+title_en: The Lion and the Hare
+madinah: "Book 3 (the hal: how someone was when they did something)"
+source: "Kalila wa Dimna (Ibn al-Muqaffa'), Bab al-Asad wa-th-Thawr: the fable Dimna tells of the lion and the hare (lexicon/sources/kalila/asad-wal-thawr-default.wiki, Arabic Wikisource), retold in order: the land rich in water and pasture, the beasts' fear, their offer of one animal a day at his midday meal, the lot falling on the hare, her slow walk past his mealtime, her story of another lion who took the hare she was bringing, the well of clear water, the lion seeing his own image and the hare's, leaping in and drowning, and the hare telling the beasts. The beasts' talk of fleeing, the step-by-step walk, the echo and the class frame are our own. In the original the beasts and the hare are feminine, and so they are here. The lessons, and the warning that the hare's lie is not ours to copy, are Ustadh Hamid's."
+
+illustrations:
+  - before: 25
+    file: b4-03-forest-path.png
+    alt: An empty winding path through a quiet forest, tall trees and soft light falling between them, no animals or people
+    prompt: An empty narrow earth path winding through a quiet green forest, tall old trees on both sides, soft late-morning light falling in beams between the branches, ferns and grass along the edges. No animals, no people, no footprints of animals.
+  - before: 37
+    file: b4-03-stone-well.png
+    alt: A deep old stone well with a low round wall in a sunny forest clearing, grass and trees around it
+    prompt: A deep old well with a low round wall of rough grey stones standing alone in a sunny clearing in a forest, short grass around it, tall trees at the edges of the clearing. No animals, no people, no rope or bucket.
+  - before: 42
+    file: b4-03-well-reflection.png
+    alt: Looking down into a stone well, the still water at the bottom reflecting a round patch of blue sky and the stone rim
+    prompt: Looking straight down into a deep round stone well, the still dark water far below reflecting a bright circle of blue sky, a few white clouds and the ring of stones at the top, like a mirror. No animals, no people, no faces or shapes in the water.
+
+sentences:
+  - words: [[فِي, ""], [دَرْسِ, ""], [الْعَرَبِيَّةِ, ""], [قَالَ, ""], [الْأُسْتَاذُ, ""], [حَامِدٌ, ""], [لِلطُّلَّابِ, ""], [أَتَذْكُرُونَ, ""], [قِصَّةَ, ""], [الْحَمَامَةِ, ""], [الْمُطَوَّقَةِ, ""]]
+    en: "In the Arabic lesson Ustadh Hamid said to the students: Do you remember the story of the Ring Dove?"
+  - words: [[قَالُوا, ""], [نَعَمْ, ""], [يَا, ""], [أُسْتَاذُ, ""], [هِيَ, ""], [مِنْ, ""], [كِتَابِ, ""], [كَلِيلَةَ, ""], [وَدِمْنَةَ, ""]]
+    en: "They said: Yes, Ustadh. It is from the book Kalila wa Dimna."
+  - words: [[وَهُوَ, ""], [كِتَابٌ, ""], [قَدِيمٌ, ""], [تَرْجَمَهُ, "translated it", n k], [ابْنُ, ""], [الْمُقَفَّعِ, "al-Muqaffa'", n k], [إِلَى, ""], [الْعَرَبِيَّةِ, ""], [قَبْلَ, ""], [أَكْثَرَ, ""], [مِنْ, ""], [أَلْفِ, ""], [سَنَةٍ, ""]]
+    en: "It is an old book that Ibn al-Muqaffa' translated into Arabic more than a thousand years ago."
+  - words: [[فَقَالَ, ""], [الْيَوْمَ, ""], [أَقُصُّ, ""], [عَلَيْكُمْ, ""], [قِصَّةً, ""], [أُخْرَى, ""], [مِنْ, ""], [هٰذَا, ""], [الْكِتَابِ, ""], [عَنْ, ""], [أَسَدٍ, "a lion", n k], [وَأَرْنَبٍ, "and a hare", n k]]
+    en: "He said: Today I will tell you another story from this book, about a lion and a hare."
+  - words: [[زَعَمُوا, "it is told", n k], [أَنَّ, ""], [أَسَدًا, ""], [كَانَ, ""], [يَعِيشُ, ""], [فِي, ""], [غَابَةٍ, "a forest", n k], [كَثِيرَةِ, ""], [الْمَاءِ, ""], [وَالْمَرْعَى, "and pasture", n k]]
+    en: "It is told that a lion lived in a forest with plenty of water and pasture."
+  - words: [[وَكَانَ, ""], [فِي, ""], [تِلْكَ, ""], [الْغَابَةِ, ""], [وُحُوشٌ, "wild animals", n k], [كَثِيرَةٌ, ""], [تَأْكُلُ, ""], [مِنْ, ""], [عُشْبِهَا, "its grass", n k], [وَتَشْرَبُ, ""], [مِنْ, ""], [مَائِهَا, ""]]
+    en: "In that forest were many wild animals, eating its grass and drinking its water."
+  - words: [[وَلٰكِنَّهَا, ""], [لَمْ, ""], [تَكُنْ, ""], [سَعِيدَةً, ""], [لِأَنَّهَا, ""], [كَانَتْ, ""], [تَخَافُ, ""], [مِنَ, ""], [الْأَسَدِ, ""], [خَوْفًا, ""], [شَدِيدًا, ""]]
+    en: "But they were not happy, because they were very afraid of the lion."
+  - words: [[وَكَانَتِ, ""], [الْوُحُوشُ, ""], [لَا, ""], [تَنَامُ, ""], [اللَّيْلَ, ""], [مِنْ, ""], [خَوْفِهَا, ""], [وَلَا, ""], [تَأْكُلُ, ""], [إِلَّا, ""], [قَلِيلًا, ""]]
+    en: "The animals could not sleep at night for fear, and they ate only a little."
+  - words: [[فَكَانَ, ""], [الْأَسَدُ, ""], [يَخْرُجُ, ""], [كُلَّ, ""], [يَوْمٍ, ""], [فَيَصِيدُ, "and hunts", n k], [مِنْهَا, ""], [مَا, ""], [يُرِيدُ, ""], [وَيَظْلِمُهَا, ""]]
+    en: "Every day the lion would come out, hunt whichever of them he wanted, and treat them unjustly."
+  - words: [[فَاجْتَمَعَتِ, "gathered", n k], [الْوُحُوشُ, ""], [يَوْمًا, ""], [وَقَالَتْ, ""], [مَا, ""], [الْحِيلَةُ, "the way out", n k], [مَعَ, ""], [هٰذَا, ""], [الْأَسَدِ, ""], [الظَّالِمِ, ""]]
+    en: "One day the animals gathered and said: What can we do about this unjust lion?"
+  - words: [[فَقَالَ, ""], [بَعْضُهَا, ""], [نَهْرُبُ, ""], [مِنَ, ""], [الْغَابَةِ, ""], [وَقَالَ, ""], [بَعْضُهَا, ""], [لَا, ""], [نَتْرُكُ, ""], [أَرْضَنَا, ""], [وَمَاءَنَا, ""]]
+    en: "Some said: Let us flee the forest. Others said: We will not leave our land and our water."
+  - words: [[ثُمَّ, ""], [ذَهَبَتْ, ""], [إِلَيْهِ, ""], [جَمِيعًا, ""], [وَقَالَتْ, ""], [لَهُ, ""], [أَيُّهَا, ""], [الْمَلِكُ, ""], [إِنَّكَ, ""], [تَتْعَبُ, ""], [كُلَّ, ""], [يَوْمٍ, ""], [فِي, ""], [صَيْدِنَا, ""]]
+    en: "Then they all went to him and said: O king, you tire yourself every day hunting us."
+  - words: [[وَقَدْ, ""], [رَأَيْنَا, ""], [رَأْيًا, "an idea", n k], [فِيهِ, ""], [رَاحَةٌ, "rest; ease", n k], [لَكَ, ""], [وَأَمْنٌ, ""], [لَنَا, ""]]
+    en: "We have thought of a plan that brings you ease and us safety."
+  - words: [[نُرْسِلُ, ""], [إِلَيْكَ, ""], [كُلَّ, ""], [يَوْمٍ, ""], [وَاحِدًا, ""], [مِنَّا, ""], [فِي, ""], [وَقْتِ, ""], [غَدَائِكَ, "your midday meal", n k], [وَتَتْرُكُ, ""], [الْبَاقِينَ, ""], [آمِنِينَ, "safe", n k]]
+    en: "Every day we will send you one of us at your midday mealtime, and you will leave the rest in safety."
+  - words: [[فَرَضِيَ, "agreed", n k], [الْأَسَدُ, ""], [بِذٰلِكَ, ""], [وَكَانَتِ, ""], [الْوُحُوشُ, ""], [تُرْسِلُ, ""], [إِلَيْهِ, ""], [كُلَّ, ""], [يَوْمٍ, ""], [وَاحِدًا, ""], [مِنْهَا, ""]]
+    en: "The lion agreed to this, and every day the animals sent him one of their number."
+  - words: [[فَصَارَتِ, ""], [الْوُحُوشُ, ""], [تَعِيشُ, ""], [فِي, ""], [أَمْنٍ, ""], [وَلٰكِنْ, ""], [فِي, ""], [كُلِّ, ""], [يَوْمٍ, ""], [كَانَ, ""], [يَذْهَبُ, ""], [وَاحِدٌ, ""], [مِنْهَا, ""], [وَلَا, ""], [يَرْجِعُ, ""]]
+    en: "So the animals lived in safety, but every day one of them went and did not come back."
+  - words: [[وَكَانَتْ, ""], [تَخْتَارُهُ, "choose him", n k], [بِالْقُرْعَةِ, "by lot", n k], [فَمَنْ, ""], [أَصَابَتْهُ, ""], [الْقُرْعَةُ, ""], [ذَهَبَ, ""], [إِلَى, ""], [الْأَسَدِ, ""]]
+    en: "They chose him by drawing lots, and whoever the lot fell on went to the lion."
+  - words: [[ثُمَّ, ""], [جَاءَ, ""], [يَوْمٌ, ""], [أَصَابَتْ, ""], [فِيهِ, ""], [الْقُرْعَةُ, ""], [أَرْنَبًا, ""], [صَغِيرَةً, ""], [ضَعِيفَةً, "weak", n k]]
+    en: "Then came a day when the lot fell on a small, weak hare."
+  - words: [[فَحَزِنَتِ, ""], [الْوُحُوشُ, ""], [عَلَيْهَا, ""], [وَلٰكِنَّ, ""], [الْأَرْنَبَ, ""], [لَمْ, ""], [تَبْكِ, ""], [بَلْ, ""], [جَلَسَتْ, ""], [تُفَكِّرُ, ""], [طَوِيلًا, ""]]
+    en: "The animals were sad for her, but the hare did not cry. Instead she sat thinking for a long time."
+  - words: [[وَقَالَتْ, ""], [فِي, ""], [نَفْسِهَا, ""], [أَنَا, ""], [ضَعِيفَةٌ, ""], [وَلٰكِنَّ, ""], [لِي, ""], [عَقْلًا, "a mind", n k], [وَالْأَسَدُ, ""], [قَوِيٌّ, ""], [وَلٰكِنَّهُ, ""], [لَا, ""], [يُفَكِّرُ, ""]]
+    en: "She said to herself: I am weak, but I have a mind. The lion is strong, but he does not think."
+  - words: [[ثُمَّ, ""], [قَالَتْ, ""], [لِلْوُحُوشِ, ""], [إِنْ, ""], [أَطَعْتُمُونِي, ""], [فِي, ""], [شَيْءٍ, ""], [لَا, ""], [يَضُرُّكُمْ, "harms you", n k], [أَرَحْتُكُمْ, "I will free you", n k], [مِنَ, ""], [الْأَسَدِ, ""]]
+    en: "Then she said to the animals: If you do as I say in something that will not harm you, I will free you from the lion."
+  - words: [[فَقَالَتِ, ""], [الْوُحُوشُ, ""], [وَمَا, ""], [الَّذِي, ""], [تُرِيدِينَ, ""], [مِنَّا, ""], [يَا, ""], [أَرْنَبُ, ""]]
+    en: "The animals said: And what do you want from us, hare?"
+  - words: [[قَالَتِ, ""], [اتْرُكُونِي, ""], [أَذْهَبْ, ""], [إِلَيْهِ, ""], [وَحْدِي, ""], [وَلَا, ""], [تَسْأَلُونِي, ""], [عَنْ, ""], [شَيْءٍ, ""]]
+    en: "She said: Let me go to him alone, and do not ask me about anything."
+  - words: [[فَقَبِلَتِ, ""], [الْوُحُوشُ, ""], [ذٰلِكَ, ""], [وَانْطَلَقَتِ, ""], [الْأَرْنَبُ, ""], [إِلَى, ""], [الْأَسَدِ, ""], [مُتَبَاطِئَةً, "taking her time", n k]]
+    en: "The animals accepted, and the hare set off for the lion, taking her time."
+  - words: [[وَكَانَتْ, ""], [تَمْشِي, ""], [خُطْوَةً, "step", n k], [خُطْوَةً, ""], [وَتَقِفُ, ""], [تَحْتَ, ""], [الْأَشْجَارِ, ""], [حَتَّى, ""], [مَضَى, "passed", n k], [وَقْتُ, ""], [الْغَدَاءِ, ""]]
+    en: "She walked step by step and stopped under the trees, until the lion's mealtime had passed."
+  - words: [[فَجَاعَ, "and grew hungry", n k], [الْأَسَدُ, ""], [وَغَضِبَ, ""], [وَقَامَ, ""], [مِنْ, ""], [مَكَانِهِ, ""], [يَنْظُرُ, ""], [إِلَى, ""], [الطَّرِيقِ, ""], [غَاضِبًا, ""]]
+    en: "The lion grew hungry and angry, and he got up from his place, looking down the path in a rage."
+  - words: [[ثُمَّ, ""], [رَأَى, ""], [الْأَرْنَبَ, ""], [تَأْتِي, ""], [إِلَيْهِ, ""], [وَحْدَهَا, ""], [مُتَأَخِّرَةً, "late", n k], [عَنْ, ""], [وَقْتِهَا, ""]]
+    en: "Then he saw the hare coming to him alone, late for her time."
+  - words: [[فَزَأَرَ, "and roared", n k], [الْأَسَدُ, ""], [زَئِيرًا, "a roar", n k], [شَدِيدًا, ""], [وَقَالَ, ""], [مِنْ, ""], [أَيْنَ, ""], [جِئْتِ, "", k], [وَلِمَاذَا, ""], [تَأَخَّرْتِ, "", k]]
+    en: "The lion gave a terrible roar and said: Where have you come from, and why are you late?"
+  - words: [[فَقَالَتِ, ""], [الْأَرْنَبُ, ""], [وَهِيَ, ""], [تَرْتَجِفُ, "trembling", n k], [أَيُّهَا, ""], [الْمَلِكُ, ""], [أَنَا, ""], [رَسُولُ, ""], [الْوُحُوشِ, ""], [إِلَيْكَ, ""]]
+    en: "The hare said, trembling: O king, I am the animals' messenger to you."
+  - words: [[أَرْسَلَتْنِي, ""], [إِلَيْكَ, ""], [وَمَعِي, ""], [أَرْنَبٌ, ""], [أُخْرَى, ""], [سَمِينَةٌ, "fat", n k], [لِتَكُونَ, ""], [غَدَاءَكَ, ""], [الْيَوْمَ, ""]]
+    en: "They sent me to you with another hare, a fat one, to be your meal today."
+  - words: [[فَلَقِيَنِي, ""], [فِي, ""], [الطَّرِيقِ, ""], [أَسَدٌ, ""], [آخَرُ, ""], [فَأَخَذَهَا, ""], [مِنِّي, ""], [بِالْقُوَّةِ, ""]]
+    en: "But another lion met me on the way and took her from me by force."
+  - words: [[وَقَالَ, ""], [أَنَا, ""], [أَحَقُّ, "more entitled", n k], [بِهٰذِهِ, ""], [الْغَابَةِ, ""], [وَبِمَا, ""], [فِيهَا, ""], [مِنَ, ""], [الْوُحُوشِ, ""]]
+    en: "He said: I have more right to this forest and the animals in it."
+  - words: [[فَقُلْتُ, ""], [لَهُ, ""], [هٰذَا, ""], [غَدَاءُ, ""], [الْمَلِكِ, ""], [فَلَا, ""], [تَأْخُذْهُ, ""], [فَغَضِبَ, ""], [وَسَبَّكَ, "and insulted you", n k]]
+    en: "I said to him: This is the king's meal, so do not take it. But he grew angry and insulted you."
+  - words: [[فَجِئْتُ, ""], [إِلَيْكَ, ""], [مُسْرِعَةً, ""], [لِأُخْبِرَكَ, ""], [بِمَا, ""], [فَعَلَ, ""], [هٰذَا, ""], [الْأَسَدُ, ""]]
+    en: "So I came hurrying to you, to tell you what this lion has done."
+  - words: [[فَغَضِبَ, ""], [الْأَسَدُ, ""], [غَضَبًا, ""], [شَدِيدًا, ""], [وَقَالَ, ""], [أَيُّ, ""], [أَسَدٍ, ""], [هٰذَا, ""], [الَّذِي, ""], [يَأْخُذُ, ""], [غَدَائِي, ""]]
+    en: "The lion grew very angry and said: What lion is this who takes my meal?"
+  - words: [[اِنْطَلِقِي, ""], [مَعِي, ""], [وَأَرِينِي, "and show me", n k], [مَكَانَ, ""], [هٰذَا, ""], [الْأَسَدِ, ""], [الَّذِي, ""], [تَقُولِينَ, ""]]
+    en: "Come with me and show me where this lion you speak of is."
+  - words: [[فَمَشَتِ, ""], [الْأَرْنَبُ, ""], [أَمَامَهُ, ""], [هَادِئَةً, ""], [حَتَّى, ""], [وَصَلَتْ, ""], [إِلَى, ""], [بِئْرٍ, "a well", n k], [عَمِيقَةٍ, ""], [فِي, ""], [الْغَابَةِ, ""]]
+    en: "The hare walked ahead of him calmly, until she reached a deep well in the forest."
+  - words: [[وَكَانَ, ""], [مَاءُ, ""], [الْبِئْرِ, ""], [صَافِيًا, "clear", n k], [يَرَى, ""], [فِيهِ, ""], [النَّاظِرُ, ""], [كُلَّ, ""], [شَيْءٍ, ""]]
+    en: "The water of the well was clear, and anyone looking into it could see everything."
+  - words: [[وَكَانَتِ, ""], [الشَّمْسُ, ""], [فَوْقَ, ""], [الْبِئْرِ, ""], [فَكَانَ, ""], [الْمَاءُ, ""], [فِيهَا, ""], [مِثْلَ, ""], [الْمِرْآةِ, "the mirror", n k]]
+    en: "The sun was right above the well, so the water in it was like a mirror."
+  - words: [[فَوَقَفَتِ, ""], [الْأَرْنَبُ, ""], [عَلَى, ""], [حَرْفِ, ""], [الْبِئْرِ, ""], [وَنَظَرَتْ, ""], [فِيهَا, ""], [ثُمَّ, ""], [قَالَتْ, ""], [هٰذَا, ""], [هُوَ, ""], [الْمَكَانُ, ""]]
+    en: "The hare stood at the edge of the well, looked into it, and said: This is the place."
+  - words: [[إِنَّ, ""], [الْأَسَدَ, ""], [فِي, ""], [هٰذِهِ, ""], [الْبِئْرِ, ""], [وَأَنَا, ""], [أَخَافُ, ""], [أَنْ, ""], [أَقْتَرِبَ, "(to) go near", n k], [مِنْهُ, ""]]
+    en: "The lion is in this well, and I am afraid to go near him."
+  - words: [[فَاقْتَرَبَ, ""], [الْأَسَدُ, ""], [وَنَظَرَ, ""], [فِي, ""], [الْبِئْرِ, ""], [فَرَأَى, ""], [فِي, ""], [الْمَاءِ, ""], [صُورَتَهُ, "his image", n k], [وَصُورَةَ, ""], [الْأَرْنَبِ, ""]]
+    en: "The lion came near and looked into the well, and in the water he saw his own image and the hare's."
+  - words: [[فَظَنَّ, ""], [أَنَّهُ, ""], [أَسَدٌ, ""], [آخَرُ, ""], [وَمَعَهُ, ""], [الْأَرْنَبُ, ""], [السَّمِينَةُ, ""], [الَّتِي, ""], [أَخَذَهَا, ""]]
+    en: "He thought it was another lion, with the fat hare it had taken."
+  - words: [[وَلَمْ, ""], [يَشُكَّ, "doubt", n k], [فِي, ""], [قَوْلِهَا, ""], [لِأَنَّهُ, ""], [كَانَ, ""], [جَائِعًا, ""], [غَاضِبًا, ""], [لَا, ""], [يُفَكِّرُ, ""]]
+    en: "He did not doubt her words, because he was hungry and angry and not thinking."
+  - words: [[فَزَأَرَ, ""], [فِي, ""], [الْبِئْرِ, ""], [فَرَجَعَ, ""], [إِلَيْهِ, ""], [صَوْتُهُ, ""], [مِنْهَا, ""], [أَقْوَى, "stronger", n k], [مِنْ, ""], [قَبْلُ, "", k]]
+    en: "He roared into the well, and his voice came back to him from it, louder than before."
+  - words: [[فَوَثَبَ, "and leapt", n k], [فِي, ""], [الْبِئْرِ, ""], [لِيُقَاتِلَ, "to fight", n k], [ذٰلِكَ, ""], [الْأَسَدَ, ""], [فَغَرِقَ, ""], [فِي, ""], [مَائِهَا, ""], [الْعَمِيقِ, ""]]
+    en: "He leapt into the well to fight that lion, and drowned in its deep water."
+  - words: [[وَهٰكَذَا, ""], [هَلَكَ, "perished", n k], [الْأَسَدُ, ""], [الْقَوِيُّ, ""], [بِحِيلَةِ, ""], [أَرْنَبٍ, ""], [صَغِيرَةٍ, ""], [ضَعِيفَةٍ, ""]]
+    en: "And so the strong lion perished through the clever plan of a small, weak hare."
+  - words: [[وَرَجَعَتِ, ""], [الْأَرْنَبُ, ""], [إِلَى, ""], [الْوُحُوشِ, ""], [فَرِحَةً, ""], [وَأَخْبَرَتْهَا, ""], [بِمَا, ""], [صَنَعَتْ, ""], [بِالْأَسَدِ, ""]]
+    en: "The hare went back to the animals full of joy and told them what she had done to the lion."
+  - words: [[فَفَرِحَتِ, ""], [الْوُحُوشُ, ""], [وَعَاشَتْ, ""], [بَعْدَ, ""], [ذٰلِكَ, ""], [فِي, ""], [الْغَابَةِ, ""], [آمِنَةً, ""], [تَأْكُلُ, ""], [وَتَشْرَبُ, ""]]
+    en: "The animals rejoiced, and after that they lived in the forest in safety, eating and drinking."
+  - words: [[وَصَارَتِ, ""], [الْأَرْنَبُ, ""], [الصَّغِيرَةُ, ""], [أَحَبَّ, "the dearest (of)", k], [الْوُحُوشِ, ""], [إِلَى, ""], [أَهْلِ, ""], [الْغَابَةِ, ""], [كُلِّهِمْ, ""]]
+    en: "And the little hare became the dearest of all the animals to everyone in the forest."
+  - words: [[ثُمَّ, ""], [سَأَلَ, ""], [الْأُسْتَاذُ, ""], [حَامِدٌ, ""], [مَا, ""], [الدَّرْسُ, ""], [الَّذِي, ""], [نَتَعَلَّمُهُ, ""], [مِنْ, ""], [هٰذِهِ, ""], [الْقِصَّةِ, ""]]
+    en: "Then Ustadh Hamid asked: What lesson do we learn from this story?"
+  - words: [[فَقَالَ, ""], [بِلَالٌ, ""], [الْأَرْنَبُ, ""], [صَغِيرَةٌ, ""], [ضَعِيفَةٌ, ""], [وَلٰكِنَّهَا, ""], [غَلَبَتِ, ""], [الْأَسَدَ, ""], [الْقَوِيَّ, ""], [بِعَقْلِهَا, ""]]
+    en: "Bilal said: The hare is small and weak, but she beat the strong lion with her mind."
+  - words: [[فَقَالَ, ""], [الْأُسْتَاذُ, ""], [أَحْسَنْتَ, ""], [يَا, ""], [بِلَالُ, ""], [فَالْعَقْلُ, ""], [أَقْوَى, ""], [مِنَ, ""], [الْقُوَّةِ, ""], [فِي, ""], [كَثِيرٍ, ""], [مِنَ, ""], [الْأُمُورِ, ""]]
+    en: "The Ustadh said: Well done, Bilal. In many matters the mind is stronger than strength."
+  - words: [[وَمَنْ, ""], [فَكَّرَ, ""], [قَبْلَ, ""], [أَنْ, ""], [يَعْمَلَ, ""], [وَجَدَ, ""], [حِيلَةً, ""], [لِكُلِّ, ""], [مُشْكِلَةٍ, "problem", n k], [تَقْرِيبًا, "almost", n k]]
+    en: "Whoever thinks before he acts will find a way out of almost every problem."
+  - words: [[وَقَالَ, ""], [طَالِبٌ, ""], [آخَرُ, ""], [وَالْأَسَدُ, ""], [كَانَ, ""], [ظَالِمًا, ""], [يَأْكُلُ, ""], [الْوُحُوشَ, ""], [بِغَيْرِ, ""], [حَقٍّ, ""]]
+    en: "Another student said: And the lion was unjust. He ate the animals without any right."
+  - words: [[فَقَالَ, ""], [الْأُسْتَاذُ, ""], [نَعَمْ, ""], [وَهٰذَا, ""], [هُوَ, ""], [الدَّرْسُ, ""], [الثَّانِي, ""], [فَالظُّلْمُ, "for injustice", n k], [يُهْلِكُ, "destroys", n k], [صَاحِبَهُ, ""]]
+    en: "The Ustadh said: Yes, and that is the second lesson. Injustice destroys the one who does it."
+  - words: [[فَالْأَسَدُ, ""], [لَمْ, ""], [يَقْتُلْهُ, ""], [أَحَدٌ, ""], [وَلٰكِنْ, ""], [قَتَلَهُ, ""], [ظُلْمُهُ, "", k], [وَغَضَبُهُ, ""], [وَتَكَبُّرُهُ, "and his arrogance", n k]]
+    en: "No one killed the lion. His own injustice, anger and arrogance killed him."
+  - words: [[وَالْقَوِيُّ, ""], [الَّذِي, ""], [يَظْلِمُ, ""], [النَّاسَ, ""], [يَظُنُّ, ""], [أَنَّهُ, ""], [لَا, ""], [يَغْلِبُهُ, ""], [أَحَدٌ, ""], [أَبَدًا, ""]]
+    en: "The strong one who wrongs people thinks that no one will ever beat him."
+  - words: [[لَقَدْ, ""], [رَأَى, ""], [نَفْسَهُ, ""], [فِي, ""], [الْمَاءِ, ""], [فَظَنَّهَا, ""], [عَدُوًّا, "an enemy", n k], [لَهُ, ""], [فَوَثَبَ, ""], [عَلَيْهَا, ""]]
+    en: "He saw himself in the water, took it for his enemy, and leapt at it."
+  - words: [[وَعَاقِبَةُ, "(the) end (of)", n k], [الظُّلْمِ, "", k], [سَيِّئَةٌ, "bad", n k], [دَائِمًا, ""], [وَإِنْ, ""], [طَالَ, "lasts long", n k], [زَمَنُهُ, ""]]
+    en: "The end of injustice is always bad, even if it lasts a long time."
+  - words: [[وَاللَّهُ, ""], [تَعَالَى, "the Exalted", n k], [يَقُولُ, ""], [فِي, ""], [كِتَابِهِ, ""], [وَالْعَاقِبَةُ, "", q], [لِلْمُتَّقِينَ, "", q]]
+    en: "And Allah the Exalted says in His Book: And the good end belongs to those who fear Him."
+    quote: {ref: "28:83", text: وَالْعَاقِبَةُ لِلْمُتَّقِينَ}
+  - words: [[ثُمَّ, ""], [قَالَ, ""], [الْأُسْتَاذُ, ""], [وَهُوَ, ""], [يَبْتَسِمُ, "smiling", n k], [وَلٰكِنْ, ""], [لَا, ""], [تَكْذِبُوا, ""], [كَمَا, ""], [كَذَبَتِ, ""], [الْأَرْنَبُ, ""]]
+    en: "Then the Ustadh said, smiling: But do not lie as the hare lied."
+  - words: [[فَهٰذِهِ, ""], [قِصَّةٌ, ""], [لِلْعِبْرَةِ, "for the lesson", n k], [وَالْمُسْلِمُ, ""], [يَطْلُبُ, ""], [الْحِيلَةَ, ""], [الْحَلَالَ, ""], [بِغَيْرِ, ""], [كَذِبٍ, ""]]
+    en: "This is a story told for its lesson. A Muslim looks for a lawful way out, without lying."
+  - words: [[فَضَحِكَ, ""], [الطُّلَّابُ, ""], [وَكَتَبَ, ""], [كُلُّ, ""], [وَاحِدٍ, ""], [مِنْهُمْ, ""], [فِي, ""], [دَفْتَرِهِ, ""], [جُمْلَتَيْنِ, ""]]
+    en: "The students laughed, and each of them wrote two sentences in his notebook:"
+  - words: [[الْعَقْلُ, ""], [أَقْوَى, ""], [مِنَ, ""], [الْقُوَّةِ, ""], [وَعَاقِبَةُ, ""], [الظُّلْمِ, "", k], [سَيِّئَةٌ, ""], [دَائِمًا, ""]]
+    en: "The mind is stronger than strength, and the end of injustice is always bad."
+
+dictionary:
+  - {ar: أَسَدٌ, en: lion, pos: [اسم, noun], root: أسد, pattern: فَعَلٌ, plural: أُسُودٌ, note: "Not in the Quran by this name. Many commentators explain قَسْوَرَةٌ in 74:51 as a lion. In Kalila wa Dimna the lion is the king, so the animals call him أَيُّهَا الْمَلِكُ."}
+  - {ar: أَرْنَبٌ, en: hare; rabbit, pos: [اسم, noun], root: رنب, pattern: أَفْعَلٌ, plural: أَرَانِبُ, note: "The أ is extra, as in Lisan al-Arab. Feminine in Kalila wa Dimna, as in most old Arabic: قَالَتِ الْأَرْنَبُ. Not in the Quran."}
+  - {ar: غَابَةٌ, en: forest, pos: [اسم, noun], root: غيب, pattern: فَعَلَةٌ, plural: غَابَاتٌ, ayah: {ref: "12:10", text: وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ, en: "and throw him into the depths of the well"}, note: "From the root غيب, to be hidden: a forest is a place where things are hidden, like the غَيَابَةُ, the hidden depth, of the well of Yusuf عَلَيْهِ السَّلَامُ. Kalila says أَرْضٌ, a land."}
+  - {ar: مَرْعًى, en: pasture; grazing land, pos: [اسم مكان, noun of place], root: رعي, pattern: مَفْعَلٌ, plural: مَرَاعٍ, ayah: {ref: "87:4", text: وَالَّذِي أَخْرَجَ الْمَرْعَىٰ, en: "and who brings out the pasture"}, note: "The مَفْعَلٌ place pattern of رَعَى, he grazed: the place where animals graze."}
+  - {ar: وَحْشٌ, en: wild animal, pos: [اسم, noun], root: وحش, pattern: فَعْلٌ, plural: وُحُوشٌ, ayah: {ref: "81:5", text: وَإِذَا الْوُحُوشُ حُشِرَتْ, en: "and when the wild beasts are gathered"}, note: "The plural of a non-human thing takes a feminine singular verb: اِجْتَمَعَتِ الْوُحُوشُ, قَالَتْ. In modern Arabic وَحْشٌ is also a monster."}
+  - {ar: اِجْتَمَعَ, en: he gathered (together); he met with, pos: [فعل ماض, past verb], present: يَجْتَمِعُ, bab: بَابُ الِافْتِعَالِ, root: جمع, pattern: اِفْتَعَلَ, ayah: {ref: "17:88", text: لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ, en: "if mankind and the jinn gathered together"}, note: "Added letters, from جَمَعَ, he gathered (others). اِجْتَمَعَ: he gathered himself, and اِجْتَمَعُوا: they gathered themselves. A meeting is اِجْتِمَاعٌ."}
+  - {ar: حِيلَةٌ, en: a clever plan; a way out; a trick, pos: [اسم, noun], root: حول, pattern: فِعْلَةٌ, plural: حِيَلٌ, ayah: {ref: "4:98", text: لَا يَسْتَطِيعُونَ حِيلَةً, en: "they are not able to find a way"}, note: "The و of the root turns into ي after the kasra. A حِيلَةٌ can be good (a way out of trouble) or bad (a trick to cheat)."}
+  - {ar: غَدَاءٌ, en: midday meal; lunch, pos: [اسم, noun], root: غدو, pattern: فَعَالٌ, ayah: {ref: "18:62", text: آتِنَا غَدَاءَنَا, en: "bring us our meal"}, note: "The words of Musa عَلَيْهِ السَّلَامُ to his young man in Surat al-Kahf. The evening meal is الْعَشَاءُ."}
+  - {ar: قُرْعَةٌ, en: lot; drawing lots, pos: [اسم, noun], root: قرع, pattern: فُعْلَةٌ, note: "أَصَابَتْهُ الْقُرْعَةُ: the lot fell on him. The Quran says فَسَاهَمَ (37:141) for Yunus عَلَيْهِ السَّلَامُ drawing lots on the ship."}
+  - {ar: تَبَاطَأَ, en: he went slowly on purpose, pos: [فعل ماض, past verb], present: يَتَبَاطَأُ, bab: بَابُ التَّفَاعُلِ, root: بطأ, pattern: تَفَاعَلَ, ayah: {ref: "4:72", text: وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ, en: "and among you is one who lags behind"}, note: "Added letters. Its اسْمُ فَاعِلٍ (active participle) مُتَبَاطِئٌ is used as a حَالٌ: اِنْطَلَقَتْ مُتَبَاطِئَةً, she set off taking her time."}
+  - {ar: تَأَخَّرَ, en: he was late; he stayed behind, pos: [فعل ماض, past verb], present: يَتَأَخَّرُ, bab: بَابُ التَّفَعُّلِ, root: أخر, pattern: تَفَعَّلَ, ayah: {ref: "2:203", text: وَمَن تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ, en: "and whoever stays behind, there is no sin upon him"}, note: "Added letters. اسْمُ فَاعِلٍ (active participle): مُتَأَخِّرٌ, late. Its opposite is تَقَدَّمَ, he went ahead."}
+  - {ar: بِئْرٌ, en: well, pos: [اسم, noun], root: بأر, pattern: فِعْلٌ, plural: آبَارٌ, ayah: {ref: "22:45", text: وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ, en: "and an abandoned well and a lofty palace"}, note: "Feminine: بِئْرٌ عَمِيقَةٌ. Kalila uses جُبٌّ, the word you met in the story of Yusuf عَلَيْهِ السَّلَامُ."}
+  - {ar: صَافٍ, en: clear; pure, pos: [اسم فاعل, active participle], root: صفو, pattern: فَاعِلٌ, ayah: {ref: "47:15", text: وَأَنْهَارٌ مِّنْ عَسَلٍ مُّصَفًّى, en: "and rivers of purified honey"}, note: "Like قَاضٍ: صَافٍ in the raf' and jarr, صَافِيًا in the nasb. Kalila calls the water مَاءٌ غَامِرٌ صَافٍ, deep and clear."}
+  - {ar: صُورَةٌ, en: image; picture; form, pos: [اسم, noun], root: صور, pattern: فُعْلَةٌ, plural: صُوَرٌ, ayah: {ref: "82:8", text: فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ, en: "in whatever form He willed, He put you together"}, note: "Allah's name الْمُصَوِّرُ, the Shaper, is from the same root (59:24)."}
+  - {ar: وَثَبَ, en: he leapt; he sprang, pos: [فعل ماض, past verb], present: يَثِبُ, bab: بَابُ ضَرَبَ, root: وثب, pattern: فَعَلَ, note: "The و drops in the present, as in وَجَدَ, يَجِدُ. The everyday word today is قَفَزَ. Not in the Quran."}
+  - {ar: ضَعِيفٌ, en: weak, pos: [صفة مشبهة, adjective], root: ضعف, pattern: فَعِيلٌ, plural: ضُعَفَاءُ, ayah: {ref: "4:28", text: وَخُلِقَ الْإِنسَانُ ضَعِيفًا, en: "and mankind was created weak"}, note: "Its opposite is قَوِيٌّ, strong. In 4:28 ضَعِيفًا is itself a حَالٌ: man was created being weak."}
+  - {ar: عَاقِبَةٌ, en: end; outcome, pos: [اسم, noun], root: عقب, pattern: فَاعِلَةٌ, ayah: {ref: "20:132", text: وَالْعَاقِبَةُ لِلتَّقْوَىٰ, en: "and the good end is for righteousness"}, note: "On the فَاعِلَةٌ pattern, but used as a plain noun. What comes at the heel (عَقِبٌ) of something: its result. ﴿فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ﴾ (10:39): so see what the end of the wrongdoers was."}
+
+root_families:
+  - root: أخر
+    words: [[آخَرُ, "another"], [آخِرٌ, "last"], [تَأَخَّرَ, "he was late"], [مُتَأَخِّرَةً, "late (she)"], [الْآخِرَةُ, "the Hereafter"]]
+  - root: ظلم
+    words: [[ظَلَمَ, "he wronged"], [يَظْلِمُهَا, "he wrongs them"], [ظَالِمٌ, "unjust (one)"], [ظُلْمٌ, "injustice"], [أَظْلَمُ, "more unjust"]]
+
+grammar:
+  title_ar: الْحَالُ
+  title_en: "The hal: how someone was when they did something"
+  body: >-
+    The حَالٌ (state) is a مَنْصُوبٌ (in the nasb) word that tells the state of someone at the moment of the action. It answers the question كَيْفَ, how?
+    رَجَعَتِ الْأَرْنَبُ فَرِحَةً: how did she come back? Happy. The حَالٌ is usually indefinite, and it describes a definite noun in the
+    sentence (here الْأَرْنَبُ), agreeing with it in gender and number: قَامَ الْأَسَدُ غَاضِبًا, اِنْطَلَقَتِ الْأَرْنَبُ مُتَبَاطِئَةً,
+    وَتَتْرُكُ الْبَاقِينَ آمِنِينَ. It is often an اسْمُ فَاعِلٍ (active participle). A whole sentence with وَ can also be a حَالٌ:
+    قَالَتْ وَهِيَ تَرْتَجِفُ, she said, while she was trembling.
+  examples:
+    - [وَقَامَ مِنْ مَكَانِهِ يَنْظُرُ إِلَى الطَّرِيقِ غَاضِبًا, "He got up from his place, looking down the path in a rage."]
+    - [فَجِئْتُ إِلَيْكَ مُسْرِعَةً, "So I came to you in a hurry."]
+    - [فَقَالَتِ الْأَرْنَبُ وَهِيَ تَرْتَجِفُ, "The hare said, trembling. (a sentence as hal)"]
+
+tip:
+  title: "Reading without vowels: the hal still shows"
+  body: >-
+    Without vowels, the حَالٌ is still easy to spot. A masculine حَالٌ keeps its tanwin alif on the page (غاضبا), and a plural one its ين (آمنين).
+    After a sentence that is already complete (قام الأسد من مكانه), an extra indefinite word ending in ا or ة, often on the فاعل or
+    مفعل pattern, is the حَالٌ: غاضبا, فرحة, مسرعة, متباطئة. A feminine حَالٌ shows no alif, so the sentence must tell you: read it with fatha and tanwin, fariḥatan. If the word has ال
+    (الأسد القوي), it is not a حَالٌ but a نَعْتٌ (describing word). Two look-alikes are not a حَالٌ: a مَصْدَرٌ of the same verb (غضب غضبا شديدا), and the word after كان, which is its خَبَرٌ (جائعا in كان جائعا). Ask كيف? about the doer.
+
+reread: Read the unvowelled version above again. Then find every hal in the story and say who it describes.

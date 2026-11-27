@@ -1,0 +1,160 @@
+# Booklet 2, story 4. Tale strand, told in class by Ustadh Hamid. Grammar ceiling: Madinah Book 1 end, Book 2 start.
+id: b2-04
+booklet: 2
+number: 4
+strand: tale
+title_ar: الْحَمَامَةُ الْمُطَوَّقَةُ
+title_en: The Ring Dove
+madinah: "Book 1 end and Book 2 start (broken plurals, past and present verbs, kana lightly)"
+source: "Kalila wa Dimna (Ibn al-Muqaffa'), Bab al-Hamama al-Mutawwaqa, opening episode (the hunter's net, the doves fly off with it, the rat Zirak gnaws it), retold simply. The crow's friendship with the rat and the later episodes are left out."
+
+illustrations:
+  - before: 5
+    file: b2-04-tree-net.png
+    alt: A large leafy tree with many branches and an empty nest high up, a hunter's folded net hanging from a low branch, no birds
+    prompt: A large old tree with many spreading leafy branches in a wide grassy place, an empty twig nest high in the branches, a folded rope net hanging from a low branch. No birds, no animals, no people.
+  - before: 11
+    file: b2-04-grain-net.png
+    alt: Grain scattered on bare ground under a wide rope net pegged flat, no birds
+    prompt: Golden grain scattered on bare earth under a wide rope net pegged flat to the ground, long grass at the edges, morning light. No birds, no animals, no people.
+  - before: 39
+    file: b2-04-empty-net.png
+    alt: An empty rope net lying on the ground, its knots gnawed through, beside a small hole at the foot of a stone wall
+    prompt: An empty rope net lying loose on the ground, its knots chewed through and broken, beside a small round hole at the foot of an old stone wall, open sky above. No birds, no animals, no people.
+
+sentences:
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, Ustadh], [حَامِدٌ, Hamid], [الْيَوْمَ, Today], [أَقُصُّ, I tell], [عَلَيْكُمْ, you], [قِصَّةً, a story], [مِنْ, from], [كِتَابِ, "(the) book"], [كَلِيلَةَ, "(of) Kalila"], [وَدِمْنَةَ, and Dimna]]
+    en: "Ustadh Hamid said: Today I will tell you a story from the book Kalila wa Dimna."
+  - words: [[اِسْمُ, "(The) name"], [هٰذِهِ, "(of) this"], [الْقِصَّةِ, story], [الْحَمَامَةُ, "(is) the Dove"], [الْمُطَوَّقَةُ, the Ringed (one)]]
+    en: "This story is called The Ring Dove."
+  - words: [[كَانَ, was], [فِي, in], [أَرْضٍ, a land], [بَعِيدَةٍ, far away], [مَكَانٌ, a place], [فِيهِ, in it], [صَيْدٌ, game], [كَثِيرٌ, much]]
+    en: "In a far land there was a place full of game."
+  - words: [[وَكَانَ, And were], [الصَّيَّادُونَ, the hunters], [يَأْتُونَ, coming], [إِلَيْهِ, to it], [كَثِيرًا, often]]
+    en: "Hunters often came to it."
+  - words: [[وَفِي, And in], [ذٰلِكَ, that], [الْمَكَانِ, place], [شَجَرَةٌ, "(was) a tree"], [كَبِيرَةٌ, big], [لَهَا, it had], [أَغْصَانٌ, branches], [كَثِيرَةٌ, many]]
+    en: "In that place stood a big tree with many branches."
+  - words: [[وَفِي, And in], [أَغْصَانِ, "(the) branches"], [الشَّجَرَةِ, "(of) the tree"], [عُشٌّ, "(was) a nest"], [صَغِيرٌ, small], [لِغُرَابٍ, "(of) a crow"]]
+    en: "In the branches of the tree was a crow's small nest."
+  - words: [[ذَاتَ, "(On) one"], [يَوْمٍ, day], [رَأَى, saw], [الْغُرَابُ, the crow], [صَيَّادًا, a hunter], [يَمْشِي, walking], [نَحْوَ, towards], [الشَّجَرَةِ, the tree]]
+    en: "One day the crow saw a hunter walking towards the tree."
+  - words: [[عَلَى, "On"], [كَتِفِ, "(the) shoulder"], [الصَّيَّادِ, "(of) the hunter"], [شَبَكَةٌ, "(was) a net"], [وَفِي, and in], [يَدِهِ, his hand], [عَصًا, "(was) a stick"]]
+    en: "On the hunter's shoulder was a net, and in his hand a stick."
+  - words: [[خَافَ, was afraid], [الْغُرَابُ, the crow], [وَقَالَ, and he said], [فِي, to], [نَفْسِهِ, himself], [سَأَنْظُرُ, I will watch], [مَاذَا, what], [يَصْنَعُ, does], [هٰذَا, this], [الرَّجُلُ, the man]]
+    en: "The crow was afraid, and said to himself: I will watch what this man does."
+  - words: [[وَضَعَ, laid], [الصَّيَّادُ, the hunter], [شَبَكَتَهُ, his net], [عَلَى, "on"], [الْأَرْضِ, the ground]]
+    en: "The hunter spread his net on the ground."
+  - words: [[وَنَثَرَ, and he scattered], [عَلَيْهَا, "on it"], [الْحَبَّ, the grain], [ثُمَّ, then], [جَلَسَ, he sat], [قَرِيبًا, nearby], [يَنْتَظِرُ, waiting]]
+    en: "He scattered grain over it, then sat down nearby to wait."
+  - words: [[بَعْدَ, After], [قَلِيلٍ, a little], [جَاءَتْ, came], [حَمَامَةٌ, a dove], [اسْمُهَا, her name (was)], [الْمُطَوَّقَةُ, al-Mutawwaqa]]
+    en: "Soon a dove came. Her name was al-Mutawwaqa, the one with the ring."
+  - words: [[وَكَانَتْ, And she was], [سَيِّدَةَ, "(the) leader"], [الْحَمَامِ, "(of) the doves"], [وَمَعَهَا, and with her], [حَمَامٌ, doves], [كَثِيرٌ, many]]
+    en: "She was the leader of the doves, and many doves were with her."
+  - words: [[رَأَى, saw], [الْحَمَامُ, the doves], [الْحَبَّ, the grain], [وَمَا, but not], [رَأَى, they saw], [الشَّبَكَةَ, the net]]
+    en: "The doves saw the grain, but they did not see the net."
+  - words: [[فَنَزَلَ, So came down], [الْحَمَامُ, the doves], [عَلَى, "on"], [الْحَبِّ, the grain], [يَأْكُلُهُ, eating it]]
+    en: "So the doves came down on the grain to eat it."
+  - words: [[فَعَلِقَ, And were caught], [الْحَمَامُ, the doves], [كُلُّهُ, all of them], [فِي, in], [الشَّبَكَةِ, the net]]
+    en: "And every one of the doves was caught in the net."
+  - words: [[فَرِحَ, was glad], [الصَّيَّادُ, the hunter], [وَجَاءَ, and he came], [نَحْوَ, towards], [الشَّبَكَةِ, the net], [مُسْرِعًا, hurrying]]
+    en: "The hunter was glad and came hurrying towards the net."
+  - words: [[كُلُّ, Each], [حَمَامَةٍ, dove], [تَتَحَرَّكُ, moves], [فِي, in], [الشَّبَكَةِ, the net], [وَتَطْلُبُ, and seeks], [النَّجَاةَ, escape], [لِنَفْسِهَا, for herself]]
+    en: "Each dove struggled in the net, trying to save only herself."
+  - words: [[قَالَتِ, said], [الْمُطَوَّقَةُ, al-Mutawwaqa], [نَحْنُ, We (are)], [جَمَاعَةٌ, a group], [وَاحِدَةٌ, one], [فَنَعْمَلُ, so we work], [مَعًا, together]]
+    en: "Al-Mutawwaqa said: We are one flock, so let us work together."
+  - words: [[نَرْفَعُ, We lift], [الشَّبَكَةَ, the net], [جَمِيعًا, all together], [فَيَنْجُو, and is saved], [بَعْضُنَا, each of us], [بِبَعْضٍ, by the other]]
+    en: "Let us all lift the net together, and each of us will be saved by the others."
+  - words: [[رَفَعَ, lifted], [الْحَمَامُ, the doves], [الشَّبَكَةَ, the net], [مَعًا, together], [وَطَارَ, and flew], [بِهَا, with it], [فِي, in], [السَّمَاءِ, the sky]]
+    en: "The doves lifted the net together and flew off with it into the sky."
+  - words: [[تَبِعَ, followed], [الصَّيَّادُ, the hunter], [الْحَمَامَ, the doves], [وَهُوَ, while he], [يَظُنُّ, thinks], [أَنَّهُ, that it], [سَيَقَعُ, will fall], [بَعْدَ, after], [قَلِيلٍ, a little]]
+    en: "The hunter followed the doves, thinking they would soon fall."
+  - words: [[نَظَرَتِ, looked], [الْمُطَوَّقَةُ, al-Mutawwaqa], [فَرَأَتِ, and she saw], [الصَّيَّادَ, the hunter], [وَرَاءَهَا, behind her]]
+    en: "Al-Mutawwaqa looked back and saw the hunter behind her."
+  - words: [[قَالَتْ, She said], [نَطِيرُ, We fly], [نَحْوَ, towards], [الْقُرَى, the villages], [فَلَا, so not], [يَرَانَا, sees us], [الصَّيَّادُ, the hunter]]
+    en: "She said: Let us fly towards the villages, so the hunter cannot see us."
+  - words: [[وَهُنَاكَ, And there (is)], [جُرَذٌ, a rat], [هُوَ, he (is)], [أَخٌ, a brother], [لِي, to me], [يَقْطَعُ, "(who) cuts"], [عَنَّا, from us], [الشَّبَكَةَ, the net]]
+    en: "And there is a rat there who is a brother to me. He will cut the net off us."
+  - words: [[فَطَارَ, So flew], [الْحَمَامُ, the doves], [نَحْوَ, towards], [الْقُرَى, the villages], [وَرَجَعَ, and went back], [الصَّيَّادُ, the hunter], [حَزِينًا, sad]]
+    en: "So the doves flew towards the villages, and the hunter gave up and went back, sad."
+  - words: [[وَصَلَتِ, arrived], [الْمُطَوَّقَةُ, al-Mutawwaqa], [إِلَى, at], [مَكَانِ, "(the) place"], [الْجُرَذِ, "(of) the rat"], [فَنَزَلَ, and came down], [الْحَمَامُ, the doves]]
+    en: "Al-Mutawwaqa reached the rat's place, and the doves landed."
+  - words: [[وَكَانَ, And had], [لِلْجُرَذِ, the rat], [مِائَةُ, a hundred], [جُحْرٍ, holes], [فِي, in], [الْأَرْضِ, the ground]]
+    en: "The rat had a hundred holes in the ground."
+  - words: [[نَادَتِ, called], [الْمُطَوَّقَةُ, al-Mutawwaqa], [الْجُرَذَ, the rat], [فَقَالَ, and he said], [مِنْ, from], [جُحْرِهِ, his hole], [مَنْ, who (are)], [أَنْتِ, you]]
+    en: "Al-Mutawwaqa called the rat, and he answered from his hole: Who are you?"
+  - words: [[قَالَتِ, said], [الْحَمَامَةُ, the dove], [أَنَا, I (am)], [صَدِيقَتُكَ, your friend], [الْمُطَوَّقَةُ, al-Mutawwaqa]]
+    en: "The dove said: I am your friend al-Mutawwaqa."
+  - words: [[فَخَرَجَ, So came out], [الْجُرَذُ, the rat], [مِنْ, from], [جُحْرِهِ, his hole], [يَجْرِي, running], [إِلَيْهَا, to her]]
+    en: "The rat came out of his hole and ran to her."
+  - words: [[ثُمَّ, Then], [بَدَأَ, began], [الْجُرَذُ, the rat], [يَقْرِضُ, gnawing], [عُقْدَةَ, "(the) knot"], [الْمُطَوَّقَةِ, "(of) al-Mutawwaqa"], [بِأَسْنَانِهِ, with his teeth]]
+    en: "Then the rat began to gnaw through al-Mutawwaqa's knot with his teeth."
+  - words: [[قَالَتِ, said], [الْمُطَوَّقَةُ, al-Mutawwaqa], [اِبْدَأْ, Start], [بِعُقَدِ, "with (the) knots"], [أَخَوَاتِي, "(of) my sisters"], [ثُمَّ, then], [عُقْدَتِي, my knot]]
+    en: "Al-Mutawwaqa said: Start with my sisters' knots, then mine."
+  - words: [[قَالَ, said], [الْجُرَذُ, the rat], [أَلَا, "(do) not"], [تُحِبِّينَ, you love], [نَفْسَكِ, yourself]]
+    en: "The rat said: Don't you care about yourself?"
+  - words: [[قَالَتْ, She said], [إِذَا, If], [قَطَعْتَ, you cut], [عُقْدَتِي, my knot], [أَوَّلًا, first], [فَرُبَّمَا, then perhaps], [تَتْعَبُ, you get tired], [وَتَتْرُكُ, and you leave], [أَخَوَاتِي, my sisters]]
+    en: "She said: If you cut my knot first, you may get tired and leave my sisters."
+  - words: [[وَإِذَا, And if], [كُنْتُ, I am], [الْأَخِيرَةَ, the last], [فَأَنْتَ, then you], [لَا, "(will) not"], [تَتْرُكُنِي, leave me], [فِي, in], [الشَّبَكَةِ, the net]]
+    en: "But if I am the last, you will never leave me in the net."
+  - words: [[قَالَ, said], [الْجُرَذُ, the rat], [هٰذَا, This], [يَزِيدُ, increases], [حُبِّي, my love], [لَكِ, for you]]
+    en: "The rat said: That makes me love you even more."
+  - words: [[ثُمَّ, Then], [قَرَضَ, gnawed], [الْجُرَذُ, the rat], [الشَّبَكَةَ, the net], [كُلَّهَا, all of it]]
+    en: "Then the rat gnawed through the whole net."
+  - words: [[فَطَارَتِ, And flew away], [الْمُطَوَّقَةُ, al-Mutawwaqa], [وَمَعَهَا, and with her], [الْحَمَامُ, the doves], [كُلُّهُ, all of them]]
+    en: "And al-Mutawwaqa flew away free, with all her doves."
+  - words: [[قَالَ, said], [الْأُسْتَاذُ, the Ustadh], [الْأَصْدِقَاءُ, Friends], [الصَّادِقُونَ, "true"], [يَنْفَعُ, help], [بَعْضُهُمْ, some of them], [بَعْضًا, others]]
+    en: "The Ustadh said: True friends help one another."
+
+dictionary:
+  - {ar: صَيَّادٌ, en: hunter, pos: [اسم, noun], root: صيد, pattern: فَعَّالٌ, plural: صَيَّادُونَ, ayah: {ref: "5:96", text: أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ, en: "game from the sea is made lawful for you"}, note: "فَعَّالٌ is the pattern for a trade: صَيَّادٌ, طَبَّاخٌ. Hunting, or the game hunted, is صَيْدٌ."}
+  - {ar: أَتَى, en: he came, pos: [فعل ماض, past verb], root: أتي, pattern: فَعَلَ, present: يَأْتِي, bab: بَابُ ضَرَبَ, ayah: {ref: "16:1", text: أَتَىٰ أَمْرُ اللَّهِ, en: "the command of Allah has come"}, note: "They come: يَأْتُونَ. Means the same as جَاءَ."}
+  - {ar: شَجَرَةٌ, en: tree, pos: [اسم, noun], root: شجر, pattern: فَعَلَةٌ, plural: أَشْجَارٌ, ayah: {ref: "55:6", text: وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ, en: "and the plants and the trees bow down"}, note: "شَجَرٌ is trees together; one tree is شَجَرَةٌ. Plural أَشْجَارٌ on the pattern أَفْعَالٌ."}
+  - {ar: غُصْنٌ, en: branch, pos: [اسم, noun], root: غصن, pattern: فُعْلٌ, plural: أَغْصَانٌ, note: "Not in the Quran, which has أَفْنَانٌ, branches (55:48). Plural on the pattern أَفْعَالٌ."}
+  - {ar: غُرَابٌ, en: crow; raven, pos: [اسم, noun], root: غرب, pattern: فُعَالٌ, plural: غِرْبَانٌ, ayah: {ref: "5:31", text: فَبَعَثَ اللَّهُ غُرَابًا يَبْحَثُ فِي الْأَرْضِ, en: "then Allah sent a crow scratching in the ground"}, note: "The crow that showed the son of Adam عَلَيْهِ السَّلَامُ how to bury his brother."}
+  - {ar: شَبَكَةٌ, en: net, pos: [اسم, noun], root: شبك, pattern: فَعَلَةٌ, plural: شِبَاكٌ, register: both, note: "Not in the Quran. Today also a network, and the internet: الشَّبَكَةُ."}
+  - {ar: حَبٌّ, en: grain; seeds, pos: [اسم, noun], root: حبب, pattern: فَعْلٌ, plural: حُبُوبٌ, ayah: {ref: "6:95", text: إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىٰ, en: "Allah is the One who splits the grain and the date stone"}, note: "Same root as حُبٌّ, love, and أَحَبَّ: only the vowel differs. One seed is حَبَّةٌ."}
+  - {ar: حَمَامَةٌ, en: dove; pigeon, pos: [اسم, noun], root: حمم, pattern: فَعَالَةٌ, plural: "حَمَائِمُ، حَمَامَاتٌ", note: "حَمَامٌ is an اسْمُ جِنْسٍ جَمْعِيٌّ (doves as a kind, not the plural), and it is masculine: نَزَلَ الْحَمَامُ. الْمُطَوَّقَةُ: the one with a ring (طَوْقٌ) round her neck."}
+  - {ar: سَيِّدٌ, en: master; leader, pos: [اسم, noun], root: سود, pattern: فَيْعِلٌ, plural: سَادَةٌ, ayah: {ref: "12:25", text: وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ, en: "and they found her master at the door"}, note: "Feminine: سَيِّدَةٌ, a lady, a leader."}
+  - {ar: نَفْسٌ, en: soul; self, pos: [اسم, noun], root: نفس, pattern: فَعْلٌ, plural: أَنْفُسٌ, ayah: {ref: "91:7", text: وَنَفْسٍ وَمَا سَوَّاهَا, en: "and by the soul and the One who shaped it"}, note: "Feminine. With a pronoun it means -self: لِنَفْسِهَا, for herself; نَفْسَكِ, yourself."}
+  - {ar: رَفَعَ, en: he lifted; he raised, pos: [فعل ماض, past verb], root: رفع, pattern: فَعَلَ, present: يَرْفَعُ, bab: بَابُ فَتَحَ, ayah: {ref: "94:4", text: وَرَفَعْنَا لَكَ ذِكْرَكَ, en: "and We raised high your mention"}, note: "We lift: نَرْفَعُ."}
+  - {ar: طَارَ, en: it flew, pos: [فعل ماض, past verb], root: طير, pattern: فَعَلَ, present: يَطِيرُ, bab: بَابُ ضَرَبَ, ayah: {ref: "6:38", text: وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ, en: "nor a bird flying with its two wings"}, note: "We fly: نَطِيرُ. The root ي shows in the present."}
+  - {ar: تَبِعَ, en: he followed, pos: [فعل ماض, past verb], root: تبع, pattern: فَعِلَ, present: يَتْبَعُ, bab: بَابُ سَمِعَ, ayah: {ref: "2:38", text: فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ, en: "whoever follows My guidance, there is no fear for them"}}
+  - {ar: قَرْيَةٌ, en: village; town, pos: [اسم, noun], root: قري, pattern: فَعْلَةٌ, plural: قُرًى, ayah: {ref: "12:82", text: وَاسْأَلِ الْقَرْيَةَ, en: "and ask the town"}, register: both, note: "In the Quran any settled town, even a city. Today a village. Plural قُرًى, with ال: الْقُرَى."}
+  - {ar: قَطَعَ, en: he cut, pos: [فعل ماض, past verb], root: قطع, pattern: فَعَلَ, present: يَقْطَعُ, bab: بَابُ فَتَحَ, ayah: {ref: "69:46", text: ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ, en: "then We would have cut his life artery"}, note: "A piece is قِطْعَةٌ, plural قِطَعٌ."}
+  - {ar: جُرَذٌ, en: rat; large mouse, pos: [اسم, noun], root: جرذ, pattern: فُعَلٌ, plural: جِرْذَانٌ, note: "Not in the Quran. A small mouse is فَأْرٌ. In the original book the rat's name is زِيرَكُ."}
+  - {ar: جُحْرٌ, en: hole; burrow, pos: [اسم, noun], root: جحر, pattern: فُعْلٌ, plural: جُحُورٌ, note: "Not in the Quran. Plural on the pattern فُعُولٌ, like بُيُوتٌ."}
+  - {ar: بَدَأَ, en: he began, pos: [فعل ماض, past verb], root: بدأ, pattern: فَعَلَ, present: يَبْدَأُ, bab: بَابُ فَتَحَ, ayah: {ref: "29:20", text: كَيْفَ بَدَأَ الْخَلْقَ, en: "how He began the creation"}, note: "بَدَأَ يَفْعَلُ: he began to do. Start!: اِبْدَأْ."}
+  - {ar: قَرَضَ, en: he gnawed; he cut, pos: [فعل ماض, past verb], root: قرض, pattern: فَعَلَ, present: يَقْرِضُ, bab: بَابُ ضَرَبَ, ayah: {ref: "18:17", text: وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ, en: "and when it set, it passed them by on the left"}, register: both, note: "In the Quran: the sun cuts past the cave, leaving them aside. Of a mouse: to gnaw."}
+  - {ar: عُقْدَةٌ, en: knot, pos: [اسم, noun], root: عقد, pattern: فُعْلَةٌ, plural: عُقَدٌ, ayah: {ref: "20:27", text: وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي, en: "and untie a knot from my tongue"}, note: "The du'a of Musa عَلَيْهِ السَّلَامُ. Plural on the pattern فُعَلٌ."}
+  - {ar: سِنٌّ, en: tooth; age, pos: [اسم, noun], root: سنن, pattern: فِعْلٌ, plural: أَسْنَانٌ, ayah: {ref: "5:45", text: وَالسِّنَّ بِالسِّنِّ, en: "and a tooth for a tooth"}, note: "Feminine. Plural on the pattern أَفْعَالٌ. Today also a person's age."}
+
+root_families:
+  - root: حبب
+    words: [[أَحَبَّ, "he loved"], [حُبٌّ, "love"], [حَبِيبٌ, "beloved"], [حَبٌّ, "grain"], [حَبَّةٌ, "one seed"]]
+  - root: صدق
+    words: [[صَدَقَ, "he spoke the truth"], [صِدْقٌ, "truthfulness"], [صَادِقٌ, "truthful; true"], [صَدِيقٌ, "friend"], [أَصْدِقَاءُ, "friends"]]
+
+grammar:
+  title_ar: جَمْعُ التَّكْسِيرِ
+  title_en: "Broken plurals"
+  body: >-
+    Most Arabic plurals are "broken": the root letters stay, but the vowels and extra letters inside the word change.
+    You must learn each plural with its singular, but a few patterns come back again and again: أَفْعَالٌ (غُصْنٌ, أَغْصَانٌ),
+    فُعُولٌ (جُحْرٌ, جُحُورٌ), فُعَلٌ (عُقْدَةٌ, عُقَدٌ), أَفْعِلَاءُ (صَدِيقٌ, أَصْدِقَاءُ). A broken plural of things, not people,
+    takes a feminine singular نَعْتٌ (describing word): أَغْصَانٌ كَثِيرَةٌ.
+  examples:
+    - [شَجَرَةٌ لَهَا أَغْصَانٌ كَثِيرَةٌ, "a tree with many branches"]
+    - [اِبْدَأْ بِعُقَدِ أَخَوَاتِي, "start with my sisters' knots"]
+    - [بِأَسْنَانِهِ, "with his teeth (سِنٌّ, plural أَسْنَانٌ)"]
+
+tip:
+  title: "Reading without vowels: the plural patterns أفعال and فعول"
+  body: >-
+    A word that starts with أ and has ا before its last letter (أغصان, أسنان, أشجار, أصوات) is usually a plural on أَفْعَالٌ:
+    read a-f-'ā-l, ag-ṣān, as-nān. A word with و before its last letter and three root letters around it (جحور, بيوت, صفوف, طيور)
+    is usually فُعُولٌ: read u then ū, ju-ḥūr, bu-yūt. Spot the pattern, and the vowels come with it.
+
+try_it:
+  words: [الشجرة, أغصان, الشبكة, الصياد, جحور]
+  sentence: رفع الحمام الشبكة معا وطار بها في السماء
+
+reread: Cover the grey word line with a strip of paper and read the story again. Then tell it at home in Arabic. In booklet 5 you will read this story in Ibn al-Muqaffa's own words.

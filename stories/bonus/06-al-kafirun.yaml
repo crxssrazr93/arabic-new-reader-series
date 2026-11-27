@@ -1,0 +1,63 @@
+# Bonus booklet, surah 109. Quran strand. Mushaf text (Tanzil), every word glossed.
+id: bonus-06
+booklet: 0
+number: 6
+strand: quran
+title_ar: سُورَةُ الْكَافِرُونَ
+title_en: "Al-Kafirun: The Disbelievers"
+source: "Quran 109"
+vowels: full
+gloss: all
+
+illustrations:
+  - before: 1
+    file: bonus-06-two-paths.png
+    alt: A dirt road in open countryside dividing into two separate paths that lead away in different directions
+
+sentences:
+  - words: [[قُلْ, "Say", q], [يَا, "O", q], [أَيُّهَا, "you", q], [الْكَافِرُونَ, "disbelievers", q]]
+    en: "Say: O you who disbelieve,"
+    quote: {ref: "109:1", text: قُلْ يَا أَيُّهَا الْكَافِرُونَ}
+  - words: [[لَا, "Not", q], [أَعْبُدُ, "I worship", q], [مَا, "what", q], [تَعْبُدُونَ, "you worship", q]]
+    en: I do not worship what you worship,
+    quote: {ref: "109:2", text: لَا أَعْبُدُ مَا تَعْبُدُونَ}
+  - words: [[وَلَا, "And not", q], [أَنتُمْ, "you", q], [عَابِدُونَ, "(are) worshippers (of)", q], [مَا, "what", q], [أَعْبُدُ, "I worship", q]]
+    en: and you do not worship what I worship.
+    quote: {ref: "109:3", text: وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ}
+  - words: [[وَلَا, "And not", q], [أَنَا, "I (am)", q], [عَابِدٌ, "a worshipper (of)", q], [مَّا, "what", q], [عَبَدتُّمْ, "you worshipped", q]]
+    en: Nor will I ever be one who worships what you have worshipped,
+    quote: {ref: "109:4", text: وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ}
+  - words: [[وَلَا, "And not", q], [أَنتُمْ, "you", q], [عَابِدُونَ, "(are) worshippers (of)", q], [مَا, "what", q], [أَعْبُدُ, "I worship", q]]
+    en: nor will you be ones who worship what I worship.
+    quote: {ref: "109:5", text: وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ}
+  - words: [[لَكُمْ, "For you", q], [دِينُكُمْ, "(is) your religion", q], [وَلِيَ, "and for me", q], [دِينِ, "(is) my religion", q]]
+    en: You have your religion, and I have mine.
+    quote: {ref: "109:6", text: لَكُمْ دِينُكُمْ وَلِيَ دِينِ}
+
+dictionary:
+  - {ar: عَبَدَ, en: he worshipped, pos: [فعل ماض, past verb], root: عبد, pattern: "فَعَلَ", present: يَعْبُدُ, bab: بَابُ نَصَرَ, ayah: {ref: "2:21", text: يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ, en: "O people, worship your Lord"}, note: "For example أَعْبُدُ, I worship, and تَعْبُدُونَ, you all worship. Past عَبَدْتُمْ, you all worshipped; in the Mushaf it is written عَبَدتُّمْ, where the د merges into the ت (إِدْغَامٌ)."}
+  - {ar: عَابِدٌ, en: worshipper, pos: [اسم فاعل, active participle], root: عبد, pattern: فَاعِلٌ, plural: عَابِدُونَ, ayah: {ref: "2:138", text: وَنَحْنُ لَهُ عَابِدُونَ, en: "and we are His worshippers"}}
+  - {ar: دِينٌ, en: religion; way of life; recompense, pos: [اسم, noun], root: دين, pattern: فِعْلٌ, plural: أَدْيَانٌ, ayah: {ref: "3:19", text: إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ, en: "truly, the religion in the sight of Allah is Islam"}, note: "Two meanings in Juz 'Amma: religion (here and in an-Nasr) and recompense, being repaid (يَوْمِ الدِّينِ in al-Fatiha, بِالدِّينِ in al-Ma'un)."}
+  - {ar: كَفَرَ, en: he disbelieved; he covered over, pos: [فعل ماض, past verb], root: كفر, pattern: "فَعَلَ", present: يَكْفُرُ, bab: بَابُ نَصَرَ, ayah: {ref: "98:1", text: لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ, en: "those who disbelieved among the People of the Book were not going to leave (their ways)"}, note: "The root means to cover: the كَافِر covers up the truth. You meet كَافِرٌ in the stories too."}
+
+grammar:
+  title_ar: النِّدَاءُ بِـ يَا أَيُّهَا
+  title_en: "The call: يَا أَيُّهَا"
+  body: >-
+    يَا calls someone: يَا بِلَالُ, O Bilal. But يَا cannot sit straight before a noun with ال, so Arabic puts أَيُّهَا
+    in between (أَيَّتُهَا for a female). The noun with ال after it is مَرْفُوعٌ: الْكَافِرُونَ, with و.
+  examples:
+    - [يَا أَيُّهَا الْكَافِرُونَ, "O you disbelievers"]
+    - [يَا أَيُّهَا النَّاسُ, "O people (2:21)"]
+    - [يَا أَيُّهَا الَّذِينَ آمَنُوا, "O you who believe (5:2)"]
+
+tip:
+  title: "Meaning note: why the ayat repeat"
+  body: >-
+    Ayat 3 and 5 have the same words. Some scholars of Arabic explain the repetition as emphasis, a firm and final answer.
+    The tafsir books report that Quraysh offered to take turns worshipping each other's gods, and the surah is the
+    Prophet's ﷺ answer. Al-Tabari explains that the two pairs cover now and the future; Ibn Kathir explains that the first pair is
+    about who is worshipped and the second about how. The surah ends with a clean separation: your religion is yours, mine is mine. Notice دِينِ at the end: the ي of
+    "my" (دِينِي) is dropped, as often at the end of an ayah, and the kasra shows it.
+
+reread: Recite the surah from memory, then cover the grey word line and say the meaning of each word as you reach it.

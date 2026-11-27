@@ -1,0 +1,19 @@
+{# A word you can tap. The Arabic is swapped by site.js from data-v (full | no case | partial | none | fully vowelled). #}
+{% macro word(w) -%}
+<button type="button" class="w{% if w.q %} q{% endif %}" data-v="{{ w.v|join('|') }}"{% if w.card %} data-d="{{ w.card }}"{% endif %}{% if w.gloss %} data-gl="{{ w.gloss }}"{% endif %} aria-expanded="false" aria-haspopup="dialog"><span class="a" lang="ar" dir="rtl">{% if w.opens %}<span class="br">﴾</span>{% endif %}<span class="t">{{ w.text }}</span>{% if w.closes %}<span class="br">﴿</span>{% endif %}</span>{% if w.gloss %}<span class="g"{% if w.new %} data-new{% endif %}>{{ w.gloss|bidi }}</span>{% endif %}</button>
+{%- endmacro %}
+
+{# The same shape, not tappable: used where a sentence is only shown. #}
+{% macro still(text, gloss) -%}
+<span class="w"><span class="a" lang="ar" dir="rtl"><span class="t">{{ text }}</span></span>{% if gloss %}<span class="g">{{ gloss|bidi }}</span>{% endif %}</span>
+{%- endmacro %}
+
+{% macro downloads(b) -%}
+<div class="pdfs"><span class="lbl">PDF</span>{% for d in b.downloads %}<a href="{{ d.url }}" download>{{ d.label }}</a>{% endfor %}</div>
+{%- endmacro %}
+
+{% macro seg(name, label, options, current) -%}
+<div class="ctl"><span class="lbl" id="l-{{ name }}">{{ label }}</span>
+  <div class="seg" role="group" aria-labelledby="l-{{ name }}">{% for val, text in options %}<button type="button" data-ctl="{{ name }}" data-val="{{ val }}" aria-pressed="{{ 'true' if val == current else 'false' }}">{{ text }}</button>{% endfor %}</div>
+</div>
+{%- endmacro %}
